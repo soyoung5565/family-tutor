@@ -1,0 +1,26 @@
+{
+ "id": "u8.k3",
+ "name": "搭积木（根据视图搭堆）",
+ "unit": "u8",
+ "unit_name": "观察物体（二）",
+ "definition": "由主俯左视图反推立体图，用 6 个小正方体搭出所有可能",
+ "example": "主视图2×2 + 俯视图2×2 → 几种搭法",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 91,
+ "slide_range": "slide_091-095",
+ "depends_on": [
+  {
+   "id": "u8.k2",
+   "reason": "根据视图搭积木必须先能识别三视图，反推立体结构"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u8.k1",
+   "reason": "搭积木时需想象从各面观察到的形状"
+  }
+ ]
+}

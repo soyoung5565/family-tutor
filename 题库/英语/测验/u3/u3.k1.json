@@ -1,0 +1,2245 @@
+[
+  {
+    "qid": "英语_u3.k1_zxxk_54386729_001",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "you, like, what, new school, do, about, most, your (?)（连词成句）",
+    "options": null,
+    "answer": "What do you like most about your new school?",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54386729.html",
+      "site": "学科网",
+      "title": "Unit 5 Animals and us(单元测试·基础卷)英语沪教版五四学制2024六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查连词成句，话题为新学校喜好，属本单元谈论校园生活目标。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.325702"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_59489503_002",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "lots of ___ activities.",
+    "options": [
+      "outside",
+      "near",
+      "after-school",
+      "more"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59489503.html",
+      "site": "学科网",
+      "title": "第一次月考自编模拟卷(上海专用)2026-2027学年六年级英语上册 (沪教版五四学制)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查school相关词汇搭配'after-school activities'，属校园生活话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_003",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The students usually have a ______ lesson twice a week to practice speaking. (英语)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查学校课程相关词汇拼写，oral lesson 属校园生活话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_004",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短语互译",
+    "stem": "一节科学课",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "该短语属学校主题基础词汇，匹配Unit 3校园生活话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_005",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短语互译",
+    "stem": "课后活动",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课后活动属校园生活话题，归入Unit 3 单元目标中的学校生活词汇。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.325702"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_006",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短语互译",
+    "stem": "参加学校旅行",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "短语\"参加学校旅行\"属学校生活话题，对应Unit 3学校生活总目标。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_007",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "My school life in Grade Six ______ different from that in Grade Five.",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "am"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对比 Grade 6 与 Grade 5 的学校生活，属Unit 3 学校今昔对比主题，考查be动词主谓一致。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "A. is",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_008",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "It's time ______ class. Please go back to your classroom quickly.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "It's time for 为固定句型，与校园上课场景相关，属基础语法。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "B. for",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_009",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "The music club meets in the music room. (对划线部分提问) ______ ______ the music club meet?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对地点状语提问用 where，所属学校设施话题贴合 Unit 3 校园主题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_54252039_010",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "My school life is interesting. (改为感叹句)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "感叹句转换，句子描述学校生活，属Unit 3学校主题的句型拓展练习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.325702"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_58365027_011",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听录音选单词",
+    "stem": "听录音，选出你听到的句子中包含的单词或短语",
+    "options": [
+      "supermarket",
+      "post office",
+      "school"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58365027.html",
+      "site": "学科网",
+      "title": "六年级英语下学期期末模拟卷(深圳市罗湖区)-2025-2026学年小学英语六年级下册期末测试卷(沪教牛津版深圳用)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查地点类词汇（超市、邮局、学校）的听辨能力，属校园生活话题基础词汇。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.325702"
+    },
+    "suspect_no_audio": true,
+    "duplicate_of": "英语_u1.k1_zxxk_58365027_028",
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_58365027_012",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听录音选答句",
+    "stem": "根据你所听到的问句或答句，选出与其相对应的答句或问句",
+    "options": [
+      "It's on July 1st.",
+      "It's on August 1st.",
+      "It's on January 1st."
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58365027.html",
+      "site": "学科网",
+      "title": "六年级英语下学期期末模拟卷(深圳市罗湖区)-2025-2026学年小学英语六年级下册期末测试卷(沪教牛津版深圳用)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查特殊日期问答，属于一般听音选答句基础题，但候选KP中无专门匹配项，取最接近的单元目标。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.325702"
+    },
+    "suspect_no_audio": true,
+    "duplicate_of": "英语_u1.k4_zxxk_58365027_010",
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_zxxk_59616090_013",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词汇运用-首字母填空",
+    "stem": "We can see many new books at the book f______.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59616090.html",
+      "site": "学科网",
+      "title": "Unit 2 Getting together (单元自测练习卷)-2026-2027学年人教PEP版英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "book fair 属校园生活相关基础词汇，考查常见名词搭配。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_21500718_037",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "We can call people a with a mobile phone.",
+    "options": null,
+    "answer": "anywhere",
+    "explanation": "句意：我们可以在任何地方用移动电话给人们打电话。本题考查副词辨析。根据句意和首字母提示可知空处缺少的是副词任何地方anywhere，故答案为anywhere。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "anywhere副词，科技通讯话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26322391_001",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "词图匹配，为下列图片选择相应的地点。 A.Wuhan B.Beijing C.Shanghai D.Hong Kong E.Singapore F.Sydney",
+    "options": [
+      "Wuhan",
+      "Beijing",
+      "Shanghai",
+      "Hong Kong"
+    ],
+    "answer": "1.B 2.C 3.A 4.F 5.D 6.E",
+    "explanation": "",
+    "source": {
+      "url": "http://zy.21cnjy.com/26322391",
+      "site": "21世纪教育网",
+      "title": "Unit 1 Amazing landmarks Part B Let’s learn 基础 提升 培优同步练习（含答案） 人教版（PEP）小学英语六年级上册_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "介绍地点城市，属于Unit3单元目标",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:03.292746"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26322391_006",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "补全对话。根据对话内容，选出合适的句子，使对话意义完整。 A．What did you like about the party B．What did you like about it C．Yes, I did. D．No, I didn't. E．How was your school trip last weekend F．There were many animals. A:1. ___ B: It was great! We went to the zoo.2. ___ A:3. ___ B: I liked watching the monkeys. They jumped from tree to tree happily! Did you go out last weekend A:4. ___ I was busy at home. I helped my cousin with her birthday party! B: Wow!5. ___ A: I liked eating the cake. It was an ice cream cake. It was cool and sweet.",
+    "options": [
+      "What did you like about the party",
+      "What did you like about it",
+      "Yes, I did.",
+      "No, I didn't."
+    ],
+    "answer": "1.E 2.F 3.B 4.D 5.A",
+    "explanation": "",
+    "source": {
+      "url": "http://zy.21cnjy.com/26322391",
+      "site": "21世纪教育网",
+      "title": "Unit 1 Amazing landmarks Part B Let’s learn 基础 提升 培优同步练习（含答案） 人教版（PEP）小学英语六年级上册_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论学校旅行,属Unit3单元话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:03.292746"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26322391_009",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读理解。 Linda假期游览了井冈山，写下简单易懂的旅行日记。阅读短文，根据短文内容选择最佳答案。 Jinggangshan is a very special place in China. It is a UNESCO World Cultural Heritage Site. Every year, thousands of visitors come here for study trips and holidays. When visitors come to Jinggangshan, they usually visit the revolution museum first. They can see old books, photos and things of the Red Army. Volunteers tell inspiring stories, so visitors can learn more about Chinese history. Then they climb the mountains. There are thick bamboo forests and clear waterfalls. The views are amazing. Visitors can also taste local food like red rice and pumpkin soup. Most people think the trip is meaningful and unforgettable.",
+    "options": null,
+    "answer": "1.B 2.B 3.A 4.C 5.A",
+    "explanation": "",
+    "source": {
+      "url": "http://zy.21cnjy.com/26322391",
+      "site": "21世纪教育网",
+      "title": "Unit 1 Amazing landmarks Part B Let’s learn 基础 提升 培优同步练习（含答案） 人教版（PEP）小学英语六年级上册_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读介绍旅游地,属Unit3单元话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:03.292746"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_25532523_043",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "10. It's time ________ go.",
+    "options": [
+      "for",
+      "to",
+      "from"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "It's time to do句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.107144"
+    },
+    "answer_text": "B. to",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1zxxk_36455673_021",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择题",
+    "stem": "—Have you been to Hong Kong? —No, I haven't been ____________ yet.",
+    "options": [
+      "there",
+      "to",
+      "to there",
+      "/"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/36455673.html",
+      "site": "学科网",
+      "title": "精品解析：上海市实验学校2022-2023学年六年级上学期期中英语试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "have been to 表经历，属单元语法综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:26.745520"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.107144"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24372948_012",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "预习思考题",
+    "stem": "Preview the letter in page 40 and think about the questions below: 1. Does Millie love her new school? Why? 2. What is her favorite place in her school?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24372948.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school Integration 1 同步练习（无答案）2025 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "预习新学校信件，Unit3整体目标",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:33.735980"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_21284408_007",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We are busy from Monday to Friday. We can only go to see you on w________.",
+    "options": null,
+    "answer": "weekends",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21284408",
+      "site": "21世纪教育网",
+      "title": "doc 21284408",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "weekend拼写，单元时间话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:47.890686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_21284408_031",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短文填空",
+    "stem": "It can tell me what is ________ (happen) around the world.",
+    "options": null,
+    "answer": "happening",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21284408",
+      "site": "21世纪教育网",
+      "title": "doc 21284408",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "现在进行时，表around the world",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:47.890686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_009",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Science plays the most important role in ________ (现代的) society.",
+    "options": null,
+    "answer": "modern",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述现代社会，话题相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_018",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The Olympic Games ________ (进行，发生) once every four years.",
+    "options": null,
+    "answer": "take place",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述学校活动发生",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_019",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Many people like reading newspapers so that they can learn what's ________ (发生) in the world.",
+    "options": null,
+    "answer": "happening",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论世界发生之事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_041",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "—Can I ________ Black Beauty ________ (从…借) you, Eric —Sure, it's a nice book and I have read it many times.",
+    "options": null,
+    "answer": "borrow from",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "borrow from 借阅，动词短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k3_21cnjy_24033724_041"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_042",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Can you ________ (借) me your car this evening",
+    "options": null,
+    "answer": "lend",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "borrow 借，基础动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_043",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Reading English ________ (报纸) helps me learn English. It's really useful.",
+    "options": null,
+    "answer": "newspapers",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "newspaper 名词拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_043"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_044",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "There are lots of picture books and ________ (杂志) here, and each of them is easy to understand.",
+    "options": null,
+    "answer": "magazines",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "magazine 名词拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_044"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_045",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "—What ________ (其他的) do you do every day —We talk about some sports matches.",
+    "options": null,
+    "answer": "else",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "else 形容词用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_046",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The more people ________ ________ (关心) the environment, the more efforts will be made to protect it.",
+    "options": null,
+    "answer": "care about",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "care about 关心短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_046"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_047",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "In class, we should listen to teachers ________ (认真地).",
+    "options": null,
+    "answer": "carefully",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "carefully 副词变拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k4_21cnjy_24033724_047"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_048",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I asked her to be more ________ (认真的) in the future.",
+    "options": null,
+    "answer": "careful",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "careful 形容词变拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_049",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "It was ________ (粗心大意的) of you to leave your mobile phone in the taxi.",
+    "options": null,
+    "answer": "careless",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "careless 形容词变拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k4_21cnjy_24033724_049"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_053",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Let's go swimming ________ (在一起)!",
+    "options": null,
+    "answer": "together",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "together 副词短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_053"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_054",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Learning English well is ________ (相当，非常) important.",
+    "options": null,
+    "answer": "quite",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "quite 程度副词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_054"
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_24033724_055",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Once, a king showed two men a ________ (大的) basket in the garden.",
+    "options": null,
+    "answer": "large",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "large 形容词比较级基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_14892253_032",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Among these people is Zhong Wei, a ____ husband and father.",
+    "options": [
+      "46-year old",
+      "46-year-old",
+      "46-years-old",
+      "46 years old"
+    ],
+    "answer": "1",
+    "explanation": "复合形容词\"数词+名词(单数)+形容词\"用连字符连接，46-year-old。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14892253",
+      "site": "21世纪教育网",
+      "title": "doc 14892253",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复合形容词 46-year-old",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:55.454567"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 46-year-old",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26271203_028",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "书面表达：假设你们学校英文报正在举办以\"我的学校\"为主题的征文活动，请根据以下问题，以\"My School\"为题，写一篇英语短文投稿。1. What's your school like 2. What facilities does your school have 3. What do you usually do in your school。要求：1. 短文需包含所有问题要点，并适当发挥; 2. 词数100左右。",
+    "options": null,
+    "answer": "My school is a warm and beautiful place with lots of green trees and colorful flowers. It has a tall classroom building, a big library, a modern gym and a bright school hall. Every day, we have classes in the classroom building. After school, I often read storybooks in the library or play basketball with my friends in the gym. On Mondays, we have school meetings in the hall. I love my school very much. It not only gives me knowledge but also lots of happy memories. I feel lucky to study here.",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26271203",
+      "site": "21世纪教育网",
+      "title": "doc 26271203",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合介绍学校，涵盖设施与活动",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:26.592878"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_13459084_014",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Do you know the ___________(日期) of your father's birthday",
+    "options": null,
+    "answer": "date",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/13459084",
+      "site": "21世纪教育网",
+      "title": "doc 13459084",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查名词date拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:44.521441"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_025",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does the third paragraph mainly tell us?",
+    "options": [
+      "The teachers Paul likes and doesn't like.",
+      "The school places Paul likes and doesn't like.",
+      "The school subjects Paul likes and doesn't like.",
+      "The school activities Paul likes and doesn't like."
+    ],
+    "answer": "2",
+    "explanation": "第三段叙述了 Paul 喜欢和不喜欢的一些学科(IT、history)。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "段落主旨概括",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. The school subjects Paul likes and doesn't like.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_026",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Why do students in Grade Seven like music very much?",
+    "options": [
+      "Because it's relaxing.",
+      "Because it's different.",
+      "Because it's difficult.",
+      "Because it's useful."
+    ],
+    "answer": "0",
+    "explanation": "由\"Most of them think music is relaxing.\"可知。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，原因细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Because it's relaxing.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_028",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What subject do students in Grade Eight spend much time on?",
+    "options": [
+      "Science.",
+      "Geography.",
+      "Math.",
+      "PE."
+    ],
+    "answer": "2",
+    "explanation": "由\"They need to do exercises for a long time.\"指数学。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，细节提取",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. Math.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_029",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Which of the following is the right structure (结构) of the passage?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文章结构分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_030",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What's the main idea of the passage?",
+    "options": [
+      "Students in Different Grades",
+      "Different Subjects in Different Grades",
+      "Different Subjects in Different Schools",
+      "Students' Favourite Subjects in Different Grades"
+    ],
+    "answer": "3",
+    "explanation": "文章介绍不同年级学生各自的喜好学科，主旨为D。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文章主旨大意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. Students' Favourite Subjects in Different Grades",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26355151_070",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Where do the four students have hot talks?",
+    "options": null,
+    "answer": "On WeChat.",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解校园生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_13835003_004",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "小芳不喜欢做家务。",
+    "options": null,
+    "answer": "F",
+    "explanation": "根据On Sundays, she usually helps her mother do housework.可知小芳喜欢做家务，故答案为F。",
+    "source": {
+      "url": "https://zy.21cnjy.com/13835003",
+      "site": "21世纪教育网",
+      "title": "doc 13835003",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述日常生活与个人情况",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:14.120993"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26585513_005",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "—Have you finished your online report ________ —Yes, I've ________ handed it in to my teacher.",
+    "options": [
+      "yet; already",
+      "already; yet",
+      "yet; yet",
+      "already; already"
+    ],
+    "answer": "0",
+    "explanation": "yet用于疑问句句尾，already用于肯定句中。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "already/yet在现在完成时中的位置",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. yet; already",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u3.k1_21cnjy_26585513_006",
+    "subject": "英语",
+    "kp_id": "u3.k1",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "—________ have you used this smart watch —For about two years.",
+    "options": [
+      "How often",
+      "How soon",
+      "How long",
+      "How many"
+    ],
+    "answer": "2",
+    "explanation": "for about two years表示时间段，用How long提问。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "How long询问时间持续多久",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. How long",
+    "has_answer": true
+  }
+]

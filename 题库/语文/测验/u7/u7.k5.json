@@ -1,0 +1,618 @@
+[
+  {
+    "qid": "语文_u7.k5_21cnjy_26555846_016",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "习作题目：一次有趣的科学探索。要求：1.贴合单元科学主题，记叙一次亲身经历的科学实验、观察探索活动；2.按照事情发展顺序写作，过程具体、细节真实，写出探索中的疑问与收获；3.表达真情实感，体现敢于质疑、坚持求真的科学精神；4.450字左右，语句通顺、层次清晰，书写工整，不出现真实信息。",
+    "options": null,
+    "answer": "略",
+    "explanation": "评分标准：一类文（25-30分）：选材真实新颖，探索过程具体完整，细节丰富生动，情感真挚，紧扣科学求真主题，语句流畅，字数达标，书写工整。二类文（20-24分）：选材贴合主题，过程完整，语句通顺，能写出探索的收获与感悟，内容充实。三类文（15-19分）：紧扣题目，结构完整，内容较为单薄，过程描写简略，基本表达出主题。四类文（15分以下）：偏离主题、内容空洞、字数不足、语病较多、书写潦草。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作《插上科学的翅膀飞》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.039592"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_022",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "《流浪地球》的作者刘慈欣说过\"你的想象就是全宇宙\"。请你张开想象的翅膀，写一个科幻故事，看看谁写的科幻故事奇特而又令人信服。注意写清故事经过，题目自拟，不少于500字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作《插上科学的翅膀飞》写科幻故事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:09.359902"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.039592"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_26556115_016",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "题目：奇妙的科学梦境 写作要求：1. 展开大胆、合理的科幻想象，情节贴近科学逻辑，不写魔幻内容；2. 写清梦境中的科学奇遇、探索过程，内容具体，有细节描写；3. 结尾写出自己的感悟，体现热爱探索、热爱科学的主题；4. 450字左右，字迹工整，语句通顺，不出现真实校名、人名。",
+    "options": null,
+    "answer": "略",
+    "explanation": "一类文（25-30分）：科幻想象新颖合理，梦境情节完整，细节丰富生动，感悟真挚，紧扣科学探索主题，书写工整、字数达标。二类文（20-24分）：想象合理，故事完整，语句通顺，主题明确，有一定细节和感悟。三类文（15-19分）：想象普通，结构完整，内容偏单薄，基本扣题。四类文（15分以下）：脱离科学逻辑、内容空洞、偏题、字数不足、书写潦草。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《插上科学的翅膀飞》习作训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_12091063_032",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "六年的小学生活即将结束，老师、同学情深意长，难舍难分，我们不约而同地唱起了《年轻的朋友来相会》—\"再过二十年，我们重相会，伟大的祖国该有多么美！……春光更明媚，城市乡村处处增光辉\"让我们畅想下二十年后，我们再相会，再回故乡，再回母校，会是怎样的情景呢，请以\"二十年后回故乡\"为题，写一篇想象作文。不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "展开想象写科幻/未来类想象作文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:19.828389"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_12091063_014",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "例:科学，是人类解开未解之谜的金钥匙；\n科学，是人类 的 ；\n科学，是人类 的 。",
+    "options": null,
+    "answer": "示例:化解愚昧 灵丹 驶向未来 航船",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学主题习作相关仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u7.k1_21cnjy_12091063_014",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_10863474_025",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "台。请以\"如果_______\"为题，编写一个科幻故事。先把题目补充完整，可以填\"我有个背包飞行器\"\"时光能够倒流\"\"我成了一名科学家\"\"人类不得不移居月球\"……然后展开丰富大胆的想象，注意把故事编写得生动具体一些，让你的故事把读者带进一个神奇的科幻世界。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查第七单元科幻故事习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25373647_028",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "如果______为题，编写一个科幻故事。把题目补充完整，可以填\"我有一个背包飞行器\"\"时光能够倒流\"\"我成了一名科学家\"\"人类不得不移居月球\"……然后展开丰富大胆的想象，注意把故事编写得生动具体一些，让你的故事把读者带进一个神奇的科幻世界。用具体事例说说，不少于400字。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作《插上科学的翅膀飞》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:06.003386"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_017",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "针对文中的观点，你觉得还可以列举什么事例？观点一：__________________________________________ 观点二：__________________________________________",
+    "options": null,
+    "answer": "示例：观点一：袁隆平毕生扎根田间，潜心研究杂交水稻技术，攻克粮食增产难题，成功培育出高产杂交水稻，大幅提升了中国粮食产量，用科研成果证明了中国人在农业科技领域的卓越才能与为国争光的志气。观点二：钱学森放弃美国优厚的科研条件与待遇，冲破重重阻碍回到祖国，投身\"两弹一星\"事业，用毕生所学助力中国国防科技发展，体现了他热爱科学、更热爱祖国的赤诚之心。",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "举例论证，科幻习作延伸",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k2_21cnjy_25883233_017"
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_021",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请你照样子再举一个事例来证明文中的观点。",
+    "options": null,
+    "answer": "示例：贝多芬双耳失聪后，仍然坚持音乐创作，谱写了《命运交响曲》等不朽名作，用音乐诠释了坚强与乐观，证明了人在遭遇不自由时，只要勇敢面对、坚持信念，就能开辟独有的天空。",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科幻想象写作单元，事例论证观点属阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u5.k4_21cnjy_25883233_021"
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_023",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读短文可知，文中核心观点是“中国人有才能、有志气，爱科学且爱国”，完成本题时需补充贴合该观点的中国近现代科学家或科研工作者事例。",
+    "options": null,
+    "answer": "示例：观点一：屠呦呦带领团队潜心研究，从中医药中提取青蒿素，攻克疟疾治疗难题，获诺贝尔生理学或医学奖，证明中国人在医学领域的卓越才能与执着追求。观点二：邓稼先学成归国，隐姓埋名二十八年投身核武器研究，为中国原子弹、氢弹研制奉献生命，用行动诠释爱国与科学的结合。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕科学人物举例，属科学与想象单元",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_026",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "贝多芬在听力丧失后，没有沉沦，反而更加专注于感受音乐的旋律和节奏，坚持作曲，并留下了《第九交响曲》等不朽之作。",
+    "options": null,
+    "answer": "先确定人物遭遇的困境与不自由，再写其乐观勇敢面对的态度，最后写坚持后取得的成就，紧扣论点进行叙述。示例：海伦·凯勒自幼失明失聪，陷入了人生的巨大困境，但她没有消沉，而是勇敢面对命运的不公，坚持学习，不仅掌握了多门语言，还写下了《假如给我三天光明》等经典作品，激励了无数人，用乐观和坚持开辟了属于自己的人生天空。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "贝多芬困境坚持事例，属科学与想象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_no_audio": true,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25883233_027",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "外星信号奇遇记\n周末的傍晚，我正趴在书桌前写作业，窗外的天空突然闪过一道微弱的蓝光。我好奇地凑到窗边，发现一台老旧的收音机不知何时自动打开了，里面没有熟悉的音乐，只有一阵断断续续的“滴滴”声，像是某种神秘的信号。\n我赶紧把收音机抱到桌上，仔细调节旋钮。突然，“滴滴”声变得清晰起来，还夹杂着一段温和的电子音：“地球的朋友，你好，我们来自距离地球25光年的织女星系，正在寻找热爱宇宙的小伙伴。”我吓得差点碰掉收音机，这竟然是外星信号！\n我定了定神，对着收音机轻声说：“你们好，我是地球的小学生，很开心收到你们的信号！”没想到，收音机里立刻传来回应：“我们正在探索宇宙，想邀请你一起‘看见’遥远的星空。”话音刚落，收音机屏幕上竟然投射出一幅立体的星空图，织女星像一颗明亮的宝石，周围环绕着无数闪烁的星星。\n我指着星空图问：“你们那里也有星星吗？”外星朋友笑着回答：“当然啦，我们的家园有比织女星更亮的恒星，还有会发光的植物。”我们聊了很久，他们给我讲了很多宇宙的趣事，还教我识别不同的星座。\n不知不觉，天色暗了下来。外星朋友说：“我们要继续探索宇宙啦，希望你能一直保持对星空的热爱，未来和我们一起遨游宇宙。”说完，信号渐渐变弱，最终恢复了平静。\n我握紧收音机，心里满是激动。原来，宇宙这么神奇，只要我们敢于想象、勇于探索，就一定能发现更多未知的美好，就像刘慈欣说的，我们的想象，就是整个宇宙。",
+    "options": null,
+    "answer": "",
+    "explanation": "一、审题。明确写作体裁为科幻故事，核心要求是围绕“想象”展开，做到奇特且令人信服，需写清故事经过，自拟题目，字数不少于500字，紧扣刘慈欣“你的想象就是全宇宙”的核心，依托合理的科幻设定，避免脱离逻辑的空想，突出想象的创新性与合理性。二、立意。通过科幻故事，传递对宇宙的敬畏、对未知的探索精神，展现人类在极端或特殊场景下的坚守与成长，表达对科技与人性关系的思考，凸显想象的力量，传递积极向上、勇于探索的价值观。三、写作思路。开头：铺垫故事发生的背景，交代核心科幻设定的由来，引出主角及初始状态，设置轻微悬念，吸引读者，奠定故事的科幻基调，自然引出后续情节。中间：详细叙述故事经过，围绕核心冲突展开，逐步推进情节发展，融入科幻元素，展现主角的行动与思考，体现情节的合理性与想象的奇特，让故事脉络清晰、层次分明，推动冲突走向解决或转折。结尾：收束故事经过，解决核心冲突，升华主题，呼应立意与开头的科幻设定，传递积极的思考或感悟，让故事有始有终，留下余味，凸显想象的力量与科幻故事的魅力。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "外星科幻故事，直接对应科幻习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_25068996_023",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "写作",
+    "stem": "你也像作者一样有\"好奇症\"吗？把你的\"奇思妙想\"写下来。",
+    "options": null,
+    "answer": "【示例】有。我的\"奇思妙想\"是发明一种可以看到未来的机器，看看将来的自己会遇到什么事情，如果将来发生了无法挽回的事情，那我现在就可以努力改变，不让那件事情发生，生活就不会有悲伤，永远都是快乐的。",
+    "explanation": "写奇思妙想应注意：大胆想象，敢于去想，任何一个人的想象和幻想，都反映自己的理想，愿望，向往和追求。开放性试题，答案不唯一。言之有理即可。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写奇思妙想，属科幻想象习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:42.315465"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k5_21cnjy_15393503_029",
+    "subject": "语文",
+    "kp_id": "u7.k5",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "科技是飞速发展的，在你的想象中，科学技术会使我们的生活产生哪些不可思议的变化？又会使你有怎样的奇特经历？请你放飞想象，写一个科幻故事，做到想象大胆而合理，故事具体生动，引人入胜。要求：题目自拟；内容具体，感情真实；语句通顺，书写工整。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写科幻故事习作要求",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_013",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "二选一。①举例说明比较两个量有哪些方法。②要比较两个班同学的身高，可以从哪些方面进行比较？",
+    "options": null,
+    "answer": "开放题",
+    "explanation": "①比较方法：直接比较（测量）、间接比较（中介量）、倍比法、差比法等。②平均身高、最高/最低身高、中位数等。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u5.k1",
+        "u9.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:33:47",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "两班身高比较核心是比平均身高，属平均数应用"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.146053"
+    },
+    "duplicate_of": "数学_u6.k1_szns_013",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_58918176_002",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "睡眠是机体复原整合和巩固记忆的重要环节，对促进中小学生大脑发育、骨骼生长、视力保护、身心健康和提高学习能力与效率至关重要。为了解同学们的睡眠情况，某小学随机调查了一些学生，调查内容是\"每天的睡眠时间\"，并把调查数据制成了如图的扇形统计图。（1）睡眠时间小于9小时的占%。（2）这次活动共调查了1000人，睡眠时间超过10小时的有人。（3）根据不同年龄段学生身心发展特点，小学生每天睡眠时间应达到10小时。你的睡眠时间是小时，你对睡眠时间没有达到10小时的同学有什么建议？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "睡眠调查求平均睡眠时长，总数÷人数=平均数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.146053"
+    },
+    "duplicate_of": "数学_u9.k3_21cnjy_24594402_017",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_58969968_003",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如果用1块橡皮泥的能6个小动物模型,那么平均捏1个这样的模型需要多少块橡皮泥?解决这个问题正确的列式是()。",
+    "options": [
+      "6÷",
+      "1÷",
+      "÷6",
+      "1÷"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58969968.html",
+      "site": "学科网",
+      "title": "1.1 分数除以整数（同步练习）-2026-2027学年北师大版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均每个用量，考查总量÷份数=平均数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_40947850_004",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "妈妈买来香蕉5千克，每千克2.4元；梨4千克，每千克3.2元；贡桔11千克，每千克4.2元。妈妈买的这些水果平均每千克多少元?",
+    "options": null,
+    "answer": "3.55元",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40947850.html",
+      "site": "学科网",
+      "title": "必刷题库2—求平均数应用题小升初六年级数学应用题必刷题题库人教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均数=总价÷总重量，属平均数基本应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.146053"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_40947850_005",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "小明期末数学、语文、艺术、综合实践平均成绩为90分，加上体育成绩后，五门功课的平均分数下降了2分，小明体育考了多少分?",
+    "options": null,
+    "answer": "80分",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40947850.html",
+      "site": "学科网",
+      "title": "必刷题库2—求平均数应用题小升初六年级数学应用题必刷题题库人教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查平均数=总数÷总份数，逆向求总差得体育分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_40947850_006",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "胜利路学校六年级学生乘汽车春游，前3小时行了204千米，后2小时行了166千米，才到达目的地，这辆汽车平均每小时行多少千米?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40947850.html",
+      "site": "学科网",
+      "title": "必刷题库2—求平均数应用题小升初六年级数学应用题必刷题题库人教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查平均数概念：总路程÷总时间=平均速度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.146053"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_40947850_007",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "山西某煤矿1月份产煤13750吨，2月份比1月份少产煤785吨，3月份比2月份多产煤3460吨，平均每月产煤多少吨?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40947850.html",
+      "site": "学科网",
+      "title": "必刷题库2—求平均数应用题小升初六年级数学应用题必刷题题库人教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均每月产煤量，即总产量÷月数，运用平均数公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_40947850_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "两块麦地，一块地0.045公顷，每公顷收小麦82300千克；另一块地0.024公顷，每公顷收小麦90200千克。这两块地平均每公顷产小麦多少千克?(得数保留整数)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40947850.html",
+      "site": "学科网",
+      "title": "必刷题库2—求平均数应用题小升初六年级数学应用题必刷题题库人教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求两块地平均公顷产量=总产量÷总公顷数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_zxxk_55545907_009",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "某车间接到一批零件的加工任务，原定在8天内完成350只零件的加工，但第一天完成50只后，突然接到通知要比原计划提前两天完成任务，请问：接下来平均每天至少加工多少只零件才能保证完成任务？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545907.html",
+      "site": "学科网",
+      "title": "上海市闵行区莘松中学2025-2026学年上学期12月月考六年级数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求剩余零件数÷剩余天数，得平均每天加工量。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.146053"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_6621060_007",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一台拖拉机第一天耕地8小时，共耕地5.1公顷，第二天耕地7小时，共耕地4.8公顷。①平均每天耕地多少公顷？②这两天平均每小时耕地多少公顷？",
+    "options": null,
+    "answer": "①4.95公顷；②0.66公顷",
+    "explanation": "①(5.1+4.8)÷2=4.95（公顷）；②(5.1+4.8)÷(8+7)=0.66（公顷）",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6621060.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册数学练习—应用题人教新课标(无答案).zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两组平均数辨析：日均与时均",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:35:31.376725"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_6621060_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "五、六年级收集废纸。五年级45人，平均每人收集1.4千克；六年级43人，共收集86.6千克。五、六年级平均每人收集废纸多少千克？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6621060.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册数学练习—应用题人教新课标(无答案).zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "加权平均每人收集量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:35:31.376725"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_6621060_009",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "王苹语文、数学、英语三科考试的平均成绩是95分，数学考试的成绩是100分，语文、英语两科的平均成绩是多少分？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6621060.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册数学练习—应用题人教新课标(无答案).zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三科平均反推两科平均",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:35:31.376725"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_6646908_047",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲乙丙三个数平均数是6，乙丙平均数是7，甲乙比是2：3，丙数是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由平均数求总量再结合比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k5_21cnjy_6646908_051",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_001",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断说理题",
+    "stem": "小明身高140厘米,在平均水深110厘米的小河里游泳不会有危险。这种说法对吗?为什么?",
+    "options": null,
+    "answer": "不对,可能有比1.4m深的地方,有危险。",
+    "explanation": "平均水深110cm并不能反映小河中每一处的水深数值,有的地方会深一些,有的地方浅一些。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均水深概念辨析，理解平均数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:51.313241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_002",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "用四个同样的杯子装水,每个杯子分别标有水面的高度,这四个杯子水面的平均高度是多少厘米?",
+    "options": null,
+    "answer": "略",
+    "explanation": "平均高度=四个杯子水面高度总和÷4。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求四个杯子水面平均高度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:51.313241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_10533455_047",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明读一本400页的故事书，前3天已经读了100页，剩下的平均每天读完50页。小明读完这本故事书一共用了多少天？",
+    "options": null,
+    "answer": "9天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总数量除以总份数求天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u4.k4_21cnjy_10533455_047"
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_15920805_077",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某班五名学生的身高如下。其中小芳高142厘米，小胖身高144厘米，小明高145厘米，缓缓高146厘米，苗苗高148厘米。（1）他们的平均身高是（ ）厘米；（2）如果把平均身高计作0，五名同学的身高分别表示为（ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均数及用正负数表示偏差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_51jiaoxi_18676552_011",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "照上面的计算，淘气平均每年大约长（________）cm。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总增长量÷年数=平均每年增长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_51jiaoxi_16080758_010",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某工地购入一批四种长度不同的钢筋，它们的尺寸分别是5米、3米、2米、1米。这批钢筋的数量分布如图所示，则这批钢筋的平均长度是（    ）。",
+    "options": [
+      "2.25米/根",
+      "米/根",
+      "米/根",
+      "米/根"
+    ],
+    "answer": "0",
+    "explanation": "假设这批钢筋的总数量为100根，100×10%＝10根，100×15%＝15根，100×55%＝55根，100×20%＝20根；（5×10＋3×15＋2×55＋1×20）÷100＝225÷100＝2.25（米/根）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "加权平均长度计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "MiniMax-M3"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.920782"
+    },
+    "answer_text": "A. 2.25米/根",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_51jiaoxi_12043731_042",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "赵、钱、孙、李、周、吴、陈、王8位同学,参加一次数字竞赛,8个人的平均得分是64分.每人得分如下:赵74,钱48,孙?,李90,周33,吴?,陈60,王78.其中吴与孙两位同学的得分尚未填上,吴的得分最高,并且吴的得分是其他一位同学得分的2倍.问孙和吴各得多少分?",
+    "options": null,
+    "answer": "吴96分，孙33分",
+    "explanation": "吴的得分最高，要多于90分，但他不能是赵、李、陈、王四人中任何一人得分的2倍。周的得分2倍是66分，也不能是吴的得分。其余六人得分之和是74+48+90+33+60+78=383(分).因此,吴与孙的得分之和是64×8-383=129(分).如果吴是孙的得分2倍,129÷(2+1)=43,吴得86分未超过90,吴只能是钱的得分2倍,即96分,从而孙的得分为129-96=33(分).",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均数应用，求未知分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4zxxk_54956536_002",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "星光文具店星期一～星期五的盈亏情况如下表：星期一二三四五，盈亏/元﹢4500﹢1800﹣3000﹢3000﹣1500。这个文具店星期一～星期五的总盈亏情况是（）。",
+    "options": [
+      "盈利",
+      "亏损",
+      "不盈不亏",
+      "不确定"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正负数求和，判断盈亏",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 盈利",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4zxxk_54956536_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某一天凌晨的气温是﹣4℃，中午的气温是2℃，从凌晨到中午，气温上升了（）。",
+    "options": [
+      "2℃",
+      "4℃",
+      "6℃",
+      "8℃"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "负数温差计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 6℃",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4zxxk_54956536_011",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在﹣5.6、﹢2、﹣4、12、0、﹣1、2.5这些数中，正数有（）个；在生活中，收入、亏损、盈利，其中要用负数表示的是（）。",
+    "options": null,
+    "answer": "3；亏损",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正负数识别与生活应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_6646908_065",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一辆汽车从甲地到乙地，每小时行40千米，从乙地返回甲地时，每小时行60千米。求这辆汽车往返的平均速度。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "往返求平均速度（调和平均）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 1,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.920782"
+    },
+    "duplicate_of": "数学_u4.k3_21cnjy_6646908_059",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_003",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2014年小刚家平均每季度用水多少吨?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求全年季度平均用水量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_004",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "张妍上次考试中,语、数、外的平均成绩为96分,其中语文95分,数学99分,那么她外语考了多少分?",
+    "options": null,
+    "answer": "94分",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知平均分求其中一科",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_006",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "李兵说得对吗?(平均水深1.1m的小河,身高1.4m的李兵下河游泳)",
+    "options": null,
+    "answer": "李兵说得不对。因为平均水深1.1m，并不能反映出整个小河中每一处的水深数值，有的地方会深一些，有的地方会浅一些。所以身高1.4m的李兵要下河游泳是会有危险的。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均水深与身高的判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明三次跳绳平均成绩是70下,他第一次跳了64下,第二次跳了68下,第三次跳了多少下?",
+    "options": null,
+    "answer": "70×3-(64+68)=210-132=78(下),答:第三次跳了78下。",
+    "explanation": "三次平均跳70下，可以求出三次的总成绩，再减去前两次的，就可以求出第三次的成绩。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知平均成绩求第三次数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_010",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "教材第111页练习二十五第14题:判断说法是否正确,并说明理由。",
+    "options": null,
+    "answer": "不对,可能有比1.4m深的地方,有危险。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断平均数相关说法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_012",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "教材第111页练习二十五第17题:求平均身高,并说明用平均数作为比赛最终成绩是否合适。",
+    "options": null,
+    "answer": "171cm。不合适。在跳远比赛中,一般取得最好成绩作为比赛的最终成绩。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均数作为比赛成绩的合理性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_013",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "填空。(1)小林三次口算分别算对了14题、10题、18题。平均每次算对了(　　)题。(2)学校气象小组一天中测得气温如下:14度、16度、20度、21度、14度,这一天的平均气温是(　　)度。(3)三个笔筒,平均每个笔筒有6支笔,第1个笔筒里有6支笔,第2个笔筒里有7支笔,第3个笔筒里有(　　)支笔。(4)在读书比赛中,小朱读了6本课外书,小明读了4本课外书,小华读了3本课外书,小军读了7本课外书,平均每人读(　　)本课外书。",
+    "options": null,
+    "answer": "(1)14　(2)17　(3)5　(4)5",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均数及逆推",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_014",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选择。(1)在\"书香校园\"活动中,我校同学平均每人捐书5本。(　　)",
+    "options": [
+      "全校每个同学一定都捐了5本书。",
+      "可能有捐4本书的。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均数的含义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 可能有捐4本书的。",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_9496701_015",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选择。(2)学校篮球队队员的平均身高是160cm。(　　)",
+    "options": [
+      "李强是学校篮球队队员,他的身高不可能是155cm。",
+      "学校篮球队中可能有身高超过160cm的队员。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均身高与个体身高关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 学校篮球队中可能有身高超过160cm的队员。",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_51jiaoxi_16642489_005",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "学校六年级开展1分钟跳绳达标测试活动，乐乐统计了601班女生跳绳数量，并制作了如下统计表。601班女学生跳绳数量统计表 你认为六年级女生1分钟跳绳达到（　　）个，就可以认定达标。你的理由：（　　　　　）。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16642489.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册节约用水同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用平均数等统计量判断达标线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:39.812443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23190111_042",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "二（2）班共（　）人。",
+    "options": null,
+    "answer": "38",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23190111",
+      "site": "21世纪教育网",
+      "title": "doc 23190111",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总人数=各项目人数相加",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:49.983557"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_26453158_005",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "达标线定标规则：总人数×预设达标率，小数结果一律（        ），排序定位取值。",
+    "options": null,
+    "answer": "向上取整",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453158",
+      "site": "21世纪教育网",
+      "title": "doc 26453158",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "达标率涉及排序取临界值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:11.884555"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_26453158_025",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "25名学生短跑测试成绩（秒）：18.2、17.5、19.1、16.8、18.5、17.9、19.3、16.5、18.8、17.2、18.0、19.5、16.9、18.3、17.6、19.0、16.7、18.6、17.8、18.9、17.1、19.2、16.6、18.1、17.4。学校预设达标率80%，数值越小成绩越好，请计算临界人数、排序数据、确定达标线，并简单分析标准合理性。",
+    "options": null,
+    "answer": "达标线18.9秒",
+    "explanation": "临界人数：25×80%=20（人），排序后第20位为18.9秒，合理性分析：达标率80%，大部分学生可达标，标准松紧适中，贴合班级整体体能水平。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453158",
+      "site": "21世纪教育网",
+      "title": "doc 26453158",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求平均数并用达标率判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:11.884555"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_001",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "调查50名学生的年龄，列频数分布表时，这些学生的年龄落在5个小组中，第一、二、三、五组数据个数分别是2，8，15，5，则第四组的频数是",
+    "options": [
+      "20",
+      "30",
+      "0.4",
+      "0.6"
+    ],
+    "answer": "0",
+    "explanation": "总频数为50，减去2、8、15、5，得第四组频数为20",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数分布表，各组频数和等于总数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 20",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_002",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一组数据中的最小值是33，最大值是103，若取组距为9，则组数为",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "7或8均可"
+    ],
+    "answer": "3",
+    "explanation": "(103-33)/9=70/9≈7.78，取整数部分为7，组数可为7或8",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组数=(最大值-最小值)÷组距计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 7或8均可",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_003",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知一个样本:26,28,25,29,31,27,30,32,28,26,32,29,28,24,26,27,30,那么下列选项中频数为3的一组是",
+    "options": [
+      "24.5~26.5",
+      "26.5~28.5",
+      "28.5~30.5",
+      "30.5~32.5"
+    ],
+    "answer": "1",
+    "explanation": "26.5~28.5含27,28共3个数据",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "统计各区间数据频数，判断频数为3的组",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 26.5~28.5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_004",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "体育委员统计了七(1)班全体学生60秒跳绳的次数，频数分布表如下：次数60≤x<80频数2，80≤x<100频数4，100≤x<120频数21，120≤x<140频数14，140≤x<160频数7，160≤x<180频数3，180≤x<200频数1。给出以下结论：①全班有52个学生；②组距是20；③组数是7；④跳绳次数在100≤x<140之间的频数为35。其中正确的个数是",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "0",
+    "explanation": "①总人数52正确；②组距20正确；③组数7正确；④14+21=35正确，故均为正确，4个",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数分布表求总人数、组距、频率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_005",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将50个数据分成3组，第一组和第二组的频数之比为1：3，且第三组的频数是10，则第一组的频数是",
+    "options": null,
+    "answer": "10",
+    "explanation": "设第一组为k，则k+3k+10=50，4k=40，k=10",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数之和等于总数，按比例求频数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_006",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某校为了解学生课业负担的情况，随机抽取了50名七年级学生，调查学生每天完成课外作业所需的平均时间，并绘制了如图所示的频数分布直方图，根据图中信息，完成课外作业所需时间在1.5~2小时的频数是",
+    "options": [
+      "15",
+      "20",
+      "10",
+      "2"
+    ],
+    "answer": "略",
+    "explanation": "原文无答案",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数分布直方图读取某区间频数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_007",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个样本含有下面10个数据:51,52,49,50,54,47,50,51,53,48.其中最大的值是____,最小的值是____.在画频数分布直方图时，如果设组距为1.5，则应分成____组",
+    "options": null,
+    "answer": "54；47；5",
+    "explanation": "最大值54，最小值47，差7，组数=7/1.5+1≈5.67，取整数部分5",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求极值并按组距计算组数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小欢为一组数据制作频数分布表，他了解到这组数据的最大值是40，最小值是16，准备分组时取组距为4.为了使数据不落在边界上，他应将这组数据分成",
+    "options": [
+      "6组",
+      "7组",
+      "8组",
+      "9组"
+    ],
+    "answer": "1",
+    "explanation": "(40-16)/4=6，组数=6+1=7",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "极差÷组距=组数，为避免落边界分组",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 7组",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_009",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图是某班级的一次数学考试成绩(得分均为整数)的频数分布直方图(每组包含最小值，不包含最大值)，则下列说法错误的是",
+    "options": [
+      "得分在70~79分的人数最多",
+      "人数最少的得分段的频数为3",
+      "得分及格(≥60分)的有12人",
+      "该班的总人数为45人"
+    ],
+    "answer": "2",
+    "explanation": "由图可知各段人数，结合选项判断",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读直方图比较各组人数，判断错误选项",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 得分及格(≥60分)的有12人",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_010",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小文同学统计了他所在小区居民每天微信阅读的时间，并绘制了如图所示的直方图.①小文同学一共统计了60人；②每天微信阅读不足20分钟的人数为8；③每天微信阅读30~40分钟的人数最多；④每天微信阅读0~10分钟的人数最少.根据图中信息，上述说法中正确的是",
+    "options": [
+      "①②③④",
+      "①②③",
+      "②③④",
+      "③④"
+    ],
+    "answer": "3",
+    "explanation": "由图中信息判断各小长方形的高",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读直方图统计总人数和各段人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ③④",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_011",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知一组样本数据:158,166,162,159,146,151,160,155,164,154,160,168,157,156,162,154,149,167,167,159,由这组数据画出的频数分布直方图中,154.5~157.5与157.5~160.5这两组相应的小长方形的高之比等于",
+    "options": [
+      "1:2",
+      "2:5",
+      "3:5",
+      "3:4"
+    ],
+    "answer": "2",
+    "explanation": "154.5~157.5含155,156,157共3个；157.5~160.5含158,159,160共5个，比为3:5",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "统计两区间频数求小长方形高之比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 3:5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_012",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某校在举办的\"优秀小作文\"评比活动中，共征集到小作文若干篇，对小作文评比的分数(分数均为整数)整理后，画出如图所示的频数分布直方图，已知从左到右5个小长方形的高的比为1：3：7：6：3，如果分数大于或等于80分以上的小作文有72篇，那么这次评比中共征集到的小作文有____篇",
+    "options": null,
+    "answer": "160",
+    "explanation": "设总份数17k，高于80分份数为9k，9k=72，k=8，总份数17×8=136",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按高之比求各组频数占比，求总数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_013",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某镇卫生部门2019年10月份对镇所辖学校的中小学生进行体质健康测试，随机抽取了200名学生的测试成绩作为样本，数据整理如下表：等级A频数150；等级B百分比x；等级C频数4；等级D百分比18%。其中x的值为",
+    "options": null,
+    "answer": "5%",
+    "explanation": "A占150/200=75%，D占18%，C占4/200=2%，B占1-75%-2%-18%=5%",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数÷总数=频率，由频率和为1求x",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_014",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图为某区2019年4月份日平均气温频数分布直方图。(1)数据分组时，组距是____；(2)自左往右第4组的频数所占总数的百分比是____；(3)日平均气温超过10℃的天数为____",
+    "options": null,
+    "answer": "1；20%；12",
+    "explanation": "由图直接读取",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读直方图求组距、频率及超10℃天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_015",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某公司共有400名销售人员，为了解该公司销售人员某季度商品销售情况，随机抽取部分销售人员该季度的销售数量，并把所得数据整理后绘制成如下统计图进行分析。频数分布表中，组别A销售数量20≤x<40频数a，组别B 40≤x<60，组别C 60≤x<80，组别D 80≤x<100频数23，组别E 100≤x<120，合计b 1。(1)频数分布表中a=____,b=____;(2)补全频数分布直方图；(3)如果该季度销量不低于80件的销售人员将被评为\"优秀员工\"，试估计该季度被评为\"优秀员工\"的人数",
+    "options": null,
+    "answer": "(1)0.26;50;(3)216人",
+    "explanation": "(1)根据题意得a=0.26，b=50；(2)m=50×0.16=8，E组频数=50-13-23-8-...，补全直方图；(3)400×(0.46+0.08)=216人",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "频数分布表+直方图综合分析销售数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_23265836_016",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "红星中学课外兴趣活动小组对某水稻品种的稻穗谷粒数目进行调查，从试验田中随机抽取了30株，得到的数据如下(单位：颗)：182 195 201 179 208 204 186 192 210 204；175 193 200 203 188 197 212 207 185 206；188 186 198 202 221 199 219 208 187 224。(1)对抽取的30株水稻稻穗谷粒数进行统计分析，请补全下表中空格，并完善直方图；谷粒颗数 175≤x<185 频数3；185≤x<195 频数8；195≤x<205 频数10；205≤x<215 频数a；215≤x<225 频数3。(2)扇形统计图中，扇形A对应的圆心角为____,扇形B对应的圆心角为____；(3)该试验田中大约有3000株水稻，据此估计，其中稻穗谷粒数大于或等于205颗的水稻有多少株",
+    "options": null,
+    "answer": "(1)a=6；(2)A:72°，B:36°；(3)900株",
+    "explanation": "(1)由数据统计得a=6；(2)A区对应3/30=10%，圆心角36°；B区对应6/30=20%，圆心角72°；(3)3000×(6+3)/30=900株",
+    "source": {
+      "url": "https://zy.21cnjy.com/23265836",
+      "site": "21世纪教育网",
+      "title": "doc 23265836",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "30个数据整理后作频数分布表分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:29.920608"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_21cnjy_17848846_008",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "（2021秋·四川绵阳·五年级统考期末）帅帅前几次数学考试的平均成绩是87.5，这一次的校考如果考105分，平均成绩正好是91分，这是帅帅的第（    ）次数学考试。",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2",
+    "explanation": "解：设帅帅前面已经考了x次。（87.5×x＋105）÷（x＋1）＝91，解得x＝4，4＋1＝5（次）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17848846",
+      "site": "21世纪教育网",
+      "title": "doc 17848846",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均数问题求次数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:45:34.580242"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k4_51jiaoxi_16423706_028",
+    "subject": "数学",
+    "kp_id": "u9.k4",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "口算．",
+    "options": null,
+    "answer": "0.8；略；0.4；9.8；1；0.8；0；略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口算，可能含简单计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

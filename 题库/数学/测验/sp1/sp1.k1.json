@@ -1,0 +1,653 @@
+[
+  {
+    "qid": "数学_sp1.k1_21cnjy_26442607_001",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "学校有几个水龙头漏水？（如没有则以3个为例）",
+    "options": null,
+    "answer": "3个（示例）",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26442607",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版（新教材）六年级上水是生命之源教案_21世纪教育网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "调查学校漏水龙头数量，属用水调查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:36:47.304041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_003",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "小组合作议一议，把讨论结果记录下来：①什么是节水方案？节水方案中应该包括哪些内容？②生活中有哪些浪费水的现象？③你知道哪些节约用水的方法？（浪费水现象和节水方法各至少写2条）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论节水方案内容与方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.741127"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_004",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "选择一项你家（或你身边）的用水行为（如刷牙、洗脸、洗手），调查并填写《用水情况调查表》。提示：可以借助\"一杯水大约300 mL\"来估算用水量。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "调查家庭用水情况填写表",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.741127"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_005",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "一杯水大约为300 mL。照这样算，6杯水是多少毫升？合多少升？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "估算用水量的简单计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_007",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "教材中写道：用节水方法洗手，3个人一年节约的水可供一个家庭用一个月。如果这个家庭一个月用水约9吨（估算数据），照这样推算，平均每个人一年节约多少水？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "家庭节水数据推算人均节水",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_009",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断对错，并说明理由：\"地球上的水很多，我们用不完，不用担心缺水。\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断节水意识的正误",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_013",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "结合调查和实验数据，小组为学校制订一份《校园节水方案》：至少写3项节水措施（可参考浇灌、洗手、饮水、冲厕所等用水项目），每项写明\"节水措施\"和\"怎样实施\"。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "制订校园节水方案措施",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_014",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是两个家庭节水方案（节约水量为示例估算数据）。从\"节约水量、操作难度、适合场所\"三个方面比较两个方案，选一个更适合你们家的方案，并写出理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较家庭节水方案选优",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_015",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "教材资料：根据我国国家标准中关于造纸的取水规定，造1 kg书写用纸需要20~32 L水。如果你们班一学期节约用纸40 kg（估算数据），最少节约多少升水？最多节约多少升水？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "节约用纸换算节水数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_016",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "估一估、算一算：如果全校1200名学生每人每天节约1 L水（估算数据），一年在校约200天，全校一年约节约多少吨水？节约的水约可以装多少个550 mL的矿泉水瓶？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "全校节水总量推算装瓶",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_017",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "完成《活动自评表》：先对照每条评价内容，在星级栏画☆（1～3颗）评价自己在活动中的表现；再写一写：这次节水活动你有哪些收获？还想研究哪些问题？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "节水活动自评与反思",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_18676529_018",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "阅读示例《家庭节水方案》：用水人：姥姥、姥爷、爸爸、妈妈、我；刷牙节水：刷牙时将水龙头关掉；洗手洗脸节水：洗手洗脸时水龙头开得小一些；淘米节水：淘过米的水用来浇花；马桶节水：在马桶水箱里放置水瓶，冲水量减少。用\"方案合理吗？是否有准确的资料来源和可信的实验数据？如何改进？\"三个问题评价这个方案，并写出你的改进建议。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "评价家庭节水方案并改进",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_16642489_002",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "目前，我国中等城市人均月生活用电量约26千瓦时。乐乐发现，生活中仍存在浪费电的现象，他想调查家庭成员用电量，需要收集、整理相关的数据有（　　　　　），再对数据进行（　　　　　），最后形成结论。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16642489.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册节约用水同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "调查家庭用电量，属节水调查类",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:39.812443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k1_21cnjy_26406367_026",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "我县于9月开展\"节约用水\"活动，全县约60万户家庭，若每户每天节约2千克水，全县一天共节约多少千克水？合多少吨水？",
+    "options": null,
+    "answer": "1200000千克；1200吨",
+    "explanation": "60万＝600000；600000×2＝1200000（千克）＝1200吨。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26406367",
+      "site": "21世纪教育网",
+      "title": "doc 26406367",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "节水调查：万户×千克=总千克",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:56.854424"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k1_51jiaoxi_5920964_011",
+    "subject": "数学",
+    "kp_id": "sp1.k1",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "开放题",
+    "stem": "调查了解你的周围水污染情况，提出你自己对防治水污染的设想或建议。",
+    "options": null,
+    "answer": "开放题；只要正确即可。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "调查实践类综合题，与节水方案相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.483798"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

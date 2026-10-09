@@ -1,0 +1,242 @@
+[
+  {
+    "qid": "数学_u1.k1_szns_001",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "有同学发现，把一个圆平均分成16份，能拼成一个近似的三角形。如果圆的半径为r，以下说法正确的是（    ）。",
+    "options": [
+      "转化的过程中，周长不变",
+      "三角形的底可近似看成πr",
+      "三角形的高可近似看成4r",
+      "转化的过程中，面积变了"
+    ],
+    "answer": "1",
+    "explanation": "把圆平均分成16份拼成近似三角形，三角形的底≈圆周长的一半=πr，高≈半径r，面积不变，周长变长。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_001",
+    "answer_text": "B. 三角形的底可近似看成πr",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "如图，这个海棠花形的铁艺相框，由四个同样大的半圆围成。相框高度和宽度都是20厘米，共需（    ）厘米长的铁丝。（π取3.14）",
+    "options": null,
+    "answer": "62.8",
+    "explanation": "四个半圆拼成两个整圆，半径=20÷2=10cm；铁丝长=2×2π×10=40π≈125.6cm。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u1.k1_szns_002",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_szns_003",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "观察、对比这组有关除法、分数、比的等式：①除法42÷18=(42÷6)÷(18÷6)=7÷3；②分数42/18=(42÷6)/(18÷6)=7/3；③比42:18=(42÷6):(18÷6)=7:3。（1）相同点：（2）化简比：①7/12:3/8  ②20%:1.4  ③2:1/5。",
+    "options": null,
+    "answer": "（1）除法、分数、比之间可以相互转化，被除数/分子/前项 和 除数/分母/后项 同时乘或除以相同的数（0除外），商/分数值/比值不变；（2）①14:9  ②1:7  ③10:1",
+    "explanation": "考查除法、分数、比之间的联系。化简比时根据比的基本性质。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_003",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_szns_004",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "动手操作",
+    "stem": "（1）画一画。利用圆规和尺子，在方框里画出左边的'太极图'。（2）阴影部分的面积是多少？（圆的半径 r=2cm）",
+    "options": null,
+    "answer": "（2）6.28平方厘米",
+    "explanation": "阴影部分=大圆面积一半=πr²/2=3.14×4/2=6.28（平方厘米）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_004",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_szns_005",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "杨万里《荷草倚栏》：'水面圆纹乱相入，玻璃盆旋玉连环'。在长9m、宽6m的长方形小池中，形成一个最大的圆形波纹，这个圆形波纹的面积是多少m²？",
+    "options": null,
+    "answer": "28.26",
+    "explanation": "长方形内最大圆直径=长方形宽=6m，半径=3m。S=πr²=3.14×9=28.26（m²）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_005",
+    "has_answer": true
+  }
+]

@@ -1,0 +1,2151 @@
+[
+  {
+    "qid": "语文_u2.k6_zxxk_55959574_001",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "正式演讲前，你收到了一些演讲建议，下列说法不正确的一项是",
+    "options": [
+      "完成演讲稿后，可以自己多多练习，虚心听取大家的建议，以提高演讲水平。",
+      "演讲时可以利用停顿、重复或者辅以动作来强调要点，增强表现力。",
+      "演讲时应多看演讲稿，确保演讲流利，过程万无一失。",
+      "注意演讲时的仪态，尽量让身体放松，不要过度紧张，姿态要大方。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55959574.html",
+      "site": "学科网",
+      "title": "第二单元(单元测试)-2025-2026学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查口语交际演讲的基本方法与注意事项",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.191132"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25883233_010",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "口语交际。班级准备开展一次辩论赛，论题为\"养成好习惯是否主要靠自我约束\"。正方的观点是\"养成好习惯主要靠自我约束\"，反方的观点是\"养成好习惯主要靠外力约束\"。请你参与并完成相关任务。（1）反方有两位同学缺乏参赛经验，请你为他们的赛前准备工作提两条建议。（2）正方能用上的材料有_________，反方能用上的材料是_________。A．头悬梁，锥刺股 B．孙悟空头戴金箍 C．祖逖闻鸡起舞 D．司马光教子节俭（3）\"养成好习惯是否主要靠自我约束\"，请你以正方辩手的身份阐述观点。",
+    "options": null,
+    "answer": "（1）搜集能证明自己观点和反驳对方观点的材料；熟悉辩论流程与规则，进行模拟演练。（2）AC BD（3）我认为养成好习惯主要靠自我约束。习惯是在生活中逐渐养成的，是内在品格的一种外在表现，只有不断地进行自我约束，才能提高自己的素质修养，进而养成好习惯。",
+    "explanation": "（1）明确核心需求，辩论准备需围绕论点梳理、实战能力提升、团队协作等方面展开。（2）A、C属于自我约束，B、D属于外力约束。（3）先亮明己方立场，再分层论证，最后总结重申观点即可。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辩论赛属口语交际演讲训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:09.359902"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_26047889_009",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "安安要参加\"革命精神代代传\"为主题的演讲比赛，下面同学给她提出的提高演讲水平的建议，其中正确的一项是（ ）。",
+    "options": [
+      "语气、语调、动作要夸张，以增强表现力。",
+      "演讲稿不重要，重要的是上台要姿态大方。",
+      "为增强演讲稿的感染力，可以虚构故事。",
+      "利用停顿、重复或者辅以动作强调要点。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲技巧方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 利用停顿、重复或者辅以动作强调要点。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25915744_012",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面是\"坚守初心，逐梦笃行\"主题活动的卡片，有误的一项是( )。(2分)",
+    "options": null,
+    "answer": "B",
+    "explanation": "原文未提供选项内容",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "主题活动卡片，演讲综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.907385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25915744_016",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子",
+    "stem": "请你补全下面的毕业赠言，表达对老师的感谢。(要求：①包含一处对老师神态或动作的描写；②必须使用排比和比喻的修辞手法，表达你的真情实感)(5分) 我永远忘不了那次 (简单情境),您 (描写老师的动作或神态),给了我信心和力量。在我心中，您是园丁，能为我们修剪枝叶；您是太阳，能 ;您是 , 。(运用排比和比喻的修辞手法)",
+    "options": null,
+    "answer": "示例：考试失利后独自哭泣时 轻轻拍了拍我的肩膀安慰我，眼底带着温柔的笑意 为我们驱散阴霾 明灯 能为我们照亮求知的前路(每空1分)",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "毕业赠言综合表达，口语交际拓展",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.907385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_012",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "下面的演讲稿分别运用了什么方法来说明观点 请你选一选。(填序号)(2分) A.列举有代表性的事例 B.引用名言警句 (1)\"读书破万卷,下笔如有神。\"这是唐代著名诗人杜甫的话。是啊,书是人类进步的阶梯,如今社会资讯虽发达,但自我修养的提升仍离不开书。(      ) (2)学校里举办了许许多多庆祝读书节的活动。古诗文诵读比赛让我领略到了古诗文的无限魅力;办读书手抄报让我学到了许多读书方法;\"课本剧\"表演活动让我徜徉在文学海洋中,感受着名著的魅力。(      )",
+    "options": null,
+    "answer": "B、A",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲方法对应口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_013",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "下面是六(2)班两位同学演讲时的表现,请你分别给他俩提提建议。(3分) (1)壮壮:讲得很好,但面无表情,也没有手势,只是在讲完的时候举了一下双手。 (2)苹苹:演讲时低着头,声音非常小。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲表现对应口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25915744_007",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面是妙妙在毕业晚会上的演讲片段，依次在横线上填入内容，最合适的一项是( )。(2分)\n老师，您不是演员，却 ;您不是雕塑家，却 ……假如我能搏击蓝天，那是您给了我 ;假如我变成击浪的勇士，那是您给了我 。\n①腾飞的翅膀 ②在讲台演绎知识的精彩 ③弄潮的力量 ④用教诲雕琢学子的未来",
+    "options": [
+      "④②①③",
+      "②④①③",
+      "②④③①",
+      "④②③①"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲·语句衔接填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.154775"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ②④①③",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_23110730_021",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "[引诗词写赠言]马上就要毕业了,请你运用学过的诗词将下面的毕业赠言补充完整。赠言①:亲爱的同学,愿你有\"竹石\"一般的韧性—\"____\",在求学路上不怕困难,拼搏奋进!赠言②:可爱的同桌,愿你保持\"冰心\"般的品性—\"洛阳亲友如相问,____\",在未来的日子里保持纯真,不忘初心。赠言③:敬爱的老师,忘不了您\"____,____\"(填《春夜喜雨》中的诗句)般的教诲,祝愿您工作顺利,桃李满天下!",
+    "options": null,
+    "answer": "千磨万击还坚劲,任尔东西南北风；一片冰心在玉壶；随风潜入夜,润物细无声",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "引用古诗写毕业赠言，属口语交际演讲运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "竹石",
+      "春夜喜雨"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_23110730_022",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句填空",
+    "stem": "你要参加演讲比赛,请先将名言补充完整,再选择恰当的名言将演讲大纲补充完整(填序号)。①苟日新,____,____。②穷则变,____,____。③不怨天,____。④____,不必法古;____,不必循旧。",
+    "options": null,
+    "answer": "①日日新,又日新；②变则通,通则久；③不尤人；④苟利于民；苟周于事",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲比赛引用名言，考查名言积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_061",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — Let's ______ our holiday plan.",
+    "options": null,
+    "answer": "discuss",
+    "explanation": "let's后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to +动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_062",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — I am ______ happy today.",
+    "options": null,
+    "answer": "feeling",
+    "explanation": "现在进行时",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "feel作系动词后接形容词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_063",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — ______ can we learn English well",
+    "options": null,
+    "answer": "How",
+    "explanation": "询问方式用How",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "How to + 动词原形句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_064",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — We need ______ more vegetables.",
+    "options": null,
+    "answer": "to eat",
+    "explanation": "need to do",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "need + to do sth.",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_065",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — You should ______ every day.",
+    "options": null,
+    "answer": "exercise",
+    "explanation": "should后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "should + 动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_066",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — Water is important ______ us.",
+    "options": null,
+    "answer": "for",
+    "explanation": "be important for",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be important for sb.",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_067",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — It's good ______ read books every day.",
+    "options": null,
+    "answer": "to",
+    "explanation": "It's good to do",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "It's good to do sth.句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_068",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — What do you ______ of this movie",
+    "options": null,
+    "answer": "think",
+    "explanation": "疑问句用动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "what do you think of...",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_069",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — She sings very ______.",
+    "options": null,
+    "answer": "well",
+    "explanation": "修饰动词用副词",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "very + 副词修饰动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_070",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "选词填空：discuss feeling How to eat exercise for to think well — ______ morning!",
+    "options": null,
+    "answer": "Good",
+    "explanation": "Good morning早上好",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "Good morning!问候语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_071",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：We are going to ______ (discuss) health.",
+    "options": null,
+    "answer": "discuss",
+    "explanation": "be going to后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to + 动原",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_072",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：Health is ______ (have) a good body.",
+    "options": null,
+    "answer": "having",
+    "explanation": "现在分词作表语",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "having作动名词作表语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_073",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：How can we ______ (live) a healthy life",
+    "options": null,
+    "answer": "live",
+    "explanation": "情态动词后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "can + 动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_074",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：We need ______ (eat) healthy food.",
+    "options": null,
+    "answer": "to eat",
+    "explanation": "need to do",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "need + to do",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_075",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：We should ______ (exercise) often.",
+    "options": null,
+    "answer": "exercise",
+    "explanation": "should后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "should + 动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_076",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：Family and friends are ______ (importance) for us.",
+    "options": null,
+    "answer": "important",
+    "explanation": "be动词后接形容词",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词important作表语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_077",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：It's good ______ (talk) to our friends.",
+    "options": null,
+    "answer": "to talk",
+    "explanation": "It's good to do",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "to talk作真正主语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_078",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：What do you ______ (think)",
+    "options": null,
+    "answer": "think",
+    "explanation": "疑问句用动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "do you think后接原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_079",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：He plays football very ______ (good).",
+    "options": null,
+    "answer": "well",
+    "explanation": "修饰动词用副词",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词well修饰动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_25998135_080",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "用所给单词的适当形式填空：______ (good) job!",
+    "options": null,
+    "answer": "Good",
+    "explanation": "Good job做得好",
+    "source": {
+      "url": "https://zy.21cnjy.com/25998135",
+      "site": "21世纪教育网",
+      "title": "2026秋人教PEP版六年级上册英语课文精讲精练（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "Good job!感叹句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:36.147420"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_26563138_025",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课外阅读",
+    "stem": "如果有机会给王璞献一句感言，你会写下什么？",
+    "options": null,
+    "answer": "示例：少年英雄王璞，你的气节与勇气永远照亮我们！",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "致敬英雄人物，渗透演讲表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k1_21cnjy_26563138_022",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_007",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言运用",
+    "stem": "写说不用\"说\",下列表达不恰当的一项是(     )",
+    "options": [
+      "1.1万多名科学家发出严正警告:",
+      "\"请问您现在有时间吗 我想问您一道题目。\"李乐诚恳地向老师请教。",
+      "爸爸提议:\"我们去郊游吧!\""
+    ],
+    "answer": "3",
+    "explanation": "D项引用古诗句来抒情,不属于\"写说不用'说'\"的语境,使用不恰当。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲表达方式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_015",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "\"读书破万卷,下笔如有神。\"这是唐代著名诗人杜甫的话。是啊,书是人类进步的阶梯,如今社会资讯虽发达,但自我修养的提升仍离不开书。(      )",
+    "options": null,
+    "answer": "B",
+    "explanation": "引用了杜甫的名言来论证观点,属于引用名言警句。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲主题与口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_016",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "学校里举办了许许多多庆祝读书节的活动。古诗文诵读比赛让我领略到了古诗文的无限魅力;办读书手抄报让我学到了许多读书方法;\"课本剧\"表演活动让我徜徉在文学海洋中,感受着名著的魅力。(      )",
+    "options": null,
+    "answer": "A",
+    "explanation": "列举了古诗文诵读比赛、办读书手抄报、课本剧表演等具体事例来论证观点,属于列举有代表性的事例。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读书节活动口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_017",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "壮壮:讲得很好,但面无表情,也没有手势,只是在讲完的时候举了一下双手。",
+    "options": null,
+    "answer": "建议壮壮在演讲时注意表情的运用,根据演讲内容适当变换表情,以增强感染力;同时要合理运用手势等肢体语言,辅助表达情感,使演讲更加生动。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲手势表情评价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17486035_018",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "苹苹:演讲时低着头,声音非常小。",
+    "options": null,
+    "answer": "建议苹苹演讲时抬起头来,目光与听众交流,以增强自信;同时要适当提高音量,做到声音洪亮、清晰有力,让每位听众都能听清演讲内容。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲声音仪态评价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17921665_014",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "小敏说：\"喂!老头子，让开!\"(改为礼貌用语)",
+    "options": null,
+    "answer": "小敏说：\"老爷爷，请让一让!\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲礼貌用语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17921665_016",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "请以\"拒食野味，从我做起\"为题，写一段演讲稿的开头。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲稿写作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_11932085_015",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "口语交际。在信息技术高速发展的今天，互联网与人们的生活已密切相关，一些应用于教育的搜题App应运而生，迅速受到学生的热捧。某六年级（1）班围绕\"搜题App是帮手还是'枪手'\"展开辩论，若你是反方辩手，你会怎样辩论呢？\n正方：我方认为搜题App是帮手。它能够帮助学生更快更好地解决难题，提高学习效率，从而使学生对学习产生浓厚的兴趣。这等于请了一位家庭教师，何乐而不为呢？",
+    "options": null,
+    "answer": "示例：我认为搜题App是\"枪手\"。一些学生将这类App当成了抄作业的\"神器\"，遇到不会做的题目马上搜题抄答案，使学生失去独立思考的能力，学习自主性下降，学习成绩怎么会提上去呢？",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辩论属口语交际演讲训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.966515"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_7893415_013",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列关于演讲稿具有说服力叙述错误的一项（  ）",
+    "options": [
+      "观点要鲜明。",
+      "选择合适的材料说明观点，如，列举有代表性的事例，引用名人警言。",
+      "要有感染力，可以引用生动的故事。",
+      "可以讲许多笑话，增强演讲的效果。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲稿说服力要素辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 可以讲许多笑话，增强演讲的效果。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_51jiaoxi_12474190_021",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合题",
+    "stem": "张凯参加了主题为'革命精神'的演讲比赛，请你帮他出谋划策。\n（1）他搜集了以下六个故事，其中不符合主题要求的是________和________。\n①军民团结一心反'围剿'    ②红军过草地    ③瞿秋白宁死不屈\n④詹天佑修筑铁路    ⑤江姐英勇就义    ⑥林则徐虎门销烟\n（2）演讲稿中还需要一些关于爱国的名言警句，请你帮他想两句。\n（3）下面是他的演讲稿的开头部分，按要求完成练习。\n①当今中国正处在一个历史的拐点上。②能否完成民族复兴、实现大国崛起，已成为中国人特别是中国年轻一代的强烈愿望。③在这样的大背景下，发扬和传承革命精神变得愈发重要。④对此，我说：'我会踏实认真地传承和发扬革命精神，为铸就强国而努力。'\n第②句不合逻辑，应当删去'________'。第③句中有一处语序不当，应当交换'________'和'________'的位置。写人物说话时，可以不用'说'来表达，第④句中的'说'可换成________。",
+    "options": null,
+    "answer": "（1）④；⑥（2）苟利国家生死以，岂因祸福避趋之。与其忍辱生，毋宁报国死。（3）能否；发扬；传承；承诺",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲主题与素材筛选对应口语交际·演讲",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_26536921_018",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "班级要开展一次\"革命岁月\"主题分享会。请你为这次活动设计一条宣传标语，并写一段简短的开场白（不少于80字）。宣传标语：____________________________________开场白：____________________________________________",
+    "options": null,
+    "answer": "宣传标语：重温革命岁月，传承红色基因！ 开场白：亲爱的老师、同学们，大家好！革命岁月里，无数先烈抛头颅、洒热血，换来了我们今天的幸福生活。从长征的万水千山，到狼牙山的英勇跳崖；从开国大典的庄严宣告，到灯光下的无私奉献。今天，就让我们一起走进这些感人至深的故事，感受革命先辈的伟大精神！",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲，撰写开场白",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:18.571844"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k1_21cnjy_26536921_018"
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_17921665_012",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "杂技演员高超的技艺非常令人佩服。(改成感叹句)",
+    "options": [
+      "",
+      ""
+    ],
+    "answer": "杂技演员高超的技艺多么令人佩服呀!",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式转换训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:56.800062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k4_21cnjy_17921665_012"
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_15393503_008",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "下列说法不正确的一项是( )",
+    "options": [
+      "辩论前，只需要搜集有说服力的、能证明自己观点的材料。",
+      "辩论前，要根据观点对材料进行梳理和归纳。",
+      "我方陈述时，要充分利用时间，清晰地表达自己的观点；对方陈述时，要注意倾听，抓住对方的漏洞。",
+      "自由辩论时，进一步强调我方观点，并针对对方观点进行有效的反驳。"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲与辩论的口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_23110730_026",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句",
+    "stem": "你要参加演讲比赛,请先将名言补充完整,再选择恰当的名言将演讲大纲补充完整(填序号)。①苟日新,______ ,______ 。 ②穷则变,______ ,______ 。 ③不怨天,______ 。 ④______ ,不必法古;______ ,不必循旧。",
+    "options": null,
+    "answer": "①日日新,又日新；②变则通,通则久；③不尤人；④苟利于民,苟周于事；演讲大纲选②①",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲补充名言，名言积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.966515"
+    }
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_18127030_018",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "对于\"使用公勺公筷，推行分餐制\"这一话题，不同的人群有不同的看法。请你站在不同人群的立场，写出他们的观点。餐厅老板： 。",
+    "options": null,
+    "answer": "示例：使用公勺公筷，推行分餐制，就要购买更多的餐具，会增加餐厅的营业成本，这样不好。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际不同立场表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_18127030_019",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "医务工作者： 。",
+    "options": null,
+    "answer": "示例：使用公勺公筷，推行分餐制，可以有效阻断一些传染病的传播，有利于人们的身体健康，应该大力推广。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际不同立场表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_26581174_012",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合性学习",
+    "stem": "请你为本次活动拟写一条宣传标语。（至少使用一种修辞手法，不超过20字）",
+    "options": null,
+    "answer": "示例：诚信是人生路上的明灯，照亮我们前行的每一步。",
+    "explanation": "修辞1分，字数符合要求1分。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际演讲标语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_21cnjy_26581174_014",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合性学习",
+    "stem": "你在新闻中看到有人因失信被列入\"黑名单\"而处处受限，请结合第二单元课文内容，谈谈你对\"诚信\"的理解。（不少于50字）",
+    "options": null,
+    "answer": "示例：诚信是立身之本。藤野先生对学术的真诚、南仁东对事业的坚守，都是\"诚\"的体现。一个人失去诚信，就会失去他人的信任，寸步难行。我们中学生要从小事做起，做一个诚实守信的人。",
+    "explanation": "结合课文内容1分，观点明确1分，语言通顺1分。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "演讲主题诚信理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k6_51jiaoxi_15505532_018",
+    "subject": "语文",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "口语交际。\n语文口语交际课上，同学们畅谈着自己的理想。有人说：\"我的理想是不用上学、上班，有吃有喝。\"有人说：\"我的理想是住别墅，开豪车。\"对于这类享乐主义的理想，你是怎么看的？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际·观点表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

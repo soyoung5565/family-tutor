@@ -1,0 +1,32 @@
+{
+ "id": "u2.k8",
+ "name": "扇形",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "由圆心角两条半径和弧围成。S = (圆心角度数/360) × πr²",
+ "example": "r=4, 圆心角90°, S = 90/360×3.14×16 = 12.56",
+ "key_formulas": [
+  "S = (角度/360) × πr²"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "depends_on": [
+  {
+   "id": "u2.k6",
+   "reason": "扇形面积是圆面积的一部分，需要先掌握圆的面积公式"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u9.k3",
+   "reason": "扇形是扇形统计图的基本组成单位"
+  },
+  {
+   "id": "u2.k7",
+   "reason": "扇形面积公式可由圆面积公式推导得出"
+  }
+ ]
+}

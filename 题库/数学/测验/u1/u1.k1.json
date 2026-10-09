@@ -1,0 +1,2401 @@
+[
+  {
+    "qid": "数学_u1.k1_zxxk_53996783_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "□-□÷□应先算（）法，再算（）法，结果是（）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53996783.html",
+      "site": "学科网",
+      "title": "第二单元 分数混合运算常考易错题单元提升测试--2025-2026学年北师大版六年级上册数学 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查混合运算顺序：先除后减，是分数除法计算基础。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_54249868_003",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在括号里填上\"＞\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54249868.html",
+      "site": "学科网",
+      "title": "第四单元《百分数》(单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较分数除法结果大小，属分数除法基础运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.975722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_54249868_004",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "直接写出得数。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54249868.html",
+      "site": "学科网",
+      "title": "第四单元《百分数》(单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k2",
+        "u1.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接写得数，计算题，基础分数除法运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.975722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_58969968_005",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "把长为米的铁丝平均分成4段，每段是全长的,每段长（）米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58969968.html",
+      "site": "学科网",
+      "title": "1.1 分数除以整数（同步练习）-2026-2027学年北师大版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求每段长即用分数除以整数4，属分数÷整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.744132"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_58969968_006",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "妈妈要在一条正方形手帕(右图)的四周绣上花边，需要用米红丝带。这条手帕的边长是()米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58969968.html",
+      "site": "学科网",
+      "title": "1.1 分数除以整数（同步练习）-2026-2027学年北师大版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形周长÷4求边长，分数除以整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.744132"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_54935963_007",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "把一根2.4米长的绳子平均剪成4份，每份是这根绳子的（　　），每份绳子长是（　　）米。",
+    "options": null,
+    "answer": "1/4；0.6",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "将2.4米(12/5)平均分成4份，即分数除以整数求每份长度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_54935963_008",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "（3/5－□×4/7）÷4",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "括号内先算乘法，再算减法，最后括号外分数÷整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_54935963_009",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "2/5X÷□=16",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数(2/5X)除以整数16求除数□，考查分数除以整数的计算方法。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_59128793_010",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "在○里填上\"＞\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59128793.html",
+      "site": "学科网",
+      "title": "第二单元《分数乘法》（单元自测练习卷）-2026-2027学年六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目信息不完整，默认考察分数除法结果的大小比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.975722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_55545068_011",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "把一根长米的彩带平均分成4段，每段长()米，每段占全长的()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "1米÷4=1/4米，整数(分数)÷整数，用分数除以整法规律。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_zxxk_55539155_012",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "直接写得数。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接写得数多为分数除法基础计算题（题干内容未给出，按常见题型推测）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_14663995_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把8米长的绳子平均剪成6段，每段长是（ ）米，每段是全长的（ ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14663995.html",
+      "site": "21世纪教育网",
+      "title": "综合练习题（试题）-六年级上册数学人教版（无答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均分用除法，分数意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:28:09.020223"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_26202643_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "算一算。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26202643.html",
+      "site": "21世纪教育网",
+      "title": "【表格式】北师大版六上1.1《分数除法（一）》教案（含大单元整体 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查分数除以整数的计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:27.350551"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_26378141_030",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图想一想，可以把 这个算式转化成__________的算式计算，计算结果是__________．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数转化乘法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_13285414_004",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "先计算出每组算式的结果，再在 里填上\"＞\"",
+    "options": null,
+    "answer": "1÷8=1/8，1×1/8=1/8，=；6÷2=3，6×1/2=3，=；9÷4=9/4，9×4/9=4，9÷4＞9×4/9",
+    "explanation": "一个数除以另一个数（0除外），等于这个数乘另一个数的倒数。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13285414.html",
+      "site": "21世纪教育网",
+      "title": "（2022秋季新教材）人教版 六年级数学上册练习六课件（13张PPT).ppt",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "计算分数除以整数并比较大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:39:18.873586"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_14488460_007",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "玲玲将米长的丝带剪成同样长的3段，每段丝带有多长？",
+    "options": null,
+    "answer": "米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丝带长度÷3，分数除以整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_16773906_007",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在括号里填\"＞\"\"＜\"或\"＝\"：  ( )0.09 ＋( )＋ ÷( )× ×( )×",
+    "options": null,
+    "answer": "＞,＞,＜,＞",
+    "explanation": "＝0.1，因为0.1＞0.09，所以＞0.09。因为＞，所以＋＞＋。÷＝，因为＜，所以＜，即÷＜。＝，因为＞，所以＞，所以×＞×。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘除法比较大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_17403558_007",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "3/5米长的铁丝平均分成3段，每段长（ ）米，每段是全长的（ ）。",
+    "options": [
+      "3/5米，1/3",
+      "1/5米，1/3",
+      "3/5米，3",
+      "1/5米，3"
+    ],
+    "answer": "1",
+    "explanation": "每段是全长的1÷3=1/3；每段长=3/5÷3=3/5×1/3=1/5米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17403558",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第三单元分数除法（知识梳理+提高训练）（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数及分率意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:24.195582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1/5米，1/3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_17403558_021",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下面各题，能简算的要写出必要的简算过程。（每小题需计算的题目原文未完整给出具体算式）",
+    "options": null,
+    "answer": "3；1000；详见解析",
+    "explanation": "(1)利用乘法分配律简便计算；(2)先把32化为4×8，再利用乘法交换律和乘法结合律简便计算；(3)先把分数除法化为分数乘法，再利用乘法分配律简便计算；(4)按照四则混合运算的顺序计算。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17403558",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第三单元分数除法（知识梳理+提高训练）（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除法混合运算，含简算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:24.195582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18676512_009",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算：6÷29。",
+    "options": null,
+    "answer": "27",
+    "explanation": "6÷2/9=6×9/2=27",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676512.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第一单元分数除法 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:24.636637"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18676512_010",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算：58÷58÷56。",
+    "options": null,
+    "answer": "略",
+    "explanation": "58÷5/8÷5/6=58×8/5×6/5",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676512.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第一单元分数除法 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数连除计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:24.636637"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18676512_011",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算：712÷712÷78。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676512.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第一单元分数除法 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数连除计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:24.636637"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_5740781_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "妈妈给小明一个大盒子，里面装着6个纸盒子，每个纸盒子又装4个小盒子，小明一共有几个盒子？（　　）",
+    "options": [
+      "30",
+      "31",
+      "24",
+      "25"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5740781.html",
+      "site": "教习网",
+      "title": "【精品推荐】人教版小学六年级上册数学趣味数学练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "盒子嵌套计数，含大盒",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:51.893645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 31",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_5740781_003",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图（1）（2）为两架已达平衡的天平，如果要使图（3）中的天平保持平衡，则在天平右侧应放几个圆？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5740781.html",
+      "site": "教习网",
+      "title": "【精品推荐】人教版小学六年级上册数学趣味数学练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "天平平衡，等量代换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:51.893645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_12074406_011",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "心算口算比谁快。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数口算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14890728_001",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2021•雨城区模拟）在横线上填上\"＞\"、\"＜\"或\"＝\"．÷_____ ×_____ ×_____÷　﹣_____÷6．",
+    "options": null,
+    "answer": "＞，＜，＜，＝",
+    "explanation": "一个数（0除外）乘一个小于1的数，结果小于原数；一个数（0除外）除以一个小于1的数（0除外），结果大于原数；据此解答前两题；后两题可计算出左右算式的结果再比较大小．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数，分数乘倒数比较大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14890728_008",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2022春•华容县期末）10kg小麦可以磨出7kg面粉，每千克小麦可以磨出_____kg面粉；磨1kg面粉需要_____kg小麦。（用分数表示结果）",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "要求每千克小麦可磨面粉多少千克，用面粉质量除以小麦重量即可；要求磨1千克面粉需要多少千克小麦，用小麦质量除以面粉质量即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数的实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14890728_012",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2021春•成都期末）在横线上填上\"＞\"",
+    "options": null,
+    "answer": "＜，＞，＜",
+    "explanation": "根据分数除法的运算法则计算出结果，再进行比较即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数的大小比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14890728_017",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2021秋•青龙县期末）吨小麦可磨面粉吨，1吨小麦可磨面粉_____吨，磨1吨面粉需要_____吨小麦．",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "吨小麦可磨面粉吨，求1吨小麦可磨面粉多少吨，就用磨出面粉的质量除以小麦的质量即可；求磨1吨面粉需要多少吨小麦，就用小麦的总质量除以磨出面粉的质量即可．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数的实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14890728_019",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2021秋•湘西州期末）千克黄豆可以榨油千克，1千克黄豆可以榨油_____千克，榨1千克油需要_____千克黄豆．",
+    "options": null,
+    "answer": "见题干，4",
+    "explanation": "本题属于包含除问题，题中的两个所求问题都是求的单一量，都是利用\"总量÷数量＝单一量\"这一数量关系来解答，只是谁作被除数，谁作除数的区别；（1）求\"1千克黄豆可以榨油多少千克\"，是把榨油的重量当作\"总量\"，用÷来求；（2）求\"榨1千克油需要 多少千克黄豆\"，是把黄豆的重量当作\"总量\"，用÷来求．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除法求每千克出油量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_15302301_019",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "脱式计算下面各题。（1）1/4×4/5+3/8÷3/4；（2）(5/12-5/18)×24；（3）2/3÷4/5÷5/6；（4）5/6×(5-2/3)÷1/2",
+    "options": null,
+    "answer": "（1）1；（2）8；（3）1；（4）8",
+    "explanation": "（1）先算乘除再算加法；（2）运用乘法分配律简算；（3）从左向右依次计算；（4）先算小括号里的减法，再算括号外的乘除法。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘除混合运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1zxxk_54173189_013",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "我们知道，无限循环小数都可以化为分数．仿此方法将0.35（35循环）化成分数的值。(24-25六上·上海浦东新区·期中)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://m.zxxk.com/soft/54173189.html",
+      "site": "学科网",
+      "title": "专题10 一元一次方程及其应用（期中真题汇编，上海专用）六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "循环小数化分数的除法本质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:32.917991"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_002",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "分数乘整数，用（________）与（________）相乘的积作分子，（________）不变。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数的计算法则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_004",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "分数乘分数，用分子相乘的积作（________），分母相乘的积作（________）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘分数的运算法则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_009",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "分数乘整数的意义与整数乘法相同，就是求几个相同分数的和的简便运算。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_010",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "3/7 × 2 = 3/7×2 = 3/14",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数的计算方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_012",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "2/3 × 3/4 = (2+3)/(3+4) = 5/7",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘分数不能分子分母分别相加",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_015",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "5/6 × 3/4 的计算结果正确的是（________）。",
+    "options": [
+      "15/24",
+      "8/10",
+      "5/8",
+      "5/12"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘分数的计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 15/24",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_019",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "2/7 × 6",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_18622421_020",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "5/9 × 12",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622421.html",
+      "site": "教习网",
+      "title": "西师大版六年级数学第一单元分数乘法测试卷（含解析）-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:06.650136"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_16860526_001",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "学校买来20㎏豆油，已经用了5㎏，剩下的每天用㎏，还可以用多少天？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16860526.html",
+      "site": "21世纪教育网",
+      "title": "分数除法(二)同步练习六年级上册数学人教版（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数求天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:29.503939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_10987449_011",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "涂一涂，算一算。3个是多少？用加法计算：_______________ 乘法计算：_______________",
+    "options": null,
+    "answer": "＋＋＝；×3＝",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数意义，加法到乘法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:26.826822"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_14795800_005",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在横线上填上\">\"",
+    "options": null,
+    "answer": ">；<；=；>",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数的计算比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_51jiaoxi_17633205_004",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "方程的根为（   ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "根据解一元一次方程的步骤：移项、合并同类项、系数化1即可．故选B．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17633205.html",
+      "site": "教习网",
+      "title": "河南省南阳市内乡县2026届数学七上期末达标测试试题含解析-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:38.737594"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_14663995_013",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "7的 和6的 一样大。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘整数比较大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_14663995_014",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一瓶牛奶还有 ，喝了 ，还剩 。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数加减应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "数学_r1.k1_21cnjy_14663995_015"
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_14663995_018",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一根1米长的绳子剪去 后，剩余的部分与 米比较（ ）。",
+    "options": [
+      "一样长",
+      "剩余部分长",
+      "米长",
+      "无法比较"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数应用：剩余量比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_16860526_030",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "直接写得数。×18= ÷= 0÷= 1÷= 7÷= ÷= ÷14= ×= ÷10= ÷=",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_16948544_018",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "直接写出得数。\n48＋62＝          0.42＋4＝          2.5×40＝          0.1÷0.01＝\n－0.15＝        ＝        5396÷89≈",
+    "options": null,
+    "answer": "110；4.16；100；10；0.6；；60",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数的基本计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_21591666_021",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "口算。×10＝           1－＝          ÷3＝              ÷＝＋＝          ×＝          1－×＝          12÷＝",
+    "options": null,
+    "answer": "4；；；1；；0；16",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/21591666",
+      "site": "21世纪教育网",
+      "title": "doc 21591666",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘除法口算，含分数除以整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:59.816360"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_21882296_007",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "计算－×时，先算( )法，再算( )法，结果是( )。",
+    "options": null,
+    "answer": "乘  减",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数除以整数(含带分数)\"具体运算顺序\"},\n{\"i\":8,\"kp_id\":\"u5.k2\",\"difficulty\":\"中\",\"reason\":\"比的基本性质应用\"},\n{\"i\":9,\"kp_id\":\"u6.k2\",\"difficulty\":\"中\",\"reason\":\"方向相反位置描述\"},\n{\"i\":10,\"kp_id\":\"u5.k4\",\"difficulty\":\"中\",\"reason\":\"按比例分配求角度\"},\n{\"i\":11,\"kp_id\":\"u4.k4\",\"difficulty\":\"中\",\"reason\":\"连续求一个数的几分之几\"},\n{\"i\":12,\"kp_id\":\"u1.k2\",\"difficulty\":\"易\",\"reason\":\"整数除以真分数的商\"},\n{\"i\":13,\"kp_id\":\"u1.k3\",\"difficulty\":\"易\",\"reason\":\"分数乘法与除法互逆\"},\n{\"i\":14,\"kp_id\":\"u7.k3\",\"difficulty\":\"中\",\"reason\":\"百分数实际涨跌比较\"},\n{\"i\":15,\"kp_id\":\"u5.k3\",\"difficulty\":\"中\",\"reason\":\"化简比需统一单位\"},\n{\"i\":16,\"kp_id\":\"u4.k1\",\"difficulty\":\"中\",\"reason\":\"求一个数比另一个多/少几分之几\"},\n{\"i\":17,\"kp_id\":\"u4.k2\",\"difficulty\":\"中\",\"reason\":\"判断单位1的量\"},\n{\"i\":18,\"kp_id\":\"u4.k1\",\"difficulty\":\"中\",\"reason\":\"分率与具体量比较\"},\n{\"i\":19,\"kp_id\":\"u1.k3\",\"difficulty\":\"中\",\"reason\":\"分数除法正确算法辨析\"},\n{\"i\":20,\"kp_id\":\"u1.k5\",\"difficulty\":\"易\",\"reason\":\"分数除法量率对应应用\"}",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_21882296_022",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "直接写得数： ×＝  2÷＝  4×＝  ÷＝  ÷＝  ×＝  ×＝  ×5＝",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘除直接计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_18277690_014",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "升＝(        )毫升      40分＝(        )时",
+    "options": null,
+    "answer": "600；2/3",
+    "explanation": "3/5×1000＝600；40÷60＝2/3。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数单位换算，升毫升与分时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_18277690_020",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "食堂有大米吨，吃掉，还剩下吨。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "3/5×（1－1/4）＝3/5×3/4＝9/20（吨）；9/20吨≠3/5吨。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数减法，求剩余量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_21cnjy_26593757_041",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "妈妈用手机从超市购买商品，费用如图所示。本次购物的配送费是多少元？(总金额包含配送费)\n购物清单 洗发水/瓶 29.70元　纸巾10包/提 32.30元　配送费　元　总金额 66.50元",
+    "options": null,
+    "answer": "4.50元",
+    "explanation": "配送费=66.50-29.70-32.30=4.50（元）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26593757",
+      "site": "21世纪教育网",
+      "title": "doc 26593757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "小数减法求配送费，属于基本运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:45:02.060644"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

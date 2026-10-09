@@ -1,0 +1,4290 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "为推动劳动教育，某校倡议小学生'每天劳动不少于30分'。项目小组随机调查了一些学生每天劳动的时间，条形统计图：30分~1时 150人；扇形统计图：30分~1时 62.5%，超过1时 25%，小于30分（  ）%。（1）项目小组一共调查了（ ）名同学。（2）请补全条形统计图和扇形统计图。（3）对于劳动时间少于30分的同学，你有什么建议？",
+    "options": null,
+    "answer": "（1）240名；（2）超过1时60人（25%），小于30分30人（12.5%）；（3）开放题",
+    "explanation": "总人数：150÷62.5%=240（人）；超过1时：240×25%=60（人）；小于30分：240-150-60=30（人），占比12.5%。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u7.k4",
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "利用扇形百分比与条形人数求总数并补全统计图"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_008",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "1月淘气家总支出为6000元，各项支出情况统计如右图。______类支出最少，______类支出正好占总支出 1/4 的 1/4。",
+    "options": null,
+    "answer": "服装（或其他最少项）；食品",
+    "explanation": "根据扇形统计图各部分占比，最少的是占比最小的一类；占总支出1/4的是占比25%的类别。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6787.html",
+      "site": "深圳城市学校网",
+      "title": "深圳宝安区2025六上数学期末",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "u35d"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u4.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过扇形图比较各部分占比大小找最小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T19:28:35"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u7.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "要表示近年来我国新能源电动车年产量的变化情况，选用（    ）统计图比较合适；要统计目前各品牌新能源汽车市场占有率，选用（    ）统计图。",
+    "options": null,
+    "answer": "折线统计图；扇形统计图",
+    "explanation": "产量随时间变化用折线统计图；各部分占总体的百分比用扇形统计图。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u9.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:33:47",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "变化趋势用折线，占比用扇形，核心是扇形表占比"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "duplicate_of": "数学_u7.k1_szns_002",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_54367355_004",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "某校在\"校园体育节\"活动中，对六(1)班40人参加体育活动的情况进行了调查，结果如下图所示。下列说法中()是错误的。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54367355.html",
+      "site": "学科网",
+      "title": "第四单元百分数 (单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1",
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据扇形统计图各部分占总数百分比判断说法的正误",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_005",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "学校开展形式多样的每天一小时体育活动，六年级同学积极参与，小明同学绘制了一张扇形统计图（如图）。现在知道参加跑步的同学有96人。根据图和以上信息解答下列问题：（1）六年级同学共有人。（2）参加跳绳的比参加篮球的多多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图，已知部分人数求整体总数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_006",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "一块蔬菜地，种着青椒、黄瓜、丝瓜和茄子四种蔬菜（如图）。丝瓜的种植面积是200平方米。（1）茄子的种植面积是多少平方米？（2）哪种蔬菜的种植面积最大？比丝瓜种植面积多百分之几？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形图各部分占比，结合已知量求总面积和其他面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_007",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "下面是小彤家十月份生活开支情况统计图：（1）如果小彤家这个月的生活开支是5000元，那么食品支出了多少元？（2）提出一个数学问题并解答。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图求各部分占比，再用总量×分率计算部分量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "星光小学六年级学生每人都参加了一项社团活动，分布情况如下图。（1）参加合唱社团的比参加足球社团的多32人，六年级共有多少人？（2）已知参加竖笛社团和美术社团的人数之比是2：3，那么有多少人参加美术社团？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图得百分率，再由差量求总数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_009",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "\"一手好字，受益一生。\"某小学开展了学生书写等级考核，本次考核评出五个等级，其中B等级的学生有72人，则D等级的学生有多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过扇形统计图读取各等级占比，求D等级人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_010",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "如图是莉莉星期天的时间安排情况扇形统计图。（1）莉莉星期天的时间最少。（2）莉莉星期天的娱乐时间是多少小时？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图，求部分量用总数×百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_011",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "某学校种植基地，蔬菜种植情况如图。（1）西红柿的种植面积占这块蔬菜种植基地的百分之几？（2）已知黄瓜种植面积是90平方米，芹菜的种植面积比油菜少多少平方米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k4",
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图求部分占整体的百分比，并利用分率求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_58918176_012",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "小明调查了本地区去年4月份每天的天气情况，并把它分为晴天、阴天和雨天三类，制成了如图统计图。请你算一算，晴天占这个月天数的百分之多少？晴天有多少天？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58918176.html",
+      "site": "学科网",
+      "title": "第七单元 百分数的认识与应用(一)应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读取扇形统计图，求部分占总数的百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_59525295_013",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "垃圾的分类处理与回收利用，可以减少污染，节省资源。如果要清楚地看出各种垃圾占垃圾总量的百分比，需要制作的统计图是（）。",
+    "options": [
+      "条形统计图",
+      "折线统计图",
+      "扇形统计图",
+      "无法确定"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图表示各部分占总数的百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_59525295_014",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "果园里有苹果、桔子、桃子三种果树，各自的数量用条形统计图表示如图。如果用扇形统计图表示是（）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "条形图转扇形图，考查扇形统计图各部分占总数百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_55064374_015",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "小明要将这个月全家的吃、穿、住、行四项开支占总收入的百分比制成统计图，应选择（）统计图。",
+    "options": [
+      "条形",
+      "折线",
+      "扇形",
+      "复式条形"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55064374.html",
+      "site": "学科网",
+      "title": "第四五单元月考综合测试（试题）-2025-2026学年六年级上册数学北 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图表示各部分占总数的百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "C. 扇形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_55237356_016",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "某校有30个社团，要清楚的表示各个社团人数和社团总人数之间的关系，可以选择（）",
+    "options": [
+      "折线统计图",
+      "条形统计图",
+      "扇形统计图",
+      "统计表"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55237356.html",
+      "site": "学科网",
+      "title": "5.5单元整理与复习（同步练习）-2025-2026学年六年级上册数学 北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图表示各部分占总体的百分比关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.143049"
+    },
+    "answer_text": "C. 扇形统计图",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_55237356_017",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "某班40人投票选班长，候选人得票：A12票，B15票，C8票，D5票。要表示各候选人得票占比，用（）更合适。",
+    "options": [
+      "条形统计图",
+      "折线统计图",
+      "扇形统计图",
+      "统计表"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55237356.html",
+      "site": "学科网",
+      "title": "5.5单元整理与复习（同步练习）-2025-2026学年六年级上册数学 北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形统计图表示各部分占总数百分比的特点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "C. 扇形统计图",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_57523937_018",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "人离不开水，成年人每天体内47%的水靠喝水获得，39%来自食物含的水，14%来自体内氧化时释放出的水。这组数据用（    ）统计图表示最合适。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用百分比表示各部分占整体关系，扇形统计图最合适",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_57523937_019",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "扇形统计图与条形统计图都能清楚地表示部分与整体之间关系。（    ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形统计图与条形统计图的特点区别，扇形能体现部分与整体关系，条形不能。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_54320424_020",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "下图是学校\"开心农场\"各种蔬菜的种植面积统计图。从图中可以看出，（　　）的种植面积最大；如果\"开心农场\"总面积是150m²，那么西红柿的种植面积是（　　）m²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图获取信息并用部分量=总数×分率计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_zxxk_54320424_021",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "小塘用扇形统计图表示自己一周的支出情况，下列说法错误的是（　　）。",
+    "options": [
+      "图中一般不标出具体消费金额",
+      "图中一般标出各项消费的项目",
+      "图中一般不标出各项消费金额占总消费金额的百分比",
+      "图中一般标出各项消费金额占总消费金额的百分比"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形统计图的特点：表示各部分占总数的百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_11088645_016",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某校这个学期的课后托管服务形式多样，包括自主学习、做作业等基本综合活动和专项素质提升活动。下图是六年级学生参加专项素质提升活动情况科技类统计图。请回答以下问题：（1）参加思维拓展类的学生占全部参加专项素质提升活动学生的（ ）%。（2）六年级学生参加专项素质提升活动的学生一共有120人，参加体育类的学生有多少人？（3）参加音乐类的学生比参加科技类的学生多百分之几？",
+    "options": null,
+    "answer": "（1）15；（2）36人；（3）20%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图读百分比求人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10544096_025",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "李阿姨一个月的工资是9000元，下图是她每月工资的安排情况统计图。（1）李阿姨每个月在购书上花费多少元？（2）李阿姨想添置一个价值7999元的书柜，她至少需要储蓄几个月才能购买到书柜？",
+    "options": null,
+    "answer": "（1）720元；（2）3个",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求部分量与总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.917782"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "妙想家2020年12月各项支出情况统计如图，他家2020年12月购买衣服的支出是420元。（1）妙想家伙食水电支出比其他支出多占总支出的百分之几？（2）妙想家2020年12月总支出是多少钱？",
+    "options": null,
+    "answer": "（1）33%（2）2000元",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求总支出",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_017",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某老年俱乐部的200名老人参加各项活动的人数情况统计图如下。（1）打乒乓球的老人比打篮球的多多少人？（2）踢毽子的人数比跳绳的人数少百分之几？",
+    "options": null,
+    "answer": "（1）28人（2）50%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求人数差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_018",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图是某蔬菜种植基地里蔬菜种植面积的扇形统计图。（1）西红柿的种植面积是7.5公顷，蔬菜种植总面积是多少公顷？（2）萝卜的种植面积是多少公顷？（3）种植萝卜的面积比种植西红柿的面积少百分之几？",
+    "options": null,
+    "answer": "（1）15公顷（2）4.5公顷（3）40%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_026",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "华新公司对员工进行体重调查，体重正常的员工有108人。下面是调查结果的统计图。（1）华新公司一共有员工（ ）人。（2）体重偏重和偏轻的员工各有多少人？",
+    "options": null,
+    "answer": "（1）200人（2）偏重76人，偏轻16人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求总数及各部分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_028",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "希望小学统计全校学生的上学方式，有乘车、步行和骑车三种方式，并绘制了两幅统计图，请结合下面两幅统计图解决下列问题。（1）希望小学共有学生多少人？（2）骑车上学和步行上学的各有多少人？（3）把两幅统计图补充完整。",
+    "options": null,
+    "answer": "（1）800人（2）骑车360人，步行200人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图与条形图综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10533455_031",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2020年，我国成为全球唯一实现正增长的主要经济体，线上购物逆势增长。下面是王阿姨12月份通过某支付平台的消费情况统计，已知她的食品支出比服饰支出多2900元，王阿姨12月份通过此支付平台共消费多少元？（列方程解答）",
+    "options": null,
+    "answer": "5000元",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图列方程求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_20237175_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面是学生最喜欢的图书情况统计图，请你根据扇形统计图的信息，选择合适的条形统计图（ ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/20237175",
+      "site": "21世纪教育网",
+      "title": "六年级下册数学人教版：统计与概率整理与复习-教学设计(表格式）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由扇形图信息选对应条形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:58.300494"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_20237175_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据学生最喜欢的图书情况统计图相关数据，完成下面问题。①共有（ ）名学生参加这次调查。其中喜欢故事类图书的（ ）人。②喜欢历史类图书的学生占总人数的（ ）％，喜欢故事类图书的学生占总人数的（ ）％，喜欢历史类图书的比喜欢故事类的学生少（ ）％。③全校六年级共有500名学生，试着估计一下选择故事类图书的学生大约有（ ）人。④每次都从全班同学中随机抽取一位同学（可重复），抽35次都没抽到喜欢科普类图书的同学，这种情况有可能吗？（ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/20237175",
+      "site": "21世纪教育网",
+      "title": "六年级下册数学人教版：统计与概率整理与复习-教学设计(表格式）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形统计图算人数与百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:58.300494"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_18622445_005",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在扇形统计图中，如果某个扇形的圆心角是90°，那么该部分占总量的25%。（　　）",
+    "options": null,
+    "answer": "√",
+    "explanation": "百分比 = 圆心角 ÷ 360° × 100% = 90 ÷ 360 × 100% = 25%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图圆心角与百分比关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_18622445_006",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在扇形统计图中，表示碳水化合物的扇形圆心角为252°，则碳水化合物占总量的百分比是（________）%。",
+    "options": null,
+    "answer": "70",
+    "explanation": "百分比 = 252 ÷ 360 × 100% = 70%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角求对应百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_18622445_009",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用扇形统计图表示午餐营养构成时，下列说法正确的是（________）。",
+    "options": [
+      "扇形面积越大，表示该营养素含量越多",
+      "各扇形圆心角之和等于180°",
+      "蛋白质占20%，对应圆心角为72°",
+      "扇形统计图能直接读出各营养素的具体克数"
+    ],
+    "answer": "2",
+    "explanation": "A错误，扇形面积大表示占比大，不等于含量多（还需看总量）；B错误，圆心角之和为360°；C正确，20%×360°=72°；D错误，扇形统计图只能看出各部分占总量的百分比，不能直接读出具体克数。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图特点综合判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 蛋白质占20%，对应圆心角为72°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_18622445_010",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "某份午餐的三大营养素含量为：蛋白质21g、脂肪9g、碳水化合物60g。请计算各营养素占总量的百分比和扇形统计图中对应的圆心角度数，并在答题区画出扇形统计图的草图。",
+    "options": null,
+    "answer": "蛋白质≈23.3%（圆心角≈84°）、脂肪10%（圆心角36°）、碳水化合物≈66.7%（圆心角≈240°）",
+    "explanation": "先求总量，再求各部分百分比，最后将百分比乘以360°得到圆心角。注意所有圆心角之和必须等于360°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "算百分比和圆心角并画扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_14914140_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "李老师为了解六年级800名学生课外阅读兴趣，通过调查制成了下面的扇形统计图，喜欢阅读漫画书籍的有（   ）人。",
+    "options": [
+      "60",
+      "80",
+      "120",
+      "280"
+    ],
+    "answer": "1",
+    "explanation": "用学生总数乘喜欢阅读漫画书籍的人占总人数的百分率：800×10%＝80（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14914140.html",
+      "site": "教习网",
+      "title": "小学数学7 扇形统计图单元测试随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据扇形统计图求部分人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:16.709884"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 80",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_001",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "只需统计一个家庭2010～2014年每年支出具体金额是多少，可以绘制(      )统计图；既要看出每年的具体支出，又要看出几年来支出的变化情况，应该选择(      )统计图；要看出每年支出占这几年总支出的百分比，要绘制(      )统计图．",
+    "options": null,
+    "answer": "条形；折线；扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三种统计图特点与选择",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_004",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "要反映一盒250毫升的牛奶中锌，镁，铁，钙等微量元素所占的百分比，用(        )统计图比较合适。",
+    "options": null,
+    "answer": "扇形",
+    "explanation": "扇形统计图可以比较清楚地反映出部分与部分、部分与整体之间的数量关系。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图适合表示百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_005",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "扇形的圆心角度数越大，说明这一部分占总量的百分比就越大。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "扇形的圆心角越大，扇形的面积越大，占总面积的比例就越大。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小与百分比关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_007",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "要表示各部分数量与整体的关系，最好画扇形统计图。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "扇形统计图可以清楚地看出各部分数量与总数量之间，部分数量与部分数量之间的关系。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "部分与整体用扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "条形统计图和扇形统计图都可以表示部分量占总量的百分比，但扇形统计图更直观。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "条形统计图从图中能清楚地看出各种数量的多少，便于相互比较；扇形统计图可以表示部分量占总量的百分比。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两种图表示百分比的比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_009",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某班有50人，其中三好学生10人，优秀学生干部5人，在扇形统计图上表示三好学生和优秀学生干部人数的圆心角分别是（    ）。",
+    "options": [
+      "72°，36°",
+      "100°，50°",
+      "80°，40°",
+      "120°，60°"
+    ],
+    "answer": "0",
+    "explanation": "10÷50＝1/5，5÷50＝1/10，360°×1/5＝72°，360°×1/10＝36°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由人数求扇形圆心角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 72°，36°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_011",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "2020年绿荫小学校园内各种树木所占百分比情况统计表。可以选用（    ）统计图表示。",
+    "options": [
+      "条形",
+      "折线",
+      "扇形",
+      "条形和扇形"
+    ],
+    "answer": "2",
+    "explanation": "统计表中数据是各种树木所占的百分比，所以可以选用扇形统计图。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百分比情况选扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 扇形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_012",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "圣泉公司有员工700人，五一期间组织活动，并规定每人必须参加且只参加一项活动，下图是各种活动参加人数统计图，则不下围棋的共有（    ）人。",
+    "options": [
+      "259",
+      "441",
+      "350",
+      "490"
+    ],
+    "answer": "1",
+    "explanation": "不下围棋的人数＝总人数－下围棋的人数＝700－700×37%＝700－259＝441（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由扇形图求部分人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 441",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_013",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是一个花坛中三种花种植面积扇形统计图。把这三种花种植面积绘制成条形统计图，可能是（    ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "3",
+    "explanation": "有2根直条的长度相等，且第3根直条的长度是那两根直条的2倍，符合题意。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形与条形图互换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_017",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "新苗小学对全校学生进行了体重调查，如图是调查结果统计图，体重正常的学生有1100人，体重偏重的学生有多少人？",
+    "options": null,
+    "answer": "700人",
+    "explanation": "1100÷55%×35%＝2000×0.35＝700（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由扇形图求部分人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_018",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "我国国土总面积是960万平方千米。下面是我国地形分布情况统计图，请根据统计图回答问题。（1）我国山地面积占总面积的百分之几？（2）各类地形中，什么地形面积最大？什么最小？（3）你还能得到哪些信息？（4）请算出各类地形的实际面积，填入下表。",
+    "options": null,
+    "answer": "（1）33%；（2）山地地形面积最大，高原面积最小；（3）我国平原面积所占的百分比比较少；（4）山地316.8万平方千米，丘陵249.6万平方千米，高原96万平方千米，盆地182.4万平方千米，平原115.2万平方千米",
+    "explanation": "（1）从扇形统计图中可知山地占33%；（2）10%＜12%＜19%＜26%＜33%；（3）观察统计图可得；（4）960×各百分比即可得出。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图读图计算实际面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16080758_019",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图是苹果、香蕉、桔子三种水果数量的扇形统计图。这三种水果共运来4800千克，根据下图分别计算出三种水果的重量。",
+    "options": null,
+    "answer": "苹果的重量是2160千克；桔子的重量是1200千克；香蕉的重量是1440千克",
+    "explanation": "桔子：4800×25%＝1200（千克）；香蕉：4800×30%＝1440（千克）；苹果：4800×45%＝2160（千克）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由扇形图求部分量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_15302301_016",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "六年级（1）班同学分成四个组玩投沙包游戏，四个组一共得了60分。各组得分情况如下表：第一组9分，第二组30分，第三组15分，第四组6分。下面四幅图中，能够准确表示四个组得分情况的是图（  ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "3",
+    "explanation": "第一组15%，第二组50%，第三组25%，第四组10%，对应扇形统计图D。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图表示占比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 图D",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_15302301_026",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2023年9月21日下午，面向全国青少年的中国空间站天宫课堂第四课在梦天实验舱开课，这次授课呈现了四个实验。小刚对同学们最感兴趣的实验情况进行了调查，并将部分调查结果记录在了下面的统计图表中（已知A实验24人占总人数20%，B实验42人，D实验占总人数30%）。①把不完整的统计表和统计图补充完整，并在下面写出思考过程。②先把下面的问题补充完整，再解答出来。对      实验最感兴趣的学生人数比对      实验最感兴趣的学生人数多百分之几？",
+    "options": null,
+    "answer": "①总人数120人，A实验24人，B实验42人（35%），C实验18人（15%），D实验36人；②例如：对B实验最感兴趣的学生人数比对A实验最感兴趣的学生人数多75%",
+    "explanation": "总人数＝24÷20%=120人，D实验120×30%=36人，B占42÷120=35%，C占1-20%-30%-35%=15%，C实验120×15%=18人；(42-24)÷24×100%=75%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图与百分数综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10948107_022",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "向阳农场有3200的蔬菜基地，今年准备种植4种有机蔬菜，计划如下图。（1）黄瓜的种植面积是多少？（2）如果平均每平方米蔬菜产量为6.5千克，那么辣椒和番茄的产量各是多少？",
+    "options": null,
+    "answer": "（1）480平方米（2）辣椒：7280千克，番茄：6656千克",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求各部分量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_8289272_006",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "看图分析并回答问题。下面是某小学六年级学生视力情况统计图。1.近视人数占全年级学生人数的( )％，视力不良(包括假性近视和近视)的人数占全年级学生人数的( )%。2.视力正常的有76人，六年级一共有多少人?视力不良的有多少人?3.通过上面的题，对于这个学校六年级学生的视力情况，你有什么想法和好的建议?",
+    "options": null,
+    "answer": "1.30 2.76÷38%=200(人) 200×62%=124(人) 3.略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图分析百分率应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_8289272_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "下图是六年级的一次数学测试成绩统计图。已知不及格的有4人。1.分别计算出各种成绩的人数，填入下表。（成绩：优秀、良好、及格、不及格、合计）2.把这个扇形统计图改画成条形统计图。",
+    "options": null,
+    "answer": "1.24",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图转条形图求各类人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_8289272_009",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选择:下面的调查结果( )用扇形统计图表示。绿荫小学六年级学生上网情况的调查结果如下：上网查资料:70.5％ 上网玩游戏:40.7％ 上网学习:38％ 上网聊天:55％ 上网通信:42.5％",
+    "options": [
+      "能",
+      "不能"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断数据是否适合扇形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.917782"
+    },
+    "answer_text": "B. 不能",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10544096_005",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某老年俱乐部的200名老人参加各项活动的人数情况统计图如下。（1）打乒乓球的老人比打篮球的多多少人？（2）踢毽子的人数比跳绳的人数少百分之几？",
+    "options": null,
+    "answer": "（1）28人（2）50%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求人数及百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u9.k3_21cnjy_10533455_017",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_10544096_011",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图是某蔬菜种植基地里蔬菜种植面积的扇形统计图。（1）西红柿的种植面积是7.5公顷，蔬菜种植总面积是多少公顷？（2）萝卜的种植面积是多少公顷？（3）种植萝卜的面积比种植西红柿的面积少百分之几？",
+    "options": null,
+    "answer": "（1）15公顷（2）4.5公顷（3）40%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u9.k3_21cnjy_10533455_018",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_001",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某班60人参加课外活动小组的情况如图。（1）参加围棋小组的人数占全班总人数的_____%。 （2）参加_____小组的人数最多，是_____人。 （3）参加美术小组的人数比参加篮球小组的人数少______%。",
+    "options": null,
+    "answer": "（1）10；（2）英语；15；（3）25",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图读取各项百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "扇形统计图是用整个圆表示_______，用圆内各个 _____的大小表示_____占____的百分比。",
+    "options": null,
+    "answer": "总量；扇形；各部分数量；总量",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图的概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图是新风一小订阅杂志情况统计图，其中有60人没有订阅杂志，订阅2份的有_____人。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求具体人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_005",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，这是李奶奶养的黑兔、灰兔、白兔的数量的扇形统计图，她养了______只黑兔。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求具体数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_006",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是鸡蛋各部分质量的统计图。各部分质量的关系表示正确的是图(    )。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图各项关系判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. C",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_007",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "对五、六年级男女生人数进行统计，发现两个年级的男生人数相同，且占年级学生总数的情况如下图。可以确定(   )。",
+    "options": [
+      "五年级的学生总数大于六年级",
+      "六年级的学生总数大于五年级",
+      "五年级的女生人数小于六年级的女生人数",
+      "两个年级的男生总数等于女生总数"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图比较两班级人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 五年级的学生总数大于六年级",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_008",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小塘用扇形统计图表示自己一周的支出情况。下列说法错误的是(   )。",
+    "options": [
+      "图中一般不标出具体消费金额",
+      "图中一般标出各项消费的项目",
+      "图中一般不标出各项消费金额占总消费金额的百分比",
+      "图中一般标出各项消费金额占总消费金额的百分比"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图的特点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 图中一般不标出各项消费金额占总消费金额的百分比",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_009",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图是某校五年级学生最喜欢的球类运动统计图，最喜欢足球的有105人，则最喜欢排球的有(   )人。",
+    "options": [
+      "23",
+      "115",
+      "150",
+      "110"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图由部分求整体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 115",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_010",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的信息中适合用扇形统计图表示的是(   )。",
+    "options": [
+      "大豆中各种营养成分占总量的百分比",
+      "六年级每个班女生的平均身高",
+      "冬运会各国获得的金牌数量",
+      "运动员所有比赛的成绩变化"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选择适合扇形统计图的数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 大豆中各种营养成分占总量的百分比",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_011",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有一幅家庭支出情况的扇形统计图，表示水电费用支出的扇形圆心角是60°，那么水电费用支出约占全部支出的(   )。",
+    "options": [
+      "45%",
+      "16.7%",
+      "60%",
+      "12.5%"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形圆心角与百分比互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 16.7%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_015",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "东东家每个月房租收入2500元，请问他们家每个月的总收入是多少元?",
+    "options": null,
+    "answer": "2500÷10%=25000（元）",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图由部分求总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_017",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "睡眠是机体复原整合和巩固记忆的重要环节，对促进中小学生大脑发育、骨骼生长、视力保护、身心健康和提高学习能力与效率至关重要。为了解同学们的睡眠情况，某小学随机调查了一些学生，调查内容是\"每天的睡眠时间\"，并把调查数据制成了如下的扇形统计图。(1)睡眠时间少于9小时的占百分之多少？(2)如果这次活动共调查了1000人，那么睡眠时间超过10小时的有多少人？(3)根据不同年龄段学生身心发展特点，小学生每天睡眠时间应达到10小时。你对睡眠时间没有达到10小时的同学有什么建议？",
+    "options": null,
+    "answer": "(1)25%；(2)125人；(3)养成良好的睡眠习惯，早睡早起，每天保证睡眠时间达到10小时。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "睡眠时间扇形统计图分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24594402_018",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "(传统文化 《西游记》)悟空探得师父与八戒暂无性命之忧，便赶往南海请观音菩萨搭救。菩萨知三昧真火厉害，非凡水能灭，于是取出宝珠净瓶往海里一抛，这一时间，转过三江五湖、八海四渎、溪源潭洞之间，共借一瓶于其中。假设江水占8000吨，河水占2000吨，湖水占4000吨，海水占10000吨。先算一算，再在图中画出净瓶水源扇形统计图。",
+    "options": null,
+    "answer": "共24000吨；江33.3%，河8.3%，湖16.7%，海41.7%",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三借水问题扇形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_26486142_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "大豆中含有丰富的膳食纤维、蛋白质、脂肪等营养成分。为了能清楚、直观地表示出各营养成分与总数量之间的关系，选择哪种表达方式更为合适？（ ）",
+    "options": [
+      "统计表",
+      "条形统计图",
+      "折线统计图",
+      "扇形统计图"
+    ],
+    "answer": "3",
+    "explanation": "扇形统计图表示各部分数量与总数之间的关系。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "各部分与总量关系用扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 扇形统计图",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5688526_001",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "常用的统计图有(   )统计图、(   )统计图、(   )统计图。",
+    "options": null,
+    "answer": "条形 折线 扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三种统计图名称",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5688526_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果要表示各部分数量同总数之间的关系,可以用(   )统计图表示。",
+    "options": null,
+    "answer": "扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "部分与整体关系用扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5688526_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "要反映小明家上个月各项支出占他家总支出的情况,可选用(   )统计图。",
+    "options": null,
+    "answer": "扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "各项占比用扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5688526_004",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "右图是一件毛衣各种成分含量的统计图,根据右图回答问题。①棉的含量占这件衣服的(  )%。②(  )的含量最多,(  )的含量最少。③兔毛含量比涤纶少占(  )%。④这件毛衣重400 g,羊毛有(  )g,兔毛有(  )g。",
+    "options": null,
+    "answer": "①7 ②羊毛 棉 ③17 ④240 32",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图读图与计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5688526_007",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "聪聪家2015年11月支出情况统计如下图。聪聪家2015年11月的总支出是3600元。①这个月哪项支出最多?支出了多少元?②文化教育支出了多少元?购买衣物支出了多少元?买衣物的支出比文化教育的支出少百分之几?",
+    "options": null,
+    "answer": "①伙食支出最多 1260元 ②文化教育900元 衣物720元 ③少20%",
+    "explanation": "3600×35%=1260(元);3600×25%=900(元);3600×20%=720(元);(25%-20%)÷25%=20%",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图结合百分数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_18676507_017",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "图书室共有图书2000本，各类图书占图书总数的百分比如图。（1）文学类和科普类各有多少本？（2）文学类比科普类多多少本？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676507.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）数与代数精品第1课时同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求各部分量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:25.334852"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_26464883_010",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是学校六年级同学参加书法、合唱、体育、美术四个兴趣小组人数情况的统计图。美术组的人数是书法组的；人数最多的是合唱组。（1）根据信息，将扇形和图例补充完整。（2）如果书法组的人数比体育组多20人，四个兴趣小组一共有多少人？",
+    "options": null,
+    "answer": "（1）见解析（2）200人",
+    "explanation": "【分析】本题主要考察扇形统计图的解读与补充、百分数的应用，以及利用\"部分量÷对应百分比=总量\"的关系解决实际问题的能力。（1）先根据\"美术组人数是书法组的1/2\"算出美术组占比为15%，再结合\"人数最多的是合唱组\"，用100%减去美术、体育、书法组的占比，得出合唱组占比为35%，最后将各百分比与图例一一对应，完成扇形图和图例的补充。（2）先算出书法组与体育组的百分比差为30%-20%=10%，再用已知的人数差20人除以这个百分比差，即可求出四个兴趣小组的总人数为200人。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图+按比例分配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_23518744_024",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "\"双减\"政策实施后，某校的课后托管服务工作开展得有声有色。该校教导主任根据学生选择的课后服务项目情况(每人只选一个项目)，绘成了如下两幅不完整的统计图。请根据下图中的信息回答问题。(1)这个学校一共有多少名学生？(2)将条形统计图和扇形统计图补充完整。(3)该校参加艺术类项目的人数比参加体育类的多百分之几？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形与扇形统计图综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24875938_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在\"变沙漠为良田\"的改造工程中，一块沙漠上种植了如下图的三种农作物，其中玉米占总面积的____ %;如果种植的花生面积为600平方米，则这块地的总面积为_____平方米。",
+    "options": null,
+    "answer": "20;2000",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图求占比及总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_24875938_023",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "为了弘扬中华传统文化，学校开展民族乐器兴趣小组。如图是六年级同学参加民族乐器兴趣小组的情况统计图。(每人都参加且只能参加一个小组)(1)参加二胡小组的人数占参加民族乐器兴趣小组总人数的_____%。(2)参加_____小组和______小组的人数之和超过所有小组总人数的一半。(3)若参加琵琶小组的有24人，则参加古筝小组的人数比古琴小组的多多少人",
+    "options": null,
+    "answer": "(1)15 (2)古琴;古筝 (3)6人",
+    "explanation": "24÷20%=120人,120×30%-120×25%=6(人)",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图读图计算百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_21cnjy_23126114_013",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列信息资料中适合用扇形统计图表示的是（　　）",
+    "options": [
+      "学校各年级的学生人数",
+      "某地区5月份气温变化情况",
+      "参加各项运动人数占总人数的百分比情况",
+      "某同学小学阶段视力变化情况"
+    ],
+    "answer": "2",
+    "explanation": "学校各年级的学生人数适合用条形统计图；某地区5月份气温变化情况适合用折线统计图；参加各项运动人数占总人数的百分比情况适合用扇形统计图；某同学小学阶段视力变化情况适合用折线统计图。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图表示百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 参加各项运动人数占总人数的百分比情况",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5596900_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "从下面的统计图中可以看出小熊猫有（    ）只",
+    "options": [
+      "14",
+      "13",
+      "12"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图读取数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 14",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_5596900_004",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面是某年级（二）班同学对水果的爱好情况统计表。爱好（  ）的人最多，爱好（   ）的人最少。",
+    "options": [
+      "苹果、香蕉",
+      "梨、香蕉",
+      "苹果、梨"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "统计图表比较多少",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 苹果、梨",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_001",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下面分别是关于四（3）班学生的综合等级评定情况统计表和统计图，但由于沾上污渍使成绩优秀的数据看不清楚，只知道等级评定为\"优\"的女生比男生多2人。根据所给的信息可以知道，四（3）班一共有_____人得了\"优\"，其中女生有_____人。",
+    "options": null,
+    "answer": "14；8",
+    "explanation": "总人数：（2＋1）÷6%＝50（人）；得优的人数和：50﹣12﹣9﹣6﹣6﹣2﹣1＝14（人）；其中女生：（14＋2）÷2＝8（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图还原部分数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_002",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图是\"希望小学红领巾广播站本学期每周播出各类节目时间所占百分比统计图\"，每周播音120分。（1）\"校园快讯\"每周播出48分钟，占每周播音时间的________%。（2）\"音乐欣赏\"每周播出________分。（3）\"国际大事\"每周播出时间占总播音时间的________%。",
+    "options": null,
+    "answer": "40；18；20",
+    "explanation": "（1）48÷120＝40%；（2）120×15%＝18（分）；（3）1－（40%＋15%＋25%）＝20%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图各部分百分比计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_003",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "六（1）班参加体育运动情况统计图（如图所示）。踢足球的比打篮球的同学多1人。打篮球的同学有________人。",
+    "options": null,
+    "answer": "10",
+    "explanation": "1÷（22%－20%）×20%＝1÷0.02×0.2＝50×0.2＝10（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形统计图结合人数求总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_021",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "为了清楚地表示出男生、女生占全校学生总数的百分比，应绘制（　）统计图。",
+    "options": [
+      "条形",
+      "折线",
+      "扇形"
+    ],
+    "answer": "2",
+    "explanation": "扇形统计图能反映部分与整体的关系。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百分比构成选扇形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 扇形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_022",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是五（1）班期末考试成绩统计图，下面说法错误的是（　）。",
+    "options": [
+      "良好占的百分比是40%",
+      "五（1）及格人数最少",
+      "得优秀的人数比得良好的人数少10%"
+    ],
+    "answer": "1",
+    "explanation": "良好占的百分比为：1－25%－5%－30%＝40%，A、C正确，不及格人数最少，所以B错误。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读扇形图分析百分比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 五（1）及格人数最少",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_023",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某公司有员工700人，元旦要举行活动，如图是分别参加活动的人数的百分比，规定每人只允许参加一项且每人均参加，则不下围棋的人共有（　）",
+    "options": [
+      "259人",
+      "441人",
+      "350人"
+    ],
+    "answer": "1",
+    "explanation": "700－700×37%＝441（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由扇形百分比求人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 441人",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_025",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某市2015年11月的天气情况如图，本月晴天有（　　）天。",
+    "options": [
+      "30",
+      "20",
+      "15"
+    ],
+    "answer": "2",
+    "explanation": "30×50%＝15（天）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知百分比求具体天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 15",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_026",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "张军同学制统计图表示各年级的音乐爱好者与全校音乐爱好者人数的关系，他应该绘制（　　）统计图。",
+    "options": [
+      "条形",
+      "折线",
+      "扇形"
+    ],
+    "answer": "2",
+    "explanation": "扇形统计图能反映部分与整体的关系。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "部分与总体关系选扇形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 扇形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_027",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "学校新进一批图书，科普书占30％，连环画占40％，故事书占15％，其它是艺术类图书．试做出扇形统计图",
+    "options": null,
+    "answer": "见解析",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据百分比绘制扇形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_031",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一家动物研究所在科学实验中所使用的各种动物的百分比分布如图：（1）请找出图中每个扇形所代表的动物，并填入相应的字母。（2）若这家研究所每年用于研究的动物总数是300只，请算出每年所使用的各种动物的数量，并填在表中。",
+    "options": null,
+    "answer": "见解析",
+    "explanation": "狗：300×5%=15（只），猫：300×10%=30（只），猴子：300×15%=45（只），小鼠：300×48%=144（只），大鼠：300×20%=60（只），其它：300×2%=6（只）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图读图及求各数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_032",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "小明把2018年家里的所有支出分成\"食品、还货款、教育、服装、水电、其他\"这六类，他想制作一个一年支出的统计图，你觉得设计成什么统计图比较合适？并结合统计图的特点写出理由。",
+    "options": null,
+    "answer": "扇形统计图；因为扇形统计图可以看出各个部分数量与总数之间的百分比。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选择统计图并说明理由",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_033",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，反映某班学生在课外活动中参加各小组的情况。（整圆表示全班人数）①这是一幅(       )统计图。②参加美术小组人数占总数的(         )。③参加体育小组人数有27人，全班人数(          )人。",
+    "options": null,
+    "answer": "扇形；10%；45",
+    "explanation": "①这是一幅扇形统计图；②1－60%－30%＝10%；③27÷60%＝45（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图读图求部分和整体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k3_51jiaoxi_16423706_034",
+    "subject": "数学",
+    "kp_id": "u9.k3",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面是贝贝家上个月各种支出情况统计图。（1）服装支出占上个月总支出的      %。（2）上个月贝贝家的      支出比      支出多占总支出的12%。（3）贝贝家上个月的总支出是3000元，食品支出比水电气支出多多少元？",
+    "options": null,
+    "answer": "（1）15；（2）教育；水电气；（3）870元",
+    "explanation": "（1）1－（38%＋17%＋21%＋9%）＝15%；（2）21%－9%＝12%；（3）3000×（38%－9%）＝870（元）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图百分数综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

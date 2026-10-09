@@ -1,0 +1,2331 @@
+[
+  {
+    "qid": "数学_u3.k5_zxxk_59635418_001",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个正方形的边长增加a厘米，则它的周长增加( )厘米。",
+    "options": null,
+    "answer": "B",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59635418.html",
+      "site": "学科网",
+      "title": "第三单元《用字母表示数》(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母a表示边长增加量，通过正方形周长公式得出周长增加4a厘米",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_zxxk_59222389_002",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "一辆汽车每小时行驶____千米，____小时行驶多少千米？",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示速度×时间=路程的公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.056009"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_zxxk_59222389_003",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一个长方形的长是____厘米，宽是____厘米，面积是________平方厘米。",
+    "options": null,
+    "answer": "长×宽",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查长方形面积公式 S=长×宽，属于公式表示与应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.056009"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_zxxk_59222389_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如果用a表示正方形的边长，那么正方形的面积公式可以写成________，周长公式可以写成________。",
+    "options": null,
+    "answer": "S=a²，C=4a",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母a表示正方形边长并写出面积周长公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.056009"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_zxxk_54233227_005",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "（25-26六年级上·广东汕头·开学考试）一个正方形的边长是　　　　m，周长是(　　)m，面积是(　　)m2。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54233227.html",
+      "site": "学科网",
+      "title": "专题01 分数乘法（运算）（期中专项训练）数学青岛版六年级上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示正方形周长(4a)和面积(a²)公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.056009"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_zxxk_46494069_006",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如图，长方形的周长是____。",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示长方形周长公式 C=2(a+b)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.056009"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26520558_018",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "正方形的边长是b，它的面积是( )；当b＝25时，它的面积是( )。",
+    "options": null,
+    "answer": "b²；625",
+    "explanation": "面积=边长×边长=b×b=b²；b=25时，面积=25×25=625。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "公式S=b²及代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26430525_005",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "王浩骑自行车每分钟骑行250 米。先补全下表，再利用表中的公式计算王浩16分钟骑行多少米。速度(米/分) x 　 v；时间/分 6 m t；路程/米 　 960 S=▲",
+    "options": null,
+    "answer": "表格：速度(米/分) x 960÷m v；时间/分 6 m t；路程/米 6x 960 S=vt；王浩16分钟骑行4000米",
+    "explanation": "根据\"路程=速度×时间\"可知，速度=路程÷时间。S=vt=250×16=4000(米)。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26430525",
+      "site": "21世纪教育网",
+      "title": "【精品解析】北师大版（新教材）数学六年级上册第三单元第3课时 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示公式并代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:20.873655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26414604_001",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "回忆一下长方形和正方形的周长和面积公式。",
+    "options": null,
+    "answer": "长方形的周长＝（长＋宽）×2；长方形的面积＝长×宽；正方形的周长＝边长×4；正方形的面积＝边长×边长。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "回忆公式为字母表示铺垫",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26414604_002",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "用字母公式表示正方形的周长和面积。",
+    "options": null,
+    "answer": "C=4a，S=a²。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母写正方形公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26414604_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "试一试：用字母公式表示长方形的周长和面积。",
+    "options": null,
+    "answer": "C=2(a+b)，S=ab。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形周长面积字母公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26414604_008",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "5.填一填。（1）大正方形的周长是（ ），面积是（ ）。（2）大正方形的周长是（ ），面积是（ ）。（3）涂色部分的面积是（ ）。",
+    "options": null,
+    "answer": "（1）4a，a²；（2）4b，b²；（3）a²-b²。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26414604_010",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "7.根据右图回答问题。（1）哪一部分的面积是ac？（2）哪一部分的面积是bc？（3）整个图形的面积是多少？",
+    "options": null,
+    "answer": "（1）图中左边长方形的面积是ac。（2）图中右边长方形的面积是bc。（3）整个图形的面积是(a+b)c或ac+bc。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示组合面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_17403558_022",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "先计算，再在方格图中按要求画出图形。（每1小格的长度为1厘米）。画出一个周长是20厘米的长方形，宽是长的2/3。",
+    "options": null,
+    "answer": "长6厘米，宽4厘米，详见图",
+    "explanation": "长方形的长=(20÷2)÷(1+2/3)=10÷5/3=6厘米，宽=6×2/3=4厘米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17403558",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第三单元分数除法（知识梳理+提高训练）（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用公式求长宽后在方格画图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:24.195582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_6042285_024",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "①表中有哪两种量?②圆柱底面积是怎样随着圆柱体高的变化而变化的？③乘积实际上表示（            ）。",
+    "options": null,
+    "answer": "①表中有圆柱体底面积和圆柱体高；②高扩大，底面积缩小；③圆柱体的体积",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析两种量关系，用公式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12074406_003",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "李大伯每天都步行锻炼身体，他2/5小时走4/5千米，李大伯步行的速度是（    ）。",
+    "options": [
+      "2千米/时",
+      "1/3千米/时",
+      "3/8千米/时"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "速度公式：路程÷时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.825727"
+    },
+    "answer_text": "A. 2千米/时",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12227335_007",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在求两位数的平方时，可以用",
+    "options": [
+      "1296",
+      "2809",
+      "3136",
+      "4225"
+    ],
+    "answer": "1",
+    "explanation": "设两位数十位b个位a,通过关系列方程,求得两位数或,平方为1225或2809.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两位数平方公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 2809",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12227335_017",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一种商品每件成本a元，按成本增加标价．每件标价多少元？由于库存积压，实际按标价的九折出售，每件是盈利还是亏损？盈利或亏损多少元？",
+    "options": null,
+    "answer": "标价为元;实际计算比较,盈利元",
+    "explanation": "利用成本可得标价;利用标价九折可得售价,再与进价比较即可.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标价折扣公式列式与判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12227335_022",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "阅读下列材料，并解决相关的问题．按照一定顺序排列着的一列数称为数列，排在第一位的数称为第1项，记为，依此类推，排在第n位的数称为第n项，记为．一般地，如果一个数列从第二项起，每一项与它前一项的比等于同一个常数，那么这个数列叫做等比数列，这个常数叫做等比数列的公比，公比通常用字母q表示，如：数列1，3，9，27，为等比数列，其中，公比为则：等比数列2，4，8，的公比q为______，第4项是______．如果一个数列，，，是等比数列，且公比为q，那么根据定义可得到：所以：，，．由此可得：______用和q的代数式表示．若一等比数列的公比，第2项是10，请求它的第1项与第5项．",
+    "options": null,
+    "answer": "2;16;;第1项与第5项",
+    "explanation": "由第二项除以第一项求出公比q,确定第4项;根据定义归纳得通项公式.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母q表示公比，属等比数列公式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "难",
+        "难"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.825727"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_6609093_018",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "与1+3+5+7+9+7+5+3+1表示相同结果的算式是(　　)。",
+    "options": [
+      "5+4",
+      "5²",
+      "5²+4²",
+      "5²-4²"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "公式表示找规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 5²+4²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12021807_010",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "将正整数1至2016按一定规律排列如表：平移表中带阴影的方框，方框中三个数的和可能是(　　)",
+    "options": [
+      "2000",
+      "2019",
+      "2100",
+      "2148"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12021807.html",
+      "site": "教习网",
+      "title": "初中人教版1.4.1 有理数的乘法精品课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "表格规律用公式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:06.237671"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 2148",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_12021807_018",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "探索规律：将连续的偶2，4，6，8，…，排成如下表： (1)十字框中的五个数的和与中间的数16有什么关系？(2)设中间的数为x，用代数式表示十字框中的五个数的和；(3)若将十字框上下左右移动，可框住另外的五位数，其它五个数的和能等于2010吗？如能，写出这五位数，如不能，说明理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "(1)十字框中的五个数的和为6+14+16+18+26=80=16×5，即是16的5倍；(2)设中间的数为x，则十字框中的五个数的和为(x-10)+(x+10)+(x-2)+(x+2)+x=5x，所以五个数的和为5x；(3)假设能够框出满足条件的五个数，设中间的数为x，由(2)得5x=2010，所以x=402，但402位于第41行的第一个数，在这个数的左边没有数，所以不能框住五个数，使它们的和等于2010。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12021807.html",
+      "site": "教习网",
+      "title": "初中人教版1.4.1 有理数的乘法精品课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "探索规律用代数式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:06.237671"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26378141_030",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图想一想，可以把 9×(99+8) 这个算式转化成__________的算式计算，计算结果是__________．",
+    "options": null,
+    "answer": "9×107；963",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "乘法分配律，凑整简便计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26378141_032",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（25-26六年级下·黑龙江绥化·期中）某公园的门票价格如下：成人20元，学生10元，满40人可以购买团体票（8折），设一个旅游团共有 x 人，其中学生有 y 人．(1)用含x，y的整式表示该旅游团购买团体票应付的门票费．(2)如果该旅游团有46个成人，12个学生，那么他们购买团体票需付的门票费是多少？",
+    "options": null,
+    "answer": "(1)16(x+y)；(2)928元",
+    "explanation": "团体票8折：(x+y)×20×0.8=16(x+y)",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含x、y的整式表示团体票价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26378141_053",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（25-26七年级下·安徽安庆·期末）探索规律．乐乐在计算：(a-b)²=a²-2ab+b² 这样的算式时，他想到用\"数形结合\"的方法来探索：以算式中的两个数分别构造两个正方形，用大正方形的面积减小正方形的面积，求剩余图形的面积．他发现\"剩余图形可以转化成长方形，求它的面积可用下面的算式表示\"：①(a-b)²=a²-2ab+b²；②(a+b)²=a²+2ab+b²；③a²-b²=(a+b)(a-b)；(1)图④的阴影部分表示 a²-b²，这个阴影部分可以转化成长是_______，宽是_______的长方形；(2)根据以上规律计算：2025²-25²．",
+    "options": null,
+    "answer": "(1)(a+b)，(a-b)；(2)4080000",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "(a-b)²几何推导，面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_13449244_011",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "边长分别为a和b的两个正方形按如图的样式摆放，则图中的阴影部分的面积为 ___．",
+    "options": null,
+    "answer": "略",
+    "explanation": "图中的阴影部分的面积为＝，故答案为：",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13449244.html",
+      "site": "教习网",
+      "title": "初中数学14.2.2 完全平方公式精品随堂练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示面积并计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:44.926763"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_14914156_011",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "\"五角钱\"（猜一数学图形）(          )；这个图形的周长用字母表示(          )。",
+    "options": null,
+    "answer": "半圆；πr＋2r",
+    "explanation": "一元的一半刚好是五角，则这个图形是半圆，半圆的周长＝圆周长的一半＋一条直径，即2πr÷2＋2r＝πr＋2r。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "猜图形并用字母表示周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26520558_012",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "我国著名数学家华罗庚曾说过：\"数缺形时少直观，形少数时难入微。\"根据图中数与形之间的对应关系，1＋2＋3＋…＋9＋10＋9＋…＋3＋2＋1＝( )。",
+    "options": null,
+    "answer": "100",
+    "explanation": "1＋2＋3＋…＋n＋…＋3＋2＋1=n²，原式=10²=100。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数形结合求和公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26378141_028",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "（25-26八年级下·重庆九龙坡·期末）某学校举行青少年板球锦标赛，买回若干个相同的纸杯方便运动员饮水．如图，将纸杯整齐地叠放在一起，个纸杯的高度为，个纸杯的高度为，个纸杯的高度为，依此类推，个这样的纸杯叠放在一起的高度为（ ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "通过观察已知条件中纸杯数量与总高度的变化关系，求出每增加一个纸杯增加的高度，进而推算出8个纸杯的总高度．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示n个杯子高度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:45:01.738636"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_21030908_024",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面是一个数学小组用一根长16m的铁丝围成图形的情况记录。\n图形 | 周长/dm | 长/dm | 宽/dm | 面积/dm²\n长方形 | 16 | 7 | 1 | 7\n长方形 | 16 | 6 | 2 | 12\n长方形 | 16 | 5 | 3 | 15\n长方形 | 16 | 4 | 4 | 16\n圆 | 16 | / | / | 约20.38\n①分析以上实验记录，你发现了什么？②请用上面的发现解释排水管的横截面都是圆形的。",
+    "options": null,
+    "answer": "①周长相等的长方形、正方形和圆中，圆的面积最大；②水管的截面是圆形，理由是：圆形最节省材料。",
+    "explanation": "通过观察统计表中的数据可知，长方形和圆的周长都是16分米，圆的面积最大；所用材料相同的情况下，横截面是圆形，面积最大，供水流量最大；或者流量一定，圆形最省材料。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长固定，长宽变化，用字母发现规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_16860526_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一幢7层的楼房共有楼梯132级，园园家住在4层，她从1层到4层共要走多少级楼梯？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用公式表示规律求楼梯级数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_10948107_006",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "上级规定上午9点应把传令售从军营交到指挥部。一通讯兵如果每分钟走到100米可提早10分钟到达，如果每分钟走80米，可提早6分钟到达。求这个通讯兵在路上应用多长时间？他几点从军营出发刚好9点到达？军营离指挥部有多远？",
+    "options": null,
+    "answer": "这个通讯兵在路上应用26分，他8点34分从军营出发刚好9点到达，军营离指挥部有1600米。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10948107",
+      "site": "21世纪教育网",
+      "title": "doc 10948107",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列方程求速度时间距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:04.975846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_10948107_015",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲、乙、丙三个修路队共同修完一条公路，下面是三位队长的一段对话，请根据这段对话算一算，这条公路一共长多少米？甲队长：我们队修了这条公路长度的一半。乙队长：我们队修了120米。丙队长：我们队修了全长的。",
+    "options": null,
+    "answer": "600米",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10948107",
+      "site": "21世纪教育网",
+      "title": "doc 10948107",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母公式列方程求全长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:04.975846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u1.k5_21cnjy_10544096_048"
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_10948107_019",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲乙两人骑自行车同时从相距63千米的两地相向而行，2小时相遇，已知乙每小时行驶15千米，求甲每小时行多少千米？",
+    "options": null,
+    "answer": "16.5千米",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10948107",
+      "site": "21世纪教育网",
+      "title": "doc 10948107",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "相遇问题列方程求速度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:04.975846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u1.k6_21cnjy_10948107_019"
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_10948107_020",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "1、4、7、10、13、…这个数列中，有6个连续数字的和是159，那么这6个数中最小的是几？",
+    "options": null,
+    "answer": "19",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10948107",
+      "site": "21世纪教育网",
+      "title": "doc 10948107",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等差数列用字母表示求项",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:32:04.975846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u3.k1_21cnjy_10948107_020"
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26306388_022",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2022年十一国庆期间，商场打出促销广告，如下表所示：一次性购物不超过200元——没有优惠；一次性购物超过200元但不超过600元——全部按九折优惠；一次性购物超过600元——其中600元仍按九折优惠，超过600元部分按八折优惠。用代数式表示（所填结果需化简）：（1）设一次性购买的物品原价为x元，当原价x超过200元，但不超过600元时，实际付款为　　元；当原价x超过600元时，实际付款为　　元．（2）若乙分两次购物，第一次花费189元，第二次花费580元，则两次购物的总原价为多少元？若合并成一次购买，比分两次购买便宜多少元？",
+    "options": null,
+    "answer": "（1），；（2）当两次购物的总原价为839元时，合并成一次购买，比分两次购买便宜37.8元；当两次购物的总原价为860元，合并成一次购买，比分两次购买便宜21元．",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26306388",
+      "site": "21世纪教育网",
+      "title": "doc 26306388",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母公式表示分段计价数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:51.443940"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26306388_023",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明去文具用品商店给同学买某品牌水性笔，已知甲、乙两商店都有该品牌的水性笔，标价都是2元/支，但甲、乙两商店的优惠条件却不同.甲商店：若购买不超过10支，则按标价付款；若一次购10支以上，则超过10支的部分按标价的60%付款.乙商店：按标价的80%付款.在水性笔的质量等因素相同的条件下：(1)设小明要购买的该品牌笔数是x(x>10)支，则甲商店购买水性笔的费用为　　元；乙商店购买水性笔的费用为　　元；(用含x的代数式表示，并化简.)(2)若小明要购买该品牌笔30支，你认为在甲、乙两商店中，到哪个商店购买比较省钱？说明理由.",
+    "options": null,
+    "answer": "（1），；（2）当x=30时，甲商店的费用为44元，乙商店的费用为48元，44＜48，所以到甲商店购买比较省钱",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26306388",
+      "site": "21世纪教育网",
+      "title": "doc 26306388",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示两种商店优惠方案",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:51.443940"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26031023_020",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个长方形按2：1放大后，它的周长和面积都扩大为原来的2倍。（　　）",
+    "options": null,
+    "answer": "错误",
+    "explanation": "一个长方形按2：1放大后，周长放大2倍，面积放大4倍。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "放大后周长面积变化倍数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_21882296_006",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在括号里填上适当的数。 m²＝( )dm²   时＝( )分   m³ ＝( )dm³",
+    "options": null,
+    "answer": "60  45  650",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单位换算公式表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_17786043_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "正方形的边长是xcm，它的周长是(      )cm，面积是(      )cm²。",
+    "options": null,
+    "answer": "4x；x²",
+    "explanation": "正方形的周长＝边长×4＝4x厘米；面积＝边长×边长＝x²平方厘米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17786043",
+      "site": "21世纪教育网",
+      "title": "doc 17786043",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母公式表示周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:01.477186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26563917_006",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面四个整式中，表示图中阴影部分面积的是（   ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "图中阴影部分面积是，故选B．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563917",
+      "site": "21世纪教育网",
+      "title": "doc 26563917",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:31.761566"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26563917_014",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一棵树高h（m）与生长时间n（年）之间满足一定的关系，根据表格数据写出h（m）与n（年）之间的关系式．\nn（年）：2 4 6 8 10\nh（m）：2.6 3.2 3.8 4.4 5.0",
+    "options": null,
+    "answer": "h=0.3n+2",
+    "explanation": "每生长一年长高0.3m，h＝0.3n+2．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563917",
+      "site": "21世纪教育网",
+      "title": "doc 26563917",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由数据写公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:31.761566"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_21cnjy_26592598_006",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个长方形的长为m米，宽为n米，这个长方形的周长是(      )米，面积是(      )平方米。",
+    "options": null,
+    "answer": "2（m＋n）；mn",
+    "explanation": "长方形的周长＝（长＋宽）×2；长方形的面积公式是：面积＝长×宽；数字和字母、字母和字母相乘时可以省略乘号。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26592598",
+      "site": "21世纪教育网",
+      "title": "doc 26592598",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示长方形周长面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:48:19.424060"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_5639965_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "已知b是a的10倍,c是b的5倍,d是c的2倍,你会求d+2c+3b是a的多少倍吗?",
+    "options": null,
+    "answer": "是a的230倍",
+    "explanation": "b=10a, c=5b=50a, d=2c=100a, d+2c+3b=100a+100a+30a=230a, 230a÷a=230",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5639965.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母倍数关系表示求倍数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:01:03.398576"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_001",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用字母表示加法交换律：__________",
+    "options": null,
+    "answer": "a+b=b+a",
+    "explanation": "加法交换律：两个数相加，交换加数的位置，和不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示运算定律，属于公式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_002",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用字母表示乘法分配律：__________",
+    "options": null,
+    "answer": "(a+b)c=ac+bc",
+    "explanation": "乘法分配律：两个数的和与一个数相乘，可以先把它们分别与这个数相乘，再相加。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示乘法分配律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_003",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "长方形的周长公式是__________，面积公式是__________。",
+    "options": null,
+    "answer": "C=2(a+b)；S=ab",
+    "explanation": "长方形周长=(长+宽)×2，面积=长×宽。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母公式表示周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_004",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "正方形的周长公式是__________，面积公式是__________。",
+    "options": null,
+    "answer": "C=4a；S=a²",
+    "explanation": "正方形周长=边长×4，面积=边长×边长。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母公式表示周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_005",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "路程、速度、时间的关系是__________。",
+    "options": null,
+    "answer": "s=vt",
+    "explanation": "路程=速度×时间。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示路程速度时间关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_013",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中，能正确表示乘法分配律的是（  ）",
+    "options": [
+      "(ab)c=a(bc)",
+      "(a+b)c=ac+bc",
+      "ab=ba",
+      "a+b=b+a"
+    ],
+    "answer": "1",
+    "explanation": "(a+b)c=ac+bc是乘法分配律。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析运算定律的字母表达式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. (a+b)c=ac+bc",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_023",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个平行四边形的底是12厘米，高是8厘米，面积是多少平方厘米？",
+    "options": null,
+    "answer": "12×8=96（平方厘米）",
+    "explanation": "平行四边形面积=底×高=12×8=96平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用公式S=底×高求平行四边形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k5_51jiaoxi_18589531_026",
+    "subject": "数学",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一块平行四边形菜地，底是20米，高是15米。如果每平方米种白菜8棵，这块菜地一共可以种多少棵白菜？",
+    "options": null,
+    "answer": "平行四边形面积：20×15=300（平方米）；白菜棵数：300×8=2400（棵）",
+    "explanation": "先求平行四边形面积=20×15=300平方米，再乘以每平方米种白菜棵数8，得2400棵。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行四边形面积公式的实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

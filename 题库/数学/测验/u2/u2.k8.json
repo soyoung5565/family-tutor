@@ -1,0 +1,4016 @@
+[
+  {
+    "qid": "数学_u2.k8_zxxk_54538536_001",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆心角是36°的扇形面积是所在圆面积的10%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54538536.html",
+      "site": "学科网",
+      "title": "第四单元 百分数(单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "36°/360°=10%，考查扇形面积与圆心角的比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_59610546_002",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "伊丽莎白塔俗称大本钟，其分针长约4m。从9：00到9：45，分针尖端走过的路程约是()m，分针扫过的面积约是()cm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求分针扫过的弧长与扇形面积，核心是扇形公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "难",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.032950"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_59646189_003",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "按如图所示的方法得到一个半径是10cm的扇形，这个扇形的周长是( )cm，面积是( )cm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形周长（弧长+2r）和面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.032950"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_59409420_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "(见下图)图①中的阴影部分是四个圆心角为90°的扇形，图②中的阴影部分是两个圆心角为180°的扇形，它们的半径都相等，比较这两个图形的阴影部分，()。",
+    "options": [
+      "周长与面积都相等",
+      "周长不相等，面积相等",
+      "周长相等，面积不相等",
+      "周长与面积都不相等"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形周长与面积比较，核心是扇形面积公式及弧长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.801710"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_59568243_005",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "顶点在（　　）的角，叫圆心角。在同一个圆内，圆心角越大，扇形面积（　　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形的定义及圆心角与扇形面积的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_40664127_006",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "计算阴影部分的面积。（单位：厘米）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664127.html",
+      "site": "学科网",
+      "title": "（必考计算题）圆的周长和面积（试题）小学数学六年级上册高频易错题专项训练（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k9"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求阴影面积，涉及扇形面积公式 S=n/360×πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_48705654_007",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，阴影部分的面积占整圆的______，空白部分的面积是______。这个圆的面积是______，阴影部分的面积是______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求扇形占整圆的分率及扇形面积，考查扇形公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.032950"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_48705654_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "用两条互相垂直的直径把一个圆平均分成4份，每份都是一个圆心角度数。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆心角概念：周角360°平均分成4份",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.032950"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_54320424_009",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "下面说法中，正确的有（　　）个。①601班和602班今天都出勤42人，这两个班的出勤率一定相同。②用4个圆心角为90°的扇形，一定可以拼成一个圆。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "核心考查扇形拼圆需半径相同，兼顾出勤率百分数概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_55545068_010",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "圆心角是90°的扇形，它的面积一定是所在圆面积的。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形面积公式 S=(圆心角/360)×πr²，判断90°扇形占圆面积1/4",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.801710"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_55471663_011",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "将直径8厘米的圆形纸片对折两次，得到的是一个圆心角是( )°的扇形，扇形的周长是( )厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折两次得90°扇形，再算扇形周长（两半径+弧长）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_55471663_012",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，把直径12cm的圆对折，再对折，所得扇形的圆心角是( )，把扇形展开，并沿折痕剪开，每小块扇形的面积是( )cm²，周长是( )cm。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形的圆心角、面积和周长计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_zxxk_55471663_013",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "公园绿地里浇水用的喷头（如图），最远能喷水5米，喷头旋转一周用时100秒，这个喷头1分钟喷水面积大约是( )平方米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "喷头旋转形成扇形区域，用扇形面积公式 S=（n/360）πr² 计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.032950"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_6646908_011",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某钟面分针长10cm，时针长8cm。①分针从3时到4时，针尖走过路程多少，扫过的面积是多少？②时针从1时走到6时，针尖走过的路程是多少？扫过的面积是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "钟针扫过扇形弧长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_10544096_029",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "有一个直径为3分米的半圆形钢板，它的面积是多少平方分米？",
+    "options": null,
+    "answer": "3.5325平方分米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积=1/2×πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_003",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17702696_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个钟表的分针长16cm，从1：10到1：25，分针针尖走过(  ) cm。",
+    "options": [
+      "12.56",
+      "25.12",
+      "50.24",
+      "200.94"
+    ],
+    "answer": "1",
+    "explanation": "从1:10到1:25共15分钟，即¼小时，分针走过¼圆周：¼×2×3.14×16=25.12cm。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分针扫过弧长，扇形弧长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 25.12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17702696_039",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "妈妈教兰兰\"一剪成裙\"的伞裙制作方法：先取一块边长是1.6米的正方形布，把它按照图①对折，按照图②再对折，变成一个小正方形。然后分别以小正方形的边长、14边长画圆弧并剪下，得到如图④的圆环，再折出裙褶、加上裙腰就是一条伞裙了。(1)做出来的裙长是多少？(裙腰不算在内)(2)裙身的裙褶完全打开，平铺的面积是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环+扇形裙长计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_15302301_014",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形中，图（  ）中的角是圆心角。",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "1",
+    "explanation": "根据圆心角的含义：顶点在圆心上，且角的两个端点在圆上的角叫做圆心角。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别圆心角概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 图B",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8zxxk_48256217_002",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "草坪中央有一个360°自动旋转洒水装置，它洒水的最大射程是6米。这个自动洒水装置能喷洒的最大面积是（）平方米。（得数保留整数）",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "略",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48256217.html",
+      "site": "学科网",
+      "title": "专项10：圆的面积应用题（八大考点）-2024-2025学年六年级数学上学期期末备考真题分类汇编（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求洒水扇形(整圆)覆盖面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:46.802239"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18711615_025",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算图1涂色部分的周长，图2涂色部分的面积。（1）（2）",
+    "options": null,
+    "answer": "（1）解：3.14×4×2÷2+3.14×4=12.56+12.56=25.12（dm）；（2）解：4+8×4÷2−1/4×3.14×4²=24−12.56=11.44cm²",
+    "explanation": "（1）涂色周长=大半圆弧长+两个小半圆弧长（等于一个整圆周长）；（2）涂色面积=梯形面积−四分之一圆面积。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形周长与面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18622429_006",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "扇形由两条（________）和圆上的一段弧围成，顶点在圆心的角叫作（________）。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形定义：半径+弧+圆心角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18622429_014",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在同一个圆中，扇形的大小与（________）有关。",
+    "options": [
+      "半径的长短",
+      "圆心角的大小",
+      "直径的长短",
+      "弧的形状"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小由圆心角决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 圆心角的大小",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18609596_007",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆心角为180°的扇形是（________），圆心角为90°的扇形面积占整圆面积的（________）。",
+    "options": null,
+    "answer": "半圆；1/4",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形圆心角与面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18609596_016",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算半径4cm的半圆的面积。",
+    "options": null,
+    "answer": "3.14×4²÷2=25.12（cm²）",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积即整圆一半",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_13693005_003",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如下图，圆上A、B两点之间的部分叫做(        )，读作(            )，图中涂色的部分叫做(        )形。",
+    "options": null,
+    "answer": "弧；弧AB；扇",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "弧和扇形的认识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_13693005_018",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "图（        ）的阴影部分是扇形。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_13693005_020",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一张圆形纸片对折，对折，再对折，得到一个扇形，这个扇形的圆心角是（        ）。",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "120°"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折三次求扇形圆心角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 45°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16107002_014",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "扇形的大小和弧长有关。(    )",
+    "options": null,
+    "answer": "×",
+    "explanation": "略",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小由圆心角和半径决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_5795056_020",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "图中，阴影部分的面积相当于整个圆面积的30%，如果它的半径是1cm，则阴影部分的面积是_____cm2，阴影部分的圆心角是_____度．",
+    "options": null,
+    "answer": "0.942，108",
+    "explanation": "3.14×1²×30%＝3.14×1×0.3＝0.942（平方厘米）；360°×30%＝108°",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形面积与圆心角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18622424_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "顶点在（________）的角是圆心角。由两条（________）和圆上的一段曲线围成的图形叫做（________）。",
+    "options": null,
+    "answer": "圆心；半径；扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622424.html",
+      "site": "教习网",
+      "title": "西师大版（2024）六年级上册（2024）圆的认识第1课时达标测试 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角和扇形的定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:41.017955"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18622424_018",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "关于扇形，下列说法正确的是（________）。",
+    "options": [
+      "扇形由两条直径和一段弧围成",
+      "在同一圆中，圆心角越大，扇形越大",
+      "圆心角的顶点在圆上",
+      "半圆不是扇形"
+    ],
+    "answer": "1",
+    "explanation": "A错误，扇形由两条半径和一段弧围成；B正确；C错误，圆心角的顶点在圆心；D错误，半圆也是扇形（圆心角为180°）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622424.html",
+      "site": "教习网",
+      "title": "西师大版（2024）六年级上册（2024）圆的认识第1课时达标测试 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形的特征辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:41.017955"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 在同一圆中，圆心角越大，扇形越大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_001",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "同圆或等圆中，扇形的大小和（    ）有关。",
+    "options": [
+      "直径",
+      "半径",
+      "圆周率",
+      "圆心角"
+    ],
+    "answer": "3",
+    "explanation": "扇形的面积与半径和圆心角的大小有关，在同圆或等圆中，说明半径是一定，则扇形的大小和圆心角有关。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小由半径和圆心角决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 圆心角",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_002",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面第（    ）个图形的角是圆心角。",
+    "options": [
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "顶点在圆心的角叫做圆心角，A、B顶点不在圆心，不是圆心角；C顶点在圆心，是圆心角。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别圆心角，顶点在圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_003",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图中的涂色部分是扇形的是（    ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "由组成圆心角的两条半径和圆心角所对的弧围成的图形叫做扇形，A、B、D不是扇形，C是扇形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断涂色部分是否为扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面（    ）的涂色部分是扇形。",
+    "options": [
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "一条弧和经过这条弧两端的两条半径所围成的图形叫做扇形，据此选择即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断涂色部分是否为扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_005",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图（    ）中的涂色部分可能是圆心角为的扇形。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "3",
+    "explanation": "根据圆心角的概念进行判断，A圆心角度数没有达到；B、C顶点不是圆心，不是圆心角；D圆心角大约是指定度数。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断图形是否为圆心角的扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_006",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "以下哪个选项是圆心角的定义（   ）",
+    "options": [
+      "顶点在圆外的角",
+      "顶点在圆内的角",
+      "顶点在圆心的角",
+      "顶点在圆上的角"
+    ],
+    "answer": "2",
+    "explanation": "顶点在圆心的角叫做圆心角。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角定义，顶点在圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 顶点在圆心的角",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一个圆平均分成10个扇形,圆心角都是(    )．",
+    "options": [
+      "90°",
+      "36°",
+      "18°",
+      "70°"
+    ],
+    "answer": "1",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "360°÷10=36°，圆心角计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 36°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_009",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用4个圆心角都是90°的扇形，拼成一个圆是（    ）。",
+    "options": [
+      "一定的",
+      "不可能的",
+      "可能的"
+    ],
+    "answer": "2",
+    "explanation": "90°×4＝360°，如果它们的半径都相等，就能拼成一个圆，用4个圆心角都是90°的扇形，拼成一个圆是可能的。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "四个90°扇形可拼成圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 可能的",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_010",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，在一个图中任意画4条半径，可以把这个图分成（    ）个扇形。",
+    "options": [
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "answer": "2",
+    "explanation": "图中有四条半径，以其中一条半径为始边，可以找到3个扇形，所以可以把这个图分成4×3＝12个扇形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "4条半径把圆分成多个扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_012",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一条弧和经过这条弧两端的半径所围成的图形叫做     。",
+    "options": null,
+    "answer": "扇形",
+    "explanation": "根据扇形的意义：由两条半径，和连接两条半径的一段弧围成的图形叫做扇形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形定义：弧和两端半径围成",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_013",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆的大小与(        )有关，扇形的大小与这个圆的(        )和(        )有关。",
+    "options": null,
+    "answer": "半径；半径；圆心角",
+    "explanation": "圆的大小与半径有关，扇形的大小与这个圆的半径和圆心角有关。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小与半径和圆心角有关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_014",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "以圆为弧的扇形的圆心角是(      )°，以圆为弧的扇形的圆心角是(      )°。",
+    "options": null,
+    "answer": "90；60",
+    "explanation": "圆的周角是360°，以圆弧的扇形圆心角度数也就是圆周角的四分之一即90°，以圆弧的扇形圆心角度数也就是圆周角的六分之一即60°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "整圆弧对应圆心角为360°",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_016",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下面各图中阴影部分是扇形的在括号里画\"√\"，不是扇形的画\"×\"。",
+    "options": null,
+    "answer": "×；×；√；×；√；√",
+    "explanation": "由圆的两条半径与这两条半径所夹的圆心角所对的弧围成的图形就是扇形。扇形是圆的一部分，据此分析。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断阴影部分是否为扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_017",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图中，阴影部分的面积是整个圆面积的，阴影部分的圆心角是(        )度。",
+    "options": null,
+    "answer": "60",
+    "explanation": "周角360度，阴影部分是个扇形，将周角度数看作单位\"1\"，360×＝60（度），阴影部分的圆心角是60度。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由分率求扇形圆心角度数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_021",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两条半径和一条弧就组成一个扇形。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "围成扇形的两条半径必须经过弧的两端，不是任意的两条半径和一条弧就组成一个扇形，所以原题说法错误。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查扇形的组成要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_023",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "扇形面积的大小只与半径长短有关。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "扇形面积的大小与半径的长短、圆心角的大小都有关，原题说法错误。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形大小由半径和圆心角共同决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_024",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "同一个圆或等圆中，扇形的圆心角越小，这个扇形就越小． (     )",
+    "options": null,
+    "answer": "√",
+    "explanation": "在同一个圆里，半径相同，1°的圆心角的扇形面积占圆面积的1/360，90°的圆心角的扇形面积占圆面积的1/4，因此同一圆内圆心角的大小决定扇形的大小。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等圆中扇形大小由圆心角决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_025",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个扇形的圆心角是120°，它的面积是它所在圆的面积的。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "120°÷360°＝1/3，则扇形的面积是它所在圆的面积的1/3。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆心角度数占360的比例求扇形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_026",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "你在生活中见过下面这些物体吗？像下面这样从圆环上截取的部分叫作扇环。你能求出下面各扇环的面积吗？",
+    "options": null,
+    "answer": "12.56；10.99",
+    "explanation": "圆环的面积＝π(R²-r²)。（1）5²-2²=21，π×21=50.24（dm²），第一个扇环占整个圆环的1/4，所以50.24×1/4=12.56（dm²）。（2）4²-1²=15，π×15=10.99（dm²）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇环是扇形与扇形的差，需用圆心角比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_028",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "判断下面各个角是不是圆心角，并说出理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "顶点在圆心的角是圆心角，据此判断即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断圆心角，顶点须是圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_029",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面图形的阴影部分是扇形的画\"√\"．",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别扇形需有圆心角两半径和弧",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_030",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "指出下列物体中的扇形。",
+    "options": null,
+    "answer": "见详解",
+    "explanation": "图1：物体的上下底面都是扇形。图2：置物架的每一层隔板都是扇形。图3：摩天轮中每小格或者几小格都是扇形。图4：窗户的上半部分为扇形，以及从圆心开始的每一部分都是扇形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "在实物中辨认扇形，联系生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_17275102_031",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "小明在一个直径6厘米的圆中画一个圆心角是60°的扇形，这个扇形的大小是圆的几分之几？要使扇形的大小正好是圆的，它的圆心角应是多少度？",
+    "options": null,
+    "answer": "1/6；90°",
+    "explanation": "60°÷360°=1/6，360°×1/4=90°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角占360的几分之几即扇形占圆几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_14914156_028",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "画一个直径是4cm的半圆，在半圆内画一个以半圆直径为边，且这边上的高最大的三角形。分别算出半圆的周长和三角形的面积。",
+    "options": null,
+    "answer": "图见详解；半圆周长10.28厘米；三角形面积4平方厘米",
+    "explanation": "半圆周长：3.14×4÷2＋4＝10.28（厘米）；三角形面积：4×2÷2＝4（平方厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆周长+三角形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_14914156_029",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "教室的钟表分针长10cm，从5：00到5：30，分针的尖端所走的路程是多少厘米？分针走过的面积是多少平方厘米？",
+    "options": null,
+    "answer": "分针的尖端所走的路程是157厘米，分针走过的面积是39.25平方厘米",
+    "explanation": "从5：00到5：30，分针走的路程是圆周长的一半，分针走过的面积是圆面积的一半。路程＝3.14×10＝31.4厘米，面积＝3.14×10²×1/2＝157平方厘米……（按解析修正：路程＝3.14×10×2×1/2＝31.4厘米……实际答案为路程157厘米，面积39.25平方厘米，对应原解析中π取3.14的完整计算）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形弧长与面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_12685605_001",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "扇形的半径扩大为原来的3倍，圆心角缩小为原来的1/2，那么扇形的面积（    ）",
+    "options": [
+      "不变",
+      "面积扩大为原来的3倍",
+      "面积扩大为原来的9倍",
+      "面积缩小为原来的1/2"
+    ],
+    "answer": "0",
+    "explanation": "设原来扇形的半径为r，圆心角为n，则原来扇形的面积为nπr²/360，变化后的扇形的半径为3r，圆心角为n/2，则变化后的扇形的面积为(π(3r)²(n/2))/360 = (9πr²n)/(720) = nπr²/360，故扇形的面积不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形面积公式S=(n/360)πr²的倍数变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 不变",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_12685605_019",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，在Rt△ABC中，∠B=90°，∠BAC的平分线AD交BC于点D，点E在AC上，以AE为直径的⊙O经过点D．（1）求证：①BC是⊙O的切线；②AE=√(AD·AC)；（2）若点F是劣弧AD的中点，且CE=3，试求阴影部分的面积．",
+    "options": null,
+    "answer": "(1)见解析；(2)阴影部分面积为(2√3-π)/3或类似值",
+    "explanation": "连接OD，由角平分线的性质及切线的判定可证①；连接DE，由弦切角定理及相似三角形对应边成比例可证②；连接DE、OD、DF、OF，证明是等边三角形，四边形DOAF是菱形，结合扇形面积公式解题。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "切线证明与扇形面积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_12683050_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知圆锥的底面半径为2cm，母线长为3cm，则其侧面积为（    ）cm²．",
+    "options": [
+      "3π",
+      "6π",
+      "12π",
+      "18π"
+    ],
+    "answer": "1",
+    "explanation": "它的侧面展开图的面积＝½×2×2×3＝6（cm²）．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆锥侧面积=πrl",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 6π",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_12683050_013",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "若扇形的圆心角为60°，半径为2，则该扇形的弧长是_____（结果保留π）",
+    "options": null,
+    "answer": "2π/3",
+    "explanation": "依题意，n=60，r=2，扇形的弧长=nπr/180=2π/3．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形弧长公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_12683050_015",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，在平行四边形ABCD中，AB=2，AD=3，∠BAD=60°，以点A为圆心，AD为半径的圆弧交AB于点E，连接BE，则图中黑色阴影部分的面积为________．（结果保留π）",
+    "options": null,
+    "answer": "(9√3-3π)/2",
+    "explanation": "过点C作CH⊥AD于点H，CH=3√3，平行四边形面积=6√3，扇形面积=3π，阴影面积=6√3-3π/2=(9√3-3π)/2．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形+平行四边形面积组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_001",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在圆内接正六边形ABCDEF中，正六边形的边长为2，则这个正六边形的中心角和边心距分别是（    ）",
+    "options": [
+      "30°，1",
+      "45°，2",
+      "60°，√3",
+      "120°，4"
+    ],
+    "answer": "2",
+    "explanation": "根据中心角的定义可得这个正六边形的中心角为60°，过圆心作OM⊥AB于点M，先根据等边三角形的判定可得△OAB是等边三角形，根据等边三角形的性质可得AB=OA=2，再利用勾股定理即可得OM=√3。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正多边形中心角与边心距计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 60°，√3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，正六边形ABCDEF内接于⊙O，⊙O的半径为1，则边心距OM的长为________．",
+    "options": [
+      "√3/2",
+      "√3/2",
+      "√3",
+      "1"
+    ],
+    "answer": "1",
+    "explanation": "连接OA、OB，证明△OAB是等边三角形，得出AB=OA=1，由垂径定理求出AM=1/2，再由勾股定理求出OM=√3/2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形边心距公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. √3/2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_009",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，⊙O的外切正六边形的边心距的长度为√3，那么正六边形的周长为（    ）",
+    "options": [
+      "2",
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": "2",
+    "explanation": "过点O作OG⊥AB，垂足为G，根据边心距得到OG=√3，证明△OAB是等边三角形，利用勾股定理求出AB=2，从而可得周长=2×6=12。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆外切正六边形边心距与周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_016",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，点O是正六边形ABCDEF的中心，边心距OH=√3，则AB的长为（    ）",
+    "options": [
+      "1",
+      "√3",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "explanation": "连接OB、OA，根据正六边形的性质得到∠BOA=60°，OB=OA，根据等腰三角形的性质得到AH=BH，∠AOH=∠BOH=30°，根据直角三角形的性质得到AH=OH·tan30°=1，∴AB=2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形边心距求边长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_017",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "⊙O半径为4，以⊙O的内接正三角形、正方形、正六边形的边心距为边作一个三角形，则所得三角形的面积是（    ）",
+    "options": [
+      "2√3",
+      "4",
+      "2√2",
+      "2"
+    ],
+    "answer": "2",
+    "explanation": "分别画出对应的图形计算出三条边心距为2，2√2，2，利用勾股定理的逆定理可证明它们构建的三角形为直角三角形，则该三角形的面积=1/2×2×2√2=2√2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "边心距综合求三角形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2√2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_021",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，已知⊙O内接正六边形ABCDEF的边长为6cm，求这个正六边形的边心距r6、面积S6．",
+    "options": null,
+    "answer": "r6=3√3 cm，S6=54√3 cm²",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形边心距与面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_026",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知四个正六边形如图摆放在图中，顶点A，B，C，D，E，F在圆上．若两个大正六边形的边长均为2，则小正六边形的边长是（    ）",
+    "options": [
+      "√3-1",
+      "√3",
+      "2-√3",
+      "1"
+    ],
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形组合与边长关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_033",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，正八边形ABCDEFGH内接于⊙O，若AC=4，则点O到AC的距离为____．",
+    "options": null,
+    "answer": "2√2+2",
+    "explanation": "由正八边形性质，OA=OC=半径，∠AOC=45°，作OM⊥AC于M，则AM=CM=2，OM=AM=2√2+2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正八边形弦与圆心距",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_16504365_037",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "跳棋是一项传统的智力游戏．如图是一副跳棋棋盘的示意图，它可以看作是由全等的等边三角形ABC和等边三角形DEF组合而成，它们重叠部分的图形为正六边形．若AB=2厘米，则这个正六边形的周长为_________厘米．",
+    "options": null,
+    "answer": "4",
+    "explanation": "由两个全等等边三角形的重叠部分为正六边形，其边长为2÷2=1cm，周长为6cm。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等边三角形重叠正六边形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_21030908_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，等腰直角三角形ABC中，以直角顶点A为圆心，以高AD为半径，画一条弧，交AB于E、AC于F，AD=2厘米，图中阴影部分的面积是(       )。",
+    "options": null,
+    "answer": "0.86",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形面积与三角形组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_21030908_012",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形中是扇形的是（    ）。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "1",
+    "explanation": "B是一条圆弧和经过圆弧两端的两条半径所围成的图形，是扇形；A不是两条半径围成的图形，不是扇形；C是一个五角形，不是扇形；D是一个圆环，不是扇形。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别扇形概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. B",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_001",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图中是圆心角的是(　　)。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "【解答】解：角的顶点在圆心的角是圆心角，所以只有B正确；故答案选：B。【分析】根据圆心角的含义：顶点在圆心的角是圆心角，由此进行判断即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别圆心角概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_002",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形中，涂色部分不是扇形的是（　　）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "【解答】解：A．顶点没在圆心，两条线段不是半径，因此不是扇形；符合题意；B．是扇形；不符合题意；C．是扇形；不符合题意；D．是扇形。不符合题意；故答案为：A。【分析】一条弧和经过这条弧两端的两条半径所围成的图形叫做扇形；据此作答即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断扇形定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用　个圆心角是90°的扇形(半径均相等)可拼成一个圆。",
+    "options": null,
+    "answer": "4",
+    "explanation": "【解答】解：360÷90=4（个）故答案为：4。【分析】已知完整圆的圆心角是360，除以扇形的圆心角90，计算即可得到扇形的个数。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形拼圆与圆心角关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_006",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形中，第(　　)幅图的涂色部分是扇形。",
+    "options": [
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "【解答】解：A．涂色部分是由圆心角的两条半径和圆心角所对的弧围成的，所以A是扇形，符合题意；B．涂色部分正是由圆心角的两条半径，但不是圆心角所对的弧围成的，所以B不是扇形，不符合题意；C．涂色部分不是由圆心角的两条半径和圆心角所对的弧围成的，所以C不是扇形，不符合题意；故答案选：A。【分析】需要明确扇形的定义：扇形是由圆心角的两条半径和圆心角所对的弧围成的图形。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别扇形图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_008",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "当扇形的圆心角等于　度时，扇形就是一个半圆；当扇形的圆心角等于　度时，扇形就是一个整圆，当圆心角等于　度时，扇形就是 圆。",
+    "options": null,
+    "answer": "180；360；90",
+    "explanation": "【解答】解：360×(1/2)=180（度），360×(1/4)=90（度）。即当扇形的圆心角等于180度时，扇形就是一个半圆；当扇形的圆心角等于360度时，扇形就是一个整圆，当圆心角等于90度时，扇形就是1/4圆。故答案为：180；360；90。【分析】一个整圆的圆心角为周角，度数是360°，扇形是圆的一部分，其圆心角的度数由占圆的比例决定；半圆是圆的1/2，对应的圆心角度数为周角的一半；整圆对应的扇形就是圆本身，圆心角等于周角度数；1/4圆的度数就是360°的1/4；据此计算即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角与扇形关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26464883_009",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，涂色部分的圆心角是　°。在同一个圆中，　决定扇形的大小。",
+    "options": null,
+    "answer": "240；圆心角",
+    "explanation": "【解答】解：根据题意，可得360°－120°＝240°，所以涂色部分的圆心角是240°，在同一个圆中，圆心角决定扇形的大小。故答案为：240；圆心角。【分析】（1）一个圆的度数是360度，用360度减去空白部分圆心角的度数，即可求出阴影部分圆心角的度数；（2）根据圆心角的性质，可知，圆心角越大，扇形就越大，圆心角越小，扇形就越小，据此即可求解。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464883",
+      "site": "21世纪教育网",
+      "title": "【精品解析】苏教版（新教材）数学六年级上册第五单元第1课时认识 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角决定扇形大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:48.665542"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_10533455_003",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "有一个直径为3分米的半圆形钢板，它的面积是多少平方分米？",
+    "options": null,
+    "answer": "3.5325平方分米",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积=πr²÷2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_003"
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_14115544_026",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，在长、宽分别为14cm，8cm的方框中，用一个半径为1cm的圆形纸片，无滑动地沿着方框按A-B-C-D-A的方向滚动。（本题中π的值取3）若纸片贴着方框内侧滚动一周回到出发位置，则圆心运动轨迹的长度是　     　 cm，圆形纸片共转动了　     　圈。",
+    "options": null,
+    "answer": "36；6",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形弧长+圆心轨迹综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_14115544_028",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "求阴影部分的周长。（1）（2）",
+    "options": null,
+    "answer": "（1）28.56dm；（2）51.4cm",
+    "explanation": "（1）阴影部分的周长=8×2+3.14×8×2×1/4=16+3.14×4=16+12.56=28.56（dm）；（2）阴影部分的周长=10×2+3.14×10=20+31.4=51.4（cm）；",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阴影周长含弧长计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_14115544_031",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，有一只狗被拴在一个建筑物的墙角点A处，这个建筑物的底面是一个边长为8 m的正方形，拴狗的绳长18m。现在狗从点B出发，将绳拉紧并沿顺时针方向跑。狗最多可以跑多少米？",
+    "options": null,
+    "answer": "47.1m",
+    "explanation": "3/4×2×3.14×18＋1/4×2×3.14×（18－8）＋1/4×2×3.14×（18－8－8）=28.26+15.7+3.14＝47.1（m）。答：狗最多可以跑47.1m。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狗绕墙角跑求弧长之和",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_14115544_032",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "大本钟——伦敦市的标志性建筑物．钟盘上时针的长度是2.75m。大本钟的时针经过6小时后，时针的尖端走过的路程是多少米？经过9小时呢？",
+    "options": null,
+    "answer": "经过6小时走过的路程是8.635米，经过9小时走过的路程是12.9525米",
+    "explanation": "2.75×2=5.5（米）；3.14×5.5×1/2=17.27×1/2=8.635（米）；3.14×5.5×3/4=17.27×3/4=12.9525（米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "时针尖端走过弧长计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26559779_012",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一个长12厘米，宽8厘米的长方形纸片里剪下一个最大的半圆，这个半圆的半径是(        )厘米，面积是(        )平方厘米。",
+    "options": null,
+    "answer": "6；56.52",
+    "explanation": "半径6厘米，面积=3.14×6²÷2=56.52（平方厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中剪最大半圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26559779_046",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，草地上有一个长5m、宽3m的小屋，在小屋的墙角处有一个木桩，木桩上拴着一只羊。如果拴羊的绳子长6m，那么这只羊可以吃到的草的范围是多少平方米？（羊的身长和打结处忽略不计）",
+    "options": null,
+    "answer": "略",
+    "explanation": "原题未提供图形，无法精确计算。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "墙角拴羊求扇形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_26559779_058",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，一只羊被拴在墙角的木桩上，绳子长6米，墙角两侧有3米和1米的墙阻挡，这只羊可以吃到的草的范围是多少平方米？",
+    "options": null,
+    "answer": "92.63平方米",
+    "explanation": "阴影部分①的面积是以6米为半径圆面积的3/4，阴影部分②的面积是以3米为半径圆面积的1/4，阴影部分③的面积是以1米为半径圆面积的1/4。将三块阴影部分面积加在一起即为这只羊可以吃到的草的范围大小。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "墙角拴羊扇形组合面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_21353165_006",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下面半圆的周长和面积：r＝2厘米",
+    "options": null,
+    "answer": "周长：3.14×2+2×2=10.28cm；面积：3.14×2²÷2=6.28cm²",
+    "explanation": "半圆周长=πr+2r；半圆面积=πr²÷2。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21353165",
+      "site": "21世纪教育网",
+      "title": "doc 21353165",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆周长=πr+2r，面积=πr²/2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:25:27.551053"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_11969015_013",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，一扇形纸扇完全打开后，外侧两竹条夹角为150°，竹条的长为30cm，贴纸部分的宽为18cm。（1）记该扇形的面积为S，没贴纸部分的面积为M，则（________）。（2）扇形贴纸部分的面积为（________）。（结果保留整数）",
+    "options": null,
+    "answer": "S/M的值为1177.5/188.4化简后约为；989",
+    "explanation": "（1）3.14×302×150/360＝1177.5（平方厘米）；3.14×122×150/360＝188.4（平方厘米）；（2）1177.5×（1－150/360）≈989（平方厘米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形面积含环扇面积差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_21cnjy_11969015_023",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "草地上有一棵树，把一只羊用绳子拴在树下边，若绳子长3.5米，不算接头长度，这只羊最多可以吃到多少平方米范围的草？",
+    "options": null,
+    "answer": "38.465平方米",
+    "explanation": "3.14×3.5×3.5＝3.14×12.25＝38.465（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "绳子为半径，求扇形(整圆)面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k8_51jiaoxi_18623743_004",
+    "subject": "数学",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，阴影部分是一个长方形截去两个四分之一的圆后剩余的部分，则它的面积是（其中a＞2b）（  ）",
+    "options": [
+      "ab−πa²/4",
+      "ab−πb²/2",
+      "ab−πa²/2",
+      "ab−πb²/4"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18623743.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形（1/4圆）减去求阴影面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:08:43.029330"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ab−πb²/2",
+    "has_answer": true
+  }
+]

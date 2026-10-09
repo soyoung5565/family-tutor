@@ -1,0 +1,1043 @@
+[
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_18622445_001",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据《中国学龄儿童膳食指南(2022)》，11~13岁学生每天建议摄入蔬菜类（________）g。",
+    "options": null,
+    "answer": "400~450",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "膳食指南蔬菜摄入量属于营养食谱知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_18622445_002",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "11~13岁学生每天建议摄入畜禽肉（________）g，水产品（________）g，蛋类（________）g。",
+    "options": null,
+    "answer": "50；50；40~50",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "膳食指南动物性食物摄入量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_18622445_003",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "每天午餐只要吃饱就行，不需要考虑营养搭配。（　　）",
+    "options": null,
+    "answer": "×",
+    "explanation": "午餐不仅要吃饱，还要注意营养均衡。参照平衡膳食宝塔，午餐应包含主食、荤菜、素菜等多种食物，保证蛋白质、脂肪、碳水化合物等营养素的合理搭配。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断营养搭配重要性，属营养知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_18622445_012",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "参考11~13岁平衡膳食宝塔，为你所在的学校食堂设计一份改进后的\"一周营养午餐食谱\"（周一至周五）。要求：（1）每天至少包含主食、荤菜、素菜三类食物；（2）参照膳食宝塔建议的每日摄入量合理搭配；（3）用百分数分析其中一天的午餐营养构成；（4）简要说明设计依据。",
+    "options": null,
+    "answer": "略",
+    "explanation": "设计食谱时需参照膳食宝塔的推荐量，考虑午餐在全天营养中的占比（约13），同时保证食物多样性和荤素搭配。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合设计食谱并分析百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "难"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.743127"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_18622445_013",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "班上小华同学体型偏胖，小林同学体型偏瘦。请参考平衡膳食宝塔，分别为他们各设计一份午餐食谱，并用百分数简要分析两份食谱在蛋白质和脂肪摄入方面的差异，说明设计思路。",
+    "options": null,
+    "answer": "略",
+    "explanation": "针对不同体型设计食谱时，偏胖者控制脂肪和总热量，偏瘦者增加蛋白质和总能量。两者都应参照膳食宝塔保证基本营养均衡。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622445.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第4课时综合与实践：营养午餐讲义与练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "针对体型差异设计食谱并比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:42.370312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "难"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.743127"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_381",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列与人的生理活动有关的叙述中，错误的是：（  ）",
+    "options": [
+      "人体从食物中获得蛋白质后，在胃肠道中与水发生反应，生成氨基酸",
+      "剧烈运动时人体代谢加快．代谢产物不能及时排出，血液的pH增大",
+      "人的胃液中含有少量盐酸，可帮助消化食物",
+      "我们每天吃的米饭必须靠酶的催化作用转化成葡萄糖才能被人体吸收"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "化学营养与生理，超出数学KP范围",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 剧烈运动时人体代谢加快．代谢产物不能及时排出，血液的pH增大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_383",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "营养素包括   、   、   、   、   和   六大类。",
+    "options": null,
+    "answer": "蛋白质  糖类  油脂  维生素  无机盐  水",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "营养素六大类常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_384",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "蛋白质是构成    的基本物质，是机体   及   主要原料，是由多种    构成的极为复杂的化合物。",
+    "options": null,
+    "answer": "细胞  生长  修补受损组织  氨基酸",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "蛋白质相关营养知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_385",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "植物油呈液态，称为    ；动物油成固态，称为    。二者合称    。",
+    "options": null,
+    "answer": "油  脂肪  油脂",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "油脂分类基础知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_386",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "已知蛋白质在灼烧时有一股烧焦羽毛味。根据这一信息，请设计一个实验来鉴定小红妈妈买的一块布料是真丝还是人造丝。",
+    "options": null,
+    "answer": "各剪一小块布料，点火燃烧它们，如有烧焦羽毛气味产生，即为真丝。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "实验设计鉴别真丝与人造丝",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_387",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "随着生活水平的提高，我国肥胖特别是青少年肥胖人数不断增多。脂肪在人们心中的地位每况日下，甚至达到\"痰脂色变\"。有人不断做抽脂手术，要求医生将身体上的脂肪尽量抽尽，你认为这种行为科学吗？为什么？",
+    "options": null,
+    "answer": "不科学。脂肪是人体必需的一种营养物质，能为身体健康提供能量，在正常情况下，每日摄取50—60 g油脂，它能提供人体日需能量的20％一25％。是重要的供能物质。同时它又能促进脂溶性维生素吸收，起到保护人体内脏器官的作用。因此应每天吃些含脂肪的物质，否则会对身体造成很大的危害。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "脂肪作用的综合理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_388",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "人体细胞中含量最多的元素是（   ）。",
+    "options": [
+      "Ca",
+      "C",
+      "O",
+      "N"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "化学元素常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. O",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_389",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列物质中，对人体无毒的是（   ）。",
+    "options": [
+      "氯化钠",
+      "亚硝酸钠",
+      "甲醇",
+      "一氧化碳"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "化学物质毒性常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 氯化钠",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_390",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "国际互联网上报道：\"目前世界上有近20亿人患有缺铁性贫血\"。我国政府即将启动\"酱油补铁工程\"。这里的铁是指（  ）。",
+    "options": [
+      "铁元素",
+      "铁单质",
+      "四氧化三铁",
+      "硫酸铁"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "元素与单质概念辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 铁元素",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_391",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "人体内必需的下列元素中，因摄入量不足而导致骨质疏松的是（  ）。",
+    "options": [
+      "Ca",
+      "Mg",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "化学元素与健康常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Ca",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_392",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "为了防止患甲状腺肿大病，市售的食盐中常添加一定量的（  ）。",
+    "options": [
+      "葡萄糖",
+      "碘酸钾",
+      "碳酸钠",
+      "氯化钾"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "食盐加碘健康常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 碘酸钾",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_393",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某药品说明书上标明：每1 000 mg本品含碘 15 mg、钙65 mg、铜2 mg、锌1.5 mg，这里碘、钙、铜、锌所指的主要是（ ）。",
+    "options": [
+      "分子",
+      "原子",
+      "离子",
+      "元素"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宏观组成指元素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 元素",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_394",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在一个大萝卜中间挖一个大孔，向其中注入饱和食盐水。过一段时间，将孔中的食盐水倒出，向倒出的食盐水中加足量食盐使之饱和（设温度不变），则食盐水的质量（  ）。",
+    "options": [
+      "减小",
+      "增大",
+      "不变",
+      "无法判断增减"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "渗透压化学现象，超数学范围",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 增大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_396",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "1989年世界卫生组织把铝确定为食品污染源之一，加以控制使用。铝在下列应用时应加以控制的是（  ）。\n①制铝合金  ②制电线  ③制炊具  ④明矾净水  ⑤明矾与苏打制食品膨松剂  ⑥用氢氧化铝凝胶剂加工成胃舒平药片  ⑦易拉罐  ⑧包装糖果和小食品",
+    "options": [
+      "③⑤⑦⑧",
+      "⑥⑦⑧",
+      "③⑤⑧",
+      "③④⑤⑥⑦⑧"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "铝污染与食品安全",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ③④⑤⑥⑦⑧",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_397",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "金属元素和人体健康有很大关系。钾元素可以调节体液平衡，维持肌肉和神经的功能及代谢。如果人体缺钾会出现肌肉不发达、心律不齐等症状。市场上出售的一种叫做果味钾的补钾药，其主要成分是柠檬酸钾（C6H5K3O7·H2O）。下列有关对柠檬酸钾的说法正确的是（  ）。",
+    "options": [
+      "该物质每个分子中含25个原子",
+      "该物质中碳、氢、钾、氧元素间的质量比是6∶7∶3∶8",
+      "该物质是由原子直接构成的",
+      "该物质是由碳、氢、钾、氧四种元素组成的"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "化学式原子数与元素组成",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 该物质是由碳、氢、钾、氧四种元素组成的",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_398",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "食品卫生与健康密切相关。下列做法会导致食品对人体有害的是：\n①用石灰水保存鲜蛋  ②为保持肉制品鲜美，在香肠中加过量亚硝酸钠③蒸馒头时加入适量纯碱  ④为了让猪长得瘦，用\"瘦肉精\"（一种含激素的饲料）伺养生猪（  ）。",
+    "options": [
+      "①②",
+      "①③",
+      "②③",
+      "②④"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "食品安全判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ②④",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_399",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "成人体内约含钙1.2 kg，其中99％存在         和         中。幼儿正处于生长发育阶段，需要摄入比成年人         的钙。",
+    "options": null,
+    "answer": "骨骼、牙齿，更多",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "钙在人体中的分布常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp2.k1_51jiaoxi_5920964_400",
+    "subject": "数学",
+    "kp_id": "sp2.k1",
+    "unit_id": "sp2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "王明同学到了傍晚时就看不见东西，患了夜盲症，可能的原因之一是他的体内缺乏维生素        ；吕静同学近期感到精神不振、疲劳、头晕、面色苍白，医生说她患了贫血病，此时她应该多补充蛋自质和含       丰富的无机盐。",
+    "options": null,
+    "answer": "A，铁",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5920964.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "维生素与贫血营养常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:34:39.484795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

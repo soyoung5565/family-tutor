@@ -1,0 +1,1767 @@
+[
+  {
+    "qid": "数学_u8.k3_zxxk_54605083_001",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "(名校期末真题)一个立体图形,从上面看是□,从正面看是□,搭这样的立体图形,至少需要()个小正方体,最多可以有()个小正方体。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54605083.html",
+      "site": "学科网",
+      "title": "第三、四单元测试卷(综合训练)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据主视图和俯视图反推立体图形，求最少和最多小正方体数。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.139047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_59518948_002",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用7个小正方体摆成一个几何体（如下图）。如果从正面、上面和右面看到的图形都是■，拿走的是（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59518948.html",
+      "site": "学科网",
+      "title": "第八单元 观察物体(二)(单元测试•基础卷)数学北师大版六年级上册(新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图反推立体结构，判断拿走的方块",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "jev"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.139047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_59518948_003",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "明明用5个同样大的小正方体摆物体。(1)如果从上面看到的是■，有（　　）种摆法。(2)如果从前面和右面看到的都是■，有（　　）种摆法。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59518948.html",
+      "site": "学科网",
+      "title": "第八单元 观察物体(二)(单元测试•基础卷)数学北师大版六年级上册(新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k1",
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据视图反推小正方体的摆放方式，枚举所有可能",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_59518948_004",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个用小正方体搭成的立体图形，从左面、正面、上面看都是■形，至少需要6个小正方体。（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59518948.html",
+      "site": "学科网",
+      "title": "第八单元 观察物体(二)(单元测试•基础卷)数学北师大版六年级上册(新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据三视图反推立体图，判断最少小正方体数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_59619700_005",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个立体图形，从上面看到的形状是□，从左面看到的形状是□，搭这样的立体图形，至少要用（ ）个同样大的小正方体，最多要用（ ）个同样大的小正方体。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59619700.html",
+      "site": "学科网",
+      "title": "精品解析:辽宁省沈阳市法库县2025-2026学年北师大版六年级上学期阶段测试(二)数学试题",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据俯视和左视图反推立体图，求最值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.139047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_55545068_006",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一个立体图形，从正面看到的形状是，从左面看到的形状是，搭这个立体图形最少需要()个小正方体，最多需要()个小正方体。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据正面和左面视图，反推立体图形，搭积木求最少和最多小正方体数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.139047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_zxxk_43645210_007",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如图是由几个相同的小立方块搭成的几何体的三视图，则这几个几何体的小立方块的个数是（  ）",
+    "options": [
+      "4个",
+      "5个",
+      "6个",
+      "7个"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/43645210.html",
+      "site": "学科网",
+      "title": "精品解析：山东省济宁市2023-2024学年六年级上学期期中数学试题 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图反推立体图形小立方块个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.139047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_5740781_005",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是由一些相同的小正方形构成的几何体的三视图。有几个正方形（　　）",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5740781.html",
+      "site": "教习网",
+      "title": "【精品推荐】人教版小学六年级上册数学趣味数学练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图搭几何体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:51.893645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.913778"
+    },
+    "answer_text": "B. 5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_13280860_003",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图是由一些相同的小正方体构成的立体图形的三种视图,则构成这个立体图形的小正方体的个数是(      )\nA.5      B.6     C.7      D.8",
+    "options": null,
+    "answer": "D",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13280860.html",
+      "site": "教习网",
+      "title": "人教版29.2 三视图同步测试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图反推小正方体个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:45.061630"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_13280860_007",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "【2020·青海】在一张桌子上摆着一些碟子，从3个方向看到的3种视图如图所示，则这张桌子上的碟子共有(　　)\nA．4个     B．8个     C．12个     D．17个",
+    "options": null,
+    "answer": "C",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13280860.html",
+      "site": "教习网",
+      "title": "人教版29.2 三视图同步测试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图推小立方块个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:45.061630"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3zxxk_49103820_013",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图纸片折起来可以做成一个正方体，这个正方体\"富\"字的对面上是( )字。",
+    "options": [
+      "民",
+      "强",
+      "文",
+      "明"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方体展开图对面判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_001",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "乐乐用5个小正方体搭成一个立体图形，从右面看到的是，从上面看到的是，乐乐搭成的立体图形可能是（       ）。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "3",
+    "explanation": "根据观察物体的方法，将下面四个选项中的图形分别观察得出从右面和上面看到的图形，与已知的图形相对比，找出符合题意的一项即可选择。从右面看到的图形是2层：上层2个正方形，下层2个正方形；从上面看到的图形是2行：第一行1个正方形，靠左边，第二行2个正方形；符合题意的立体图形为。故答案为：D",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由视图反推立体图形搭法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u8.k1_21cnjy_13225798_001",
+    "answer_text": "D. D",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_002",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用若干个小正方体搭一个立体图形（小正方体之间至少有一个面重合），从正面看到的形状是，从右面看到的形状是。搭成这样的立体图形，最多可以有（       ）个小正方体。",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": "1",
+    "explanation": "综合正面和右面看到的形状，可以知道这个立体图形分为前后两排，上下两层，如果要最多有多少个小正方体，则最下面一层有：2×3＝6个；最上层有1个，在前排的位置，由此即可知道最多一共有多少个。由分析可知：下层最多有：2×3＝6个，上层1个，6＋1＝7（个）。故答案为：B。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主视图和右视图求最多方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u8.k2_21cnjy_13225798_002",
+    "answer_text": "B. 7",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_004",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个立体图形，从上面和左面看到的形状如下图，要搭成这个立体图形，最多可以有（       ）个小正方体。",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "answer": "0",
+    "explanation": "由从上面看到的图形可知，这个立体图形底层有6个正方体；由从左面看到的图形可知，这个立体图形的上层最多有4个正方体，最少有2个正方体；据此解答。要搭成这个立体图形，最多可以有6＋4＝10个小正方体。故答案为：A",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由俯视图和左视图求最多方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.913778"
+    },
+    "answer_text": "A. 10",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_013",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个立体图形从上面看到的形状是，从左面看到的形状是，搭成这样的立体图形，最少需要(        )个小正方体，最多需要(        )个小正方体。",
+    "options": null,
+    "answer": "6；8",
+    "explanation": "根据从上面看到的图形确定下层4个正方体，根据从左面看到的形状确定上层至少2个正方体，最多4个正方体。下层至少4个正方体，上层2个正方体，至少需要6个正方体；下层最多4个正方体，上层最多4个正方体，最多需要8个正方体。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由俯视图和左视图求最少最多方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_014",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用小正方体搭成一个立体图形，从正面和上面观察到的平面图形的形状（如下图），搭这样一个立体图形至少需要(        )个小正方体。",
+    "options": null,
+    "answer": "5",
+    "explanation": "根据从上面看到的图形确定下层4个正方体，根据从正面看到的形状确定上层至少1个正方体，最多2个正方体。下层4个正方体，上层至少1个正方体，至少需要5个正方体。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主视图和俯视图求最少方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_015",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个立体图形，从正面看到的是，从上面看到的是，搭这样的立体图形至少需要(        )个小正方体。",
+    "options": null,
+    "answer": "5",
+    "explanation": "一个立体图形从正面看到的是，至少需要4个，下面2个上面2个，从上面看是，可知前排2个，后排至少1个，由此可知这个立体图形下面一层有3个，上面一层至少有2个。3＋2＝5，至少需要5个。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主视图和俯视图求最少方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_016",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图是从两个不同方向看到的一个立体图形的形状，要搭出这个立体图形，最多需要(        )个小方块。",
+    "options": null,
+    "answer": "6",
+    "explanation": "由图可知，这个立体图形有两层，下层有四个小正方体，前排两个，后排向右错一个放两个，第二层最多有两个小正方体，放在第一层后排两个正方体的正上方。最多2＋2＋1＋1＝6（个）",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由两个方向视图求最多方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_017",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "添一个小正方体，使从正面看形状不变。有几种添法？",
+    "options": null,
+    "answer": "6种",
+    "explanation": "从正面看，形状不变，有6种摆法，只要摆在每个正方体的前面或后面即可；据此解答。给添一个小正方体，若从正面看形状不变，只要摆在每个正方体的前面或后面即可，共有6种不同的摆法。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "添方块保持主视图不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_018",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一个立体图形，从上面看到的形状是，从正面看到的形状是。搭一个这样的立体图形，最少需要几个小正方体？最多可以有几个小正方体？",
+    "options": null,
+    "answer": "最少需要5个，最多可以有6个。",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由视图求最少最多方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_021",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "根据下面从不同方向看到的图形摆一摆，从正面看是，从左面看也是有多少种不同摆法，最少要用多少个小正方体，最多只能用多少个小正方体？",
+    "options": null,
+    "answer": "最少7个，最多13个",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图反推立体搭法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18673272_011",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "小红用6个小正方体搭了一个造型，她画出的从前面看到的图形是横排3个正方形，从右面看到的图形是竖排2个正方形。请你描述（或搭出）这个造型可能是什么样子。",
+    "options": null,
+    "answer": "可能为\"底层横排3个，其中一端（如左端）上方叠1个\"的5个造型的变式；结合6个可在一端再叠1个，如\"底层横排3个、左端上方叠2个（共3个叠层）\"，满足前面横排3个、右面竖排2个（答案不唯一，合理即可）。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18673272.html",
+      "site": "教习网",
+      "title": "小学数学西师大版（2024）六年级上册（2024）第四单元观察物体 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由视图反推立体造型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:48.381177"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18673272_012",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "一个立体图形由4个小正方体组成，从前面看是竖排2个正方形，从右面看也是竖排2个正方形，从上面看是横排2个正方形。请在方格纸上画出这三个方向的视图，并搭出这个立体图形。",
+    "options": null,
+    "answer": "三个视图分别为：前面——竖排2个；右面——竖排2个；上面——横排2个。立体图形为\"底层横排2个、其中一端上方叠1个、另一端上方叠1个\"（即两端各叠1个，共4个）。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18673272.html",
+      "site": "教习网",
+      "title": "小学数学西师大版（2024）六年级上册（2024）第四单元观察物体 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图搭立体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:48.381177"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18673272_018",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "一个立体图形由5个小正方体搭成，从前面画出的视图是横排3个正方形，从上面画出的视图也是横排3个正方形，从右面画出的视图是竖排2个正方形。请搭出这个立体图形，并画出三个方向的视图。",
+    "options": null,
+    "answer": "立体图形为\"底层横排3个、其中一端（如左端）上方叠1个、再在该叠层上方叠1个\"（共5个，左端一列叠3层）；前面视图——横排3个加左端上方叠层（呈L形）；上面视图——横排3个（顶面）；右面视图——竖排2个（右侧单层，视叠层端而定）。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18673272.html",
+      "site": "教习网",
+      "title": "小学数学西师大版（2024）六年级上册（2024）第四单元观察物体 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由三视图反推立体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:48.381177"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18673272_019",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "用6个相同的小正方体，你能搭出一个\"从前面、右面、上面画出的三个视图都完全相同（都是横排3个正方形）\"的立体图形吗？如果能，请画出（或描述）它的样子，并在方格纸上画出三个视图。",
+    "options": null,
+    "answer": "能。例如搭成\"底层横排3个、在中间那列上方叠3个（中间一列共4层高）\"的造型，从前面、右面、上面看到的均为横排3个正方形（前面和右面因叠层在中间，投影均为横排3个）。（合理即可，答案不唯一。）",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18673272.html",
+      "site": "教习网",
+      "title": "小学数学西师大版（2024）六年级上册（2024）第四单元观察物体 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "设计三视图相同的造型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:48.381177"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18123758_001",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "如图所示物体，一共由(  )个小正方体搭成。",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": "1",
+    "explanation": "第一层小正方体的个数+第二层小正方体的个数=小正方体的总个数，6+4=10（个）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18123758.html",
+      "site": "教习网",
+      "title": "数学观察物体(二)优秀练习-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数小正方体个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:31.521560"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 10",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18123758_022",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "淘气用三个小正方体搭了这个图形 ，再加一个小正方体，使得它从侧面看到的是 ，有       种搭法。（每相邻两个正方体至少有一个面重合）",
+    "options": null,
+    "answer": "6",
+    "explanation": "加的一个小正方体可以放在三个小正方体前面的三个位置，或后面的三个位置。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18123758.html",
+      "site": "教习网",
+      "title": "数学观察物体(二)优秀练习-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据视图反推搭法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:31.521560"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_51jiaoxi_18123758_041",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "下面的图形是由（  ）个小正方体搭成的。如果移动其中一个小正方体的位置，使这个图形从上面和左面看形状都不变，可以移动哪一个?怎样移动?试着在图中表示出来。",
+    "options": null,
+    "answer": "6",
+    "explanation": "观察图可知，上面一层1个正方体，下面一层5个正方体，用加法求出一共有几个正方体，1+5=6（个）；观察图可知，将上面的一个正方体向左移动1格，这个图形从上面和左面看形状都不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18123758.html",
+      "site": "教习网",
+      "title": "数学观察物体(二)优秀练习-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据视图移动正方体位置使视图不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:31.521560"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13461301_001",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用大小相同的小正方体搭成一个立体图形，从正面看到的形状是，从左面看到的形状是，从上面看到的形状是，搭这个立体图形至少需要（ ）个小正方体。",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "1",
+    "explanation": "根据从正面看到的形状，可知这个立体图形从左往右有两排，从上往下最高的有两层；根据从左面看到的形状，可知这个立体图形从前往后有三排，最里面一排最高有两层，前两排都是一层，再根据从上面看到的形状，可以画出这个立体图形的形状，由此得解。最少需要5个小正方体。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图反推立体图形，求最少方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:48.143020"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13461301_002",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个立体图形，从正面看到的形状是，从左面看到的形状是，搭这个立体图形，最少需要（ ）个小正方体。",
+    "options": [
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "1",
+    "explanation": "根据图形可知，正面看到的图形有一层，有3个，前行有3个小正方体从左面看到的图形有一层，有2个，后行有1个；最少需要3＋1＝4（个）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主视图和左视图反推最少方块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:48.143020"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_21611281_005",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个立体图形，从上面看到的形状是，从正面看到的形状是，搭一个这样的图形，最多可以有（    ）个小正方体。",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "0",
+    "explanation": "由上面看有3个，下层3个；正面看左边两列3层共6个，右边1个放1个即可，共7个。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主俯视图反推立体，最多块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 7",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_21611281_014",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一组积木组成的图形，从正面看是，从侧面看是，它最少用（    ）块正方体积木摆出来，最多（    ）块。",
+    "options": null,
+    "answer": "3；9",
+    "explanation": "最少3块（每行1块错位对齐），最多9块（3行各3块）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由视图反推积木最少最多块数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_008",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用大小相同的小正方体搭成一个立体图形，从正面看到的形状是□，从上面看到的形状是□，从右面看到的形状是（       ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "根据从正面看到的形状，可以知道从正面看是由3个小正方体组成的；通过上面看到的形状知道3个小正方体中间的那个小正方体里面还有一个小正方体，即从侧面看是两个小正方体，因为多出来的小正方体不是在中间三个小正方体的上面，所以不是D，由此即可判断答案。\n【详解】第一排有3个小正方体，从上面看三个小正方体中间的小正方体的上面还有一个，即右面看到的形状是□。故答案为：A。\n【点睛】解答此题的关键是根据从正面，上面看到的图形，确定这个立体图形的形状，然后再选择出右面看的形状。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "据正俯视图求左视图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:38.543235"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13225798_020",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一个正方体纸盒，每相对两个面的数字和是12，下面是这个纸盒的展开图，请在各个面上填上适当的数字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方体展开图还原",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:38.543235"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "数学_u8.k2_21cnjy_13225798_020"
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13461301_026",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "用5个搭一搭。（1）你能搭出哪些立体图形？（2）一个立体图形从正面、上面、右面看到的形状如下，你能搭出这立体图形？ 正面 上面 右面",
+    "options": null,
+    "answer": "图见详解",
+    "explanation": "（1）用5个小正方体搭出的立体图形有多种，答案不唯一。（2）根据三视图可搭出对应的立体图形。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据三视图反推并搭建立体图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:11.750779"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_13461301_032",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一个立体图形，从上面看到的形状是，从正面看到的形状是，搭一个这样的立体图形，需要多少个小正方体？",
+    "options": null,
+    "answer": "4个或5个",
+    "explanation": "搭出的立体图形是、或，所以搭一个这样的立体图形，需要4个或5个小正方体。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由主俯视图反推所需小正方体数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:11.751783"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_23518744_014",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个立体图形，从正面看到的形状是□，从左面看到的形状是▣。搭成这样的一个立体图形，最少需要( )个小正方体，最多需要( )个小正方体。(小正方体之间至少有一个面重合)",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": "B  C",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据视图反推最少最多小正方体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u8.k3_21cnjy_23126114_015",
+    "subject": "数学",
+    "kp_id": "u8.k3",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形中（　　）不是正方体的表面展开图。",
+    "options": null,
+    "answer": "A",
+    "explanation": "B、C、D项分别是正方体展开图的\"1＋4＋1\"型、\"1＋4＋1\"型、\"2＋3＋1\"型，是正方体的表面展开图；A不是。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断正方体表面展开图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

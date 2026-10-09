@@ -1,0 +1,2627 @@
+[
+  {
+    "qid": "数学_u2.k4_zxxk_59646189_001",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "人工智能产业联盟发起一个\"祖冲之奖\"，因为早在公元480年祖冲之就将圆周率精确到小数点后七位领先世界达一千多年。如图，假设线段AB代表一个圆的周长，那么可以表示圆直径的线段是( )。",
+    "options": [
+      "AC",
+      "CD",
+      "DE",
+      "BE"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π及祖冲之贡献，识别周长线段中的直径段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "C. DE",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_59568243_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆周率π=3.14。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查π的概念，π是无限不循环小数，3.14只是近似值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_41340545_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "圆半径变大，面积变大，周长和圆周率变大。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41340545.html",
+      "site": "学科网",
+      "title": "5.2《圆的周长》（同步练习）人教版六年级上册数学-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π是常数，不随半径变化而改变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.001723"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_41712272_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "圆周率π是一个（）。",
+    "options": [
+      "3.14",
+      "有限小数",
+      "无限循环小数",
+      "无限不循环小数"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41712272.html",
+      "site": "学科网",
+      "title": "1.4 圆的周长（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的性质：无限不循环小数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "D. 无限不循环小数",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_41712272_005",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "关于圆周率，下面说法正确的有（）句。（1）圆周率是一个无限不循环小数；（2）圆周率是圆的周长和直径的比值；（3）大圆的圆周率大，小圆的圆周率小；（4）圆周率大于3.14。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41712272.html",
+      "site": "学科网",
+      "title": "1.4 圆的周长（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查圆周率的概念与性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.001723"
+    },
+    "answer_text": "C. 3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_48470809_006",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "我国古代数学家（    ）发现，一个圆的（    ）与（    ）的比值大概是（    ）倍多一些，这个比值用字母（    ）表示，它是一个（    ）小数，通常只取近似值（    ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48470809.html",
+      "site": "学科网",
+      "title": "圆的周长和面积练习题（专项练习）-2024-2025学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的定义、字母表示及无限不循环小数性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_39474022_007",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "早在1500多年前，对π值的计算最精确的人是中国古代的数学家（）。",
+    "options": [
+      "李时珍",
+      "祖冲之",
+      "刘徽"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的历史常识，祖冲之算出π≈22/7和355/113",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.001723"
+    },
+    "answer_text": "B. 祖冲之",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_39474022_008",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "圆的周长总是直径长度的()倍．这个倍数是固定的，我们把它叫做()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的定义：周长与直径的比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.001723"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_38069643_009",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "世界上第一个把圆周率精确到小数点右边第七位的数学家是______，这一成就在世界上领先了约1000年。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/38069643.html",
+      "site": "学科网",
+      "title": "1.1 圆的认识（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的历史知识——祖冲之的贡献",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.772165"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_57523937_010",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "任意两个圆，它们各自的周长与直径的比一定能组成一个比例。（    ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k7"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π是周长与直径的比值且为常数。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_zxxk_46494069_011",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "圆周率____________________填汉字；最早将圆周率精确到小数点后面第____位的是我国古代数学家__________。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率定义及祖冲之的贡献",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.001723"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16610351_014",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个圆越大，其周长与直径的比值就越大。",
+    "options": null,
+    "answer": "×",
+    "explanation": "根据圆的周长公式：C＝πd，C∶d＝π（一定），周长与直径的比值是一定的，不随圆的大小而改变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是定值判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_17702696_025",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的周长总是它直径的3.14倍。(  )",
+    "options": null,
+    "answer": "错误",
+    "explanation": "圆的周长总是它直径的π倍，3.14是π的近似值。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π的概念辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16610467_001",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "中国最早计算出圆周率应在3.1415926和3.1415927之间的是（    ）。",
+    "options": [
+      "杨辉",
+      "祖冲之",
+      "张衡",
+      "陈景润"
+    ],
+    "answer": "1",
+    "explanation": "中国最早计算出圆周率应在3.1415926和3.1415927之间的是祖冲之。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率历史人物识别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 祖冲之",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16610467_017",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆规两脚间的距离确定所画圆的大小，那圆规两脚间的距离越大所画圆的圆周率越大。",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆规两脚间的距离越大所画圆的圆周率越大，说法错误，圆周率是固定不变的数。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率与半径无关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4zxxk_53002086_001",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "圆周率π的值（）。",
+    "options": [
+      "等于3.14",
+      "大于3.14",
+      "小于3.14"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53002086.html",
+      "site": "学科网",
+      "title": "1.4 圆的周长（同步练习）-2025-2026学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:33.877154"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.772165"
+    },
+    "answer_text": "B. 大于3.14",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4zxxk_41761057_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "______和______的比值叫做圆周率，用字母______表示，保留两位小数取近似值约等于______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41761057.html",
+      "site": "学科网",
+      "title": "圆的周长（1） （作业单）-六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:22.668618"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4zxxk_41761057_006",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "π（）3.14。",
+    "options": [
+      "大于",
+      "小于",
+      "等于"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41761057.html",
+      "site": "学科网",
+      "title": "圆的周长（1） （作业单）-六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "π与3.14大小比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:22.668618"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 大于",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4zxxk_41761057_009",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的周长总是直径的3.14倍。（）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41761057.html",
+      "site": "学科网",
+      "title": "圆的周长（1） （作业单）-六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是无限不循环小数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:22.668618"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18711615_027",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "我国著名的数学专著《九章算术》中记载着多种图形面积的计算方法，其中求圆的面积的方法是这样描述的：\"周径相乘，四而一\"，意思是用圆的周长乘直径，再除以4，就得到了圆的面积。请用《九章算术》中提出的求圆面积的方法求直径是2cm的圆的面积。(π取3.14)",
+    "options": null,
+    "answer": "3.14平方厘米",
+    "explanation": "3.14×2×2÷4=3.14(平方厘米)。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用古法推圆面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_5056829_018",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的周长是直径的3.14倍。          （     ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/5056829.html",
+      "site": "21世纪教育网",
+      "title": "小学六年级数学（上）《圆的周长》练习题（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长是直径的π倍非3.14",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:20.139375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18622429_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆周率是圆的（________）与（________）的比值，用字母（________）表示，计算时通常取（________）。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率定义π≈3.14",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18622429_007",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "大圆的圆周率比小圆的圆周率大。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "所有圆周率相同均为π",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18609596_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆周率是圆的（________）与（________）的比值，是无限不循环小数，日常计算取值（________）。",
+    "options": null,
+    "answer": "周长；直径；3.14",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π的认识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18676520_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆的周长除以直径的商是一个固定的数，我们把它叫作（________），用字母（________）表示。它是一个无限不循环小数，计算时通常取（________）。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率 π 的概念与表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18676520_005",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下面是同学们测量3个大小不同的圆片得到的数据。请计算每个圆片的周长÷直径的商（结果保留两位小数）并填入表中，再观察填空。观察发现：三个商都接近（________），说明圆的周长总是直径的（________）倍多一些。",
+    "options": null,
+    "answer": "3.14；3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "探究圆周率，验证周长÷直径为定值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18676520_009",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的周长是直径的3倍多一些。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是比3倍多一点的无限小数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_18676520_015",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面关于圆周率的说法，正确的是（________）。",
+    "options": [
+      "圆周率就是3.14",
+      "圆的周长除以直径的商大于3",
+      "直径越大的圆，圆周率越大",
+      "只有大圆才有圆周率"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率性质的辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 圆的周长除以直径的商大于3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_13693005_001",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆的周长与它的直径的比值是一个固定的数，我们把它叫做(        )，一般用字母(        )表示。它是一个(        )小数，在实际应用中一般只保留两位小数，取它的近似值是(        )。",
+    "options": null,
+    "answer": "圆周率；π；无限不循环；3.14",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π的定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_13693005_013",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个圆越大，它的圆周率就越大。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是固定常数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_13693005_015",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《周髀算经》中记载\"周三径一\"是指在同一个圆中周长大约是直径的3倍。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率历史记载",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在两个大小不同的圆里，大小两个圆的周长与直径的比值相比较（    ）",
+    "options": [
+      "相等",
+      "大圆大",
+      "小圆大",
+      "无法比较"
+    ],
+    "answer": "0",
+    "explanation": "任意一个圆的周长与它的直径的比值是一个固定的数，叫做圆周率。一般用\"π\"表示。所以大圆周长与直径的比值和小圆周长与直径的比值相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率与圆大小无关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "大约在2000年前，我国数学著作《周髀算经》中就有\"周三径一\"的记载。\"周三径一\"是指在同一个圆中（    ）。",
+    "options": [
+      "直径大约是半径的3倍",
+      "周长大约是直径的3倍",
+      "周长大约是半径的3倍",
+      "面积大约是直径的3倍"
+    ],
+    "answer": "1",
+    "explanation": "根据圆周长公式：C＝πd，可知同一个圆周长是直径的π倍，π约为3，所以周长大约是直径的3倍。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周三径一即周长约为直径3倍",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 周长大约是直径的3倍",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_009",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆周率是圆的(        )与(        )的比值，用字母π表示，保留两位小数约是(        )。",
+    "options": null,
+    "answer": "周长  直径  3.14",
+    "explanation": "圆的周长和它直径的比值，叫做圆周率，用字母\"π\"表示，保留两位小数约是3.14。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_010",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆周率是一个圆的(        )与它的(        )的比，这个比值用字母(        )表示。",
+    "options": null,
+    "answer": "周长  直径  π",
+    "explanation": "任意一个圆的周长与它的直径的比是一个固定的数，叫做圆周率，用字母π表示。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_012",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆周率是圆的直径和周长的商．(   )",
+    "options": null,
+    "answer": "×",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断圆周率是周长与直径比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_013",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "大圆的周长与它的直径的比值比小圆的周长与它的直径的比值大。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆的周长和直径的比值都是π，它们的比值相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率与圆大小无关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16269526_014",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "不论大圆还是小圆，它们的圆周率都相等，都是π。(     )",
+    "options": null,
+    "answer": "√",
+    "explanation": "圆周率是定值，不随圆的大小的变化而变化。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率都是π",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16107002_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆周率是一个　 　的小数，人们在实际应用中，计算时取它的近似值，它的近似值为　 　．",
+    "options": null,
+    "answer": "无限不循环，3.14",
+    "explanation": "试题分析：根据圆周率的含义：圆的周长和它直径的比值，叫做圆周率，圆周率用\"π\"表示，π=3.1415926…，是一个无限不循环小数，保留两位小数后的近似值是3.14，据此解答．解：圆周率是一个无限不循环的小数，人们在实际应用中，计算时取它的近似值，它的近似值为3.14；故答案为无限不循环，3.14．",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率的定义及近似值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16107002_017",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在同圆或等圆中，圆的周长总是直径的3.14倍。          (       )",
+    "options": null,
+    "answer": "×",
+    "explanation": "在同一个圆中，周长与直径的比值总是一个常数，通常用π来表示，圆的周长总是直径的π倍，因此原题说法错误。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是无限不循环小数，非3.14",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_5795056_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆的周长总是它直径的（  ）倍．",
+    "options": [
+      "π",
+      "3.14",
+      "3",
+      "2"
+    ],
+    "answer": "0",
+    "explanation": "圆的周长总是它的直径的π倍．",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π的认识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. π",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_5795056_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "圆的周长与它的直径的比值是（  ）",
+    "options": [
+      "3.14",
+      "循环小数",
+      "有限小数",
+      "无限不循环小数"
+    ],
+    "answer": "3",
+    "explanation": "根据圆周率的含义可知：圆的周长与它的直径的比值是π，π是无限不循环小数；",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长与直径的比值即π",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 无限不循环小数",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_5795056_022",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆越大圆周率越大，圆越小圆周率越小．",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆周率的大小与圆的大小无关，圆周率不变",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是固定值，与圆大小无关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_14914156_019",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "所有圆的周长和它的直径的比值都相等。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "所有圆的周长和它的直径的比值都相等，叫作圆周率，原题说法正确。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率意义判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_12685605_006",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图是一个含有3个正方形的相框，其中∠BCD=∠DEF=90°，AB=2，CD=3，EF=5，将它镶嵌在一个圆形的金属框上，使A，G，H三点刚好在金属框上，则该金属框的半径是（    ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "设半径为R，结合正方形的性质，由勾股定理建立方程，解方程即可得到答案R。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "外接圆半径与圆周率应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_12685605_008",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，点A、B、C在⊙O上，∠ACB=50°，则∠AOB的度数是（    ）",
+    "options": [
+      "100°",
+      "50°",
+      "40°",
+      "25°"
+    ],
+    "answer": "0",
+    "explanation": "由圆周角定理可得∠AOB=2∠ACB=100°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心角与圆周角关系（弧的关系）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 100°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_12685605_017",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "（教材呈现）下图是华师版九年级下册数学教材第43页的部分内容．圆周角定理　在同圆或等圆中，同弧或等弧所对的圆周角相等，都等于该弧所对的圆心角的一半；相等的圆周角所对的弧相等．由圆周角定理，可以得到以下推论：推论1  90°的圆周角所对的弦是直径．（如图）（推论证明）已知：△ABC的三个顶点都在⊙O上，且∠ACB=90°． 求证：线段AB是⊙O的直径． 请你结合图①写出推论1的证明过程。（深入探究）如图②，点A，B，C，D均在半径为1的⊙O上，若∠ACB=90°，∠ACD=60°．则线段AD的长为________．（拓展应用）如图③，已知△ABC是等边三角形，以AC为底边在三角形ABC外作等腰直角三角形ACD，点E是BC的中点，连结DE． 若AB=√3，则DE的长为________．",
+    "options": null,
+    "answer": "AD=√3；DE=2",
+    "explanation": "根据圆周角定理、同弧所对的圆周角相等等知识，结合30°角直角三角形的性质及勾股定理求解。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周角定理及其推论",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16402366_001",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列关于圆周率，说法正确的是(        )。①是个无限不循环小数。②＞3.14。③周长大的圆，π就大，周长小的圆，π就小。④是圆的周长除以它直径的商。",
+    "options": [
+      "①②③",
+      "①②④",
+      "②③④",
+      "①③④"
+    ],
+    "answer": "1",
+    "explanation": "①π是一个无限不循环小数，原题干说法正确；②π是一个无限不循环小数，3.14是一个有限小数，π＞3.14正确；③圆周率的大小与圆的周长无关，周长变大，直径变大，但圆周率不变，原题干说法错误；④圆周率就是圆的周长和它的直径的比值也是商，原题干说法正确。正确的有：①②④",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率π的意义与性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ①②④",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16402366_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "我国关于圆周率的最早记录出自(        )。",
+    "options": [
+      "《周髀算经》",
+      "《九章算术》",
+      "《莱茵德草卷》",
+      "《几何原本》"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆周率历史记载",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 《周髀算经》",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16402366_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "我国古代(        )算出π的值在3.1415926和3.1415927之间。",
+    "options": null,
+    "answer": "祖冲之",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查祖冲之与圆周率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16402366_004",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "历史上研究圆周率的数学家有很多．请写出你知道的三位数学家：(        )，(        )，(        )。",
+    "options": null,
+    "answer": "阿基米德(答案不唯一)；祖冲之(答案不唯一)；刘徽(答案不唯一)",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查研究圆周率的数学家",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16647628_002",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "⑴任意一个圆的周长与它的直径的比值是一个固定的数，我们把它叫做（　　），用字母（　　）表示。它的值大约是（　　）。我国古代数学家（　　）是第一个把它精确到7位小数的人。\n⑵计算车轮转动一周行驶的路程，实际就是求这个车轮的（　　），如果这个车轮的直径是0.8米，那么这个车轮向前转动一周能行进（　　）米。",
+    "options": null,
+    "answer": "⑴圆周率；π；3.14；祖冲之 ⑵周长；2.512米",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16647628.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册整理和复习同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率π定义及车轮周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:01:31.261314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_51jiaoxi_16647628_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "关于圆周率π说法正确（　　）。",
+    "options": [
+      "π是直径和圆周长的比",
+      "π=3.14",
+      "π是一个无限不循环小数",
+      "圆周长是半径的π倍"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16647628.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册整理和复习同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析圆周率π的概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:01:31.261314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. π是一个无限不循环小数",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_14115544_027",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "量得一张DVD光盘的周长约是36cm，如果要做一个正方形袋子装这张光盘，那么这个正方形袋子的边长最少是　     　厘米．（π取3）",
+    "options": null,
+    "answer": "12",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由圆周长求直径作正方形边",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_26559779_018",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆的周长总是大约为它直径的(        )倍，这个倍数用字母(        )表示。",
+    "options": null,
+    "answer": "3.14；π",
+    "explanation": "圆周率是一个固定值，约等于3.14，用字母π表示。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率的定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_21496138_003",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆，它的周长与直径的比值是（    ）。",
+    "options": [
+      "6.28",
+      "3.14",
+      "π"
+    ],
+    "answer": "2",
+    "explanation": "圆的周长∶圆的直径＝π∶1＝π。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21496138",
+      "site": "21世纪教育网",
+      "title": "doc 21496138",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长与直径比值即圆周率π",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:29.400052"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. π",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_21496138_009",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "任何一个圆，周长一定是它直径的3倍多一些。(      )",
+    "options": null,
+    "answer": "√",
+    "explanation": "根据圆的周长与直径的关系解答即可，说法正确。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21496138",
+      "site": "21世纪教育网",
+      "title": "doc 21496138",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长与直径关系即π",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:29.400052"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k4_21cnjy_21496138_012",
+    "subject": "数学",
+    "kp_id": "u2.k4",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆越大它的圆周率就越大，圆越小它的的圆周率就越小。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆周率是圆的周长与直径的比值，是个固定的数，与圆的大小无关。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21496138",
+      "site": "21世纪教育网",
+      "title": "doc 21496138",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周率是固定常数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:29.400052"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

@@ -1,0 +1,3441 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "下面四幅图能用1∶2表示的是（    ）。",
+    "options": [
+      "两个圆的半径之比（1cm和2cm）",
+      "两个正方形的面积之比（边长1cm和2cm）",
+      "两个半圆的面积之比（半径1cm和2cm）",
+      "两个正方体的体积之比（棱长1cm和2cm）"
+    ],
+    "answer": "0",
+    "explanation": "A.半径比1:2 ✓；B.面积比1:4 ✗；C.面积比1:4 ✗；D.体积比1:8 ✗。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u5.k6",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "辨析长度比与面积比、体积比，需理解比的意义"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.087015"
+    },
+    "duplicate_of": "数学_u6.k1_szns_002",
+    "answer_text": "A. 两个圆的半径之比（1cm和2cm）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_002",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "如图四个情境中，两个量之间不可以用 2:3 表示的是（  ）。",
+    "options": [
+      "小汽车模型与A汽车模型车轮的长度比",
+      "色拉油中的蛋黄与整个鸡蛋总蛋质的比",
+      "三角形中三个角和三角形的比",
+      "1的倒数与4和3的倒数和的比"
+    ],
+    "answer": "2",
+    "explanation": "三角形三个内角和为180°，与三角形本身比是无意义的。色拉油与蛋黄的比、小汽车与汽车模型车轮比、1的倒数1与4和3的倒数之和7/12的比都不等于2:3。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6787.html",
+      "site": "深圳城市学校网",
+      "title": "深圳宝安区2025六上数学期末",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "u35d"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u1.k4",
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析两量能否用比表示，考查比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T19:28:35"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "answer_text": "C. 三角形中三个角和三角形的比",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_54367355_003",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "下面四杯蜂蜜水中最甜的是（）。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54367355.html",
+      "site": "学科网",
+      "title": "第四单元百分数 (单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较蜂蜜水甜度即比较浓度（比），引出比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_54605083_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在太阳下，淘气当天早上的影子比中午的影子()。(填\"长\"或\"短\")",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54605083.html",
+      "site": "学科网",
+      "title": "第三、四单元测试卷(综合训练)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "影子长短与太阳高度角成反比，属比的认识生活应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_005",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "有故事书与童话书共200本，它们的比可能是（）",
+    "options": [
+      "4：5",
+      "2：3",
+      "5：7",
+      "9：4"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义：比的前后项之和能整除总数200即可",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_006",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "两个正方体的棱长之比是1：2，那么，它们的体积之比是（）",
+    "options": [
+      "1：2",
+      "1：4",
+      "1：8",
+      "1：16"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义，V=a³，棱长比1:2则体积比1:8",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_007",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "一种消毒液的使用说明显示：将1瓶盖本品与3升水混合（1：50）。对说明中的1：50错误的理解是（）。",
+    "options": [
+      "1份的原液配50份水",
+      "如果放50mL的原液就要配2500mL的水",
+      "水的体积是原液体积的50倍",
+      "原液与稀释后的液体总体积比为1：50"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对比的意义的理解，比对应原液与水，不是与总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.087015"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_008",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "把10克盐放入100克水中，盐和盐水的比是1∶10。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义——盐水是盐+水，比应为10:110=1:11",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_009",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "走相同一段路，张宁用8分，刘利用9分，张宁与刘利的速度比是8：9。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程相同时，速度比与时间比成反比，考查比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_48918177_010",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "从甲城到乙城，快车要3小时，慢车要4小时，快车与慢车所行的时间之比是，车与慢车的速度之比是。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求时间和速度的比，理解比的含义及路程相同时速度与时间成反比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_59525295_011",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列描述中，哪个是与众不同的\"比\"？",
+    "options": [
+      "黄金分割比是0.618∶1",
+      "标准篮球场的长和宽的比是28∶15",
+      "成年人的足长和身高的比约为1∶7",
+      "足球比赛中，六（1）班0∶3惨败给六（2）班"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对比的意义的理解，区分数学比与比赛比分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_59525295_012",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一杯糖水，糖与水的比是1∶16，喝掉一半后，糖与水的比是（）。",
+    "options": [
+      "1∶4",
+      "1∶8",
+      "1∶16",
+      "1∶32"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义，喝掉一半后糖和水同比例减少，比不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.087015"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_59525295_013",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "写出一个比值是2.5的比（　　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "依据比的意义，由比值2.5反写一个比，如5:2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_59525295_014",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "鹏鹏在绘制一幅条形统计图时，用2厘米长的直条表示了80千克的物体，那么5厘米的直条可以表示（　　）千克的物体，120千克的物体需要画（　　）厘米长的直条。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查条形统计图中厘米与千克的比例关系，用比的意义求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_59525295_015",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "画一画，填一填。（1）画两个不同的正方形，使它们边长的比是3∶2。（2）上面两个正方形周长的比是（　　），面积的比是（　　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义在图形中的应用，周长比等于边长比，面积比等于边长比的平方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_58921941_016",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "少年宫到体育馆的实际距离是1200米，那么这幅图的比例尺是______。（测量时取整厘米数）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58921941.html",
+      "site": "学科网",
+      "title": "第六单元 确定位置应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5",
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺是图上距离与实际距离的比，考查比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_54935963_017",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "a÷b可以写成a:b。（　　）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义：两个数相除又叫两个数的比，a:b即a÷b",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55335600_018",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "六(1)班有学生48人，昨天有3人请假．昨天到校的人数与六(1)班学生总人数的比是()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55335600.html",
+      "site": "学科网",
+      "title": "第六单元百分数（一）（单元测试卷）-2025-2026学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求到校人数与总人数的比，考查比的意义及化简",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_57523937_019",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "孙老师开车从深圳去桂林，7小时行了630千米，汽车行驶的路程和时间的比值是________，这个比值表示的是________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程与时间的比值即速度，考查对比的意义及实际含义的理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.087015"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_57523937_020",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一幅地图的比例尺是，改写成数值比例尺是（    ）；在这幅地图上量得张家口到北京的距离约为9.6厘米，张家口到北京的实际距离大约是（    ）千米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺本质是图上距离与实际距离的比，属比的意义的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_57523937_021",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "在设计图上，图上30厘米表示实际距离3毫米，这幅图的比例尺是1∶100。（    ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比例尺即比的意义，需统一单位后比较图距与实距",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55623663_022",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "这是一幅线段比例尺，图上为数值比例尺是()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k7"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "线段比例尺转数值比例尺考查比的意义。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55545068_023",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "甲、乙两车从A地开往B地，甲车4小时行完全程，乙车5小时行完全程，甲、乙两车的速度比是()",
+    "options": [
+      "4∶5",
+      "5∶4",
+      "∶",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求两车速度比，直接考查比的意义，路程相同时速度与时间成反比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_58097698_024",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "一盒棋子（只有黑白两色），其中白、黑棋子数的比是3∶2，下列说法中错误的是（）。",
+    "options": [
+      "白子数是黑子数的1.5倍",
+      "黑子数和白子数的比是2∶3",
+      "白子数比黑子数多",
+      "黑子数占一盒棋子数的40%"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58097698.html",
+      "site": "学科网",
+      "title": "专题03 解决问题的策略＆确定位置（期末真题汇编）六年级数学期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义、倍数及百分数转换，理解3:2的内涵",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "answer_text": "D. 黑子数占一盒棋子数的40%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55539155_025",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "一杯500mL的糖水，糖与水的比是，再加入25克糖和100克水，此时糖水（）。",
+    "options": [
+      "更甜了",
+      "比原来淡了",
+      "和原来一样甜"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较加入糖水前后糖与水的比，判断浓度变化，考查比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.858242"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55539155_026",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如果科技书的数量与文艺书的数量比是3∶4，那么下面的说法中正确的是（）。",
+    "options": [
+      "文艺书比科技书多",
+      "科技书比文艺书少",
+      "科技书占两种书总数的"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义，根据3:4判断大小关系及所占分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55539155_027",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "六（1）班有24名男生、26名女生，男生人数与女生人数的比是，女生人数占全班人数的。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求男生与女生人数的比及女生占全班人数的几分之几，考查比的意义。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55539155_028",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "甲数与乙数的比是6∶7，乙数是56，则甲数是",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义，利用甲乙比值关系求甲数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_zxxk_55539155_029",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "从学校到文化宫，甲用20分，乙用16分，甲的速度是乙的。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求甲乙速度之比，速度比=时间反比=1/20÷1/16=4/5",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_23194189_002",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据线段比例尺写出数值比例尺。0 30 60米",
+    "options": null,
+    "answer": "1﹕3000",
+    "explanation": "线段比例尺0 30 60米表示图上1厘米代表实际距离30米=3000厘米，所以数值比例尺为1:3000。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "线段比例尺转化为数值比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:57:21.553640"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_23194189_003",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据线段比例尺写出数值比例尺。0 50 100千米",
+    "options": null,
+    "answer": "1﹕5000000",
+    "explanation": "0 50 100千米表示图上1厘米代表实际距离50千米=5000000厘米，所以数值比例尺为1:5000000。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "线段比例尺转化为数值比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:57:21.553640"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_23194189_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一种机械手表上的螺丝直径是5毫米，画在图纸上的长度是2.5厘米。这张图纸的比例尺是多少？",
+    "options": null,
+    "answer": "5:1",
+    "explanation": "2.5厘米=25毫米，25:5=5:1。答：这张图纸的比例尺是5:1。比例尺的后项是1，表示图上距离比实际距离大，是放大比例尺。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由图距实距求比（需单位换算）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:57:21.553640"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_19973655_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一项工程，甲单独做12天完成，乙单独做15天完成，则甲、乙工作效率之比是（ ）。",
+    "options": [
+      "2∶15",
+      "15∶27",
+      "5∶4",
+      "4∶5"
+    ],
+    "answer": "2",
+    "explanation": "根据题意，把这项工程看作单位\"1\"，那么甲的效率为1/12，乙的效率为1/15，再根据比的意义，写出甲、乙工作效率之比，化简比即可。∶＝（×60）∶（×60）＝5∶4。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求工作效率之比，本质是比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702377"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 5∶4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_19973655_007",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一批零件，甲单独做要10小时完成，乙单独做要12小时完成，甲和乙工作时间的比是( )，工作效率的比是( )，甲的工作效率比乙高( )%。",
+    "options": null,
+    "answer": "5∶6；6∶5；20",
+    "explanation": "甲的工作时间∶乙的工作时间＝10∶12＝5∶6；甲的工作效率：1÷10＝1/10，乙的工作效率：1÷12＝1/12，甲乙工作效率的最简整数比为6∶5；（1/10-1/12）÷1/12×100%=20%。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工作时间比与效率比及百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一种盐水的含盐率是20%,盐与水的比是（ ）。",
+    "options": null,
+    "answer": "1:4",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "含盐率转盐与水的比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_002",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "生产同样多的零件，小张用了4小时，小李用了6小时，小张和小李工作效率的最简比是（ ）。",
+    "options": null,
+    "answer": "3:2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "效率比=时间反比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_009",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个数的差相当于被减数的40%，减数与差的比是（　　）。",
+    "options": null,
+    "answer": "3:2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "差=被减数40%求减数与差的比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_015",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "数学小组共有20名学生，则男、女人数的比不可能是（　　）。",
+    "options": [
+      "5︰1",
+      "4︰1",
+      "3︰1",
+      "1︰1"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "和为20验证比的可能性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 5︰1",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_017",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一杯牛奶，牛奶与水的比是1︰4，喝掉一半后，牛奶与水的比是（　　）。",
+    "options": [
+      "1︰4",
+      "1︰2",
+      "1︰8",
+      "无法确定"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "喝掉一半比例不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1︰4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_15920805_053",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一种盐水的含盐率是20%，盐与水的比是（ ）。",
+    "options": [
+      "1：5",
+      "1 ：6",
+      "1：4"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百分率转比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1：5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_003",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "从甲堆货物中取出给乙堆，这时两堆货物质量相等，原来甲、乙两堆的质量比是（ ）。",
+    "options": [
+      "7∶9",
+      "9∶8",
+      "9∶7",
+      "9∶6"
+    ],
+    "answer": "2",
+    "explanation": "把甲堆货物的重量看作单位\"1\"，1－1/9－1/9＝7/9，1∶7/9＝9∶7。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义，由量率关系求质量比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 9∶7",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_007",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有两瓶相同质量的糖水，甲瓶的糖与水的质量比是1∶5，乙瓶的糖与水的质量比是1∶7，如果将这两瓶糖水混合在一起，混合后的糖水中，糖与水的质量比是（ ）。",
+    "options": [
+      "1∶12",
+      "2∶12",
+      "7∶41",
+      "7∶35"
+    ],
+    "answer": "2",
+    "explanation": "假设每瓶糖水的质量为1，糖的质量为1/6＋1/8＝7/24，水的质量为2－7/24＝41/24，糖与水的质量比为7/24∶41/24＝7∶41。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义，混合后求糖水比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 7∶41",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_012",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一段绳子长3米，剪去米，还剩( )米，剪去的与绳子全长的比是( )。",
+    "options": null,
+    "answer": "2又5/6；1∶6",
+    "explanation": "3－1/6＝2又5/6（米），1/6∶3＝1∶6。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义，分数与比综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_017",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个三角形和一个平行四边形的面积相等，底也相等，则三角形和平行四边形高的比是。",
+    "options": null,
+    "answer": "√",
+    "explanation": "三角形的高h1＝2S÷a，平行四边形的高h2＝S÷a，h1∶h2＝2∶1。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义，三角形与平行四边形高比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_021",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "百米赛跑，小强用时18秒，小飞用时15秒，小强与小飞的速度比是6∶5。",
+    "options": null,
+    "answer": "×",
+    "explanation": "小强的速度1/18，小飞的速度1/15，1/18∶1/15＝5∶6。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求速度比，涉及比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_14890728_016",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2020秋•岳阳楼区校级期中）女生人数是男生人数的，女生人数与男生人数的比是_____，男生占全班人数的_____．",
+    "options": null,
+    "answer": "3：5，见题干",
+    "explanation": "（1）女生人数是男生人数的，设男生的人数是5，那么女生的人数就是3；求出总人数，用女生的人数比男生人数即可；（2）用男生人数除以总人数就是男生人数占全班人数的几分之几．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人数关系转化比与求分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一辆汽车 3 小时行驶 180 km。(1) 写出路程与时间的比；(2) 求出比值，并说明比值表示什么意思；(3) 时间与路程的比是多少？比值是多少？",
+    "options": null,
+    "answer": "(1) 路程与时间的比：180 : 3。(2) 比值：180 ÷ 3 = 60。比值 60 表示汽车平均每小时行驶 60 km，即行驶的速度。(3) 时间与路程的比：3 : 180。比值：3 ÷ 180 = 1/60，表示行驶 1 km 需要 1/60 小时（即 1 分钟）。",
+    "explanation": "求比值就是前项除以后项；求出比值后要回到情境说明它表示什么。同类量相比时（如 3 : 180 同是\"时与千米\"之外的不同类量），按题目要求写清顺序即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写出比并求比值，理解比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据信息写出比并求比值：(1) 一辆汽车 3 小时行驶 180 km，路程与时间的比是（________），比值是（________），比值表示（________）。(2) 图书角有故事书 24 本、科技书 16 本，故事书与科技书本数的比是（________），比值是（________）。",
+    "options": null,
+    "answer": "(1) 180 : 3；60；平均每小时行驶 60 km（速度）。(2) 24 : 16；3/2（或 1.5）。",
+    "explanation": "路程与时间的比是 180 : 3，比值 180 ÷ 3 = 60，表示速度；故事书与科技书的比是 24 : 16，比值 24 ÷ 16 = 3/2，表示故事书本数是科技书的 3/2 倍。写比时注意前后项顺序。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写比、求比值，理解比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_005",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆的直径是 12 cm，半径是 6 cm，圆的直径与半径的比是（________），比值是（________）。",
+    "options": null,
+    "answer": "2 : 1；2",
+    "explanation": "直径 = 2 × 半径，所以直径与半径的比是 12 : 6 = 2 : 1，比值是 12 ÷ 6 = 2。注意：求\"比\"写 2 : 1，求\"比值\"写 2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的直径与半径的比与比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.858242"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_011",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个长方形的宽是 6 cm，长是 10 cm，宽与长的比是 10 : 6。（  ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "题目问\"宽与长的比\"，先说\"宽\"就先写宽，正确的是 6 : 10 = 3 : 5。写比前先弄清\"谁与谁的比\"，前后项顺序不能颠倒。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的前后项顺序判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_016",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "美术课上，小丽画一幅画用了 0.5 小时，小明画同样的画用了 45 分钟。小丽用的时间与小明用的时间的比是多少？比值是多少？",
+    "options": null,
+    "answer": "0.5 时 = 30 分，时间比是 30 : 45 = 2 : 3，比值是 2/3。",
+    "explanation": "同类量相比单位要先统一：0.5 时 = 0.5 × 60 = 30 分。30 : 45 前后项同时除以 15 得 2 : 3；比值 30 ÷ 45 = 2/3。如果直接写 0.5 : 45，单位不统一，比就没有意义。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写比求比值，需统一单位",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_18676537_017",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "科学课上，同学们记录了不同水温下金鱼 1 分钟内的呼吸次数，如下表：水温/°C：10、20、30；1分钟内的呼吸次数：20、30、40。(1) 把各温度下呼吸次数与水温的比写出来并化简：10°C 时（________），20°C 时（________），30°C 时（________）。(2) 写出你的发现。",
+    "options": null,
+    "answer": "(1) 20 : 10 = 2 : 1；30 : 20 = 3 : 2；40 : 30 = 4 : 3。(2) 水温越高，金鱼 1 分钟内的呼吸次数越多，呼吸越快。",
+    "explanation": "(1) 各温度下呼吸次数与水温的比：20 : 10 化简为 2 : 1，30 : 20 化简为 3 : 2，40 : 30 化简为 4 : 3。(2) 观察数据：水温从 10°C 升到 30°C，呼吸次数从 20 次增加到 40 次，所以发现是\"水温越高呼吸越快\"。结论要回到数据来说。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写比、化简比，比的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_12168290_025",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明和小红去商店买球，小红买了5个乒乓球，花了25元，小明买了7个羽毛球，花了14元，根据以上信息，写一些比，并求出比值。",
+    "options": null,
+    "answer": "乒乓球的总价和个数之间的比是25:5，比值是5；羽毛球的总价与个数之间的比是14:7，比值是2；小红花的钱数和小明花的钱数的比是25:14，比值是25/14",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据信息写比并求比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_12168290_026",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "两艘赛艇，甲赛艇1.4小时航行56千米，乙赛艇1.8小时航行90千米。（1）写出甲、乙赛艇航行路程的最简单的整数比。（2）写出甲、乙两赛艇航行时间的比，并求出比值。（3）甲、乙两赛艇的速度比是多少？",
+    "options": null,
+    "answer": "（1）28:45；（2）7:9，比值7/9；（3）4:5",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写路程时间速度的比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1zxxk_49341188_003",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将16克糖溶解在64克水中，水与糖的质量比是(),糖水的含糖率是()%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求比及含糖率(百分数)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1zxxk_49103820_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "6∶( )= =0.6＝18÷( )＝( )%＝( )成。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比分数百分数成数互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1zxxk_49103820_015",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个三角形三个内角的度数比是1﹕3﹕2,这是一个( )。",
+    "options": [
+      "锐角三角形",
+      "直角三角形",
+      "钝角三角形",
+      "等腰三角形"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按角度比判断三角形类型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1zxxk_49103820_018",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "认识\"黄金比\"提升我们的审美观，生活处处有\"黄金比\"的存在。下面( )最接近\"黄金比\"。",
+    "options": [
+      "一张照片，长8厘米，宽6厘米，宽与长的比",
+      "现有一片树叶长12厘米，叶片长8厘米，叶片与树叶长的比",
+      "人的体温一般是36摄氏度左右，气温与人体正常体温的比接近黄金比时人体"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断选项比值最接近黄金比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "2021年是建党100周年，某中队举行\"童心向党\"活动，一部分人参加歌咏比赛活动，另一部分人参加制作手抄报活动。该中队共有少先队员50名，下面的比中，参加歌咏比赛和参加制作手抄报的人数比不可能是（ ）。",
+    "options": [
+      "3∶1",
+      "13∶12",
+      "7∶3"
+    ],
+    "answer": "0",
+    "explanation": "50÷4=12……2，不能整除；50÷25=2，50÷10=5。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义，总数确定求比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:10.086703"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 3∶1",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_14474960_018",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲数的等于乙数的（甲、乙两数均不为0），则甲、乙两数的比是5∶6。",
+    "options": null,
+    "answer": "√",
+    "explanation": "设甲数×＝乙数×＝1，则甲数＝5，乙数＝6，甲乙比为5∶6。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由分数关系求甲乙比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:10.086703"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_51jiaoxi_16269526_005",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面4句话中，错误的是（  ）",
+    "options": [
+      "将一个直径10厘米的圆形纸片沿直径对折后，得到一个半圆，这个半圆的周长25.7厘米",
+      "水结成冰体积增加，冰化成水体积减少",
+      "大牛与小牛的头数比为4：5，表示大牛比小牛少",
+      "第一个将圆周率算到小数点后面第7位的中国人是祖冲之"
+    ],
+    "answer": "1",
+    "explanation": "A：3.14×10÷2+10=25.7厘米，正确；B：（1+1/10-1）÷（1+1/10）=1/11，水结成冰体积增加1/11，冰化成水体积减少1/11，不是减少，原题说法错误；C：（5-4）÷5=1/5，正确；D：祖冲之正确。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义与圆相关知识辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 水结成冰体积增加，冰化成水体积减少",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把5克盐溶解在45克水中，盐与盐水的质量比是（ ）",
+    "options": [
+      "1:9",
+      "1:10",
+      "5:45",
+      "5:50"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求盐与盐水质量比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1:10",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "甲、乙两人走同一段路，甲用了15分钟，乙用了20分钟，甲、乙两人的速度比是（ ）",
+    "options": [
+      "3:4",
+      "4:3",
+      "15:20",
+      "20:15"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求速度比，需化简",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 4:3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_006",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "3:5读作（ ），它的前项是（ ），后项是（ ），比值是（ ）。",
+    "options": null,
+    "answer": "3比5；3；5；3/5",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义基本概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_010",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一辆汽车3小时行驶240千米，路程与时间的比是（ ），比值是（ ），这个比值表示（ ）。",
+    "options": null,
+    "answer": "80:1；80；汽车的速度",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "速度概念与比值含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_013",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个正方形的边长比是2:3，它们的周长比是（ ），面积比是（ ）。",
+    "options": null,
+    "answer": "2:3；4:9",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形周长面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24356407_014",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "甲单独做一项工作需要6天，乙单独做需要8天，甲、乙两人的工作效率比是（ ）。",
+    "options": null,
+    "answer": "4:3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求工作效率比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_19973655_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一项工程，甲队单独做要10天完成，乙队单独做要8天完成，甲队的工作效率比乙队慢（ ）。",
+    "options": null,
+    "answer": "B",
+    "explanation": "把工作总量看作单位\"1\"，甲队效率1/10，乙队效率1/8，（1/8－1/10）÷1/8=1/5，甲队的工作效率比乙队慢1/5。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工作效率比较，求差值百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:30.853586"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u4.k1_21cnjy_19973655_004"
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_26031023_025",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图表示甲、乙两辆车行驶的路程与时间的关系，看图回答问题。\n（1）甲车行驶的路程与时间成　     　比例。\n（2）乙车1.5小时行驶　     　千米。\n（3）如果甲、乙两车从A、B两地同时出发，相向而行，经过6小时相遇，A、B两地相距多少千米？",
+    "options": null,
+    "answer": "（1）正；（2）75；（3）900千米",
+    "explanation": "（1）甲车行驶的路程与时间的比值（速度）是一定的，所以成正比例。（2）乙车速度为50千米/时，50×1.5=75千米。（3）甲车速度为200÷2=100千米/时，速度和为150千米/时，相距150×6=900千米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程时间正比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_26031023_036",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图表示甲、乙两辆车行驶的路程与时间的关系，看图回答问题。（1）甲车行驶的路程与时间成　     　比例。（2）乙车1.5小时行驶　     　千米。（3）如果甲、乙两车从A、B两地同时出发，相向而行，经过6小时相遇，A、B两地相距多少千米？",
+    "options": null,
+    "answer": "（1）正 （2）75 （3）900千米",
+    "explanation": "（1）根据100：1=100，200：2=100，比值一定，路程与时间成正比例。（2）速度：50÷1=50千米/小时，路程：50×1.5=75千米。（3）甲车速度：100千米/小时，A、B两地相距：（100+50）×6=900千米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程时间正比例相遇问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u5.k1_21cnjy_26031023_025"
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_21882296_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "( )∶16＝0.75＝( )÷( )",
+    "options": null,
+    "answer": "12 16/3÷? → 答案：12÷16=0.75，所以填 12 和 16。实际答案：12  ；0.75 = 3/4 = 12÷16",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与除法、分数的互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_26431975_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果a∶b=k，那么a叫作比的　，b叫作比的　，比值是　。",
+    "options": null,
+    "answer": "前项；后项；k",
+    "explanation": "\":\"是比号，比号前面的数是比的前项，后面的数是比的后项，前项和后项的商就是比值。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26431975",
+      "site": "21世纪教育网",
+      "title": "doc 26431975",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的意义，前项后项比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:38.560309"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_26431975_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "5克盐放入100克水中，盐与盐水的比是（　　）。",
+    "options": [
+      "1∶19",
+      "1∶21",
+      "1∶20",
+      "1∶15"
+    ],
+    "answer": "1",
+    "explanation": "先计算出盐水=5+100=105克，所以盐：盐水=5：105，再根据比的基本性质化简即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26431975",
+      "site": "21世纪教育网",
+      "title": "doc 26431975",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "区分盐与盐水，含杂质总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:38.560309"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1∶21",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24875938_007",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "合唱队男生人数与女生人数的比是5:4，下列说法不正确的是(     )。",
+    "options": [
+      "女生人数与男生人数的比是4:5",
+      "女生人数是男生的",
+      "男生人数是总人数的",
+      "男生人数比女生多20%"
+    ],
+    "answer": "3",
+    "explanation": "男生比女生多(5-4)÷4=25%，不是20%。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的意义及相互转换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 男生人数比女生多20%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24875938_008",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列描述中，哪个是与众不同的\"比\"  (   )",
+    "options": [
+      "黄金分割比是0.618:1",
+      "标准篮球场的长和宽的比是28:15",
+      "成年人的足长和身高的比约为1:7",
+      "足球比赛中，六(1)班0:3惨败给六(2)班"
+    ],
+    "answer": "3",
+    "explanation": "D选项是比赛得分比，不是数学中的比。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的辨析，比赛比分非比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 足球比赛中，六(1)班0:3惨败给六(2)班",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_21cnjy_24875938_014",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图四个情境中，两个量之比不能用2:3表示的是（   ）。",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "2",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断比是否为2:3",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 略",
+    "has_answer": true
+  }
+]

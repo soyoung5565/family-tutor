@@ -1,0 +1,2767 @@
+[
+  {
+    "qid": "英语_u5.k4_zxxk_58695353_001",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "表格阅读",
+    "stem": "Can a force change the speed of things?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58695353.html",
+      "site": "学科网",
+      "title": "Unit 4 第2课时 Explore(分层作业)英语沪教版六年级上册(新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目涉及力与速度的物理概念，属于科技类阅读，与科技改变生活话题相关。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.367967"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_zxxk_54252039_002",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Alice is ______ in ICT. She thinks it's very useful.",
+    "options": [
+      "interest",
+      "interesting",
+      "interested",
+      "interests"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54252039.html",
+      "site": "学科网",
+      "title": "Unit 1 School life 单元达标检测卷-2025-2026学年沪教版(五四制)(2024)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查 be interested in 固定搭配，话题为 ICT 科技，属于 u5.k4 科技讨论范畴。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.367967"
+    },
+    "answer_text": "C. interested",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_24033724_014",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "You'd better not ________(花费) too much time on TV.",
+    "options": null,
+    "answer": "spend",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论科技使用时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 1,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.151059"
+    },
+    "has_answer": true,
+    "duplicate_of": "英语_u4.k4_21cnjy_24033724_014"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_24033724_019",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Many people like reading newspapers so that they can learn what's ________(发生) in the world.",
+    "options": null,
+    "answer": "happening",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "了解世界发生的事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u3.k1_21cnjy_24033724_019"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_24033724_056",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Over 40,000 people gave up their spare time for the 2007 ________(特殊的) Olympics World Games.",
+    "options": null,
+    "answer": "Special",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "special 特殊,科技/奥运会话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.151059"
+    },
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k1_21cnjy_24033724_056"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26546730_002",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Our group will ________ a small survey about students' creative thinking habits.",
+    "options": [
+      "conduct",
+      "make",
+      "do",
+      "take"
+    ],
+    "answer": "0",
+    "explanation": "句意：我们小组将会进行一项关于学生的创意思考习惯的小调查。conduct进行、实施；make制作；do做；take拿、采取。根据\"a small survey\"可知，此处是指开展调查，固定搭配conduct a survey表示\"进行调查\"，符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "进行调查，科技改变生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. conduct",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_008",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Our group will ________ a small survey about students' creative thinking habits.",
+    "options": [
+      "conduct",
+      "make",
+      "do",
+      "take"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词搭配conduct a survey",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "英语_u5.k4_21cnjy_26546730_002",
+    "answer_text": "A. conduct",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_009",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "We should consider the interests of the whole class ________.",
+    "options": [
+      "as a whole",
+      "in general",
+      "at last",
+      "at first"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "短语as a whole整体考虑",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "英语_u4.k1_21cnjy_26504401_009",
+    "answer_text": "A. as a whole",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_010",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "It is necessary ________ us to develop good thinking habits from a young age.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "it is necessary for sb句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. for",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_014",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He realized that great ideas often come when people ________ and relax, not when they force themselves to think.",
+    "options": [
+      "work",
+      "rest",
+      "argue",
+      "study"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语境理解rest and relax",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. rest",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_031",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What can the BCI device NEO help people with spine injuries do",
+    "options": [
+      "Move their hands.",
+      "Move their legs.",
+      "Treat cancer.",
+      "Work in factories."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读讨论BCI科技发明与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Move their hands.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_032",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "How many tests were ongoing about CRISPR by October 2024 according to the text",
+    "options": [
+      "3.",
+      "Over 30.",
+      "Less than 30.",
+      "300."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读谈论CRISPR科技发明",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Over 30.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_033",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What did China do in its 2026 space plans",
+    "options": [
+      "Sent taikonauts to the Tiangong Space Station.",
+      "Sent up a satellite to the Moon.",
+      "Sent up the satellite SMILE.",
+      "Sampled the asteroid 2016 HO3."
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读介绍中国太空科技计划",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. Sent up the satellite SMILE.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_034",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Where can human-like robots work according to the text",
+    "options": [
+      "In hospitals.",
+      "In schools.",
+      "In factories.",
+      "In banks."
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读讨论人形机器人发明用途",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. In factories.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_035",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Where is the text probably from",
+    "options": [
+      "A storybook.",
+      "A science newspaper.",
+      "A travel guide.",
+      "A food magazine."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读体裁判断科技类来源",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. A science newspaper.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26546730_020",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "The students _____ for perfect results and never gave up.",
+    "options": null,
+    "answer": "strove",
+    "explanation": "句意：学生们为完美的结果而努力，从不放弃。空处作谓语，需填动词；结合\"for perfect results\"和\"never gave up\"可知，他们\"努力\"追求完美结果，strive意为\"努力/奋斗\"，描述过去动作用一般过去时，故填strove。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "strived过去式，辩论科技态度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:48:14.647953"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u7.k4_21cnjy_26546730_026"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_026",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "How did the bacteria help the plants",
+    "options": [
+      "They provided water.",
+      "They increased phosphorus in the soil.",
+      "They produced oxygen.",
+      "They killed harmful insects."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "太空种植与科技改变生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. They increased phosphorus in the soil.",
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k2_21cnjy_26504401_026"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_027",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What is the difference between the plants with bacteria and those without",
+    "options": [
+      "They grew better in many ways.",
+      "They only grew longer roots.",
+      "They showed no difference.",
+      "They grew in different stages."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科技实验对比，属科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. They grew better in many ways.",
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k2_21cnjy_26504401_027"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_028",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Why does the author say \"space planting is becoming necessary\" in paragraph 5",
+    "options": [
+      "Because astronauts prefer fresh vegetables rather than food from Earth.",
+      "Because carrying all food from Earth is not a good long-term plan.",
+      "Because plants grow faster and better in space than on Earth.",
+      "Because astronauts cannot find any food in space."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "太空科技与种植必要性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Because carrying all food from Earth is not a good long-term plan.",
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k2_21cnjy_26504401_028"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_029",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Why does the author mention China's Shenzhou missions in the passage",
+    "options": [
+      "To prove that space planting has already made progress.",
+      "To compare Chinese astronauts with other countries'.",
+      "To show China's leading role of the space exploration.",
+      "To show that lettuce is the best crop to grow."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "中国航天科技成就话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. To prove that space planting has already made progress.",
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k2_21cnjy_26504401_029"
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_036",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Where do typhoons often happen",
+    "options": [
+      "In the Arctic Ocean.",
+      "Around the Pacific Ocean.",
+      "In Africa.",
+      "Only in America."
+    ],
+    "answer": "1",
+    "explanation": "根据常识及短文语境，台风常发生在太平洋周边地区。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "台风自然科普，属科学话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Around the Pacific Ocean.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_037",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does the underlined word “evaporates” in Paragraph 2 mean",
+    "options": [
+      "Goes up.",
+      "Goes down.",
+      "Turns into.",
+      "Drops off."
+    ],
+    "answer": "2",
+    "explanation": "evaporates意为\"蒸发\"，即水变成水汽进入空气，故选Turns into。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "evaporates词义，科普词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. Turns into.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_038",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "In which order does a typhoon happen\n①The air gets warmer.\n②The sun makes sea water hot.\n③The air moves quickly, making wind.\n④When the wind moves fast enough, a typhoon starts.",
+    "options": [
+      "①②③④",
+      "①③②④",
+      "②①③④",
+      "②①④③"
+    ],
+    "answer": "2",
+    "explanation": "根据短文描述，台风的形成顺序为：太阳使海水变热→空气变暖→空气快速移动形成风→风速达到一定程度形成台风，即②①③④。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "台风形成顺序，逻辑排序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ②①③④",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_039",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Why was Super Typhoon Haiyan terrible",
+    "options": [
+      "Over 6,300 people died because of Super Typhoon Haiyan.",
+      "The strongest winds and hardest rain are in the wall of clouds.",
+      "It only stayed over the sea for a short time.",
+      "It destroyed local farm crops heavily."
+    ],
+    "answer": "0",
+    "explanation": "根据短文第三段，2013年11月超强台风海燕造成菲律宾超过6300人死亡，这是其可怕的原因。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "台风灾害事实细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Over 6,300 people died because of Super Typhoon Haiyan.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_040",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What is the main purpose of the last paragraph",
+    "options": [
+      "To tell us how typhoons form.",
+      "To introduce parts of a typhoon.",
+      "To give advice on typhoon safety.",
+      "To show how dangerous typhoons are."
+    ],
+    "answer": "2",
+    "explanation": "最后一段列举了台风来临时应采取的安全措施，主要目的是给出安全建议。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "末段目的，台风安全建议",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. To give advice on typhoon safety.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_084",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "____ , keeping an open mind and taking proper breaks can help us think outside the box.",
+    "options": [
+      "Thus",
+      "However",
+      "Also",
+      "Besides"
+    ],
+    "answer": "0",
+    "explanation": "However'然而'符合转折关系。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论科技与思维方式的逻辑连词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Thus",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_086",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "For common students, small and thoughtful creations can also ____ our daily life.",
+    "options": [
+      "improve",
+      "damage",
+      "change",
+      "control"
+    ],
+    "answer": "1",
+    "explanation": "change'改变'符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论科技对日常生活影响的动词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. damage",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_096",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Where can humanoid robots work according to the passage?",
+    "options": [
+      "In hospitals.",
+      "In schools.",
+      "In factories.",
+      "In airports."
+    ],
+    "answer": "2",
+    "explanation": "第五段指出人形机器人可以在餐厅、家庭和工厂工作。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解人形机器人工作场所细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. In factories.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26504401_130",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What will happen to wild animals if wetlands disappear?",
+    "options": null,
+    "answer": "They will lose their homes and enough food.",
+    "explanation": "第三段提到湿地消失会导致野生动物失去栖息地和食物。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科技对生活的影响",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26566391_069",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "She would like ________ (join) the volleyball club.",
+    "options": null,
+    "answer": "to join",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "would like to do结构，join不变形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26355151_040",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Gina thinks playing computer games is ________. (没趣的，令人厌倦的)",
+    "options": null,
+    "answer": "boring",
+    "explanation": "play computer games 是令人厌倦的，用形容词 boring。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单词拼写，形容词否定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26333345_012",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "— The study says that too much screen time is bad for teenagers. Is that true — Yes. It can ________ poor eyesight and even affect our sleep quality.",
+    "options": [
+      "prevent",
+      "cause",
+      "improve",
+      "accept"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26333345",
+      "site": "21世纪教育网",
+      "title": "doc 26333345",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论科技影响，词汇辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:53:24.560675"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. cause",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26333345_015",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Screen time late into night every day without rest can ________ problems like bad eyesight and sore necks.",
+    "options": [
+      "cause",
+      "prevent",
+      "damage",
+      "kill"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26333345",
+      "site": "21世纪教育网",
+      "title": "doc 26333345",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科技对健康影响，词汇辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:53:24.560675"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. cause",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26333345_041",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "In which part of a newspaper can we see the passage",
+    "options": [
+      "Culture.",
+      "Life.",
+      "Sports.",
+      "History."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26333345",
+      "site": "21世纪教育网",
+      "title": "doc 26333345",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论科技是否成为朋友的主题相关文章",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:53:24.561686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Life.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26333345_042",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Why do some people worry about the pet-themed restaurants",
+    "options": [
+      "Because the restaurants are too noisy.",
+      "Because animals there are dirty.",
+      "Because they don't like animals.",
+      "Because eating there may be bad for people's health."
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26333345",
+      "site": "21世纪教育网",
+      "title": "doc 26333345",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "关于宠物主题餐厅的科技生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:53:24.561686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. Because eating there may be bad for people's health.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26333345_044",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does the writer think about the pet-themed restaurants",
+    "options": [
+      "People shouldn't eat there.",
+      "People should make rules for them.",
+      "They should be closed as soon as possible.",
+      "They're great places for pet lovers."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26333345",
+      "site": "21世纪教育网",
+      "title": "doc 26333345",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "作者观点题关于科技与生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:53:24.561686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. People should make rules for them.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_010",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "With the development of digital technology, people ________ more on mobile devices for communication.",
+    "options": [
+      "depend",
+      "decide",
+      "divide",
+      "develop"
+    ],
+    "answer": "0",
+    "explanation": "depend on意为\"依靠、依赖\"。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "depend on短语,科技与生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. depend",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_012",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "To protect our online safety, we should ________ giving our personal information to strangers.",
+    "options": [
+      "practice",
+      "enjoy",
+      "avoid",
+      "suggest"
+    ],
+    "answer": "2",
+    "explanation": "avoid doing sth.意为\"避免做某事\"。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "avoid doing,网络科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. avoid",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_013",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "It is important ________ us ________ our personal information safe online.",
+    "options": [
+      "for; keep",
+      "of; keep",
+      "for; to keep",
+      "of; to keep"
+    ],
+    "answer": "2",
+    "explanation": "句型：It is important for sb. to do sth.。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "It's adj for sb to do句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. for; to keep",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_018",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Many teenagers are ______ in online games and short videos.",
+    "options": [
+      "interested",
+      "excited",
+      "relaxed",
+      "surprised"
+    ],
+    "answer": "0",
+    "explanation": "be interested in为固定搭配。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be interested in,科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. interested",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_019",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "This bad ______ brings many problems.",
+    "options": [
+      "plan",
+      "habit",
+      "dream",
+      "choice"
+    ],
+    "answer": "1",
+    "explanation": "指上网时间长的坏习惯。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "habit坏习惯,网络生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. habit",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_020",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "What's more, staring at screens for long will ______ their eyesight.",
+    "options": [
+      "protect",
+      "improve",
+      "harm",
+      "repair"
+    ],
+    "answer": "2",
+    "explanation": "长时间看屏幕会伤害视力。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "harm eyesight,科技负面影响",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. harm",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_021",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Besides, some people may leak personal ______ online.",
+    "options": [
+      "information",
+      "suggestion",
+      "message",
+      "story"
+    ],
+    "answer": "0",
+    "explanation": "泄露个人信息。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论网络隐私，属科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. information",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_022",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "So we must ______ our privacy carefully.",
+    "options": [
+      "save",
+      "guard",
+      "hide",
+      "avoid"
+    ],
+    "answer": "1",
+    "explanation": "guard意为\"保护、守护\"。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "保护隐私，合理使用网络",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. guard",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_023",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "We should make strict rules for ourselves. Don't waste too much time on meaningless online activities. Balance study, exercise and online entertainment. Only ______ this way can we enjoy the benefits of digital technology and live a ______ life.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "制定规则，合理使用网络",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_048",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "When is the speech about the Gulf of Mexico",
+    "options": [
+      "At 1:30 p.m. on Monday.",
+      "At 12:30 p.m. on Friday.",
+      "At 10:30 a.m. on Tuesday.",
+      "At 10:00 a.m. on Saturday."
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学讲座，科技调查辩论话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_049",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "If Mike, a 14-year-old student, wants to visit the Butterfly House, he will pay ________.",
+    "options": [
+      "3 dollars",
+      "4 dollars",
+      "6 dollars",
+      "7 dollars"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动物园信息，科技与生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_050",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "People can feed the spiders ________.",
+    "options": [
+      "in Oahu Island",
+      "in the Gulf of Mexico",
+      "in Butterfly House",
+      "in the Orkin Insect Zoo"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "喂蜘蛛，科技馆信息",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_051",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "If Jane wants to learn how scientists work on coral and coral reefs, she may search it ________.",
+    "options": [
+      "from Oahu Island online",
+      "the zoo in the United States",
+      "Butterfly House from around the world",
+      "the home from the Gulf of Mexico"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学家工作，科技调查话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_052",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "If you come to the speech and join the scientists, you can learn a lot about ________ .",
+    "options": [
+      "spider feedings",
+      "living butterflies",
+      "the sea plants and animals",
+      "a search program"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学家讲座，科技辩论话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_21cnjy_26585513_055",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短文填空",
+    "stem": "Nowadays, more and more students have their own mobile phones. But there is a heated discussion about w   56    students should use mobile phones at school. Some people think it is a good idea. First, mobile phones can help students s   57    for information when they have difficulty in study. Second, students can use mobile phones to keep in t   58    with their parents. Parents can know where their children are and make sure they are safe. Third, mobile phones can make students' life more colourful. They can listen to music or watch films in their f   59    time. H   60   , other people have different opinions. They think using mobile phones at school has many disadvantages. First, it may have a bad influence on study. Students may play games or chat online in class i   61    of listening to the teacher. Second, students may compare their phones with others'. That is not good for their growth. Third, using mobile phones too much is bad for eyes and h   62   . In my opinion, students can bring mobile phones to school, but they should use them in a p   63    way. They should turn them off in class and use them after school. Teachers and parents should also give students proper g   64    on how to use mobile phones correctly. In a word, mobile phones can be good helpers if we use them w   65   .",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "手机使用讨论，科技是否朋友话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_18497992_012",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力",
+    "stem": "Hw des the wman feel abut what Jenny has dne?",
+    "options": [
+      "It might cause legal prblems.",
+      "It wuld benefit the cmmunity.",
+      "It culd be a prfitable business."
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "观点表达,讨论科技利弊",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_18497992_029",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Which f the fllwing may Cmmane suggest based n their study?",
+    "options": [
+      "Cutting dwn the isprene-prducing trees.",
+      "Suspending tree-planting fr a few decades.",
+      "Changing the species f trees in new plantings.",
+      "Remving isoprene released by existing trees."
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，调查与建议",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_18497992_031",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What wuld Auyeung prbably advcate?",
+    "options": [
+      "Reducing car use in daily life.",
+      "Prviding animals with new habitats.",
+      "Cntrlling ppulatin grwth.",
+      "Ding mre research n the prblem."
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，辩论与建议",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_18497992_036",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Museums, nce quiet places filled with histry, are nw full f digital excitement. By using machine learning and advanced algrithms (算法), these institutins are creating persnalized visitr jurneys, prtecting delicate cllectins, and revealing hidden stries. ____36____",
+    "options": [
+      "This capability allws fr timely restratin.",
+      "Visitr data cllectin als raises privacy issues.",
+      "In shrt, AI is redefining the museum in all respects.",
+      "It tailrs learning experiences t different age grups and learning styles."
+    ],
+    "answer": "G",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，科技改变生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_18497992_040",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "Lking ahead, the rapid advancement f AI prmises bth exciting pssibilities and ethical (伦理的) challenges. Museums are wrking tgether with AI ethicists t develp fair algrithms. ____40____ Strict plicies shuld be established t prtect visitrs' infrmatin.",
+    "options": [
+      "This capability allws fr timely restratin.",
+      "Visitr data cllectin als raises privacy issues.",
+      "In shrt, AI is redefining the museum in all respects.",
+      "It tailrs learning experiences t different age grups and learning styles."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，科技利弊讨论",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Visitr data cllectin als raises privacy issues.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_15539665_037",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读",
+    "stem": "The home-owners can electronically ___________________ when they are not at home.",
+    "options": null,
+    "answer": "open the door",
+    "explanation": "根据\"They can electronically open the door when they are not at home\"可知，他们不在家的时候可以用电子方式开门，故填open the door。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "智能家居与科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_15539665_039",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读",
+    "stem": "How can the owners control how much energy is used?",
+    "options": null,
+    "answer": "By using the computer.",
+    "explanation": "根据\"By using the computer, the owners can control how much energy is used.\"可知，通过使用电脑，业主可以控制使用多少能源。故填By using the computer.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "智能家居与科技使用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k4_51jiaoxi_15539665_040",
+    "subject": "英语",
+    "kp_id": "u5.k4",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读",
+    "stem": "Do you like the technology in the smart home? Why or why not?",
+    "options": null,
+    "answer": "Yes. Because it is very convenient.（言之有理即可）",
+    "explanation": "言之有理即可。故填Yes. Because it is very convenient.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论科技是否为朋友",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

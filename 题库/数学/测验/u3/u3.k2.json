@@ -1,0 +1,5139 @@
+[
+  {
+    "qid": "数学_u3.k2_zxxk_53996783_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "□+□×□应先算（）法，再算（）法，结果是（）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53996783.html",
+      "site": "学科网",
+      "title": "第二单元 分数混合运算常考易错题单元提升测试--2025-2026学年北师大版六年级上册数学 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查含加减乘运算的表达式运算顺序（先乘后加），属代数式基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_53996783_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "□×□＋□÷□=（）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53996783.html",
+      "site": "学科网",
+      "title": "第二单元 分数混合运算常考易错题单元提升测试--2025-2026学年北师大版六年级上册数学 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用方框□表示未知量，考查含四则运算的代数式结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_53996783_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "□+□×□=□×□=□。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53996783.html",
+      "site": "学科网",
+      "title": "第二单元 分数混合运算常考易错题单元提升测试--2025-2026学年北师大版六年级上册数学 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用方框代数字考运算顺序与代数式判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.044958"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59635418_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "实验小学计划租车前往汉水源研学(每辆车都坐满)，大巴车每辆限坐42人，中巴车每辆限坐28人。用字母a表示大巴车数量，用字母b表示中巴车数量，乘坐的总人数可以表示为( )。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59635418.html",
+      "site": "学科网",
+      "title": "第三单元《用字母表示数》(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号表示总人数42a+28b，属代数式。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59635418_005",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "套圈游戏中，套中文具得3分，套中课外书得5分。用m表示套中文具的次数，n表示套中课外书的次数，总得分用式子表示为( );当m=4,n=3时,总得分是( )分。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59635418.html",
+      "site": "学科网",
+      "title": "第三单元《用字母表示数》(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母m、n表示次数，写出总得分代数式 3m+5n",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59222389_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "小明买了____本练习本，每本____元，共需要____元。用含有字母的式子表示总价钱。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号表示总价数量关系，核心是代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59222389_007",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列式子中，表示乘法分配律的是（）。",
+    "options": [
+      "(a+b)×c=a×c+b×c",
+      "a×b=b×a",
+      "(a+b)+c=a+(b+c)",
+      "a×b×c=a×(b×c)"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号表示运算定律，识别代数式所表达的分配律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "A. (a+b)×c=a×c+b×c",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59222389_008",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列式子书写规范的是（）。",
+    "options": [
+      "a×4",
+      "4a",
+      "a·4",
+      "4×a"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查代数式书写规范：数字在前字母在后，省略乘号",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.044958"
+    },
+    "answer_text": "B. 4a",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59222389_009",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "判断题：\"a与b的平方和\"可以表示为(a+b)²。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "将文字语言'a与b的平方和'转化为正确代数式 a²+b²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.044958"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_59222389_010",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "某商店购进一批衣服，每件进价为a元，售价为b元，每天售出c件。（1）用含有字母的式子表示每天的利润。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59222389.html",
+      "site": "学科网",
+      "title": "3.1 用字母表示数量关系（同步练习）-2026-2027学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号表示每天利润c(b-a)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_55545907_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "某种苹果的售价是每千克x元，用面值为100元的人民币购买了5千克，应找回____元．",
+    "options": null,
+    "answer": "(100-5x)",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545907.html",
+      "site": "学科网",
+      "title": "上海市闵行区莘松中学2025-2026学年上学期12月月考六年级数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据题意用字母x表示单价，列代数式100-5x表示找回的钱",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.814719"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_55545907_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "\"a的2倍与b一半的和\"用代数式表示为_______．",
+    "options": null,
+    "answer": "2a+b/2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545907.html",
+      "site": "学科网",
+      "title": "上海市闵行区莘松中学2025-2026学年上学期12月月考六年级数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "将文字语言\"a的2倍与b一半的和\"翻译为代数式2a+b/2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_55545907_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "已知a为有理数，若(a-1)x^a是一次式，则______．",
+    "options": null,
+    "answer": "a=1或a=0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545907.html",
+      "site": "学科网",
+      "title": "上海市闵行区莘松中学2025-2026学年上学期12月月考六年级数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查单项式成立条件：系数非0、指数为非负整数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "难",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.044958"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_55545907_014",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "仓库里有煤m吨，食堂每天用煤n吨，如果每天节约用煤d吨，那么可以比原来多用______天．",
+    "options": null,
+    "answer": "md/(n(n-d))",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545907.html",
+      "site": "学科网",
+      "title": "上海市闵行区莘松中学2025-2026学年上学期12月月考六年级数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1",
+        "u3.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示天数关系，列出代数式 m/(n-d) - m/n 求差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_zxxk_54233227_015",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "（25-26六年级上·广东汕头·开学考试）把＋＋＋改写成乘法算式是(　　)。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54233227.html",
+      "site": "学科网",
+      "title": "专题01 分数乘法（运算）（期中专项训练）数学青岛版六年级上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "把相同加数连加改写为乘法，是代数式的基本形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.044958"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "a³表示（ ）。",
+    "options": [
+      "a×3",
+      "a＋a＋a",
+      "a×a×a",
+      "a²＋a"
+    ],
+    "answer": "2",
+    "explanation": "乘方表示求几个相同因数的积的运算，a³表示3个a相乘，即a×a×a。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "a³是代数式，含义辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. a×a×a",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "蜡烛主要用石蜡制成。一根蜡烛长a毫米，每分钟燃烧6毫米，燃烧了x分钟后，剩下的蜡烛长（ ）毫米。",
+    "options": [
+      "6x－a",
+      "a＋6x",
+      "a－6x"
+    ],
+    "answer": "2",
+    "explanation": "每分钟燃烧6毫米，燃烧x分钟燃烧6x毫米，剩下a－6x毫米。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母代数式表示剩余长度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. a－6x",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_005",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小明今年a岁，妹妹今年a－b岁，再过c年，他们的年龄相差（ ）岁。",
+    "options": [
+      "b",
+      "c",
+      "a－b"
+    ],
+    "answer": "0",
+    "explanation": "年龄差不变，a－(a－b)=b岁。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示年龄差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. b",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_017",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个篮球售价x元，李老师买了3个篮球要花( )元，李老师给售货员300元，应找回( )元，如果每个篮球90元，应找回( )元。",
+    "options": null,
+    "answer": "3x；300－3x；30",
+    "explanation": "3×x=3x元；找回300－3x元；300－90×3=30元。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示花费与找回",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "当时，代数式值为2026，则当时，代数式的值为_________．",
+    "options": null,
+    "answer": "",
+    "explanation": "根据已知得出，进而将和代入代数式，即可求解．\n【详解】解：∵当时，代数式值为2026，\n∴，即，\n当时，．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式形式相同，代入计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_010",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "当时，代数式 的值为2026，则当时，代数式 的值为______．",
+    "options": null,
+    "answer": "",
+    "explanation": "先将代入已知代数式，求出的值，再将代入待求代数式，整体代入计算即可．\n【详解】解：当时，，\n，\n；\n当时，．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式结构相同，代入计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图是一个运算程序，若开始输入x的值为25，则第2025次输出的结果为__________．",
+    "options": null,
+    "answer": "5",
+    "explanation": "根据运算程序图可知输出结果按5和1一循环，然后问题可求解．\n【详解】解：由运算程序图可知：\n第一次输出结果为，第二次输出结果为，第三次输出结果为，第四次输出结果为，…..；由此可知：输出结果按5和1一循环，\n∵，\n∴第2025次输出的结果为5．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按程序循环运算找规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "程序框图的算法思路源于我国古代数学名著《九章算术》，根据如图所示的计算程序，当输入时，输出的结果为__________．",
+    "options": null,
+    "answer": "1",
+    "explanation": "利用程序图中的程序将代入计算即可．\n【详解】解：当输入时，原式，\n将代入得：．\n故输出结果为1．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按程序框图代入计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据如图所示的程序计算函数的值，若输入的值是，则输出的值为_____．",
+    "options": null,
+    "answer": "",
+    "explanation": "观察程序计算图，根据输入的值，找出与的关系式，将其值代入即可求出答案，计算过程需要注意的是有理数的加减法法则（减一个数等于加上这个数的相反数；同号两数相加，取相同的符号并将绝对值相加）．\n【详解】解：输入的值是，\n将代入中，\n．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按程序图代入求函数值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_014",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图是一个运算程序示意图，若开始输入x的值是，则输出的y值为______．",
+    "options": null,
+    "answer": "",
+    "explanation": "【详解】解：开始输入x的值是，\n由，得．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "程序运算求y值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_015",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "按如图所示的程序计算：若开始输入的值为，则最后输出的结果是______．",
+    "options": null,
+    "answer": "",
+    "explanation": "根据运算步骤输入，按照逻辑图逐步计算至输出结果，得到答案．\n【详解】解：当时，\n∵，\n∴计算，\n∵，\n∴当时，\n∵，\n∴计算，\n∵，\n∴当时，\n∵，\n∴计算，\n∵，\n∴结果为．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "程序运算求最终输出值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_016",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "定义一种新运算：，例如．则的值为________",
+    "options": null,
+    "answer": "",
+    "explanation": "根据题目给出的新运算规则，代入对应数值，按照有理数混合运算法则计算即可．\n【详解】解：由题意得，，\n将，代入，\n得\n．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新运算即自定义代数式求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_017",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "新定义： 若定义， 则 _______．",
+    "options": null,
+    "answer": "",
+    "explanation": "本题考查新定义下的运算，有理数的四则运算，掌握知识点是解题的关键．\n根据新定义下的运算，有理数的四则运算，即可解答．\n【详解】解：∵，\n∴．\n故答案为：．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新定义运算代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_018",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "a、b为有理数，若规定一种新的运算\"*\"，定义a*b＝a²﹣b²﹣ab+1，例如：﹣3*4＝（﹣3）²﹣4²﹣（﹣3）×4+1＝6；请根据\"*\"的定义计算：（﹣1*1）*（﹣2）＝___．",
+    "options": null,
+    "answer": "5",
+    "explanation": "根据题目中定义运算法则代入求解即可．\n【详解】解：由定义的运算法则可得，\n（﹣1*1），\n∴（﹣1*1）*（﹣2）＝2*（﹣2）．\n故答案为：5．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新运算规则下求代数式值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_019",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "定义一个新运算，若，，则______．",
+    "options": null,
+    "answer": "1或",
+    "explanation": "先根据可得或，再根据题意进行分类讨论即可求解．\n【详解】解：，\n或，\n，\n①当，时，\n；\n②当，时，\n；\n综上所述：或，",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新运算定义代入求字母值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_020",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "对于有理数、，定义一种新运算，规定，则______．",
+    "options": null,
+    "answer": "",
+    "explanation": "本题考查有理数混合运算、代数式求值，根据题中定义的新运算法则，代入对应数值进行计算即可．\n【详解】解：∵\n∴当，时，\n．\n故答案为：．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新运算代入求代数式的值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_032",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "某公园的门票价格如下：成人20元，学生10元，满40人可以购买团体票（8折），设一个旅游团共有x人，其中学生有y人．\n(1)用含x，y的整式表示该旅游团购买团体票应付的门票费．\n(2)如果该旅游团有46个成人，12个学生，那么他们购买团体票需付的门票费是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示门票费",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k1_21cnjy_26378141_060",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_033",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "把一根长为的绳子剪成两段，并把每一段绳子围成一个正方形．设其中一个正方形的边长为xcm，面积为，另一个正方形的面积为．\n(1)用含有x的代数式表示：_________，_________；\n(2)结合情境，观察式子，围绕和提一个问题，并给出解答或解答思路．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示正方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k1_21cnjy_26378141_069",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_034",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，两个正方形的边长分别为a和b．\n(1)求阴影部分的面积S（用含a和b的代数式表示）；\n(2)若，，求阴影部分面积S的值．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式表示阴影面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_061",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "把一根长为的绳子剪成两段，并把每一段绳子围成一个正方形．设其中一个正方形的边长为xcm，面积为，另一个正方形的面积为．(1)用含有x的代数式表示：_________，_________；(2)结合情境，观察式子，围绕和提一个问题，并给出解答或解答思路．",
+    "options": null,
+    "answer": "(1)，；(2)见解析",
+    "explanation": "（1）根据正方形的面积公式，先由已知边长表示出一个正方形的面积；再利用绳子总长和正方形周长公式，求出另一个正方形的边长，进而表示出它的面积．（2）围绕和提出求代数式值的问题，将的具体值代入和的表达式中，计算出对应的面积值．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含x的代数式表示数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k1_21cnjy_26378141_069",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_062",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，两个正方形的边长分别为a和b．(1)求阴影部分的面积S（用含a和b的代数式表示）；(2)若，，求阴影部分面积S的值．",
+    "options": null,
+    "answer": "(1) ；(2)",
+    "explanation": "（1）阴影部分的面积=两个正方形面积之和-重叠部分（空白部分）的面积；（2）当，时，代入计算即可．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含a、b的代数式表示面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k2_21cnjy_26378141_034",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26430525_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将长方形分成六个小正方形，最小的正方形的面积是1cm²，求长方形的面积。（1）最小的正方形为A，则A 的边长是　 　cm。（2）设正方形B的边长为 xcm，则正方形C的边长是　 　cm，正方形D的边长是　 　cm，正方形E 的边长是　 　cm。（3）依据以上分析，长方形的长既可表示为　 　cm，也可表示为　 　cm，可求得x=　 　。（4）长方形的面积是　 　cm²。",
+    "options": null,
+    "answer": "（1）1；（2）x+1；x+2；x+3；（3）x+2+x+3；x+x+x+1；4；（4）143",
+    "explanation": "A的边长为1厘米；正方形C的边长为x+1厘米；D的边长为x+2厘米；E的边长为x+3厘米；x+2+x+3=x+x+x+1，得x=4；长方形的长为13厘米，宽为11厘米，面积为13×11=143平方厘米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26430525",
+      "site": "21世纪教育网",
+      "title": "【精品解析】北师大版（新教材）数学六年级上册第三单元第3课时 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示正方形边长代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:20.873655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26414604_005",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "1.用字母C表示图形的周长，写出表示图形周长的式子。（图形分别为：a,a,b；a,b,a,b；a,b,c,d）",
+    "options": null,
+    "answer": "C=2a+b；C=2a+2b；C=a+b+c+d。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414604",
+      "site": "21世纪教育网",
+      "title": "1.2用字母表示公式和规律（课件）(共21张PPT)2026-2027学年冀教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母列周长代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:18.073836"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18676527_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "篮球比赛规定：投进1球得2分，罚进1球得1分。用a表示投进球数，b表示罚进球数，得分是（________）分；当a=4、b=1时，得分是（________）分。",
+    "options": null,
+    "answer": "2a+b；9",
+    "explanation": "得分=2×投进球数+1×罚进球数=2a+b；当a=4、b=1时，2×4+1×1=8+1=9（分）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676527.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）用字母表示数量关系优秀第2课时习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示数量关系并求代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:15.130578"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18676527_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "每条大船坐6人，每条小船坐4人。a条大船和b条小船一共能坐（________）人。",
+    "options": null,
+    "answer": "6a+4b",
+    "explanation": "总人数=6×大船条数+4×小船条数=6×a+4×b=6a+4b（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676527.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）用字母表示数量关系优秀第2课时习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号列代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:15.130578"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.814719"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18676527_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一支钢笔x元，一个笔记本y元。买2支钢笔和3个笔记本一共（________）元；当x=5、y=3时，一共（________）元。",
+    "options": null,
+    "answer": "2x+3y；19",
+    "explanation": "钢笔总价2×x=2x元，笔记本总价3×y=3y元，共(2x+3y)元；当x=5、y=3时，2×5+3×3=10+9=19（元）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676527.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）用字母表示数量关系优秀第2课时习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列代数式表示总价并代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:15.130578"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12095849_023",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "已知关于x的方程(m−n)x2+mx+n=0．试探索：（1）当m和n满足什么关系时，该方程是一元一次方程？（2）当m和n满足什么关系时，该方程是一元二次方程？",
+    "options": null,
+    "answer": "（1）m=n≠0；（2）m≠n",
+    "explanation": "（1）根据一元一次方程可得：二次项系数一定是0，一次项系数不等于0，即m−n=0且m≠0，解得：m=n≠0；（2）根据一元二次方程的定义，则二次项系数不等于0，即m−n≠0，解得：m≠n．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12095849.html",
+      "site": "教习网",
+      "title": "数学人教版3.1.1 一元一次方程当堂达标检测题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据条件判断方程类型(一次/二次)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:44.681017"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12074406_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "列综合算式或方程计算：3/4加上2/5乘1/2的积，和是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列综合算式含字母运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12074406_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "列式计算：1减去3/8的差，除以1/4乘2/5的积，商是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列综合算式运算顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_15302301_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的几幅图中，不能用来表示1/2×1/4的是图（  ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "2",
+    "explanation": "选项C将大长方形先平均分成2份取其中的1份，再将这1份平均分成3份取其中的1份，表示1/2×1/3，不能表示1/2×1/4。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数乘法算式的图形表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 图C",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12227335_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用式子表示：m的3倍与1的和，下列表示正确的是",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "m的3倍与1的和可以表示为,故选A.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示数量关系列代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12227335_010",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "代数式的正确解释是",
+    "options": [
+      "a的平方与b的倒数的差",
+      "a与b的倒数的差的平方",
+      "a的平方与b的差的倒数",
+      "a与b的差的平方的倒数"
+    ],
+    "answer": "0",
+    "explanation": "代数式先算乘方再算减法,故选A.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式语言表述判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. a的平方与b的倒数的差",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12227335_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列式子书写规范的是",
+    "options": [
+      "",
+      "",
+      "a3x",
+      ""
+    ],
+    "answer": "0",
+    "explanation": "根据代数式的书写要求逐项判断.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式书写规范判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12227335_015",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用含a，b的代数式表示",
+    "options": null,
+    "answer": "",
+    "explanation": "由题意可得,故答案为.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12227335.html",
+      "site": "教习网",
+      "title": "初中湘教版2.2 列代数式优秀课后练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示图形数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:40.232069"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_043",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（25-26七年级下·吉林·期中）某中学八年级（1）班5名老师决定带领本班 x 名学生去迁西景忠山旅游参观．该景区每张门票的票价为40元，现有A、B两种购票方案可供选择：方案A：教师全价，学生半价；方案B：不分教师与学生，全部六折优惠．(1)请用含 x 的代数式分别表示：A方案所需的费用为______元，B方案所需的费用为______元(2)当学生人数 x=50 时，且只选择其中一种方案购票，请通过计算说明选择哪种方案更为优惠．",
+    "options": null,
+    "answer": "(1)A:120+20x；B:24(x+5)=24x+120；(2)相等",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含x的代数式表示购票费用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_088",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "探索规律．乐乐在计算：，这样的算式时，他想到用\"数形结合\"的方法来探索：以算式中的两个数分别构造两个正方形，用大正方形的面积减小正方形的面积，求剩余图形的面积．他发现\"剩余图形可以转化成长方形，求它的面积可用下面的算式表示\"：① ② ③ (1)图④的阴影部分表示，这个阴影部分可以转化成长是_______，宽是_______的长方形；(2)根据以上规律计算：．",
+    "options": null,
+    "answer": "(1)9，1；(2)5050",
+    "explanation": "（1）根据题目可得两个数的平方的差，等于两数之和与两数之差的乘积，由此可解；（2）将原式重新组合为，再利用（1）的规律计算即可求解．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数形结合表示代数式并化简",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_13449244_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "若，下列等式：①  ②  ③  ④  ⑤，其中错误的有（    ）",
+    "options": [
+      "0个",
+      "1个",
+      "2个",
+      "3个"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13449244.html",
+      "site": "教习网",
+      "title": "初中数学14.2.2 完全平方公式精品随堂练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据代数式相等判断等式对错",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:44.926763"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果用平方差公式计算，则可将原式变形为",
+    "options": [
+      "(m+y)(m-y)",
+      "",
+      "(m+y)²",
+      "(m-y)²"
+    ],
+    "answer": "2",
+    "explanation": "能把公式中的a，y看作公式中的b，应用平方差公式求解",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平方差公式识别，属代数式运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. (m+y)²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，从边长为a的大正方形纸片中剪去一个边长为b的小正方形．剩余部分沿虚线又剪拼成一个矩形（不重叠无缝隙）则矩形的面积为",
+    "options": [
+      "a²",
+      "b²",
+      "a²+b²",
+      "a²-b²"
+    ],
+    "answer": "3",
+    "explanation": "利用大正方形的面积减去小正方形的面积即可",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形面积恒等，体现平方差几何意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. a²-b²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列运算正确的是",
+    "options": [
+      "a²+a³=a⁵",
+      "(a²)³=a⁵",
+      "a²·a³=a⁶",
+      "(ab)²=a²b²"
+    ],
+    "answer": "3",
+    "explanation": "根据合并同类项的法则、同底数幂的乘法、幂的乘方、完全平方公式进行计算",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "幂运算性质辨析，属代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. (ab)²=a²b²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "若是完全平方式，则m的值等于",
+    "options": [
+      "6",
+      "-6",
+      "6或-6",
+      "12或-12"
+    ],
+    "answer": "2",
+    "explanation": "利用完全平方公式的结构特征判断",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完全平方式求参数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 6或-6",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_005",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "我国南宋数学家杨辉所著的《详解九章算术》一书中，用如图的三角形解释二项式(a+b)ⁿ的展开式的各项系数，此三角形称为\"杨辉三角\"，根据\"杨辉三角\"请计算(a+b)²⁰¹⁷的展开式中第三项的系数为",
+    "options": [
+      "45",
+      "55",
+      "2017",
+      "2018"
+    ],
+    "answer": "0",
+    "explanation": "根据规律，(a+b)ⁿ展开式中第三项系数为n(n-1)/2",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "杨辉三角求二项式系数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 45",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中不能用平方差公式计算的是",
+    "options": [
+      "(a+b)(a-b)",
+      "(a+b)(b-a)",
+      "(-a+b)(a+b)",
+      "(a+b)(a-b)"
+    ],
+    "answer": "0",
+    "explanation": "根据平方差公式特点逐个判断",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平方差公式结构识别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. (a+b)(a-b)",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_007",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "设a，b是实数，定义的一种运算如下：a⊕b=(a+b)²-(a-b)²，则下列结论：①若a⊕b=0，则a=b；②若a⊕b>0，则a,b同号；③若a⊕b<0，则a,b异号；④a⊕b=4ab，正确的有",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "根据新定义的运算转化为常见的运算",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新定义运算化简含完全平方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_008",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果一个数等于两个连续奇数的平方差，那么我们称这个数为\"幸福数\"，下列数中为\"幸福数\"的是",
+    "options": [
+      "205",
+      "250",
+      "502",
+      "520"
+    ],
+    "answer": "3",
+    "explanation": "设较小的奇数为x，较大的为x+2，列方程求解",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平方差形式判断奇数平方差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 520",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_009",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "计算：(a+b)²的结果是",
+    "options": [
+      "a²+2ab+b²",
+      "a²-2ab+b²",
+      "a²+b²",
+      "a²-b²"
+    ],
+    "answer": "0",
+    "explanation": "利用完全平方公式计算",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完全平方公式展开",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. a²+2ab+b²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_010",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列计算正确的是",
+    "options": [
+      "x²+x³=x⁵",
+      "x⁶÷x²=x³",
+      "(x+y)²=x²+y²",
+      "(xy)²=x²y²"
+    ],
+    "answer": "3",
+    "explanation": "根据合并同类项法则，同底数幂的除法法则，完全平方公式判断",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "幂运算与完全平方辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. (xy)²=x²y²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，现有甲、乙、丙三种卡片若干，分别是边长为a的正方形，边长为b的正方形和长宽为a、b的长方形。如果要用它们拼成边长为(a+b)的正方形，则需要甲乙丙三种卡片共______张。",
+    "options": null,
+    "answer": "25",
+    "explanation": "根据完全平方公式求出正方形的面积(a+b)²=a²+2ab+b²",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示图形面积配方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "计算：(a+1)(1-a)=______．",
+    "options": null,
+    "answer": "1-a²",
+    "explanation": "原式变形后，利用平方差公式计算",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平方差公式直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_014",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "若是关于x的完全平方式，则m=______．",
+    "options": null,
+    "answer": "-6或7",
+    "explanation": "利用完全平方公式的定义得出",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完全平方式求m",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_017",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "数学活动课上老师准备了若干个如图1的三种纸片，A种纸片是边长为a的正方形，B种纸片是边长为b的正方形，C种纸片是长为b，宽为a的长方形。并用A种纸片一张，B种纸片一张，C种纸片两张拼成如图2的大正方形。(1)请用两种不同的方法求图2大正方形的面积。方法1：______，方法2：______；(2)观察图2，请你写出代数式a²、b²、ab之间的等量关系______；(3)已知：a+b=5，ab=3，求a²+b²的值；(4)已知x²+y²=8，求(x+y)²的值。",
+    "options": null,
+    "answer": "略",
+    "explanation": "正方形面积可整体直接求，也可是四个图形的面积和",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两种方法表示面积得出公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_018",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图1，阴影部分的面积是______（写成平方差的形式）；若将图1中的阴影部分剪下来，拼成如图2的长方形，面积是______（写成多项式相乘的积形式）；比较两图的阴影部分的面积，可以得到公式：______．应用公式计算：(a+b)(a-b)",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据面积的和差得出答案，由阴影部分面积相等得出公式",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形拼剪推导平方差公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_019",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "设a，b为整数，容易知道(a+1)(a-1)=a²-1，a(a+2)=a²+2a，b(b+2)=b²+2b都能被8整除。试探究(a+b)(a-b)是否能被8整除，并用文字语言表达出你的结论。若一个数的算术平方根是一个自然数，则称这个数是完全平方数，试找出a²-1，a(a+2)，b(b+2)这一系列数中从小到大排列的前4个完全平方数，并说出当n满足什么条件时，为完全平方数。",
+    "options": null,
+    "answer": "略",
+    "explanation": "由题意利用代数式表示一般规律",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "整除性探究与完全平方数综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_020",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "【阅读材料】张老师准备了若干张如图1所示的甲、乙、丙三种纸片，其中甲种纸片是边长为x的正方形，乙种纸片是边长为y的正方形，丙种纸片是长为y，宽为x的长方形，并用甲种纸片一张，乙种纸片一张，丙种纸片两张拼成了如图2所示的一个大正方形。【理解应用】观察图2，用两种不同方式表示阴影部分的面积可得到一个等式，请你直接写出这个等式。【拓展升华】(1)已知x+y=5，xy=3，求x²+y²的值；(2)已知x²+y²=8，求(x+y)²的值。",
+    "options": null,
+    "answer": "略",
+    "explanation": "阴影部分面积为两个正方形面积和，也可从大正方形面积减去两个丙图片面积",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拼图得出平方差/完全平方等式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_021",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "从边长为a的正方形剪掉一个边长为b的正方形如图，然后将剩余部分拼成一个长方形如图。上述操作能验证的等式是______；A. (a+b)²；B. a²-b²=(a+b)(a-b)；C. a²+b²；(1)若a=5，b=3，求a²-b²的值；(2)计算：(a+1)(a-1)",
+    "options": null,
+    "answer": "略",
+    "explanation": "结合图1和图2阴影部分面积相等建立等式",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平方差公式的代数式变形与代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_022",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "阅读下列材料：利用完全平方公式，将多项式变形为a²+k的形式，然后由a²≥0就可求出多项式的最小值。例题：求x²+4x+5的最小值。解：x²+4x+5=(x+2)²+1，因为不论x取何值，(x+2)²总是非负数，所以x²+4x+5≥1，所以当x=-2时，有最小值，最小值是1。根据上述材料，解答下列问题：(1)填空：______；(2)将x²+6x+5变形为(x+k)²+m的形式，并求出x²+6x+5的最小值；(3)如图所示的第一个长方形边长分别是(2a+b)、(2a-b)，面积为：如图所示的第二个长方形边长分别是5a、b，面积为5ab，试比较5ab与(2a+b)(2a-b)的大小，并说明理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据完全平方公式解答，利用偶次方的非负性",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "配方为完全平方形式求最小值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12220574_023",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "两个边长分别为a和b的正方形如图放置图1，其未叠合部分阴影面积为S₁；若再在图1中大正方形的右下角摆放一个边长为b的小正方形如图2，两个小正方形叠合部分阴影面积为S₂。(1)用含a、b的代数式分别表示S₁、S₂；(2)若a=5，b=3，求S₂的值；(3)当a=2b时，求出图3中阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据正方形的面积之间的关系表示",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12220574.html",
+      "site": "教习网",
+      "title": "2021学年8.3 完全平方公式与平方差公式精品综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示图形面积并代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:55.293028"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_17633205_015",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "单项式4x2y的系数是__．",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据单项式的系数是字母前的数字因数，∴单项4x2y的系数是故答案为：",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17633205.html",
+      "site": "教习网",
+      "title": "河南省南阳市内乡县2026届数学七上期末达标测试试题含解析-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单项式系数判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:38.737594"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_008",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在公元前1600年左右遗留下来的古埃及草卷中，记载着一些数学问题，其中一个问题翻译过来是：\"啊哈，它的全部，它的，其和等于19。\"如果把\"它\"看作○，下列符合题意的式子是（ ）。",
+    "options": [
+      "○＋○×＝19",
+      "○＋＝19",
+      "1＋○×＝19"
+    ],
+    "answer": "0",
+    "explanation": "把\"它\"看作○，则它的全部是○，它的○×，再根据和等于19，列出等式：○＋○×＝19。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古题转化为代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ○＋○×＝19",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26520558_020",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "学校买来9个足球，每个8元，又买来b个足球，每个58元，一共用去(9a＋58)元。( )",
+    "options": null,
+    "answer": "×",
+    "explanation": "一共用去9×8＋58b=(72＋58b)元，并非(9a＋58)元。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总价代数式表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26378141_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（25-26七年级上·辽宁大连·期中）若，则______．",
+    "options": null,
+    "answer": "7",
+    "explanation": "根据绝对值和平方的非负性，得到，，解方程求出，的值，代入代数式计算即可．，，，，解得，，．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式化简求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:45:01.738636"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_14663995_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "+ + =（ ）× （ ）= （ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数加法及代数式形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_16860526_009",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "照样子，写一写。例：苹果的个数是桃子个数的。数量关系式：桃子个数×＝苹果的个数 1. 妈妈的年龄是爸爸年龄的。数量关系式： 2. 女生占全班人数的。数量关系式： 3. 篮球个数的相当于足球的个数。数量关系式： 4. 文艺书本数的和科技书同样多。数量关系式：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26306388_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列代数式中最符合书写要求的是(　　)",
+    "options": [
+      "a×b",
+      "n2",
+      "a÷b",
+      "ab"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26306388",
+      "site": "21世纪教育网",
+      "title": "doc 26306388",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式书写规范判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:51.443940"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ab",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26306388_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用代数式表示\"a的2倍与b的和\"为　     　．",
+    "options": null,
+    "answer": "2a+b",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26306388",
+      "site": "21世纪教育网",
+      "title": "doc 26306388",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:51.443940"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26306388_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某文具店购进一款笔记本，进价为元，若先按照进价提高标价，后又降价6元出售，那么现在的售价是　     　元（用含有的代数式表示）．",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26306388",
+      "site": "21世纪教育网",
+      "title": "doc 26306388",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示售价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:51.443940"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_17786043_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个皮球的价格是a元，一个足球的价格比它的6倍还多10元，则一个足球的价格可以表示为(                )；当a＝15时，一个足球的价格是(        )元。",
+    "options": null,
+    "answer": "（6a＋10）元；100",
+    "explanation": "a×6＋10＝（6a＋10）元；当a＝15时，6×15＋10＝100（元）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17786043",
+      "site": "21世纪教育网",
+      "title": "doc 17786043",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示价格关系并代入求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:01.477186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_17786043_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "akg大豆可榨豆油2.5kg，平均每千克大豆可榨豆油(        )kg，榨1kg豆油需要(        )kg大豆。",
+    "options": null,
+    "answer": "2.5÷a；a÷2.5",
+    "explanation": "用豆油的质量除以大豆的质量，表示平均每千克大豆可榨豆油多少kg；用大豆的质量除以豆油的质量，表示榨1kg豆油需要多少kg大豆。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17786043",
+      "site": "21世纪教育网",
+      "title": "doc 17786043",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示数量关系（除法）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:01.477186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_17786043_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某小学五年级有7个班，每班a人，六年级有b个班，每班50人，7a＋50b表示(        )，b－7表示(        )。",
+    "options": null,
+    "answer": "五年级和六年级的总人数；六年级比五年级多的班级数",
+    "explanation": "7a表示五年级的人数，50b表示六年级的人数；b－7表示六年级比五年级多的班级数。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17786043",
+      "site": "21世纪教育网",
+      "title": "doc 17786043",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式表示人数与班级数关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:01.477186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563917_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中，是代数式的有（   ）\n①；②；③；④；⑤；⑥",
+    "options": [
+      "3个",
+      "4个",
+      "5个",
+      "6个"
+    ],
+    "answer": "1",
+    "explanation": "①；④；⑤；⑥是代数式，共4个，故选B．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563917",
+      "site": "21世纪教育网",
+      "title": "doc 26563917",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断哪些式子是代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:31.761566"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 4个",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563917_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有下列五个式子：①；②；③（不等于0）；④；⑤；其中不符合代数式的书写格式的有（   ）个",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "①数字因数应写在字母因数前面，应写为；③除法运算应写成分数形式；④带分数与字母相乘应化为假分数；故①③④不符合书写格式，共3个，故选C．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563917",
+      "site": "21世纪教育网",
+      "title": "doc 26563917",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断代数式书写格式规范",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:31.761566"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563917_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下列说法：①a是代数式，1不是代数式；②表示数a，b，的积的代数式是；③代数式的含义是a与4的差除以b的商；④a，b两数的平方差与两数的积的4倍的和表示为．其中正确的有____________．（填序号）",
+    "options": null,
+    "answer": "③",
+    "explanation": "1也是代数式，①错误；ab×4应为4ab，②错误；③正确；④应为(a2﹣b2)+4ab，错误；故答案为③．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563917",
+      "site": "21世纪教育网",
+      "title": "doc 26563917",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析代数式意义与书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:31.761566"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "甲同学每天骑自行车上学，平均每分骑行m米，a分骑行(    )米。",
+    "options": null,
+    "answer": "am",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用运算符号连接字母和数,列代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "商店里的练习本的单价是a元，签字笔的单价是b元，红红买了2支签字笔和3本练习本，一共花费(        )元。",
+    "options": null,
+    "answer": "2b+3a",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列代数式表示总价=2b+3a",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "超市里有苹果m千克，苹果比梨多30千克，m-30表示(         )，2m-30表示(                 )。",
+    "options": null,
+    "answer": "梨的质量；苹果和梨的总质量",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示数量关系及复合含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_013",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "3+x也可以写成3x。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析代数式3+x与3x含义不同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_015",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如果m×a=n×a，那么m=n。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等式性质,a≠0时两边可同除a",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_017",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "五个数按从小到大的顺序排列，每相邻两个数的差都是2，中间的数是x，这五个数的和是5+x。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母x表示中间数,求五数和代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_25936914_018",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列式子中，是方程的有(    )个。①2+x>3 ②m+n=x ③3+7=10 ④10-y=a ⑤x-y",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨识方程定义:含未知数的等式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列式子中：①；②；③；④；⑤；⑥．单项式有（　　）",
+    "options": [
+      "②③④⑥",
+      "①③④",
+      "①⑤⑥",
+      "⑤⑥"
+    ],
+    "answer": "2",
+    "explanation": "解：①是常数，属于单项式；②包含加法运算，是多项式，不是单项式；③包含加法运算，是多项式，不是单项式；④分子为多项式，不是单项式；⑤是数字与字母的积，为单项式；⑥是数字与字母的积，为单项式．∴单项式有①、⑤、⑥，故选：C．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断单项式考查代数式概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ①⑤⑥",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "多项式按的降幂排列正确的是（    ）",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "2",
+    "explanation": "解：依题意，按字母的降幂排列为，故选：C",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多项式降幂排列属代数式基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 略",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中，去括号正确的是（   ）．",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "2",
+    "explanation": "解：选项A：，但选项为 ，错误，不符合题意；选项B：，但选项为 ，错误，不符合题意；选项C：，与选项一致，正确，符合题意；选项D：，但选项为 ，错误，不符合题意．故选：C．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "去括号涉及代数式运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 略",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_004",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列结论：①是单项式；②的次数是；③的系数是，次数是；④多项式是三次三项式，其中正确的有（   ）",
+    "options": [
+      "1个",
+      "2个",
+      "3个",
+      "4个"
+    ],
+    "answer": "0",
+    "explanation": "解：∵ 单项式是数字或字母的积，1是数字，∴ 结论①正确．∵ 单项式的次数是所有字母指数的和，中字母指数和为，∴ 结论②错误．∵ 单项式的系数是数字部分，包括常数，故系数为；次数是字母指数和，∴ 结论③错误．∵ 多项式的次数是最高次项的次数，的次数为，的次数为，的次数为，故最高次数为，是四次三项式，∴ 结论④错误．综上，只有结论①正确，故选：A．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断单项式系数与次数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1个",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_006",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "定义一种新运算\"\"，规定：，例如：．若，则的值为（   ）",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "0",
+    "explanation": "解：由题意可得，，，原式，故选：A．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "新运算下求值属代数式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 略",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_007",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知关于x，y的多项式与多项式的次数相同，那么n的值是（   ）",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "2",
+    "explanation": "解：关于x，y的多项式与多项式的次数相同，，解得．故选：C．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多项式次数比较求n",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_010",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图①所示，在一个边长为的正方形纸片上剪去两个小长方形，得到一个如图②的图案，再将剪下的两个小长方形拼成一个新的长方形，如图③所示，则新长方形的周长可表示为（    ）",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "0",
+    "explanation": "解：由图可知：剪下的两个小长方形的长为：，宽为：，∴拼成的新长方形的长为：，宽为：，∴周长为：，故选：A",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形变换用代数式表示周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 略",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个单项式满足下列三个条件：①系数是2；②次数是3；③只含有两个字母．写出一个满足上述条件的单项式：       ．",
+    "options": null,
+    "answer": "（答案不唯一，如）",
+    "explanation": "解：∵单项式满足∶①系数是2；②次数是3；③只含有两个字母，∴满足单项式的条件如：，故答案为：．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按条件写单项式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "关于、的多项式是四次二项式，则________．",
+    "options": null,
+    "answer": "2或",
+    "explanation": "解：由题意，得当，时，，原多项式为；当时，，原多项式为，综上所述，m的值为2或，故答案为：2或．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多项式次数与项数判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26563929_023",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "某学校为了全面提高学生的综合素养，组织了音乐，朗诵，舞蹈，美术共四个社团，学生积极参加（每个学生限报一项），参加社团的学生共有（6x﹣2y）人，其中音乐社团有x人参加，朗诵社团的人数比音乐社团人数的两倍少y人，舞蹈社团的人数比朗诵社团人数的一半多3人．（1）参加朗诵社团有 　      人；（用含x，y的式子表示）（2）求朗诵社团比舞蹈社团多多少人？（用含x，y的式子表示）（3）求美术社团有多少人？（用含x，y的式子表示）（4）若x＝65，y＝40，求美术社团的人数．",
+    "options": null,
+    "answer": "(1)(2x﹣y)人；(2)(xy﹣3)人；(3)(2xy﹣3)人；(4)107人",
+    "explanation": "解：（1）∵音乐社团有x人参加，朗诵社团的人数比音乐社团的人数的两倍少y人，∴参加朗诵社团的人数为（2x﹣y）人；(2)∵舞蹈社团的人数比朗诵社团人数一半多3人，由（1)知，参加朗诵社团的人数为（2x﹣y）人，∴参加舞蹈社团的人数为（2x﹣y）+3＝（xy+3）人，∵2x﹣y﹣（xy+3）＝2x﹣y﹣xy﹣3＝xy﹣3，∴朗诵社团比舞蹈社团多（xy﹣3）人；(3)∵6x﹣2y﹣x﹣（2x﹣y）﹣（xy+3）＝6x﹣2y﹣x﹣2x+y﹣xy﹣3＝2xy﹣3，∴参加美术社团的人数为（2xy﹣3）人；(4)当x＝65，y＝40时，2xy﹣3＝2×6540﹣3＝107．∴美术社团的人数为107人．",
+    "source": {
+      "url": "https://zy.21cnjy.com/26563929",
+      "site": "21世纪教育网",
+      "title": "doc 26563929",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含字母代数式表示人数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:06.631018"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26592598_005",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一本故事书有m页，小明平均每天看a页，4天看了(        )页，还剩(        )页没看。",
+    "options": null,
+    "answer": "4a；m－4a",
+    "explanation": "用小明平均每天看的页数乘天数，即可算出4天看了多少页；用这本故事书的总页数减去看了的页数，即可算出还剩多少页。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26592598",
+      "site": "21世纪教育网",
+      "title": "doc 26592598",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列代数式：4a与m-4a",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:48:19.424060"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26592598_008",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个长方形的长是15厘米，宽是y厘米，这个长方形的周长是（    ）厘米。",
+    "options": [
+      "15＋y",
+      "15＋2y",
+      "30＋y",
+      "30＋2y"
+    ],
+    "answer": "3",
+    "explanation": "根据长方形的周长＝（长＋宽）×2，把数据代入公式中求出周长。（15＋y）×2＝15×2＋2y＝30＋2y",
+    "source": {
+      "url": "https://zy.21cnjy.com/26592598",
+      "site": "21世纪教育网",
+      "title": "doc 26592598",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列代数式2(15+y)=30+2y",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:48:19.424060"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 30＋2y",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26592598_012",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个正方形的边长是b厘米，当边长增加3厘米，它的周长是(        )厘米；面积是(        )平方厘米。",
+    "options": null,
+    "answer": "4b＋12；b²＋6b＋9",
+    "explanation": "先根据题意得出边长增加3厘米后新正方形的边长为（b＋3）厘米，再根据正方形周长公式和面积公式求解。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26592598",
+      "site": "21世纪教育网",
+      "title": "doc 26592598",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列代数式：边长b+3的周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:48:19.424060"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_21cnjy_26592598_014",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，圆的半径为r厘米，则圆外最小正方形的面积是(        )平方厘米，圆内最大正方形的面积是(        )平方厘米。（答案用含有字母的式子表示）",
+    "options": null,
+    "answer": "4r²；2r²",
+    "explanation": "圆外最小正方形的面积＝边长为（r＋r）厘米的正方形的面积，圆内最大正方形的面积＝底为（r＋r）厘米、高为r厘米的三角形的面积×2。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26592598",
+      "site": "21世纪教育网",
+      "title": "doc 26592598",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用r表示圆内外正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:48:19.424060"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12658529_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中是方程的是（  ）。",
+    "options": [
+      "3x＋6",
+      "18＋14＝32",
+      "4x＋6＜18",
+      "5x＝0.2"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12658529.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断代数式与方程，方程需含等号",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T07:59:47.164727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 5x＝0.2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12658529_003",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "m与n的差的8倍，用式子表示为（    ）。",
+    "options": [
+      "m－8n",
+      "8m－n",
+      "8（m－n）",
+      "mn－8"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12658529.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用代数式表示数量关系m与n差再乘8",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T07:59:47.164727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 8（m－n）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_12658529_011",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "学校图书室有科技书ⅹ本,文艺书比科技书多130本,文艺书有（    ）本｡",
+    "options": null,
+    "answer": "（x+130）",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12658529.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用含字母式子表示文艺书本数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T07:59:47.164727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_5637855_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用含有字母的式子表示数量关系。（1）b 和 20 的积（  ）（2）比 25 少 x 的数（  ）（3）a 除以 9 的商（  ）（4）比 a 的 8 倍少 3 的数（  ）",
+    "options": null,
+    "answer": "（1）20b；（2）25-x；（3）a÷9；（4）8a-3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5637855.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母和运算符号表示数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:01:22.502911"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_5637855_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "动车的速度为220千米/时，普通列车的速度为120千米/时。（1）行驶 x 小时，动车和普通列车一共行了多少千米？（2）行驶 x 小时，动车比普通列车多行了多少千米？",
+    "options": null,
+    "answer": "（1）340x 千米；（2）100x 千米",
+    "explanation": "动车和普通列车每小时共行 (220+120) 千米，x 小时共行 340x 千米；动车每小时比普通列车多行 (220-120) 千米，x 小时多行 100x 千米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5637855.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示路程并求和与差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:01:22.502911"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18623743_001",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各式中，属于整式且为多项式的是（  ）",
+    "options": [
+      "2x+1/x",
+      "−πx²y",
+      "(x−5)/2",
+      "x+3"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18623743.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断整式与多项式，属代数式概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:08:43.029330"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. (x−5)/2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18623743_002",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法正确的是（  ）",
+    "options": [
+      "单项式−(2/2)x²y³的次数是7",
+      "多项式3x²−2x−1的常数项是1",
+      "单项式3ab⁵的系数是3",
+      "x²−2x+2/3是二次三项式"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18623743.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单项式次数系数及多项式项的判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:08:43.029330"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. x²−2x+2/3是二次三项式",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k2_51jiaoxi_18623743_024",
+    "subject": "数学",
+    "kp_id": "u3.k2",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "定义：若a+b＝3，则称a与b是关于3的实验数．（1）4与______是关于3的实验数，______与5﹣2x是关于3的实验数．（用含x的代数式表示）（2）若a＝2x²﹣3(x²+x)+5，b＝2x﹣[3x﹣(4x+x²)+2]，判断a与b是否是关于3的实验数，并说明理由．（3）若c＝|x﹣3|﹣1，d＝|x+2|﹣3，且c与d是关于3的实验数，求x的值。",
+    "options": null,
+    "answer": "(1) −1；2x﹣2；(2) 是关于3的实验数；(3) x=4或x=−3",
+    "explanation": "(1) 4+(−1)=3；(2x﹣2)+(5﹣2x)=3；(2) 化简得a+b=3；(3) 分x≥3，−2<x<3，x≤−2三种情况讨论，得x=4或x=−3",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18623743.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代数式化简并判断数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:08:43.029330"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

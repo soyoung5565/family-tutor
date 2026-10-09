@@ -1,0 +1,1294 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_013",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "二选一。①举例说明比较两个量有哪些方法。②要比较两个班同学的身高，可以从哪些方面进行比较？",
+    "options": null,
+    "answer": "开放题",
+    "explanation": "①比较方法：直接比较（测量）、间接比较（中介量）、倍比法、差比法等。②平均身高、最高/最低身高、中位数等。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u9.k4",
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "比较两班身高用平均等方法，属身高统计综合"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.148054"
+    },
+    "duplicate_of": "数学_u6.k1_szns_013",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_59525295_002",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "田田收集了全班同学的身高数据，记录如下表。身高/cm：110～119（5人），120～129（8人），130～139（15人），140及以上（12人）。按由高到低排列，福福的身高排第26名，福福的身高可能是（）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "身高数据用条形/折线/扇形图呈现",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_59525295_003",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "关于统计图，下列说法中不正确的是（）。",
+    "options": [
+      "田田想要用扇形统计图帮妈妈统计出家里各项支出占总支出的百分比",
+      "华华想直观看到去年深圳每月的蓝天天数情况，最合适的就是绘制条形统计图",
+      "鹏鹏认为要反映各民族人口数占人口总数的百分比，最好绘制扇形统计图",
+      "福福想要用条形统计图清楚地对比神舟二十一号上的三名航天员在火箭升空期间每分脉搏次数的变化情况"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1",
+        "u9.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查条形、折线、扇形统计图的特点与选择",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.148054"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_59525295_004",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "2025年世界机器人大会在北京举办。想直观看到大会中不同类型机器人的数量应绘制（　　）统计图；想知道大会中不同类型机器人占机器人总数的百分比应绘制（　　）统计图；如果想知道近十年我国机器人数量增长的变化情况应绘制（　　）统计图。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据数据特点选择条形图或扇形图，属统计图综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_54196583_005",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "下图是根据上表的数据绘制的，你能看懂吗？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54196583.html",
+      "site": "学科网",
+      "title": "5.1 扇形统计图-【七彩课堂】2025-2026学年六年级数学上册同步 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查根据表格数据读懂统计图的基本能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.148054"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_55237356_006",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "琪琪想用一幅统计图表示自己六年级数学成绩的变化情况，应该选用（）",
+    "options": [
+      "条形统计图",
+      "折线统计图",
+      "扇形统计图",
+      "以上均可"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55237356.html",
+      "site": "学科网",
+      "title": "5.5单元整理与复习（同步练习）-2025-2026学年六年级上册数学 北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k1",
+        "u9.k2",
+        "u9.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查根据数据特点选择统计图，折线图适合表示变化趋势",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.148054"
+    },
+    "answer_text": "B. 折线统计图",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_zxxk_55237356_007",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "为了监测一名病人的身体状况，医院病房需要统计病人一昼夜的体温变化情况，最好选用（）",
+    "options": [
+      "条形统计图",
+      "折线统计图",
+      "扇形统计图",
+      "无法确定"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55237356.html",
+      "site": "学科网",
+      "title": "5.5单元整理与复习（同步练习）-2025-2026学年六年级上册数学 北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查三种统计图特点及选择，折线图适合表示数据变化趋势",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.148054"
+    },
+    "answer_text": "B. 折线统计图",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_20237175_001",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "请根据统计表的信息在下面这些图中选择合适的图，并把它画完整。出示8~13岁小朋友的标准身高，回答下列问题：①我们班有（ ）人一定超过标准身高。②我们班有（ ）人一定低于标准身高。③在我们班身高150～159cm之间的男同学中任意抽出一位同学与标准身高比较，他的身高情况会怎样的呢？④在我们班身高150～159cm之间的女同学中任意抽出一位同学与标准身高比较，她的身高情况会怎样的呢？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/20237175",
+      "site": "21世纪教育网",
+      "title": "六年级下册数学人教版：统计与概率整理与复习-教学设计(表格式）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "下册,教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "身高数据选统计图并分析比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:58.300494"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_001",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据\"一至六年级淘气身高与全班男生平均身高的记录表\"，完成折线统计图（描点并连线），再回答：淘气的身高在哪个年级时与全班男生平均身高差距最大？相差多少厘米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "身高变化折线图描点连线分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_002",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "根据统计图回答：①淘气的身高在哪个阶段长得最快？②这个阶段与全班男生平均身高的增长情况一致吗？③淘气的身高在全班男生中所处的位置有变化吗？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "身高统计图综合分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_003",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "淘气六年级时身高155cm。①如果按一年级到六年级平均每年大约长6cm估计，三年后（九年级时）淘气的身高大约是多少？②如果按五年级到六年级的增长速度估计，又是多少？③查阅到全市九年级男生的平均身高是170cm，你认为哪种估计更可能？为什么？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据统计图数据估算未来身高",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.922782"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_006",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一年级时，淘气身高123cm，全班男生平均身高124cm，淘气比平均身高矮（________）cm；六年级时，两人身高（________）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读取统计图数据计算差距",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_007",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "淘气身高与全班男生平均身高的差距最大的是（________）年级，相差（________）cm。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读取统计图比较数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_008",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "淘气的身高在五年级到六年级这一阶段长得最快，一年长了10cm。（  ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断身高增长最快阶段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_009",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "淘气身高增长最快的阶段与全班男生平均身高增长最快的阶段完全相同。（  ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两人身高增长趋势",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_014",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "根据统计图，关于淘气身高与全班男生平均身高的差距，下列说法正确的是（________）。",
+    "options": [
+      "一年级时差距最大，因为淘气那时最矮",
+      "差距从一年级到六年级一直在减小",
+      "差距先变大后变小，六年级时两人身高相等",
+      "三年级以后差距越来越大"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析身高差距变化趋势",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 差距先变大后变小，六年级时两人身高相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_016",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是同班同学小华一至六年级的身高记录（单位：cm）：118、126、133、143、150、158。(1) 小华在哪个阶段长得最快？长了多少厘米？(2) 小华的身高从几年级起超过全班男生平均身高？(3) 六年级时，小华比淘气高多少厘米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据身高数据统计分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_017",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "淘气六年级身高155cm，五年级到六年级一年长了10cm。(1) 如果照这个速度，三年后淘气的身高大约是多少厘米？(2) 有同学按\"平均每年大约长6cm\"估计，得到三年后约175cm；另有资料显示全市九年级男生的平均身高是170cm。你认为175cm和185cm哪个更可能是淘气三年后的身高？为什么？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用统计图数据估算未来身高",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.922782"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_18676552_019",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "小明说：\"从三年级到六年级，淘气的身高与全班男生平均身高的差距逐年缩小，说明这段时间淘气每年都比全班男生平均身高长得快。\"你认为小明说得对吗？请结合统计图里的数据说明理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合统计图数据论证观点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_14914140_001",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "画统计图时，要根据信息的特点来选择合适的统计图，在下面的信息中适合用折线统计图的是（   ）。",
+    "options": [
+      "五年级男同学的身高",
+      "明明0到10岁的体重",
+      "大豆的营养成分",
+      "欢欢3门功课的成绩"
+    ],
+    "answer": "1",
+    "explanation": "条形统计图可以清楚地看出数量的多少；折线统计图不仅可以表示数量的多少，还可以清楚看出数量的增减变化情况；扇形统计图能清楚地看出各部分数量与总数量之间的关系。A应绘制条形统计图；B应绘制折线统计图；C应绘制扇形统计图；D应绘制条形统计图。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14914140.html",
+      "site": "教习网",
+      "title": "小学数学7 扇形统计图单元测试随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据信息特点选择折线统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:16.709884"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 明明0到10岁的体重",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_24594402_014",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "选择并绘制出合适的统计图。(1)下面是某校五年级学生最喜欢的课外活动统计表。项目：看电视80人，打球68人，听音乐74人，看小说56人，其他23人。(2)人离不开水，成年人每天体内所需的水47%靠喝水获得，39%来自食物，14%来自体内氧化释放出来的水。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24594402.html",
+      "site": "21世纪教育网",
+      "title": "第七单元扇形统计图单元测试（含答案）2025-2026学年人教版六年级数学上学期.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据数据特点选择统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:48.249537"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_no_audio": true,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_26486142_044",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "2025年佛山市出台了\"减负十条\"，大力鼓励孩子参加户外运动，每天体育活动时间不少于120分钟，从而促进孩子更好发育成长。下面是四（1）班男、女生身高范围的人数统计表。 身高（cm） 131cm以下 131－140cm 141－150cm 151－160cm 160cm以上 男生人数（人） 1 3 10 5 1 女生人数（人） 1 2 11 9 2 (1)根据表中的数据，将这幅复式条形统计图补充完整。(2)从统计图可以看出，四（1）班男生身高在( )的范围人数最多，女生身高在( )的范围人数最少。(3)10岁儿童的标准身高需要达到143cm以上。已知四（1）班身高在141－143cm的人数有8人，则身高达标的总人数为( )人。(4)对该班还不能达到标准身高的同学，你有什么建议？答：我的建议是：_______________________。",
+    "options": null,
+    "answer": "(2)141－150cm；131cm以下 (3)20",
+    "explanation": "男生141－150cm有10人最多；女生131cm以下1人最少；达标人数10＋11＋9＋2－8＝20（人）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "男女身高分段条形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u9.k2_21cnjy_26486142_044"
+  },
+  {
+    "qid": "数学_u9.k5_51jiaoxi_5688526_005",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下面的数据分别用哪种统计图表示比较合适?①人离不开水,成年人每天体内47%的水靠喝水获得,39%来自食物中含的水,14%来自体内氧化时释放出来的水。②某校五年级学生最喜欢的课外活动情况如下表。③小强从一年级到六年级每年体检的身高记录如下。①用(  )统计图   ②用(  )统计图   ③用(  )统计图",
+    "options": null,
+    "answer": "①扇形 ②条形 ③折线",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5688526.html",
+      "site": "教习网",
+      "title": "人教版六年级上册7 扇形统计图单元测试达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按数据特点选统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:08.422404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_10533455_028",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "希望小学统计全校学生的上学方式，有乘车、步行和骑车三种方式，并绘制了两幅统计图，请结合下面两幅统计图解决下列问题。（1）希望小学共有学生多少人？（2）骑车上学和步行上学的各有多少人？（3）把两幅统计图补充完整。",
+    "options": null,
+    "answer": "（1）800人；（2）骑车：360人，步行：200人",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "条形与扇形统计图综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u9.k3_21cnjy_10533455_028"
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_10533455_031",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2020年，我国成为全球唯一实现正增长的主要经济体，线上购物逆势增长。下面是王阿姨12月份通过某支付平台的消费情况统计，已知她的食品支出比服饰支出多2900元，王阿姨12月份通过此支付平台共消费多少元？（列方程解答）",
+    "options": null,
+    "answer": "5000元",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "统计图综合+方程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u9.k3_21cnjy_10533455_031"
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_26453153_023",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "20名学生跳绳成绩：105、98、112、95、108、92、115、102、96、110、90、106、99、113、94、101、97、109、93、116，预设达标率75%，请排序数据、计算临界人数、确定达标线。",
+    "options": null,
+    "answer": "临界人数：20×75%=15（人）；从小到大排序：90、92、93、94、95、96、97、98、99、101、102、105、106、108、109、110、112、113、115、116；达标线为第15位数据：109个",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "排序后由达标率定达标线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k5_21cnjy_26453153_026",
+    "subject": "数学",
+    "kp_id": "u9.k5",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "36人体能测试，预设达标率75%，达标线为30个，实测29人达标，分析当前达标标准松紧，并说明如何微调达标线更合理。",
+    "options": null,
+    "answer": "预设达标率75%，理论达标27人，实测29人达标，实际达标率高于预设，标准偏宽松；可小幅上调达标线，让达标人数贴合预设比例，标准更科学。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用百分数分析达标率并微调",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

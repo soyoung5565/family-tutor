@@ -1,0 +1,3030 @@
+[
+  {
+    "qid": "数学_u4.k3_zxxk_54367355_001",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "单独打同一份稿件，王阿姨打完需3小时，李阿姨打完需5小时。王阿姨的打字速度是李阿姨的60%。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54367355.html",
+      "site": "学科网",
+      "title": "第四单元百分数 (单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题：效率=1/时间，求速度比=5/3≈166.7%，非60%",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.076017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_zxxk_55545068_002",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "甲、乙两个工程队合修一条公路，甲队每天修全长的……少天能修完全长的？（5分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "甲乙合修工程问题，工作总量看作单位1，用合作效率求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.076017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_zxxk_55539155_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "修一条路，甲队单独完成需要6天，乙队单独修需要8天完成，甲队与乙队的工作效率之比是3∶4。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题：效率=1/时间，比较甲乙效率比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.076017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_zxxk_55465861_004",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "用无人机喷洒农药、施肥等，可以极大地提高农业生产效率。农场给一片农田喷洒农药，一架小型无人机8小时能完成这片农田的喷洒任务。使用这架无人机喷洒1小时后，随即又调来了一架中型无人机加入到喷洒农药工作中，已知这架中型无人机每小时喷洒的农田面积是小型无人机的2倍。请你算一算，还需（）小时就能完成这片农田的农药喷洒工作。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55465861.html",
+      "site": "学科网",
+      "title": "2024-2025学年北京市丰台区北京版六年级上册期末测试数学试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题：总量看作1，效率=1/时间，求合作完成剩余任务的时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.076017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修一条公路，甲队单独10天修完，乙队单独12天修完，丙队单独15天修完，现在三队合修，但中途甲队撤离到其他工地，结果一共用了6天把这条公路修完，修这条公路甲队工作了几天？",
+    "options": null,
+    "answer": "1天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，合作效率与中途撤离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T07:01:32.524185"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_004",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲独做12天完成，乙独做4天完成。若甲先做若干天后，由乙接着做余下的工程，直至完成全部任务，这样前后共用了6天，甲先做了几天？",
+    "options": null,
+    "answer": "3天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，分段做工方程求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T07:01:32.524185"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_015",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做需要10天完成，乙队单独做需要15天完成，两队合作，几天后只剩下这项工程的一半？",
+    "options": null,
+    "answer": "3天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作，完成一半求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T07:01:32.524185"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_018",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做6天完成，乙队单独做9天完成，两队合作，多少天完成这项工程？",
+    "options": null,
+    "answer": "18/5天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作求完工时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T07:01:32.524185"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_019",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明和爸爸一起在操场上跑步，小明跑一圈需6分钟，爸爸跑一圈需4分钟。\n（1）如果两人同时同地出发，相向而行，多少分钟后相遇？\n（2）如果两人同时同地出发，同方向而行，多少分钟后，爸爸超出小明一圈？",
+    "options": null,
+    "answer": "（1）2.4分钟；（2）12分钟",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环形相遇追及，转化为工程效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T07:01:32.524185"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一批零件，王师傅单独做要15小时，李师傅单独做要20小时完成，两人合作，几小时能完成这批零件的？",
+    "options": null,
+    "answer": "5小时",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作，效率相加",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_010",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "妈妈从家出发到学校要走20分钟，红红从学校出发到家要走30分钟。一天，他们同时从学校和家出发相向而行，出发5分钟后，他们用手机APP查了一下共享位置与相隔距离，两人相距700米。红红家到学校相距多少米？",
+    "options": null,
+    "answer": "1200米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "相遇问题转化为工程效率思想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_011",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "做400个零件。如果师傅单独做需要8天才能完成；如果徒弟单独做需要10天才能完成。现在师徒合作，5天能完成吗？",
+    "options": null,
+    "answer": "能",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较合作效率与5天工作量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_013",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲单独做10天完成，乙单独做15天完成，两人合作需要多少天完成这项工程的？",
+    "options": null,
+    "answer": "4天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "合作时间=1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_017",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲单独做需要6天，乙队单独做需要8天。如果两人合做，多少天能完成这项工程的？",
+    "options": null,
+    "answer": "24/7天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_018",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修一段公路，甲队单独修15天完成，乙队单独修20天完成，两队合修几天完成这段公路的一半？",
+    "options": null,
+    "answer": "5天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完成一半，工作量取1/2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_14488460_019",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修一条30千米长的公路，甲队单独修需要12天修完，乙队单独修需要18天修完，如果两队合修4天后乙队单独修，修完时乙队一共修了多少天？",
+    "options": null,
+    "answer": "12天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14488460.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第三章分数除法应用题训练（含简单答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "先合修再单修的分段工程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:13.600380"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_6646908_058",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "工人修路140米，5天修全长25%，照这样计算，剩下的几天修完？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "照效率把全长看作单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_6646908_059",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一辆汽车从甲地到乙地，每小时行40千米，从乙地返回甲地时，每小时行60千米。求这辆汽车往返的平均速度。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "往返总量单位1求均速",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16832684_001",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做每天完成工程的，乙队单独做每天完成工程的，两队合作，完成这项工程的需要几天？",
+    "options": null,
+    "answer": "天",
+    "explanation": "工作总量÷工作效率之和＝工作时间。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16832684.html",
+      "site": "21世纪教育网",
+      "title": "暑假应用题预习：分数除法（专项训练）-数学六年级上册人教版.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "暑假"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作，总量看作单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:41.390809"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16832684_004",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "生产一批玩具，一车间单独生产要12天完成，二车间单独生产要15天完成。一车间生产4天后，剩下的由二车间接着完成，还要几天可以完成？",
+    "options": null,
+    "answer": "10天",
+    "explanation": "（1－×4）÷＝10天。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16832684.html",
+      "site": "21世纪教育网",
+      "title": "暑假应用题预习：分数除法（专项训练）-数学六年级上册人教版.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "暑假"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分段工程问题，效率相加",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:41.390809"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16832684_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做要20天完成，乙队单独做5天能完成全部工程的。现由两队合作，多少天可以完成？",
+    "options": null,
+    "answer": "12天",
+    "explanation": "先求乙队工作效率，再用单位“1”除以两队工作效率和。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16832684.html",
+      "site": "21世纪教育网",
+      "title": "暑假应用题预习：分数除法（专项训练）-数学六年级上册人教版.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "暑假"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:41.390809"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10544096_023",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工作，甲单独完成需要9天，乙3天能完成这项工作的。如果甲、乙两人合作，多少天可以完成这项工作的80%？",
+    "options": null,
+    "answer": "天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求合作完成80%的时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.845731"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10544096_050",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲、乙两人合做6天完成，乙、丙两人合做4天完成，丙、丁两人合做8天完成，那么甲、丁两人合做多少天可以完成？",
+    "options": null,
+    "answer": "24天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10533455_044",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工作，甲单独做3天完成这项工作的，乙单独做4天完成这项工作的。甲、乙合作12天，能完成全部工作吗？",
+    "options": null,
+    "answer": "能",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数工程问题，合作效率求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16773906_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "甲、乙两人分别从公交集团和西站十字相向而行，甲单独走要10分钟，乙单独走要8分钟，现在甲先走1分钟，然后两人同时走，（ ）分钟后两人相遇。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "explanation": "把这段路程看作\"1\"，先求出甲的速度＝1÷10＝，乙的速度＝1÷8＝，甲花1分钟所走的路程＝×1，剩余路程＝（1－×1），再除以速度和（＋），即（1－）÷（＋）＝÷＝×＝4（分钟）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题（相遇）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16773906_011",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一项工程，甲单独做要6小时完成，乙单独做要9小时完成。甲、乙合做2小时，能完成这项工程的( )；小林列出算式\"1÷（＋）\"，他要解决的数学问题是( )。",
+    "options": null,
+    "answer": ",甲、乙合做完成这项工程需要的时间",
+    "explanation": "假设工作总量为1。甲的工作效率：1÷6＝；乙的工作效率：1÷9＝。（＋）×2＝×2＝＝＝（小时）。所以甲、乙合做2小时，能完成这项工程的，甲、乙合做完成这项工程需要小时。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16773906_015",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一件工作，甲做8天可以完成，乙做6天可以完成。如果甲乙合作需要几天可以完成这件工作的？",
+    "options": null,
+    "answer": "天",
+    "explanation": "将工作总量看作单位\"1\"，÷两队效率和＝合作时间。÷（＋）＝÷＝×＝（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16773906_017",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "修一条水渠，甲队单独做8天完成，乙队单独做10天完成。甲、乙两队合作4天后，未修的部分占这条水渠全长的几分之几？",
+    "options": null,
+    "answer": "",
+    "explanation": "1－（＋）×4＝1－×4＝1－＝。未修的部分占这条水渠全长的。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求剩余分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16773906_020",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "挖一条水渠，王伯伯每天挖整条水渠的，李叔叔单独挖这条水渠，需要30天才能挖完。两人合作，几天能挖完？",
+    "options": null,
+    "answer": "12天",
+    "explanation": "李叔叔的工作效率＝1÷30＝；两人合作的工作效率＝＋＝；合作时间＝1÷＝1×12＝12（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.845731"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有一条道路，甲队单独修12天修完，乙队单独修18天修完。如果两队合修，多少天修完？下面的解决方法，正确的是（ ）。\n①假设这条路长为\"1\"，可列式为：1÷（12＋18）\n②假设这条路长为18千米，可列式为：18÷（1/12＋1/18）\n③假设这条路长为\"1\"，可列式为：1÷（1/12＋1/18）\n④假设这条路长为30千米，可列式为：30÷（1/12＋1/18）",
+    "options": [
+      "①②",
+      "②③",
+      "②④",
+      "③④"
+    ],
+    "answer": "1",
+    "explanation": "①（12＋18）不能表示两队合修的工作天数，1÷（12＋18）不能求出两队合修完成的天数，原题列式错误；②假设这条路长为18千米，列式为18÷（1/12＋1/18），原题列式正确；③假设这条路长为\"1\"，列式为1÷（1/12＋1/18），原题列式正确；④假设这条路长为30千米，列式为30÷（1/12＋1/18），原题列式错误。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间=1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ②③",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "为了喜迎新年，赶制一批彩旗，张师傅单独制作15小时完成、刘师傅单独制作10小时完成。两人合作完成任务需要（ ）小时。",
+    "options": [
+      "25",
+      "12.5",
+      "6",
+      "5"
+    ],
+    "answer": "2",
+    "explanation": "把这批彩旗总量看作单位\"1\"，根据工作效率＝工作总量÷工作时间，求得刘师傅和张师傅各自的工作效率，然后根据工作时间＝工作总量÷工作效率和，求得两人合作完成这项工作需要的时间。1÷(1/15+1/10)=6（小时）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作问题1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 6",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_006",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有一份文稿，李叔叔4小时可以录完，张阿姨5小时可以录完。两人合作几小时可以录完这份文稿的？下面列式正确的是（ ）。",
+    "options": [
+      "(3/4)÷（4＋5）",
+      "(3/4)÷（1/4＋1/5）",
+      "1÷（4＋5）",
+      "1÷（1/4＋1/5）"
+    ],
+    "answer": "1",
+    "explanation": "把这份稿件的总量看作单位\"1\"，则李叔叔每小时完成这份稿件的1/4，张阿姨每小时完成这份稿件的1/5，两人合作，每小时完成这份稿件的（1/4+1/5），用3/4除以两人合录的效率，即可得两人合作几小时可以录完。3/4÷(1/4+1/5)=15/4（小时）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程合作完成部分工作量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. (3/4)÷（1/4＋1/5）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_008",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "扎染是传统而独特的染色工艺。店里接到一份扎染订单，李荔单独完成需要6天，徐颖单独完成需要9天，两人合作( )天可以完成。",
+    "options": null,
+    "answer": "3.6",
+    "explanation": "把这批订单的数量看成单位\"1\"，李荔的工作效率就是1/6，徐颖的工作效率是1/9，再根据工作量÷工作效率和＝工作时间，1÷(1/6+1/9)=3.6（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "合作时间=1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_009",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "铺一段铁轨，甲、乙两工程队合作需要15天完成，甲工程队单独做需要20天完成，乙工程队单独做需要( )天完成。",
+    "options": null,
+    "answer": "60",
+    "explanation": "把一项工程看作单位\"1\"，则甲队的工作效率为1/20，甲、乙的工作效率和为1/15，乙队的工作效率为(1/15-1/20)=1/60，根据工作时间＝工作总量÷工作效率，乙队单独做需要的时间＝1÷(1/15-1/20)=60（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "合作求单独时间，逆推工程问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_010",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "制作一批工艺品，甲组单独完成这批工艺品需要15天，乙组单独完成需要10天。两组合作，( )天能完成这批工艺品的。",
+    "options": null,
+    "answer": "3",
+    "explanation": "把这批工艺品总量看作单位\"1\"，甲组乙组的工作效率分别是1/15和1/10，求两组合作，几天能完成这批工艺品的3/5，用3/5除以甲组乙组的效率和进行解答。3/5÷(1/15+1/10)=3（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "合作完成部分工作量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_013",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "疫情就是命令，防控就是责任，要尽快建成方舱医院，解决病号的应收尽收问题。有甲、乙两个工程队，甲队单独干10天能完成，乙队单独干15天能完成。甲队平均每天完成总工程量的( )，乙队平均每天完成总工程量的( )，甲、乙两队合干，一天能完成总工程量的( )。",
+    "options": null,
+    "answer": "1/10；1/15；1/6",
+    "explanation": "把总工程量看作单位\"1\"，根据工作效率＝工作总量÷工作时间，用1÷10即可求出甲队平均每天完成总工程量的几分之几1/10，用1÷15即可求出乙队每天完成总工程量的几分之几1/15，将两部分相加即可求出甲、乙两队一天能完成总工程量的1/6。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求各自效率及合效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_014",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "生产一批玩具，甲车间3天完成这批玩具的，乙车间9天完成这批玩具的，两队合作，( )天能完成。",
+    "options": null,
+    "answer": "15/2",
+    "explanation": "工作总量÷工作时间＝工作效率，据此分别用除以3、除以9求出甲车间和乙车间的工作效率。把这批玩具的总量看作单位\"1\"，根据合作时间＝（合作）工作总量÷工作效率和，用1除以两个车间的工作效率和即可解答。1÷(1/24+1/72)=15/2（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由部分求各自效率再合作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_016",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "服装店新到一批布料，只做上衣可以做20件，只做裤子可以做30条，如果做整套衣服，可以做多少套？",
+    "options": null,
+    "answer": "12套",
+    "explanation": "把这批布料看作单位\"1\"，一件上衣用这批布料的1/20，一条裤子用这批布料的1/30，则一套衣服用这批布料的（1/20+1/30），据此求出可以做多少套即可。1÷(1/20+1/30)=12（套）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作，按比例分配思路",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_018",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一件工作，甲做20天可以完成，乙做15天可以完成，现在甲先做了6天，余下的工作由甲乙合作完成。完成全部工作时甲共做了几天？",
+    "options": null,
+    "answer": "12天",
+    "explanation": "根据工作效率＝工作总量÷工作时间，把工作总量看成单位\"1\"，甲的工作效率为1/20，乙的工作效率为1/15，根据工作总量＝工作效率×工作时间，所以甲6天完成了，余下1-3/10，余下的甲乙合作，合作效率为(1/20+1/15)=7/60，根据合作共总时间＝工作总量÷合作效率，(7/10)÷(7/60)=6（天），再把甲先做的6天和甲乙合作的6天加起来，即6＋6＝12（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题含单独做后再合作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_019",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程甲单独做15天完成，乙单独做12天完成，现他们合做若干天后，剩下的由乙单独做3天才能完成，甲、乙合做了多少天？",
+    "options": null,
+    "answer": "5天",
+    "explanation": "将这项工程的工作量当作单位\"1\"，则甲、乙的工作效率分别1/15、1/12，则乙单独做3天能完成总工作量1/12×3＝1/4，其余的1-1/4＝3/4由他们合做完成，则根据工作量÷工作效率＝工作时间可知，甲、乙合做的天数为(3/4)÷(1/15+1/12)=5（天）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "合作若干天后乙单独完成",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_021",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲、乙、丙三人合修一段围墙，甲、乙合修6天修好围墙的，乙、丙合修2天修好余下的剩下的，三人又合修了5天才完成，共得报酬180元。按各人所完成的工作量的多少来合理分配，每人应得多少元？",
+    "options": null,
+    "answer": "甲33元，乙91元，丙56元",
+    "explanation": "甲、乙、丙工作效率之和：(1-1/2)÷5=1/10；乙、丙的工作效率之和：1/2÷2=1/4；甲、乙的工作效率之和：1/3÷6=1/18；甲的工作效率：1/10-1/4=-1/20（舍）；丙的工作效率：1/4-1/18=7/36；乙的工作效率：1/18-7/36=-5/36（舍）。甲：（3/4×1/5）×180＝33元；丙：（3/4×2/5×7/6）×180＝56元；乙：180-33-56＝91元。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，按工作量分配报酬",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_022",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲、乙、丙、丁四名工人承担一项工程任务，若由这4人中的某人单独完成全部任务，则甲需24小时，乙需20小时，丙需16小时，丁需12小时。\n（1）如果甲、乙、丙、丁四人同时作业，那么需要多少小时完成？\n（2）如果按甲、乙、丙、丁、甲、乙、丙、丁……的次序轮流作业，每轮中每人各工作1小时，那么需要多少小时完成？",
+    "options": null,
+    "answer": "（1）5/2小时；（2）17/2小时",
+    "explanation": "（1）将这项工程的工作总量看成单位\"1\"，则甲的工作效率为1/24，乙的工作效率为1/20，丙的工作效率为1/16，丁的工作效率为1/12。甲、乙、丙、丁四人同时作业，工作时间＝工作总量÷甲乙丙丁工作效率总和＝1÷(1/24+1/20+1/16+1/12)=5/2（小时）。\n（2）将甲乙丙丁看成一个循环，每个循环的工作效率是(1/24+1/20+1/16+1/12)=5/2，完成了4个循环以后工作总量还剩下1-5/2×4×1/4=1-5/2=3/2没有完成，根据循环的顺序，先给甲做了1小时完成了1/24，还剩下(3/2-1/24)=35/24，将剩下的任务给乙完成只需要(35/24)÷(1/20)=175/6小时。17/2+1+175/6=17/2（小时）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率与轮流作业",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_17403558_002",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一批零件共有80个，师傅单独做要4天，徒弟单独做要6天，两人合作要（ ）天。",
+    "options": [
+      "80÷（4＋6）",
+      "80÷（1/4+1/6）",
+      "1÷（4＋6）",
+      "1÷（1/4+1/6）"
+    ],
+    "answer": "3",
+    "explanation": "把这批零件看作单位\"1\"，师傅工作效率为1/4，徒弟工作效率为1/6，合作时间=1÷（1/4+1/6）=2.4天。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17403558",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第三单元分数除法（知识梳理+提高训练）（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，工作总量为单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:24.195582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 1÷（1/4+1/6）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_51jiaoxi_13763896_049",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "阿民家到学校有28km，全程需要1h，除汽车之外，还需步行一段路，汽车的速度为36km/h，步行的速度是4km/h，则需要步行多少小时？",
+    "options": null,
+    "answer": "0.25",
+    "explanation": "假设全程汽车，多行8千米，每步行少行32千米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13763896.html",
+      "site": "教习网",
+      "title": "【小升初数学专项训练】09鸡兔同笼问题（含答案） - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "行程工程问题列方程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:31:34.078391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_51jiaoxi_12043731_025",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "某游乐场在开门前有400人排队等待,开门后每分钟来的人数是固定的.一个入口每分钟可以进入10个游客.如果开放4个入口20分钟就没有人排队,现在开放6个入口,那么开门后多少分钟就没有人排队?",
+    "options": null,
+    "answer": "10",
+    "explanation": "每分钟来20人,相当于2个入口专门用于新来的人,开放6个入口,400÷(6-2)÷10=10分钟.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，效率与时间关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_51jiaoxi_15302301_006",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "包装一批产品，张阿姨单独完成需要20分钟，王阿姨单独完成需要30分钟。如果两人合作，       分钟能全部完成。",
+    "options": null,
+    "answer": "12",
+    "explanation": "1÷(1/20+1/30)=12（分钟）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3zxxk_54173189_015",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "小明用3/5小时骑行了12千米，那么他按照这样的速度骑行45千米需要多少小时？(24-25六上·上海建平实验地杰中学·期中)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://m.zxxk.com/soft/54173189.html",
+      "site": "学科网",
+      "title": "专题10 一元一次方程及其应用（期中真题汇编，上海专用）六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数行程问题求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:32.917991"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3zxxk_55167629_009",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一件工程，甲单独做8天完成，乙单独做6天完成，甲、乙二人工作效率的比是（）。",
+    "options": [
+      "8∶6",
+      "6∶8",
+      "4∶3",
+      "3∶4"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55167629.html",
+      "site": "学科网",
+      "title": "专题04 比（期末真题汇编）六年级数学上学期（人教版·河北专用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求效率比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:26.820124"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_51jiaoxi_13742095_002",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "有甲、乙、丙三种盐水，按甲与乙的数量之比为2：1混合得到浓度为13%的盐水，按甲与乙的数量之比为1：2混合得到浓度为14%的盐水，如果按甲、乙、丙的数量之比为1：1：3混合得到的盐水浓度为10.2%，那么丙的浓度为（　　）",
+    "options": [
+      "7%",
+      "8%",
+      "9%",
+      "7.5%"
+    ],
+    "answer": "1",
+    "explanation": "（13%+14%）÷2＝13.5%；（13.5%﹣10.2%）×2＝3.3%×2＝6.6%；10.2%﹣6.6%÷3＝10.2%﹣2.2%＝8%，答：丙盐水的浓度为8%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13742095.html",
+      "site": "教习网",
+      "title": "浓度问题奥数思维拓展-小学数学六年级上册人教版（含答案） - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "混合溶液浓度问题，需列方程组",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:43.333952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 8%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16860526_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "工人叔叔给一条人行道铺砖，2天铺了这条路的，5天可以铺这条路的几分之几？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16860526.html",
+      "site": "21世纪教育网",
+      "title": "分数除法(二)同步练习六年级上册数学人教版（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题按效率求总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:29.503939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_6652096_015",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲、乙两队6天架了一条10千米的电话线。甲队每天架千米。乙队每天架多少千米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k6_21cnjy_6652096_015",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10948107_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "双\"11\"快递装满一车厢，小李单独送要6天送完，小王单独送要5天送完。两人合送，几天后还剩下这车厢货物的？",
+    "options": null,
+    "answer": "(1－)÷(＋)＝ (天)　答：天后还剩下这车厢货物的。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，工作总量看作单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10948107_017",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一条公路，如果由甲队单独修，24天可以修完；如果由乙队单独修，36天可以修完，现在由乙队先修6天，剩下的由两队合修，还要多少天可以修完？",
+    "options": null,
+    "answer": "12天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_025",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做4天完成，乙队单独做8天完成，两队合作多少天可以完成工程的？",
+    "options": null,
+    "answer": "2天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作求天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:26.826822"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_10987449_026",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "2022年北京冬奥会迎来倒计时100天，各国运动员加紧备赛，北京冬奥会筹办工作也进入冲刺阶段，全力以赴为举办一届简约、安全、精彩的奥运盛会做好准备。现在奥运会有一项装修项目，由甲乙两公司承办，如果甲公司单独做6天可以完成；乙公司单独做10天可以完成。由于现在时间紧任务重，由甲乙两公司合作，几天可以完成这项任务的？",
+    "options": null,
+    "answer": "3天",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:26.826822"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_6609093_009",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一项工程,甲队单独做10天完成,乙队单独做15天完成,甲、乙两队合作(　　)天完成。",
+    "options": null,
+    "answer": "6",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_51jiaoxi_14795800_031",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个蓄水池有甲、乙两个进水管，要注满一池水，单开甲管需要3小时，单开乙管需要5小时，两个进水管同时开，需要多少小时能将水池注满？",
+    "options": null,
+    "answer": "略",
+    "explanation": "1÷（+）=1÷ = （小时）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，合作效率求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_19973655_002",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "修一条长1800米的水渠，8天修了全长的，用同样的速度，修完剩下的还要多少天？选出不正确的列式（ ）。",
+    "options": null,
+    "answer": "A",
+    "explanation": "A选项1800×（1－）求出剩下的具体米数，÷8求出每天修的具体米数，相除无意义，判断错误。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题速度时间关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:30.853586"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u4.k2_21cnjy_19973655_002"
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_26474229_003",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修路队修一条路，修路队每天完成这条路的1/3，几天能完成？",
+    "options": null,
+    "answer": "3天",
+    "explanation": "1÷1/3＝3（天）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26474229",
+      "site": "21世纪教育网",
+      "title": "doc 26474229",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:54.901076"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_26474229_004",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修一段路，甲队单独修需要10天完成，乙队单独修需要15天完成。如果两队同时修，几天能完成？",
+    "options": null,
+    "answer": "6天",
+    "explanation": "1÷(1/10+1/15)=1÷(3/30+2/30)=1÷1/6=6（天）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26474229",
+      "site": "21世纪教育网",
+      "title": "doc 26474229",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:54.901076"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_26474229_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做需要8天完成，乙队单独做需要10天完成。两队合作，几天能完成？",
+    "options": null,
+    "answer": "40/9天",
+    "explanation": "1÷(1/8+1/10)=1÷(5/40+4/40)=1÷9/40=40/9（天）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26474229",
+      "site": "21世纪教育网",
+      "title": "doc 26474229",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:54.901076"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_26474229_007",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲单独做需要15天完成，乙单独做需要20天完成。现在甲先单独做了5天，之后乙加入进来与甲合作，请问两人一起还需要多少天才能完成这项工程？",
+    "options": null,
+    "answer": "40/7天",
+    "explanation": "(1-1/15×5)÷(1/15+1/20)=(1-1/3)÷(4/60+3/60)=2/3÷7/60=2/3×60/7=40/7（天）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26474229",
+      "site": "21世纪教育网",
+      "title": "doc 26474229",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题分阶段合作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:54.901076"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_26474229_008",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲单独做3天完成这项工程的1/4，乙单独做4天完成这项工程的1/5。甲、乙合作12天，能完成全部工作吗？",
+    "options": null,
+    "answer": "能完成",
+    "explanation": "方法一：1÷(1/4÷3+1/5÷4)=1÷(1/12+1/20)=1÷(5/60+3/60)=1÷8/60=60/8=7.5（天），7.5＜12，能完成。方法二：(1/4÷3+1/5÷4)×12=(1/12+1/20)×12=(5/60+3/60)×12=8/60×12=1.6＞1，能完成。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26474229",
+      "site": "21世纪教育网",
+      "title": "doc 26474229",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作判定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:54.901076"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16948544_021",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "用电脑打一份稿件，甲单独打要8小时，乙单独打要10小时，现在甲、乙合打，几小时完成这份稿件的？",
+    "options": null,
+    "answer": "小时",
+    "explanation": "甲效率为，乙效率为，合作完成稿件需÷（＋）＝（小时）",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，合做时间=1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_16948544_025",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一条公路全长1500米，甲单独修要15天修完，乙单独修要10天修完。\n（1）两队合修需要几天完成这项工程？\n（2）甲和乙合修5天后，甲有事离开，余下的由乙来修，余下的工程乙还需几天修完？",
+    "options": null,
+    "answer": "（1）6天；（2）天",
+    "explanation": "（1）甲每天修100米，乙每天修150米，1500÷（100＋150）＝6（天）；（2）5天后剩下1500－5×250＝250米，250÷150＝（天）",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，含合修与单独修的组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_21882296_005",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一项工程，甲队独做要10天完成，乙队独做要15天完成。甲、乙两队工作效率的比是( )。如果两队合作，( )天就能完成这项工程。",
+    "options": null,
+    "answer": "3:2  6",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题求合作时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_21882296_033",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一项工程，甲队单独做15天可完成，乙队单独做20天可完成。甲乙两队合作6天后，甲队撤出，剩下的由乙队完成，还需要多少天？",
+    "options": null,
+    "answer": "(＋)×6＝   (1－)÷＝6(天)",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作与单独完成",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_25068757_016",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一份稿件有480页，小明单独录入12天完成，小静单独录入15天完成，若现在两人合作，(      )天能完成全部稿件的。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题合作完成部分稿件",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k3_21cnjy_23126114_002",
+    "subject": "数学",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一批零件有600个，师傅单独加工需10小时完成，徒弟单独加工需15小时完成，如果师徒合作需要　     　小时完成。",
+    "options": null,
+    "answer": "6",
+    "explanation": "1÷（1/10+1/15）=6（小时）。师徒合作完成需要的时间=工作总量÷工作效率的和。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "工程问题，合作时间=1÷合作效率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

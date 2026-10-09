@@ -1,0 +1,1077 @@
+[
+  {
+    "qid": "英语_u4.k1_zxxk_59489503_001",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解配对",
+    "stem": "Yu Boya was good at playing an instrument called qin. Oneday, while he was playing his best work, he met Zhong Ziqi, who enjoyed his music so much that they became best friends. After Zhong died, Yu never played qin again.",
+    "options": [
+      "Good friends often share the same interest. They can understand each other and play well.",
+      "A man who wants to make a country strong must first win the trust(信任) of its people.",
+      "We should not wait for unexpected things only by luck.",
+      "Never be afraid of failure. If you have a strong heart and work hard, you'll be the winner."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59489503.html",
+      "site": "学科网",
+      "title": "第一次月考自编模拟卷(上海专用)2026-2027学年六年级英语上册 (沪教版五四学制)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对伯牙子期故事寓意的理解，属于Unit4 Great people 单元阅读理解主题归纳。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.338702"
+    },
+    "answer_text": "A. Good friends often share the same interest. They can understand each other and play well.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_zxxk_58600516_002",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "People all ______ the world know this great scientist.",
+    "options": [
+      "over",
+      "about",
+      "of"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58600516.html",
+      "site": "学科网",
+      "title": "Unit3 Great people(综合训练)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查固定搭配 all over the world，语境涉及伟大科学家，属于本单元描述伟大人物话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.338702"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_zxxk_58720030_003",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "英汉互译",
+    "stem": "great people",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58720030.html",
+      "site": "学科网",
+      "title": "Unit 3 Great people (单元自测练习卷)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "'great people'即'伟人'，是Unit 4单元主题词汇。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.121052"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_zxxk_58720030_004",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "People c______ him a great hero.",
+    "options": null,
+    "answer": "call",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58720030.html",
+      "site": "学科网",
+      "title": "Unit 3 Great people (单元自测练习卷)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查用call描述伟大人物，属于Unit 4伟大人物单元目标。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "jev"
+      ],
+      "difficulties": [
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.338702"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_zxxk_59578799_005",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "My mother is my ________ (崇拜的对象). She helps many people.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59578799.html",
+      "site": "学科网",
+      "title": "Unit 3 Great people词汇语法易错(专项训练)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查描述伟大/令人崇敬人物的词汇，契合Unit4单元目标。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.338702"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_zxxk_59578799_006",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "People ________ (把……叫作) him \"the father of hybrid rice\".",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59578799.html",
+      "site": "学科网",
+      "title": "Unit 3 Great people词汇语法易错(专项训练)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查描述伟大人物的称呼，call sb. '把……叫作'，属本单元核心话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.338702"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_51jiaoxi_16435399_026",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全句子",
+    "stem": "Do you know the motto of the ______ (现代的) Olympics?",
+    "options": null,
+    "answer": "modern",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词汇题，涉及伟大事物单元话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_26504401_009",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "We should consider the interests of the whole class ________.",
+    "options": [
+      "as a whole",
+      "in general",
+      "at last",
+      "at first"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查as a whole短语辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. as a whole",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_24033724_051",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Nobody can ________ (阻止) your step if you want to move forward.",
+    "options": null,
+    "answer": "prevent",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "stop 阻止，与人物品质话题相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_14892253_025",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "____ you like Indian food, Western food or Japanese food, you'll find it all in Singapore!",
+    "options": [
+      "but",
+      "though",
+      "if",
+      "whether"
+    ],
+    "answer": "3",
+    "explanation": "whether...or...\"无论……还是……\"，引导让步状语从句。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14892253",
+      "site": "21世纪教育网",
+      "title": "doc 14892253",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "whether...or 引导让步状语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:55.454567"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. whether",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_17954789_068",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "长对话",
+    "stem": "谈话人在讨论什么？",
+    "options": [
+      "A. 北京的饮食",
+      "B. 北京的旅游景点",
+      "C. 北京的文化",
+      "D. 北京的生活"
+    ],
+    "answer": "1",
+    "explanation": "根据\"can you recommend some places to experience the culture there\"可知他们在讨论北京的旅游景点。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17954789",
+      "site": "21世纪教育网",
+      "title": "doc 17954789",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论北京文化，属描述性话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:44:55.677808"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. B. 北京的旅游景点",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_17954789_075",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "长对话",
+    "stem": "谈话的目的是什么？",
+    "options": [
+      "A. 介绍 Bell Labs",
+      "B. 讨论一项研究",
+      "C. 解释什么是 EQ",
+      "D. 建议如何升职"
+    ],
+    "answer": "1",
+    "explanation": "根据\"here's an interesting study by Bell Labs in New Jersey\"可知在讨论一项研究。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17954789",
+      "site": "21世纪教育网",
+      "title": "doc 17954789",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "介绍研究机构及EQ讨论",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:44:55.677808"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. B. 讨论一项研究",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_26355151_015",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "In which part of a newspaper (在报纸的哪个部分) can we read the passage?",
+    "options": [
+      "School Life.",
+      "Nature Park.",
+      "Sports News.",
+      "Future Science."
+    ],
+    "answer": "0",
+    "explanation": "文章介绍 Oscar 的学校生活，故属于 School Life 版块。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文章主题与体裁判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. School Life.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_26545559_020",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The competition will help us find young t ______（天才） in the field of painting.",
+    "options": null,
+    "answer": "talents",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "talent描述人物品质话题词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_23239399_038",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读短文，根据短文内容把下列句子与A、B进行匹配。He likes sleeping and he can sleep 20 hours a day.",
+    "options": null,
+    "answer": "A",
+    "explanation": "根据\"Koala likes sleeping very much. They always sleep in the trees. They can sleep 20 hours a day.\"，可知是树袋熊，故选A。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读匹配，动物习性描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_23239399_039",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "阅读短文，根据短文内容把下列句子与A、B进行匹配。He likes jumping and he can jump very fast.",
+    "options": null,
+    "answer": "B",
+    "explanation": "根据",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读匹配，动物习性描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_23239399_040",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读短文，根据短文内容把下列句子与A、B进行匹配。He is a good climber.",
+    "options": null,
+    "answer": "A",
+    "explanation": "根据短文介绍树袋熊是好的攀爬者，故选A。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读匹配，动物能力描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_13756427_037",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does the underlined sentence in the last paragraph mean",
+    "options": [
+      "Practice makes perfect.",
+      "Nobody knows his own strong points.",
+      "Grass usually appears greener in far away places.",
+      "We always want something better and feel unhappy."
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/13756427",
+      "site": "21世纪教育网",
+      "title": "doc 13756427",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解人物品质的深层含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:47:04.657314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_21cnjy_13756427_040",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "The last two paragraphs mainly tell us that_______.",
+    "options": [
+      "there were many places of interest in New Zealand",
+      "the earthquake damaged the city seriously",
+      "many famous landmarks were thrown into the sea",
+      "people were afraid to enter their homes for sleep"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/13756427",
+      "site": "21世纪教育网",
+      "title": "doc 13756427",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "主旨大意，伟大人物面对灾难",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:47:04.657314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k1_51jiaoxi_18668057_018",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "Some heroes are famous people, but ______ are ordinary people around us.",
+    "options": [
+      "the other",
+      "others",
+      "other"
+    ],
+    "answer": "1",
+    "explanation": "others泛指\"其他人们\"，符合句意。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "others与other辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. others",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_51jiaoxi_18668057_037",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "请简单介绍一位你心中的英雄（可以是名人或者身边普通人），不少于5句话。",
+    "options": null,
+    "answer": "My hero is Yuan Longping. He was a great Chinese scientist. He worked on hybrid rice. His dream came true. He wanted hybrid rice to feed people all over the world. I should learn from him and work hard.",
+    "explanation": "参考范文，需包含人物介绍、事迹、学习方向等要点。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合介绍伟人写作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k1_51jiaoxi_18497992_030",
+    "subject": "英语",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What des the underlined phrase “blivius t” in paragraph 5 mean?",
+    "options": [
+      "Hnest abut.",
+      "Unaware f.",
+      "Related t.",
+      "Optimistic abut."
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，短语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

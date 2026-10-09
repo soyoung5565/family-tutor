@@ -1,0 +1,5224 @@
+[
+  {
+    "qid": "数学_u4.k1_001",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "六（1）班男生人数比女生人数多 1/6，下面表达对这个数量关系的理解，不正确的是（  ）。",
+    "options": [
+      "男生○○○○○○○○○ 女生○○○○○○○○○○ 多1/6",
+      "1/6 男生 女生",
+      "女",
+      "6+1=7（份） 6+7=13（份） 女生人数占全班的 6/13 男生人数占全班的 7/13"
+    ],
+    "answer": "0",
+    "explanation": "六（1）班男生人数比女生人数多1/6，是以女生人数为单位\"1\"，男生人数是女生人数的（1+1/6）=7/6。选项A的图示把女生画得比男生多，与题意不符。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6787.html",
+      "site": "深圳城市学校网",
+      "title": "深圳宝安区2025六上数学期末",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "u35d"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u5.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查以女生为单位1理解多1/6的数量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T19:28:35"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "answer_text": "A. 男生○○○○○○○○○ 女生○○○○○○○○○○ 多1/6",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_009",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "解方程",
+    "stem": "先构思一个故事补充线段标签，再根据线段图列算式或方程（不计算）。（1）第一筐360kg，第二筐多25%，第二筐多少kg？（2）x个，第一筐20个，第二筐多1/3，求第二筐多少个？",
+    "options": null,
+    "answer": "（1）算式：360×(1+25%)；方程：设第二筐x kg，x - 360×25% = 360；（2）算式：20×(1+1/3)；方程：x = 20 + 20×1/3",
+    "explanation": "考查线段图理解和方程/算式的列法。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u1.k6",
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:33:47",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "已知单位1，求比其多25%/1/3的量"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.066013"
+    },
+    "duplicate_of": "数学_u5.k1_szns_009",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_003",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "一本故事书，体积增加 1/10 是把( )看作单位\"1\"，数量关系式是( )×1/10 = ( )。",
+    "options": null,
+    "answer": "原来的体积；原来的体积；体积增加的部分",
+    "explanation": "把原来的体积看作单位\"1\"，数量关系式：原来的体积 × 1/10 = 体积增加的部分。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "找单位1为原体积，写单位1×分率=增加量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_004",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "修一段路，已修了全长的 2/5，还剩下 3 千米，已修的与剩下的相比是( )。",
+    "options": [
+      "一样长",
+      "已修的长",
+      "剩下的长",
+      "无法确定"
+    ],
+    "answer": "2",
+    "explanation": "已修全长的 2/5，剩下 3/5，剩下的比已修的长。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已修2/5，剩下1-2/5=3/5，比较大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.066013"
+    },
+    "answer_text": "C. 剩下的长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_53996783_005",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "比□吨多□是（）吨；比□吨少□吨是（）吨。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53996783.html",
+      "site": "学科网",
+      "title": "第二单元 分数混合运算常考易错题单元提升测试--2025-2026学年北师大版六年级上册数学 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查\"比…多/少\"的数量关系，建构比较式 A±B=C",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_54367355_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "高速公路上，轿车的速度超过了客车，此时轿车速度可能是客车速度的（）。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54367355.html",
+      "site": "学科网",
+      "title": "第四单元百分数 (单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查'超过'含义，即轿车速度比客车多的分率>0，比值应>1。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.066013"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_54524790_007",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲的体重是乙的4/5，也就是说甲的体重比乙少20%。（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54524790.html",
+      "site": "学科网",
+      "title": "第四单元 百分数(单元测试)-2025-2026学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "差量÷单位1=分率，4/5即少1/5=20%。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_48918177_008",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲数和乙数的比是4：5，那么甲数比乙数少。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比4:5转化为差量÷乙=1/5，判断甲比乙少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.066013"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_59619700_009",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "50的（ ）是（ ），比60少的是（ ），18比（ ）多。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59619700.html",
+      "site": "学科网",
+      "title": "精品解析:辽宁省沈阳市法库县2025-2026学年北师大版六年级上学期阶段测试(二)数学试题",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几，多空考查量率对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_59619700_010",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "红球的个数比黄球多1/5，那么黄球的个数就比红球少1/5。（ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59619700.html",
+      "site": "学科网",
+      "title": "精品解析:辽宁省沈阳市法库县2025-2026学年北师大版六年级上学期阶段测试(二)数学试题",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查多/少几分之几的单位1变化，差量÷单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_54935963_011",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "某学校男生人数比女生多1/4，则女生人数是男生的（　　），男生人数占全校学生总数的（　　）。",
+    "options": null,
+    "answer": "4/5；5/9",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查'多几分之几'及量率对应，求部分量与整体关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_55335600_012",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "据统计，六一班有30位同学的家长经常使用\"支付宝\"消费，有5位同学家长从不使用\"支付宝\"消费。使用\"支付宝\"消费的家长比从不使用\"支付宝\"消费的家长人数多百分之几？可以用下面（）列式计算。",
+    "options": [
+      "（30－5）÷5",
+      "（30－5）÷30",
+      "（30＋5）÷30",
+      "（30＋5）÷5"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55335600.html",
+      "site": "学科网",
+      "title": "第六单元百分数（一）（单元测试卷）-2025-2026学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "'比'后是从不使用的5人作单位1，差量÷单位1=分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.066013"
+    },
+    "answer_text": "A. （30－5）÷5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_55335600_013",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "有一堆含水量为15%的煤，经过一段时间的风干，含水量降为……（保留一位小数。）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55335600.html",
+      "site": "学科网",
+      "title": "第六单元百分数（一）（单元测试卷）-2025-2026学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "风干问题，干煤质量不变，求新重量是原重量的百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_54233227_014",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "（23-24五年级下·河北·单元测试）学校举办了一次绘画比赛，获得二等奖的同学有80名，获得一等奖的同学人数是获得二等奖同学人数的　　　　。获得一、二等奖的同学共有多少名？（用两种方法解答）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54233227.html",
+      "site": "学科网",
+      "title": "专题01 分数乘法（运算）（期中专项训练）数学青岛版六年级上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一等奖人数是二等奖人数的几分之几，属量率对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_59128793_015",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "3米的和1米的同样长。（）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59128793.html",
+      "site": "学科网",
+      "title": "第二单元《分数乘法》（单元自测练习卷）-2026-2027学年六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较不同单位1的相同分率，理解分数对应量与单位1的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_59128793_016",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "（原创）永州到长沙的距离约320千米，一辆汽车行驶了全程的，还剩120千米。（）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59128793.html",
+      "site": "学科网",
+      "title": "第二单元《分数乘法》（单元自测练习卷）-2026-2027学年六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求已行路程是全程的几分之几，差量÷单位1=分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.835726"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_54320424_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "已知乙比甲少，下面四幅图中，能正确表示甲和乙之间关系的是（　　）。",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查乙比甲少几分之几，用图示表示差量与单位1的对应关系。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_55545068_018",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "比20千克多是()千克；20千克比()千克少。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查\"比\"字后量作单位1的分数多/少关系，单位1不同结果不同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_41125129_019",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "学校有20个足球，篮球比足球多，篮球有()个．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41125129.html",
+      "site": "学科网",
+      "title": "第二单元分数和百分数应用问题（单元测试）浙教版六年级上册数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查\"比一个数多/少\"的数量比较关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_zxxk_53818187_020",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "已知□的个数比○多△的个数比○少请你先算一算□比○多几个，……（题目残缺）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53818187.html",
+      "site": "学科网",
+      "title": "第二单元分数乘法（单元测试）-2025-2026学年苏教版六年级数学上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查两量比较求多/少几个，属于差量比较基础题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_11088645_025",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "水果商店第一周卖出苹果24箱，第二周卖出苹果的箱数比第一周增加了。第二周卖出了多少箱苹果？在图中画出表示第二周卖出苹果箱数的线段图，标出问题并解答。",
+    "options": null,
+    "answer": "线段图见详解，28箱",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求比单位1多几分之几的量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_11088645_026",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某电器商场去年销售了180台电脑，今年的销售量比去年增加了，今年销售多少台？",
+    "options": null,
+    "answer": "225台",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比去年增加几分之几求今年量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_14663995_018",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "今年的产量比去年多 ，今年的产量相当于去年的（ ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14663995.html",
+      "site": "21世纪教育网",
+      "title": "综合练习题（试题）-六年级上册数学人教版（无答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比去年多几分之几求分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:28:09.020223"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_14663995_019",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一根1米长的绳子剪去 后，剩余的部分与 米比较（ ）。",
+    "options": [
+      "一样长",
+      "剩余部分长",
+      "米长",
+      "无法比较"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14663995.html",
+      "site": "21世纪教育网",
+      "title": "综合练习题（试题）-六年级上册数学人教版（无答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "区分分率与具体量比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:28:09.020223"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "数学_u1.k1_21cnjy_14663995_018"
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_010",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明看一本书，第一天看了35页，第二天看了25页，第二天比第一天少看这本书总页数的。这本书共多少页？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求差量占整体的几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_016",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "修一条公路，甲队修了260米，乙队修了340米，甲队比乙队少修全长的。公路全长多少米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "差量对应分率求全长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "汽车从甲地去乙地，第一小时行了85千米，第二小时行了75千米。第一小时比第二小时多行全程的。甲乙两地相距多少千米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "差量对应分率求全程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_031",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "粮店运来大米比面粉多，运来面粉60吨，云来大米多少吨？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比面粉多几分之几，求整体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_034",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根绳子长米，用去米。剩下多少米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用分数关系求减少量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k1_21cnjy_6652096_034",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_047",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "车间有男工60人，比女工多。女工多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求男工比女多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_6652096_047",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_048",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "车间有男工60人，女工比男工多。女工多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求女工比男多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_6652096_048",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_049",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "车间有男工60人，比女工少。女工多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求男工比女少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_6652096_049",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_050",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "车间有男工60人，女工比男工少。女工多少人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求女工比男少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_6652096_050",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_059",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "桃树有60棵，梨树比桃树多。梨树有多少棵？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求梨比桃多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_060",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "桃树有60棵，梨树比桃树少。梨树有多少棵？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求梨比桃少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.758585"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_076",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一包茶叶重600克，用去，用去多少克？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数几分之几是多少",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.759592"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_077",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一包茶叶重600克，用去，还剩多少克？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知总量求剩余量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.759592"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_082",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某工厂去年计划产值2400万元，采用新设备后，实际产值比计划增长，实际产值多少万元？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几的实际量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:44.759592"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26520558_019",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "苹果的质量比梨多1/5，则梨的质量比苹果少1/5。( )",
+    "options": null,
+    "answer": "√",
+    "explanation": "设梨质量为x千克，则苹果为(1＋1/5)x千克，梨比苹果少1/5千克，题干正确。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多/少几分之几，单位1不同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:33.511273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10544096_027",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "防寒服268元，夹克比防寒服便宜，夹克是多少元？",
+    "options": null,
+    "answer": "160.8元",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知甲求比甲便宜几分之几的乙",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16773906_001",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，甲、乙两条彩带都被遮住了一部分，两条彩带的长度相比，（ ）。",
+    "options": [
+      "甲比乙长",
+      "乙比甲长",
+      "一样长",
+      "无法比较"
+    ],
+    "answer": "0",
+    "explanation": "分别把两条彩带的总长度看作单位\"1\"，假设出相等部分的彩带长度，根据量÷对应的分率＝单位\"1\"分别求出两条彩带的长度，最后比较大小。假设相等部分彩带的长度为1。甲：1÷＝1×＝；乙：1÷＝1×＝。因为＞，所以甲比乙长。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数比较长度，多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:17.164451"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k2_21cnjy_16773906_001",
+    "answer_text": "A. 甲比乙长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_19973655_004",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一项工程，甲队单独做要10天完成，乙队单独做要8天完成，甲队的工作效率比乙队慢（ ）。",
+    "options": [
+      "1/8",
+      "1/5",
+      "1/4",
+      "1/3"
+    ],
+    "answer": "1",
+    "explanation": "把这项工程的工作总量看作单位\"1\"，则甲队的工作效率是1/10，乙队的工作效率是1/8，用甲乙两队的工作效率差除以乙队的工作效率，可以计算出甲队的工作效率比乙队慢几分之几。（1/8－1/10）÷1/8＝1/5。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19973655.html",
+      "site": "21世纪教育网",
+      "title": "奥数专题：工程问题（讲练测）-数学六年级下册人教版（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:31.702893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1/5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_005",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "若从六（1）班调全班人数的1/10到六（2）班，则两班人数相等，原来六（1）班与六（2）班的人数比是（ ）。",
+    "options": null,
+    "answer": "5:4",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "量率对应求原来人数比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.835726"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把甲队人数的1/4调入乙队，这时两队人数相等，甲队与乙队原人数的比为（ ）。",
+    "options": null,
+    "answer": "2:3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "调入后相等反推原比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_021",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如果甲数比乙数多25%,那么乙数就比甲数少25%。 （ ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_034",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "甲数是25，乙数是20，甲数比乙数多（ ）%，乙数比甲数少（ ）%",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_035",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "五月份销售额比四月份增加15%，五月份销售额相当于四月份的（ ）%；四月份销售额比五月份减少（ ）%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "增减百分率互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_040",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（ ）比45多20%；45比（ ）少20%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少20%",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_041",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "从学校到文化宫，甲要20分钟，乙要16分钟。乙的速度比甲快（ ）%，乙的时间比甲少（ ）%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个量比另一个量多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_049",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲数比乙数多35%，乙数比甲数少35%。（ ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多/少百分之几的单位1不同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_051",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "甲数是乙数的2倍，甲比乙多（ ）。",
+    "options": [
+      "50%",
+      "100%",
+      "200%"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倍数关系转百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 100%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_15920805_063",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个电饭煲的原价220元，现价160元。电饭煲的价格降低了百分之几？（百分号前保留一位小数）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_17403558_028",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "电脑公司第一天装配了75台电脑，第二天装配了65台电脑，两天装配的电脑总数相当于总量的2/5，经理说第一天装配了总量的3/14，他说得对吗？",
+    "options": null,
+    "answer": "经理说得对",
+    "explanation": "总量=(75+65)÷2/5=140÷2/5=350台；第一天装配的比率=75÷350=3/14，经理说得对。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17403558",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第三单元分数除法（知识梳理+提高训练）（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "验证一个数占总量的几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:24.195582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_5740781_007",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "有27个人到商场去买水喝，遇到商场搞促销，三个空瓶子就可以换一瓶水，问：27个人最少只买______瓶水，使每个人都有一瓶水喝.",
+    "options": null,
+    "answer": "14",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5740781.html",
+      "site": "教习网",
+      "title": "【精品推荐】人教版小学六年级上册数学趣味数学练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "空瓶换水，倒推求最少购买",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:51.893645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_5740781_011",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "井深8米，一只青蛙从井底往上跳，每次跳3米，又滑下2米，那么它要跳几次才能到达井口。（请说明理由）",
+    "options": null,
+    "answer": "5次",
+    "explanation": "前4次每次实际上升1米，共4米。第5次跳3米到达井口，不会再滑下。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5740781.html",
+      "site": "教习网",
+      "title": "【精品推荐】人教版小学六年级上册数学趣味数学练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "青蛙跳井，往返问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:51.893645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_12074406_002",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "两根同样长的绳子，第一根用去1/4，第二根用去1/4米，剩下的相比较（    ）。",
+    "options": [
+      "第一根长",
+      "第二根长",
+      "一样长",
+      "无法比较"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较分数大小，单位1需讨论",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 无法比较",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_12074406_009",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一本书240页，第一周读了1/4，第二周读了1/6，第一周比第二周多读________页。",
+    "options": null,
+    "answer": "40",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12074406.html",
+      "site": "教习网",
+      "title": "小学数学苏教版六年级上册五分数四则混合运算复习练习题 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:44.424074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14890728_002",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2020秋•相城区期末）_____米是_____米的_____；_____米是_____米的_____．",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "（1）把要求的数量看成单位\"1\"，它的对应的数量是米，由此用除法求出要求的数量；（2）把米看成单位\"1\"，用米乘就是要求的数量．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数是另一个数的几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14890728_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2020秋•土默特左旗校级期末）20吨比_____吨轻；_____比50米长80%；4.5米比6米少_____%．",
+    "options": null,
+    "answer": "25，90米，25",
+    "explanation": "（1）把要求出的数量看成单位\"1\"，20吨是它的1﹣，要求的数量用除法求出；（2）把50米看成单位\"1\"，要求的数量是50米的1+80%，由此用乘法求出要求的数量；（3）把6米看成单位\"1\"，先求出4.5米比6米少几米，然后再用少的米数除以6米即可．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14890728_011",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2022春•南召县期末）把5克糖放入100克水中，糖占水的_____，糖占糖水的_____，糖水重量是糖的重量的_____倍．",
+    "options": null,
+    "answer": "见题干，21",
+    "explanation": "用糖的重量除以水的重量，就是糖占水的几分之几；求出糖水的总重量，用糖的重量除以糖水的重量，就是糖占糖水的几分之几；用糖水的重量除以糖的重量，就是糖水的重量是糖的重量的几倍．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求部分量占整体量的几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_12168290_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "男生人数比女生人数多全班的 1/3，把          看做单位\"1\"。",
+    "options": null,
+    "answer": "全班人数",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断'比'字后量为单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_12168290_023",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两根一样长的绳子，分别剪去 1/3 和 1/3 米，两根绳子一样长。",
+    "options": null,
+    "answer": "错误",
+    "explanation": "无法确定两根绳子原来的长度，故无法判断。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分率与具体量比较，剪后长度判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_12168290_029",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "博爱小学师生为青海\"玉树\"地震捐款，第一次捐8000元，第二次捐10000元，第二次比第一次多捐了百分之几？",
+    "options": null,
+    "answer": "25%",
+    "explanation": "(10000-8000)÷8000×100%=25%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多百分之几：差量÷单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "六年级一共有男生370人，女生350人．六年级女生人数比男生人数少几分之几？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16860526.html",
+      "site": "21世纪教育网",
+      "title": "分数除法(二)同步练习六年级上册数学人教版（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:29.504947"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_024",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小兰看一本书，第一天看了全书的，第二天看了全书的，第二天正好看了60页。第一天看了多少页？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16860526.html",
+      "site": "21世纪教育网",
+      "title": "分数除法(二)同步练习六年级上册数学人教版（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知分率对应量求另一量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:29.504947"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_027",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一台电脑原来售价7200元，现在降价。现在每台售价多少元？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求现价，单位1乘分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_028",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "邱慧家上个月电费40元，这个月多用了。这个月电费多少元？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多用了几分之几，求总量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_033",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根绳子长米，用去。剩下多少米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用去几分之几求剩余",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_035",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "粮店有面粉吨，大米比面粉多。大米多少吨？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多几分之几求部分量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_061",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "桃树有60棵，桃树比梨树多。梨树有多少棵？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_062",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "桃树有60棵，桃树比梨树少。梨树有多少棵？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6652096_086",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "两根电线都是2米长，第一根剪去它的，第二根剪去它的米，哪一根剪去的部分长？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6652096.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册试题- 分数应用题专题训练人教新课标（无答案）.zip",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较分数与具体米数的长度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:29.918321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10948107_005",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "李明今年身高是164cm，比去年长高了4cm，今年比去年长高了百分之几？",
+    "options": null,
+    "answer": "4÷(164－4)×100%＝2.5%　答：今年比去年长高了2.5%。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个多百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10948107_024",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "爷爷今年80岁，爸爸的年龄是爷爷年龄的，比叔叔的年龄大50%，叔叔今年多少岁？分析：先求爸爸的年龄，应把__________看作单位\"1\"，这个单位\"1\"是______________的。（填\"已知\"或\"未知\"）再求叔叔的年龄，应把______________看作单位\"1\"，这个单位\"1\"是____________的。（填\"已知\"或\"未知\"）。解答：",
+    "options": null,
+    "answer": "爷爷年龄，已知，叔叔年龄，未知；32岁",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断单位1及已知未知",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.468392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_13225798_022",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，甲、乙两名同学站在路灯下，他们离路灯的远近不同，但影子几乎一样长，哪名同学身高高一些？先画一画，再回答。",
+    "options": null,
+    "answer": "乙同学身高高一些。",
+    "explanation": "影子在与光的来源相反的方向，人与灯的水平之间的夹角越大，影子越短。因为晚上在路灯下散步，走向路灯时，影子在人的灯的相反方，离路灯越近影子越短。因为乙同学离路灯比较近，所以乙的身高较高。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13225798.html",
+      "site": "21世纪教育网",
+      "title": "第三单元观察物体运算高频考点检测卷-小学数学六年级上册北师大版（含解析）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "影子长度比较身高比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.757213"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_13225798_022",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10987449_013",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "红红和丽丽分别画一幅图，红红画完这幅图需要15.3分钟，丽丽拼完这幅拼图需要的时间比红红多，丽丽拼完这幅拼图需要多长时间？（先画线段图再解答）",
+    "options": null,
+    "answer": "线段图见详解，20.4分钟",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:26.826822"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10987449_021",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "菜市场运来大白菜6000千克，比运来的菠菜多，菜市场运来菠菜多少千克？",
+    "options": null,
+    "answer": "4800千克",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10987449.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学分数乘法及分数除法应用题专题训练（word版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:26.826822"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6646908_026",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "男生比女生多20%，①男生是女生的百分之几②女生是男生的百分之几③女生比男生少百分之几？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6646908_033",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "鸡比鸭多20%，鸡比鸭少20只，鸭几只？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多百分之几及量率对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6646908_034",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "鸡比鸭少20%，鸭比鸡多20只，鸡几只？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "少百分之几及量率对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6646908_040",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一双鞋如卖140元，可赚40%，如卖120元可赚多少元？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个多百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16832684_018",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "南京长江大桥是长江上第一座由我国自行设计和建造的双层式铁路、公路两用桥，它的主桥比南昌八一大桥主桥长得多，这两座桥主桥共长5630米。两座大桥的主桥各长多少米？",
+    "options": null,
+    "answer": "南京长江大桥4590米，南昌八一大桥1040米",
+    "explanation": "南京长江大桥：5630÷（1＋）＝4590（米）；南昌八一大桥：5630－4590＝1040（米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16832684.html",
+      "site": "21世纪教育网",
+      "title": "暑假应用题预习：分数除法（专项训练）-数学六年级上册人教版.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "暑假"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知一个数多几分之几求两量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:17.111104"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k5_21cnjy_16832684_018",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6609093_004",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "八月份产量比七月份的产量增加了,把(　　)月份的产量看做单位\"1\"。",
+    "options": null,
+    "answer": "七",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "确定单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6609093_013",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "4.男生比女生少50%,女生比男生多100%。(　　)",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_6609093_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一条彩带剪成两段,第一段占全长的,第二段长 m,这两段彩带相比(　　)。",
+    "options": [
+      "第一段长",
+      "第二段长",
+      "两段同样长",
+      "无法确定"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两段彩带长短",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 第一段长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16832684_010",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在下图中每个小方格的面积是1平方厘米，已知甲图形的面积比乙图形少1/3，请在方格图中画出乙图形，并涂上阴影。",
+    "options": null,
+    "answer": "见详解",
+    "explanation": "甲图形面积6平方厘米，6÷（1－1/3）＝9平方厘米，画图即可。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16832684.html",
+      "site": "21世纪教育网",
+      "title": "暑假应用题预习：分数除法（专项训练）-数学六年级上册人教版.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "面积多几分之几，画图操作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:15.632167"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_21611281_012",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（    ）米比24米长，12米比（    ）米短。",
+    "options": null,
+    "answer": "30；20",
+    "explanation": "24×(1＋1/4)＝30；12÷(1－2/5)＝20。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_21611281_027",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "第一小学有男生540人，女生人数比男生人数少。女生有多少人？",
+    "options": null,
+    "answer": "480人",
+    "explanation": "540×(1－1/9)＝540×8/9＝480人。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知一个数比另一个少几分之几求该数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14795800_003",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "________米比24米多 ，240千克比________千克少 。",
+    "options": null,
+    "answer": "36；360",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14795800_011",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "甲数的 等于乙数的 ，甲数比乙数少________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14795800_012",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某班的男生人数比女生人数多 。这个班的女生人数比男生人数少________，男生人数占全班人数的________。如果这个班的学生人数在30〜40人之间，那么该班有________人。",
+    "options": null,
+    "answer": "；；33",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数转化及单位1的多步运算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_14795800_032",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "从甲地到乙地，上坡路占全程的 ，平地占 ，其余是下坡路。一辆汽车在甲、乙两地间往返一次，共行下坡路42千米，甲乙两地之间的路程是多少千米？",
+    "options": null,
+    "answer": "70千米",
+    "explanation": "1－ － ＝ ＋ ＝  42÷ ＝70（千米）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14795800.html",
+      "site": "教习网",
+      "title": "人教版六年级上册2 分数除法单元测试达标测试-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "往返上下坡转化，求全程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:52.821922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_17272508_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在下面三个水杯里分别放入50克糖，调制成糖水。(        )杯水最甜。（A杯糖水共200克，B杯糖水共100克，C杯糖水共150克）",
+    "options": null,
+    "answer": "B",
+    "explanation": "含糖率=糖的重量÷糖水的重量×100%，分别求出A、B、C三杯糖水的含糖率20%、33%、25%，B杯含糖率最高，最甜。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17272508.html",
+      "site": "教习网",
+      "title": "2023-2024学年六年级数学上册——第六单元百分数（一）检测基础卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较浓度（糖占糖水的分率）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:58:02.858633"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_51jiaoxi_17272508_015",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲乙两数之比是6∶5，乙数就比甲数少20%。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "假设甲数是6，乙数是5，(6-5)÷6≈16.7%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17272508.html",
+      "site": "教习网",
+      "title": "2023-2024学年六年级数学上册——第六单元百分数（一）检测基础卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与百分数互化、差量÷单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:58:02.858633"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_14663995_017",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "今年的产量比去年多 ，今年的产量相当于去年的（ ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "数学_u4.k1_21cnjy_14663995_018"
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_019",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "华碧今年植树2200棵，比去年增加，去年植树多少棵？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_020",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小米和果果共同加工一批零件，小米每小时加工28个，小米每小时比果果多加工，果果每小时共加工零件多少个？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知多几分之几求原数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_021",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "两袋小麦，第一袋重45千克，比第二袋轻，第二袋小麦重多少千克？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16860526_025",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "六年级一共有男生370人，女生350人．六年级女生人数比男生人数少几分之几？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/16860526",
+      "site": "21世纪教育网",
+      "title": "doc 16860526",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:06.952603"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "数学_u4.k1_21cnjy_16860526_017"
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10533455_002",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "我国陆地疆界线长2万千米，大陆海岸线长1.8万千米。（1）大陆海岸线比陆地疆界线短百分之几？（2）陆地疆界线比大陆海岸线长百分之几？（百分号前保留一位小数）",
+    "options": null,
+    "answer": "（1）10%；（2）11.1%",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个量比另一个量多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_10533455_029",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "书架上的故事书比科技书多98本，科技书的本数是故事书的，书架上的故事书和科技书各有多少本？（用方程解答。）",
+    "options": null,
+    "answer": "故事书588本；科技书490本",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16948544_003",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一本书已看了，则已看的页数比未看的页数少（    ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "已看占单位1的，未看占（1－），（1－－）÷（1－）＝",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16948544_011",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "今年的产量是去年的，今年的产量比去年少(      )，去年的产量比今年多(      )。",
+    "options": null,
+    "answer": "；",
+    "explanation": "把去年看作5份，今年看作4份，今年比去年少，去年比今年多",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16948544_013",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "A、B均是不为0的数，且A的等于B的，则A＜B。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "假设A×＝B×＝1，则A＝，B＝，A＞B",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数关系比较两数大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_16948544_014",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "正方形的一条边长是周长的。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "正方形周长＝边长×4，边长占周长的",
+    "source": {
+      "url": "https://zy.21cnjy.com/16948544",
+      "site": "21世纪教育网",
+      "title": "doc 16948544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "部分与整体的关系求几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:36.535446"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_21591666_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "12分=(     )小时      千克=(     )克",
+    "options": null,
+    "answer": ";600",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/21591666",
+      "site": "21世纪教育网",
+      "title": "doc 21591666",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分数单位换算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:59.816360"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_21591666_018",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "音乐组有18人，其中男生人数占，则音乐组女生有多少人？列式为。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "把音乐组的人数看作单位\"1\"，其中男生人数占，则女生人数占（1－），求女生人数，用音乐组人数×（1－）=18×(1－)=14（人）。原题干说法正确。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21591666",
+      "site": "21世纪教育网",
+      "title": "doc 21591666",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知部分占整体求另一部分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:59.816360"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453158_007",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "60米比（    ）米少25%；（    ）吨比40吨多30%。",
+    "options": null,
+    "answer": "80、52",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453158",
+      "site": "21世纪教育网",
+      "title": "doc 26453158",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:11.884555"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453158_022",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某小区去年绿化率35%，今年新增绿化面积，绿化率提升至42%，已知小区总面积不变，今年绿化面积比去年增加百分之几？",
+    "options": null,
+    "answer": "20%",
+    "explanation": "设小区总面积为单位1，增加绿化量：42%-35%=7%，增加幅度：7%÷35%×100%=20%。答：绿化面积比去年增加20%。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453158",
+      "site": "21世纪教育网",
+      "title": "doc 26453158",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:11.884555"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_18277690_008",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "六（1）班有48人，其中喜欢打乒乓球，喜欢打篮球，没有人既不喜欢打乒乓球又不喜欢打篮球。两种球都喜欢的有（    ）人。",
+    "options": [
+      "32",
+      "36",
+      "28",
+      "20"
+    ],
+    "answer": "3",
+    "explanation": "48×2/3＋48×3/4－48＝32＋36－48＝20（人）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 20",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_18277690_024",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "只列式或方程，不计算。眨眼有助于缓解眼睛疲劳，人在正常状态下每分钟眨眼30次，玩手机游戏时眨眼次数比正常状态下减少。玩手机游戏时每分钟眨眼多少次？",
+    "options": null,
+    "answer": "30×（1－3/5）",
+    "explanation": "把正常状态下每分钟眨眼次数看作单位\"1\"，玩手机游戏时眨眼次数比正常状态下减少3/5，也就是正常状态下的（1－3/5），用乘法即可求出。30×（1－3/5）＝30×0.4＝12（次）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_24541838_022",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "六（1）班男生人数是女生的90%，女生人数是全班人数的几分之几？（结果用百分数表示）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24541838",
+      "site": "21世纪教育网",
+      "title": "doc 24541838",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:18.107604"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_23518744_003",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "\"十五个吊桶打水——七上八下\"，往上的吊桶比往下的少( )%，往下的吊桶比往上的多( )%。",
+    "options": null,
+    "answer": "12.5  14.3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_23518744_012",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "苹果有80kg，________。梨有多少千克？根据算式80÷(1-15%)，横线上应填( )。",
+    "options": [
+      "梨比苹果多15%",
+      "梨比苹果少15%",
+      "苹果比梨多15%",
+      "苹果比梨少15%"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据算式反推量率对应关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 苹果比梨少15%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_24875938_022",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "3月12日植树节，学校组织\"我为校园添新绿\"植树活动，五年级共植树160棵，比六年级植树的多10棵。六年级共植树多少棵",
+    "options": null,
+    "answer": "200棵",
+    "explanation": "(160-10)÷...=200(棵)",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多几分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_25068757_006",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，小兰用纸板盖住甲、乙两根木条的一端，根据露出的部分推断，两根木条相比（    ）。",
+    "options": [
+      "甲长",
+      "乙长",
+      "一样长",
+      "无法确定"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两量推断长度，需找单位1",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 甲长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453153_003",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "增加百分之几＝增加量÷（        ）×100%。",
+    "options": null,
+    "answer": "原量（单位\"1\"）",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453153_008",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "50比40多（        ）%，40比50少（        ）%。",
+    "options": null,
+    "answer": "25、20",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求一个数比另一个数多/少百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453153_015",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一台电器原价400元，现价320元，降价百分之几？",
+    "options": null,
+    "answer": "（400-320）÷400×100%=20%",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求降价百分之几",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453153_016",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲数比乙数多20%，乙数就比甲数少20%。",
+    "options": null,
+    "answer": "×",
+    "explanation": "前后单位\"1\"不同，前者单位1是乙数，后者是甲数，百分率不相等。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百分率比较单位1不同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u4.k1_21cnjy_26453153_025",
+    "subject": "数学",
+    "kp_id": "u4.k1",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某工厂九月份产量比八月份增加15%，十月份产量比九月份减少15%，十月份和八月份相比，产量是增加还是减少？变化幅度是多少？",
+    "options": null,
+    "answer": "设八月产量为1；九月：1×(1+15%)=1.15；十月：1.15×(1-15%)=0.9775；减少幅度：(1-0.9775)×100%=2.25%；答：产量减少，减少2.25%。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26453153",
+      "site": "21世纪教育网",
+      "title": "doc 26453153",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连续变化后求增减分率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:00.682939"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

@@ -1,0 +1,1895 @@
+[
+  {
+    "qid": "数学_u2.k3_zxxk_59610546_001",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在一张长为10cm、宽为8cm的长方形纸上画一个尽可能大的圆，圆规两脚间的距离应确定为（）",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查用圆规画圆的知识，半径取长方形短边一半即4cm",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_59610546_002",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "画一个直径为8cm的圆时，圆规两脚间的距离应是()cm。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆规画圆时两脚间距为半径，需用d=2r求半径=4cm",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.999722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_59568243_003",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "画圆时，圆规两脚间的距离是圆的（　　），它决定圆的（　　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查用圆规画圆时两脚间距离即半径，决定圆的大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.999722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_59568243_004",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在长8cm宽6cm的长方形内画一个最大的圆，标出圆心和半径。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "操作题考查用圆规画圆并标出圆心、半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_38069643_005",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "怎样画出一个圆呢？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/38069643.html",
+      "site": "学科网",
+      "title": "1.1 圆的认识（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查用圆规画圆的方法步骤",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.999722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_40378187_006",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "画一个周长是12.56厘米的圆，圆规两脚距离应取2厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40378187.html",
+      "site": "学科网",
+      "title": "5.2圆的周长（同步练习）-六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚间距等于半径，需先用周长公式求r=2cm",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.999722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_zxxk_46494069_007",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "画圆时圆规两脚间的距离是____厘米，画出的圆的周长是____厘米．",
+    "options": [
+      "略",
+      "略",
+      "略",
+      "略"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚距离即半径，再由 C=2πr 求周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.999722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_26006093_007",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "用圆规画圆。（1）r＝2.5 cm；（2）d＝6 cm",
+    "options": null,
+    "answer": "略",
+    "explanation": "（1）圆规两脚间距离定为2.5 cm画圆；（2）d＝6 cm，则半径为3 cm，圆规两脚间距离定为3 cm画圆。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26006093",
+      "site": "21世纪教育网",
+      "title": "6.1.2 画圆（课件）(共16张PPT)2026-2027学年冀教版六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规按半径直径画圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:32:36.501222"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_24309063_005",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画圆时，圆的大小由（ ）决定，圆的位置由（ ）决定。",
+    "options": null,
+    "answer": "半径（圆规两脚间距离）；圆心",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24309063",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第五单元《圆的认识》预习学案 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆：大小由半径决定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:52.401215"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_24309063_009",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "用圆规画一个半径为5厘米的圆，圆规两脚间的距离应定为10厘米。（ ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "两脚间距离应为5厘米",
+    "source": {
+      "url": "https://zy.21cnjy.com/24309063",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第五单元《圆的认识》预习学案 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚距离等于半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:52.401215"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_24309063_013",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画圆时，若固定圆心后，将圆规两脚间的距离调大，画出的圆会（ ）（填\"变大\"",
+    "options": null,
+    "answer": "变大",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24309063",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第五单元《圆的认识》预习学案 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚距离即半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:52.401215"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_24309063_014",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "用圆规画出一个半径为2厘米的圆，并标出圆心O、一条半径r和一条直径d。",
+    "options": null,
+    "answer": "画圆时圆规两脚间距离为2厘米，标出圆心O，连接O与圆上一点为r，过O且两端在圆上的线段为d。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24309063",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第五单元《圆的认识》预习学案 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画指定半径的圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:52.401215"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.771166"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_17702696_029",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在长9cm、宽4cm的长方形中剪下最大的圆。(1)能剪出最大圆的半径是______cm，可以剪______个这样的圆，请在下图中画出示意图。(2)剪去(1)中完全相同的所有最大圆后，剩下图形的面积是多少？",
+    "options": null,
+    "answer": "(1) 2；2 (2) 10.88cm²",
+    "explanation": "(1)最大圆直径=4cm，半径=2cm，可以剪2个。(2)剩余面积=9×4-3.14×2²×2=36-25.12=10.88cm²。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "在长方形中用圆规画最大圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16610467_019",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "画一个周长是12.56厘米的圆，圆规两脚间的距离应为4厘米。",
+    "options": null,
+    "answer": "×",
+    "explanation": "12.56÷3.14÷2＝2（厘米），圆规两脚间的距离应为2厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长求半径画圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16610467_023",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "画一个半径为1.5厘米的圆，并用字母在圆上标出圆心、一条半径和一条直径．",
+    "options": null,
+    "answer": "如图",
+    "explanation": "以O为圆心，以1.5厘米为半径，画圆。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画圆并标注要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3zxxk_53002086_008",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "小胡想用圆规画直径是10厘米的圆，那么圆规两脚间的距离应该是（），该圆的周长是（）",
+    "options": null,
+    "answer": "5厘米；31.4厘米",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53002086.html",
+      "site": "学科网",
+      "title": "1.4 圆的周长（同步练习）-2025-2026学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆与周长公式结合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:33.877154"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_18711615_005",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画一个半径是4厘米的圆，圆规两脚尖的距离应该是　　厘米。一个分针的长度是8厘米，经过3小时，分针的尖端移动了　　厘米。",
+    "options": null,
+    "answer": "4；150.72",
+    "explanation": "圆规两脚距离等于半径，所以是4厘米。分针1小时转1圈，3小时转3圈。一圈周长：2×3.14×8=50.24厘米；总路程：50.24×3=150.72厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆及分针尖端移动弧长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.771166"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_21611281_024",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "如图是一个正方形，请按要求画图：（1）在正方形里画一个最大的圆。（2）在（1）完成后画出整个图形所有的对称轴。",
+    "options": null,
+    "answer": "见详解",
+    "explanation": "所画圆的直径等于正方形的边长，圆心是正方形对角线交点；整个图形有4条对称轴（两条对角线和两条对边中点连线）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内画最大圆+画圆的对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_15038194_007",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把圆规的两脚分开,使两脚间的距离是3 cm,这样画出的圆的半径是(    )cm,直径是(    )cm．",
+    "options": null,
+    "answer": "3；6",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆半径与直径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_15038194_020",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "数学课上李老师发给每位同学一张圆形纸片，如图．请同学们用一个简单快速的方法判断线段OA是不是圆的半径，并试着说出你的办法．",
+    "options": null,
+    "answer": "较简单的方法：把圆形纸片沿不同直径对折两次找到圆心，看点O是否在圆心上．如果在，线段OA就是半径，否则不是．",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规操作判断半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_18609596_001",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画圆时，针尖固定的点叫做（________），圆规两脚张开的距离是圆的（________）。",
+    "options": null,
+    "answer": "圆心；半径",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆中圆心和半径的概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_18676520_019",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "用圆规画一个半径是1.5cm的圆，标出圆心，再计算这个圆的周长。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画圆并计算周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16107002_005",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "画圆时，固定的一点叫　 　，圆规两脚间的距离叫　 　．",
+    "options": null,
+    "answer": "圆心，半径",
+    "explanation": "试题分析：根据圆的特征：画圆时，固定的一点叫圆心，圆规两脚间的距离叫半径，半径决定圆的大小，圆心决定圆的位置；进而得出结论．解：画圆时，固定的一点叫圆心，圆规两脚间的距离叫半径；故答案为圆心，半径．",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆心与半径的定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_5795056_010",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在一个长6cm，宽4cm的长方形内画一个最大的圆，这个圆的半径是（  ）cm．",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "explanation": "最大圆的半径＝宽÷2＝4÷2＝2（厘米）",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内画最大圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_5795056_011",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一个长5厘米，宽3厘米的长方形中画一个最大的圆，这个圆的半径是_____厘米．",
+    "options": null,
+    "answer": "1.5",
+    "explanation": "圆的半径：3÷2＝1.5（厘米）",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内画最大圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_5795056_012",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画一个半径为5厘米的圆，圆规两脚间的距离是_____，画一个直径是6厘米的圆，圆规两脚间的距离是_____．",
+    "options": null,
+    "answer": "5厘米，3厘米",
+    "explanation": "圆规两脚间距离即半径；画直径6厘米的圆，距离＝6÷2＝3厘米",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚距离即半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_5795056_013",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "要画一个周长是31.4厘米的圆，圆规两脚之间的距离是_____厘米．",
+    "options": null,
+    "answer": "5",
+    "explanation": "31.4÷3.14÷2＝10÷2＝5（厘米）",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_5795056_015",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "画圆时，圆规两脚张开的距离是圆的_____．",
+    "options": null,
+    "answer": "半径",
+    "explanation": "用圆规画圆，圆规两脚张开的距离即是圆心到圆上的距离也就是半径",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆的认识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_18622424_022",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "用圆规画一个半径为 2 cm 的圆，标出圆心 O、半径 r 和直径 d。再在圆内画一个扇形，标出圆心角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "画圆步骤：圆规两脚张开 2 cm，针尖固定一点为圆心O，旋转一周画圆。在圆上取一点A，连接OA为半径r。过O画直径d（两端在圆上）。再取圆上另一点B，连接OB，∠AOB为圆心角，涂色部分为扇形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622424.html",
+      "site": "教习网",
+      "title": "西师大版（2024）六年级上册（2024）圆的认识第1课时达标测试 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画圆并标半径、直径、扇形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:41.017955"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16504365_010",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "已知：如图，A为⊙O上一点；求作：⊙O的内接正方形ABCD．",
+    "options": null,
+    "answer": "见解析",
+    "explanation": "先作直径AC，再过O点作AC的垂线交⊙O于D、B，然后连接AB、AD、CD、CB即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "尺规作圆内接正方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16504365_011",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "已知：⊙O与⊙O上的一点A（1）求作：⊙O的内接正六边形ABCDEF；（要求：尺规作图，不写作法但保留作图痕迹）（2）连接CE，BF，判断四边形BCEF是否为矩形，并说明理由．",
+    "options": null,
+    "answer": "（1）答案见解析；（2）四边形BCEF为矩形，证明见解析",
+    "explanation": "（1）在⊙O上依次截取六段弦，使它们都等于OA，从而得到正六边形ABCDEF；（2）利用正六边形的性质得AB=BC=CD=DE=EF=FA，则∠BFE=∠BCE=90°，同理可得∠FBC=∠CEF=90°，故四边形BCEF为矩形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "尺规作圆内接正六边形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16504365_012",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "仅用无刻度的直尺，按要求画图（保留画图痕迹，不写作法）（1）如图①，画出⊙O的一个内接矩形．（2）如图②，AB是⊙O的直径，CD是弦，且CD∥AB，画出⊙O的内接正方形．",
+    "options": null,
+    "answer": "（1）答案见详解；（2）答案见详解",
+    "explanation": "（1）根据对角线相等且互相平分的四边形是矩形，画出圆的两条直径，即可得到⊙O的一个内接矩形；（2）根据对角线相等且互相垂直平分的四边形是正方形，画出圆的一条直径，使其与AB互相垂直，即可得到⊙O的内接正方形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "无刻度直尺作圆内接图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16402366_007",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用圆规画了一个圆，圆规两脚间的距离是3厘米，这个圆的直径是(        )厘米，周长是(        )厘米。",
+    "options": null,
+    "answer": "6；18.84",
+    "explanation": "画圆时，圆规两脚之间的距离等于所画圆的半径，用半径乘2即可求出这个圆的直径；再根据圆的周长公式，把直径的数据代入公式计算即可求出这个圆的周长。3×2＝6（厘米）；3.14×6＝18.84（厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆半径与周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_51jiaoxi_16402366_008",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将圆规张开成1.5厘米后画一个圆，它的直径是(        )厘米，它的周长是(        )厘米。",
+    "options": null,
+    "answer": "3；9.42",
+    "explanation": "把圆规的两脚分开，定好两脚的距离，两脚之间的距离即半径。所以圆的半径等于1.5厘米，圆的直径＝1.5×2厘米，再根据圆的周长公式代入数据即可求出。1.5×2＝3（厘米）；2×3.14×1.5＝9.42（厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规张开即半径求直径周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.392375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_21030908_016",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "画圆时，圆规两脚尖之间的距离是4cm，画成的圆的面积是12.56cm²。",
+    "options": null,
+    "answer": "×",
+    "explanation": "3.14×4²＝3.14×16＝50.24（cm²），画圆时圆规两脚尖的距离是4cm，画出的圆的面积是50.24cm²。原题干说法错误。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规两脚距离即半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_13461301_027",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "兔宝宝躲在哪个范围内不会被发现？在图中画一画。",
+    "options": null,
+    "answer": "见详解",
+    "explanation": "由于光是沿直线传播的，以兔妈妈的眼睛为起点，过这个物体的两端画射线，物体后面两射线之间为兔妈妈的盲区，兔宝宝躲在这个范围内才能不被兔妈妈发现。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "确定观察范围需用圆及半径知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:11.750779"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_13461301_029",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "请你分别画出淘气站在A、B位置时所看到的树的范围，再说说你的发现。 我发现：（    ）。",
+    "options": null,
+    "answer": "距离越远，看到的范围越大。（答案不唯一）",
+    "explanation": "由于有房子的遮挡，距离要观测的物体越远，观测到的范围越大，物体越小；距离越近观测到的范围越小，物体越大。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13461301.html",
+      "site": "21世纪教育网",
+      "title": "3 观察物体（ 单元测试） 北师大版数学六年级上册（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不同位置观察范围属观察物体综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:11.751783"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_14115544_025",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一张长18cm、宽15cm的长方形纸，最多可以剪　     　个周长12.56cm的圆。",
+    "options": null,
+    "answer": "12",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "剪圆个数+圆周长计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_26559779_033",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "如图，每个小方格的边长表示1厘米，按要求在下面的网格中画圆。(1)画一个半径是4厘米的圆。(2)画一个周长是18.84厘米的圆。",
+    "options": null,
+    "answer": "(1)图略；(2)半径3厘米，图略",
+    "explanation": "(2)18.84÷3.14÷2=3（厘米），画半径3厘米的圆。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_23518744_017",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "小明在一个边长是4cm的正方形中画了一个最大的圆，下面是他画图的一部分。(1)用直尺和圆规将正方形和圆补充完整。(2)计算正方形和圆之间的部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆规画圆及正方形与圆间面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_23518744_018",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "居民楼前有一堵围墙，请画出居民楼楼顶的摄像头监控不到的区域，并涂色。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用圆规画监控盲区（弧线区域）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k3_21cnjy_21496138_005",
+    "subject": "数学",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "画一个周长是3.14厘米的圆，圆规两脚间的距离是(      )厘米。",
+    "options": null,
+    "answer": "0.5",
+    "explanation": "根据圆的周长＝2×π×半径可知，半径＝周长÷π÷2；3.14÷3.14÷2＝0.5（厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21496138",
+      "site": "21世纪教育网",
+      "title": "doc 21496138",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长求半径即圆规两脚距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:29.400052"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

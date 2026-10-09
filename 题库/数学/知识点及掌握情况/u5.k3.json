@@ -1,0 +1,26 @@
+{
+ "id": "u5.k3",
+ "name": "化简比",
+ "unit": "u5",
+ "unit_name": "比的认识",
+ "definition": "整数比:同除最大公因数。小数比:同乘10^n。分数比:同乘公分母",
+ "example": "1.2:0.8 = 12:8 = 3:2, 1/2:1/3 = 3:2, 18:24 = 3:4",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 62,
+ "slide_range": "slide_062-071",
+ "depends_on": [
+  {
+   "id": "u5.k2",
+   "reason": "化简比必须依据比的基本性质（同乘同除不变）"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u5.k6",
+   "reason": "化简比与求比值方法相关但结果形式不同"
+  }
+ ]
+}

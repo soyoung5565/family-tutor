@@ -1,0 +1,692 @@
+[
+  {
+    "qid": "数学_u3.k9_21cnjy_26378141_063",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "观察下列各式，解答问题：；；；……(1)【发现规律】填空：（ ）（ ）（ ）（ ）；(2)【总结规律】猜想填空：（ ）（ ）（ ）；(3)【应用规律】求的值．",
+    "options": null,
+    "answer": "(1)30；4；5；9；(2)n；；；(3)",
+    "explanation": "（1）根据规律直接求解即可；（2）根据规律直接求解即可；（3）根据题意变形得 ，求解即可．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "探索分数运算规律并应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k6_21cnjy_26378141_044",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_21cnjy_26378141_066",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "探索规律．乐乐在计算：，这样的算式时，他想到用\"数形结合\"的方法来探索：以算式中的两个数分别构造两个正方形，用大正方形的面积减小正方形的面积，求剩余图形的面积．他发现\"剩余图形可以转化成长方形，求它的面积可用下面的算式表示\"：①②③(1)图④的阴影部分表示，这个阴影部分可以转化成长是_______，宽是_______的长方形；(2)根据以上规律计算：．",
+    "options": null,
+    "answer": "(1)9，1；(2)5050",
+    "explanation": "（1）根据题目可得两个数的平方的差，等于两数之和与两数之差的乘积，由此可解；（2）将原式重新组合为，再利用（1）的规律计算即可求解．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数形结合探索平方差公式规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u3.k2_21cnjy_26378141_088",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_003",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形花坛的直径是8 m，扩建1 m宽的小路后，小路外侧的周长是多少米？（π 取3.14）",
+    "options": null,
+    "answer": "外圈直径：8＋2＝10（m），周长：3.14×10＝31.4（m）。答：小路外侧的周长是31.4 m。",
+    "explanation": "扩建1 m宽小路，外圈大圆直径比花坛直径增加2 m（左右各1 m），是10 m，再用 C=πd 求周长。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "花坛外加小路周长问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_004",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆形花坛的半径是6 m，扩建1 m宽的小路后，小路外侧的周长比花坛的周长增加 6π m。（  ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "周长增加量只与扩宽宽度有关：半径增加1 m，周长增加 2π m，与原来的半径6 m无关。增加 6π m 是误把原来半径当成了增加倍数。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "花坛周长增加量判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.833726"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_005",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "假设圆形花坛的半径是2 m，扩建1 m宽的小路后，小路外侧的周长比花坛的周长增加多少米？（π 取3.14）",
+    "options": null,
+    "answer": "2π×(2+1)−2π×2=6π−4π=2π（m），2×3.14＝6.28（m）。答：增加6.28 m。",
+    "explanation": "按\"假设—试算\"策略：外圈周长减原周长，化简得 2π m。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "具体数代入花坛周长差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_006",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "没有给出花坛半径时，可以先（________）一个半径，多（________）几个数，再从中寻找规律。",
+    "options": null,
+    "answer": "假设；试（设）",
+    "explanation": "这是\"枚举试算、归纳猜想\"的策略：先假设具体数，多试几个数，比较结果找规律。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母表示前的假设策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_008",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "2π(r+1)=2πr+1。（  ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "乘法分配律要对括号内每一项分别乘 2π：2π(r+1)=2πr+2π×1=2πr+2π。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "展开含π的代数式判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_012",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形水池的周长是62.8 m（π 取3.14）。在它周围扩出1 m宽的小路，扩建后水池外侧的周长是多少米？",
+    "options": null,
+    "answer": "先求半径：62.8÷(2×3.14)=62.8÷6.28=10（m）。扩建后半径：10＋1＝11（m）。扩建后周长：2×3.14×11＝69.08（m）。答：扩建后水池外侧的周长是69.08 m。",
+    "explanation": "由周长反推半径，再加1 m得到新半径，最后求新周长。注意先算括号内的除法再算加法。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径再算外周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_013",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "花坛的半径未知。小明先假设半径是4 m，算出周长增加 2π m；又假设半径是12 m，算出还是增加 2π m。他说：\"不管半径是多少，增加量都是 2π m。\"他的说法对吗？请你用字母说明理由。",
+    "options": null,
+    "answer": "对。设花坛半径为 r m：增加量＝2π(r+1)−2πr=2πr+2π−2πr=2π（m）。结果中不含 r，说明对任意半径都成立，小明的说法正确。",
+    "explanation": "具体数只能验证几个特例，用字母 r 表示任意半径，一次化简就能说明对所有半径都成立——这正是\"用字母表示关系\"的价值。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用字母说明周长增加规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_015",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "正方形绿地周边扩出1 m宽的小路，扩建后正方形的周长比原来增加多少米？有没有规律？请你先用具体数试一试，再用字母说明。（可参考右图）",
+    "options": null,
+    "answer": "先假设：设边长为 a m，外圈正方形边长为 a+2 m。增加量：4(a+2)−4a=4a+8−4a=8（m）。验证：边长5 m时，4×(5+2)-4×5＝28-20＝8（m）；边长9 m时，4×(9+2)-4×9＝44-36＝8（m）。答：扩建后正方形的周长比原来增加8 m。规律：增加量与边长无关，总是8 m。",
+    "explanation": "周边扩出1 m宽的小路，每条边两端各向外扩1 m，边长共增加2 m，四条边共增加 4×2=8 m。用字母表示边长 a，化简后 a 抵消，说明与边长无关。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形周长外加小路规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_016",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "长方形花坛长12 m、宽8 m，周边扩出1 m宽的小路，扩建后花坛的周长增加多少米？如果长、宽分别是 a m、b m，结果会变吗？",
+    "options": null,
+    "answer": "具体数：原周长＝2×(12＋8)＝40（m）；扩建后长12＋2＝14（m）、宽8＋2＝10（m），周长＝2×(14＋10)＝48（m）；增加48－40＝8（m）。字母：原周长 2(a+b)，扩建后周长 2(a+2+b+2)=2(a+b+4)，增加量＝2(a+b+4)−2(a+b)=8（m）。答：增加8 m。用字母表示时，a、b 在化简后抵消，结果不会变。",
+    "explanation": "长方形每条边两端各向外扩1 m，长、宽各增加2 m，周长增加 2×2×2=8 m，与长、宽的大小无关。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形周长外加小路字母表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_017",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形花坛和一个正方形绿地周边各扩出1 m宽的小路，哪个图形的周长增加得多？你能用字母说明吗？",
+    "options": null,
+    "answer": "圆：设半径为 r m，增加量＝2π(r+1)−2πr=2π（m）≈6.28 m。正方形：设边长为 a m，增加量＝4(a+2)−4a=8（m）。比较：6.28 m＜8 m。答：正方形绿地周长增加得多。用字母计算，增加量分别与 r、a 无关，是确定的数，可以直接比较。",
+    "explanation": "形状不同，周边扩1 m时周长增加量不同：圆增加 2π m（约6.28 m），正方形增加8 m。用字母表示后两个增加量都是常数，比较大小即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆与正方形周长增量比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_018",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "圆形花坛周边扩建出1 m宽的小路，扩建后小路外侧的周长比花坛的周长增加了多少米？题目没有给出花坛半径，请先假设半径为2 m、6 m、10 m分别计算，再说说你发现了什么。",
+    "options": null,
+    "answer": "假设半径2 m：2π×(2+1)−2π×2=6π−4π=2π（m）；假设半径6 m：2π×(6+1)−2π×6=14π−12π=2π（m）；假设半径10 m：2π×(10+1)−2π×10=22π−20π=2π（m）。三个不同的半径，增加量都是 2π m。答：扩建后小路外侧的周长比花坛的周长增加 2π m（约6.28 m）。",
+    "explanation": "数据未知时不要放弃，先假设具体数试一试，多设几个数对比结果，规律就容易显现出来。2π m 约等于6.28 m。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多组假设发现周长规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.833726"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_51jiaoxi_18676528_020",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "正方形绿地周边扩出1 m宽的小路，扩建后正方形的周长会比原来增加多少米？有没有规律？（先用具体数试一试，再用字母说明）",
+    "options": null,
+    "answer": "设正方形边长为 a m。边长增加量：周边扩出1 m宽的小路，每条边两端各向外扩1 m，外圈正方形的边长是 a+2 m。周长增加量：4(a+2)−4a=4a+8−4a=8（m）。验证：假设边长5 m，4×(5+2)−4×5=28−20=8（m）；假设边长8 m，4×(8+2)−4×8=40−32=8（m）。答：扩建后正方形的周长比原来增加8 m。规律：增加量与边长无关，总是8 m。",
+    "explanation": "方法与圆的问题相同：先假设具体数试一试，再用字母证明。注意与圆不同：正方形周边扩1 m，周长增加8 m；圆周边扩1 m，周长增加 2π m（约6.28 m）——形状不同，规律不同。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676528.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）花坛的周长优秀综合训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形周长外加小路具体到字母",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:43:03.566250"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_21cnjy_26559779_045",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "在体育达标测试中，小明发现每个同学的起跑线不一样，老师告诉他：400米跑道的结构是两段直道＋两段半圆形弯道，直道部分所有跑道长度完全相同，差距只出在弯道部分：两者的周长差＝2π（r＋d）－2πr＝2πd（d表示相邻跑道的宽度，π取3.14）。算一算：环形跑道上每一条起跑线比里面相邻的一条起跑线往前移多少米？",
+    "options": null,
+    "answer": "6.28米",
+    "explanation": "每条起跑线比相邻里面一条往前移2πd=2×3.14×1=6.28（米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "花坛周长问题2πd公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u3.k9_21cnjy_26559779_057",
+    "subject": "数学",
+    "kp_id": "u3.k9",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "运动场上有一条环形跑道，相邻跑道的宽度都是1.25米。环形跑道上每一条起跑线比里面相邻的一条起跑线往前移多少米？",
+    "options": null,
+    "answer": "7.85米",
+    "explanation": "2×3.14×1.25＝6.28×1.25＝7.85（米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "花坛周长2πd公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

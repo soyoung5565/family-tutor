@@ -1,0 +1,26 @@
+{
+ "id": "u3.k7",
+ "name": "探索规律（n张桌子坐的人数）",
+ "unit": "u3",
+ "unit_name": "用字母表示数（二）",
+ "definition": "n张桌子并排，坐的人数 m = 2n+2 (端点连接重合)",
+ "example": "n=5, m=12 (2×5+2)",
+ "key_formulas": [
+  "m = 2n+2"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 38,
+ "slide_range": "slide_038-048",
+ "see_also": [
+  {
+   "id": "u3.k8",
+   "reason": "都是探索规律并用字母表示数量关系的活动"
+  },
+  {
+   "id": "u3.k1",
+   "reason": "用n表示桌子数、m表示人数是用字母表示数"
+  }
+ ]
+}

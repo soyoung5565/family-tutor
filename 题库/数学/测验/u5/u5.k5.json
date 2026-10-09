@@ -1,0 +1,1124 @@
+[
+  {
+    "qid": "数学_u1.k1_szns_003",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "观察、对比这组有关除法、分数、比的等式：①除法42÷18=(42÷6)÷(18÷6)=7÷3；②分数42/18=(42÷6)/(18÷6)=7/3；③比42:18=(42÷6):(18÷6)=7:3。（1）相同点：（2）化简比：①7/12:3/8  ②20%:1.4  ③2:1/5。",
+    "options": null,
+    "answer": "（1）除法、分数、比之间可以相互转化，被除数/分子/前项 和 除数/分母/后项 同时乘或除以相同的数（0除外），商/分数值/比值不变；（2）①14:9  ②1:7  ③10:1",
+    "explanation": "考查除法、分数、比之间的联系。化简比时根据比的基本性质。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u5.k3",
+        "u5.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "归纳除法分数比可互化且商值不变规律相同"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_003",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_005",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "（    ）∶24＝3÷4＝12/(    )＝（    ）%＝（    ）（填小数）",
+    "options": null,
+    "answer": "18, 16, 75, 0.75",
+    "explanation": "3÷4=0.75=75%，分子分母同比例扩大：3:4=18:24=12:16。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u7.k2",
+        "u5.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "比与除法分数等值互化求空缺项"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_005",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_003",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "把 6 米长的钢管平均截成 5 段，每段是这根钢管的( )，每段长( )米。",
+    "options": null,
+    "answer": "1/5；6/5",
+    "explanation": "每段是这根钢管的 1/5，每段长 6 ÷ 5 = 6/5 米。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查分数与除法关系，区分率1/5和量6/5米",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_59525295_004",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法中正确的是（）。",
+    "options": [
+      "扇形统计图能明显地反映数量的增减变化情况",
+      "比与除法相比，比的前项相当于被除数",
+      "甲数的等于乙数的，甲数与乙数的比是5∶6",
+      "比的前项和后项同时加或减同一个数，比值的大小不变"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正确答案B考查比与除法的关系：前项=被除数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.101035"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_54935963_005",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "5∶（　　）=10：8=（　　）÷20=（　　）/11=（　　）%。",
+    "options": null,
+    "answer": "4；25；25/11（=25/11）；125",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54935963.html",
+      "site": "学科网",
+      "title": "期中素养检测试卷（1～4单元）（试题）-2025-2026学年六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6",
+        "u7.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比、分数、除法、百分数的互化关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_54482183_006",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "商店运来桃和苹果，桃和苹果重量的比是5：7。(1)桃和苹果的总重量可平均分成(　)份，桃占(　)份，苹果占(　)份。(2)苹果重量占这两种水果总重量的（　）。(3)桃的重量占这两种水果总重量的（　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54482183.html",
+      "site": "学科网",
+      "title": "2.4 简单应用（一）-【七彩课堂】2025-2026学年六年级数学上册同步教学设计（冀教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比5:7转化为分数7/12，体现比与分数的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.101035"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_57523937_007",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "在2024年梁子湖区半程马拉松志愿者征集活动中，第一天报名的男、女志愿者的人数比为5∶4，男志愿者的人数是志愿者总数的，男志愿者的人数是女志愿者人数的（    ）%。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "将比转化为分数（5/9、5/4），考查比与分数的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.101035"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_55623663_008",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "()∶() ＝ ＝ ()()% ＝ ()(填小数)。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比、分数、除法及百分数、小数之间的等价关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.101035"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_zxxk_55545068_009",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "()÷20==9∶()=()%=()（填小数）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比、分数、除法、百分数、小数之间的等价转换关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.101035"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_11088645_020",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "加工一批手机，已完成的个数与任务总个数的比是1∶3，若再做15个，完成的个数与剩下的个数相同。求任务总个数是多少个？",
+    "options": null,
+    "answer": "90个",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与分数关系转化列方程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_15920805_016",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，阴影部分的面积相当于甲圆面积的1/6，相当于乙圆面积的1/5，那么乙与甲两个圆的面积比是（　　）。",
+    "options": [
+      "6︰1",
+      "5︰1",
+      "5︰6",
+      "6︰5"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过公共量求两圆面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 5︰1",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_14474960_006",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一段路，甲走完用小时，乙走完用25分钟，甲乙的速度比是（ ）。",
+    "options": [
+      "3∶5",
+      "8∶5",
+      "5∶8",
+      "5∶3"
+    ],
+    "answer": "3",
+    "explanation": "小时＝15分钟，甲的速度是1/15，乙的速度是1/25，1/15∶1/25＝5∶3。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比和分数除法关系求速度比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 5∶3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_14474960_009",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "＝28÷（ ）＝（ ）∶1.25＝0.8。",
+    "options": null,
+    "answer": "20；35；1",
+    "explanation": "0.8＝4/5，4/5＝28÷35＝1∶1.25。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比和除法、分数的关系互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_14474960_018",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "甲数的等于乙数的（甲、乙两数均不为0），则甲、乙两数的比是5∶6。",
+    "options": null,
+    "answer": "√",
+    "explanation": "假设甲数×1/5＝1，则甲数＝5；乙数×1/6＝1，则乙数＝6，甲数∶乙数＝5∶6。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比和分数的关系，由分数等式求比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.871755"
+    },
+    "duplicate_of": "数学_u5.k1_21cnjy_14474960_018",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_51jiaoxi_15302301_003",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "÷15＝0.6＝      /      ＝12：       ＝       %",
+    "options": null,
+    "answer": "9；3/5；20；60",
+    "explanation": "把0.6化成分数并化简是3/5；根据分数与除法的关系3/5＝3÷5，再根据商不变的性质被除数、除数都乘3就是9÷15；根据比与分数的关系3/5＝3：5，再根据比的性质比的前、后项都乘4就是12：20；把0.6的小数点向右移动两位添上百分号就是60%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比分数除法互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5zxxk_55167629_012",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（a、b不为0），则()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55167629.html",
+      "site": "学科网",
+      "title": "专题04 比（期末真题汇编）六年级数学上学期（人教版·河北专用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比和分数除法的关系及化简",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:26.820124"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_6646908_051",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甲乙丙三个数平均数是6，乙丙平均数是7，甲乙比是2：3，丙数是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平均数与比的关系综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.871755"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_6609093_006",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "×(　　)=÷(　　)=(　　)%=0.125×(　　)=1。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比分数除法关系与倒数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_6609093_011",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "2.3∶2也可写成,读作\"3比2\"。(　　)",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6609093.html",
+      "site": "21世纪教育网",
+      "title": "人教六年级（上）：总复习-1数与代数.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比和分数除法关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:58.540740"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_51jiaoxi_18676507_002",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把比 3:4 改写成除法算式是（________），改写成分数形式是（________）。",
+    "options": null,
+    "answer": "3÷4；3/4",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676507.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）数与代数精品第1课时同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与除法、分数的互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:25.334852"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_24356407_007",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（ ）:12 = = 15÷（ ）=（ ）（填小数）",
+    "options": null,
+    "answer": "9；20；0.75",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与分数除法的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_24875938_005",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "24÷______= =_____ :45=_____%",
+    "options": null,
+    "answer": "40;27;60",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "除法/分数/比/百分数互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k5_21cnjy_23126114_026",
+    "subject": "数学",
+    "kp_id": "u5.k5",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "淘淘早上8时从家出发，平均每小时骑行30km，下午4：30到了目的地，中间休息3小时，如果将淘淘的骑行距离在比例尺1：3000000的图上表示出来，图上距离应该是多少厘米？",
+    "options": null,
+    "answer": "5.5厘米",
+    "explanation": "4时30分+12时-8时-3小时=5.5时；30×5.5=165（千米）=16500000（厘米）；16500000×1/3000000=5.5（厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程÷比例尺求图上距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

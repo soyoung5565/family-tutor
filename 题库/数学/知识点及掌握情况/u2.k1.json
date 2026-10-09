@@ -1,0 +1,31 @@
+{
+ "id": "u2.k1",
+ "name": "圆的认识（车轮为什么是圆的）",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "圆是由一条封闭曲线围成的图形。圆心O、半径r、直径d，d=2r",
+ "example": "同一个圆里所有半径都相等，所有直径都相等",
+ "key_formulas": [
+  "d = 2r",
+  "r = d/2"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "see_also": [
+  {
+   "id": "u2.k3",
+   "reason": "认识圆心、半径后才能用圆规画圆"
+  },
+  {
+   "id": "u2.k2",
+   "reason": "圆的认识中半径都相等，自然引出轴对称性"
+  },
+  {
+   "id": "u2.k4",
+   "reason": "直径d=2r的关系是推导圆周率的基础"
+  }
+ ]
+}

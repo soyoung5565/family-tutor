@@ -1,0 +1,427 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_007",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "2024年9月23日至10月6日，中国网球公开赛在北京国家网球中心举行，男子单打共32位选手，第一轮是分组循环赛，4人一组，组内每两位球员之间要进行一场比赛，每一小组内要比赛（    ）场；第一轮总共要比赛（    ）场。",
+    "options": null,
+    "answer": "3场；24场",
+    "explanation": "4人组内两人比赛一场：3场；32÷4=8组，8×3=24场。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "小组循环赛制场次计算属球类统计范畴"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.972213"
+    },
+    "duplicate_of": "数学_u6.k1_szns_007",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u7.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "要表示近年来我国新能源电动车年产量的变化情况，选用（    ）统计图比较合适；要统计目前各品牌新能源汽车市场占有率，选用（    ）统计图。",
+    "options": null,
+    "answer": "折线统计图；扇形统计图",
+    "explanation": "产量随时间变化用折线统计图；各部分占总体的百分比用扇形统计图。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u9.k2",
+        "u9.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:33:47",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "考查三种统计图特点选择：趋势用折线，占比用扇形"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.972213"
+    },
+    "duplicate_of": "数学_u7.k1_szns_002",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k3_zxxk_55623663_003",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "某小学六年级学生进行篮球比赛，采用单循环赛(每两支球队之间都要赛一场)。该校六年级共六个班，每班一支代表队，他们一共比赛了()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单循环赛场次=组合数C(6,2)=15,属统计与概率总复习中的球类统计",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.972213"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k3_21cnjy_8289272_005",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "填一填。1.常用的统计图有( )、( )和( )。2.从( )统计图中很容易看出各种数量的多少。3.在学过的统计图中，要表示各部分总数之间的关系，用( )统计图比较合适；要表示数量增减变化的情况，用( )统计图比较合适。",
+    "options": null,
+    "answer": "1.条形统计图 折线统计图 扇形统计图 2.条形 3.扇形 折线",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三种统计图特点复习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.740127"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k3_21cnjy_8289272_007",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "画一画。以下内容适合用条形统计图表示的画\"△\"，适合用折线统计图表示的画\"√\"，适合用扇形统计图表示的画\"○\"。1.病人的体温变化情况。( ) 2.全校各年级的学生人数。( ) 3.牛奶各种成份所占的百分比。( ) 4.某地一年的降水量变化情况。( ) 5.盛平瓷厂今年前三个月生产瓷的数量。( ) 6.某篮球巨星身高变化情况。( ) 7.某班课外书籍种类统计。( ) 8.小明各科成绩与总成绩的关系。( )",
+    "options": null,
+    "answer": "1.√ 2.△ 3.○ 4.√ 5.△ 6.√ 7.△ 8.○",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据数据特点选合适统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k3_21cnjy_8289272_011",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "填空。(1)要表示一个高烧病人的体温变化情况，应绘制( )统计图。(2)既要表示出各种数量的多少，又要表示出数量的增减变化情况，应绘制( )统计图。(3)要表示某村副业收入与总收入之间的关系，应绘制( )统计图。",
+    "options": null,
+    "answer": "(1)折线 (2)折线 (3)扇形",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/8289272.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学第7-8单元基础测试卷（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按数据特点选合适统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:39.485846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.740127"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k3_51jiaoxi_5596900_017",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "你还能提出什么数学问题？抛一抛，填一填。抛硬币20次，用自己喜欢的符号记录硬币正面朝上和反面朝上的次数各是多少。",
+    "options": null,
+    "answer": "正面朝上（11）次，反面朝上（9）次",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "抛硬币统计记录活动",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k3_51jiaoxi_16423706_005",
+    "subject": "数学",
+    "kp_id": "r1.k3",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某中学要了解八年级学生的视力情况，在全校八年级中抽取了30名学生进行检测，在这个问题中，总体是：________ ，样本是：________。",
+    "options": null,
+    "answer": "八年级学生的视力情况；30名学生的视力情况",
+    "explanation": "总体是：八年级学生的视力情况，样本是：30名学生的视力情况。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总体与样本概念辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

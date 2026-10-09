@@ -1,0 +1,47 @@
+[
+  {
+    "qid": "数学_u1.k1_001",
+    "subject": "数学",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "AI 自标（vote 1/2 一致）",
+    "type": "计算题",
+    "stem": "分数 4/5 除以整数 3 等于多少？",
+    "options": [
+      "4/15",
+      "4/8",
+      "12/5",
+      "5/12"
+    ],
+    "answer": "0",
+    "explanation": "分数除以整数等于分数乘以整数的倒数。4/5 ÷ 3 = 4/5 × 1/3 = 4/15。本题考查分数除法的基本运算规则。",
+    "source": {
+      "url": "manual_upload",
+      "site": "smoke_test",
+      "title": "vote-judge.py smoke test 2026-09-12",
+      "is_real_paper": false,
+      "is_official": false,
+      "is_shenzhen_local": false,
+      "original_version": "smoke test",
+      "fetched_at": "2026-09-12"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "smoke test 题，跨版本通用考点"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vote-judge pipeline (MiniMax-M3 + deepseek-v4-pro, muse failed 500)",
+      "reviewed_at": "2026-09-12T03:09:21",
+      "votes": "2/2 通过（M1 voted passed, DS-Pro voted passed）"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0
+  }
+]

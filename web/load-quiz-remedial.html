@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>查漏补缺练习</title>
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --card: #141414;
+      --border: #262626;
+      --text: #fafafa;
+      --text-secondary: #a1a1aa;
+      --primary: #6366f1;
+      --radius: 12px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 3rem;
+      text-align: center;
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .icon {
+      font-size: 4rem;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+
+    .btn {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      width: 100%;
+    }
+
+    .btn:hover {
+      background: #4f46e5;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+    }
+
+    .success {
+      color: #22c55e;
+      font-weight: 600;
+      margin-top: 1rem;
+    }
+
+    .info {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      margin-top: 1.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .weak-areas {
+      text-align: left;
+      margin: 1.5rem 0;
+      padding: 1rem;
+      background: rgba(239, 68, 68, 0.1);
+      border-radius: 8px;
+      border: 1px solid rgba(239, 68, 68, 0.2);
+    }
+
+    .weak-areas h3 {
+      color: #ef4444;
+      font-size: 0.875rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .weak-areas ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .weak-areas li {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      padding: 0.25rem 0;
+    }
+
+    .weak-areas li::before {
+      content: "🔴 ";
+    }
+
+    .quiz-info {
+      margin: 1rem 0;
+      padding: 1rem;
+      background: rgba(99, 102, 241, 0.1);
+      border-radius: 8px;
+      border: 1px solid rgba(99, 102, 241, 0.2);
+    }
+
+    .quiz-info h3 {
+      color: var(--primary);
+      font-size: 0.875rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .quiz-info p {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <script type="application/json" id="embedded-quiz-data">{"title": "查漏补缺练习 - 2026-08-22 02:54", "questions": [{"type": "choice", "topic": "生字拼音", "text": "「泊」的正确读音是？", "options": ["bò", "bó", "bō", "bǒ"], "answer": 1, "keywords": []}, {"type": "choice", "topic": "生字拼音", "text": "「鹊」的正确读音是？", "options": ["què", "qū", "qù", "qué"], "answer": 0, "keywords": []}, {"type": "choice", "topic": "生字拼音", "text": "「稻」的正确读音是？", "options": ["dào", "dǎo", "dāo", "dáo"], "answer": 0, "keywords": []}, {"type": "text", "topic": "诗词对比", "text": "《宿建德江》和《西江月·夜行黄沙道中》都描写了自然景物，但使用的意象有何不同？请举例说明。", "answer": "《宿建德江》的意象较为静态、孤寂：烟渚、野旷、天低树、江清、月近人，营造出一种空旷、寂寥的氛围。《西江月·夜行黄沙道中》的意象较为动态、热闹：明月、惊鹊、清风、鸣蝉、稻花、蛙声，充满了生机和活力。", "keywords": ["意象", "静态", "动态", "孤寂", "热闹", "生机"]}]}</script>
+  <div class="card">
+    <div class="icon">📚</div>
+    <h1>查漏补缺练习</h1>
+    <p>根据薄弱知识点动态生成新题</p>
+
+    <div class="weak-areas">
+      <h3>薄弱知识点：</h3>
+      <ul id="weak-list"><li>诗词情感对比分析（需要详细分析两首诗的情感差异）</li><li>诗词作者与文学常识</li></ul>
+    </div>
+
+    <div class="quiz-info">
+      <h3>练习内容：</h3>
+      <p id="quiz-count">3 道选择题 + 1 道简答题（答案随机分布）</p>
+    </div>
+
+    <button class="btn" onclick="loadQuiz()">🎯 开始补强练习</button>
+
+    <p id="status"></p>
+
+    <div class="info">
+      <p>根据薄弱知识点动态生成新题</p>
+      <p>每次生成的题都不同，但考点一致</p>
+      <p>答案随机分布，不会全是 A</p>
+      <p>AI 批改 · 语义理解 · 详细解析</p>
+    </div>
+  </div>
+
+  <script>
+    function loadQuiz() {
+      // 题目数据由 generate-remedial.py 自动注入到下方 QUIZ_DATA 占位
+      const embedded = document.getElementById('embedded-quiz-data').textContent;
+      const quizData = JSON.parse(embedded);
+
+      localStorage.setItem('current-quiz', JSON.stringify(quizData));
+      document.getElementById('status').innerHTML = '<p class="success">✅ 补强练习已加载！</p>';
+
+      setTimeout(() => {
+        window.location.href = 'quiz-pending.html';
+      }, 1000);
+    }
+  </script>
+</body>
+</html>

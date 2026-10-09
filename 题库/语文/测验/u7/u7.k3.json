@@ -1,0 +1,2126 @@
+[
+  {
+    "qid": "语文_u7.k3_zxxk_59486969_001",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式变换",
+    "stem": "父亲对我说：\"这就是叫你只许看，不许动。\"(改为转述句)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486969.html",
+      "site": "学科网",
+      "title": "第七单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《表里的生物》，考查直述句改转述句的句式变换。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.255170"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k3_zxxk_59602691_002",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "造句",
+    "stem": "用\"好奇\"写一句话，表现你对某一事物的探究。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》核心即儿童好奇心与探究欲望，与造句要求高度契合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.255170"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k3_zxxk_59602691_003",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容填空",
+    "stem": "《表里的生物》中，\"我\"认为凡能发出声音的，都是（　　）。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查课文《表里的生物》原文内容。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.255170"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26555846_008",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "小时候的\"我\"认为怀表发声的原因是什么？",
+    "options": null,
+    "answer": "\"我\"认为怀表里面藏着活着的小生物，是小生物的活动让怀表发出了滴答声响。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26555846_009",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "从\"我\"不断追问、执意探究怀表的行为中，能看出\"我\"怎样的特点？",
+    "options": null,
+    "answer": "体现出\"我\"好奇心强烈、善于追问、乐于探究、对未知事物充满探索欲望的特点。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人物形象分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26555846_010",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么说当初的想法幼稚，却依旧珍视这份好奇心？",
+    "options": null,
+    "answer": "小时候的认知不符合科学常识，想法天真幼稚；但这份好奇心与探索欲，是求知的起点，是探索科学、探寻真理的重要品质，值得永远珍惜。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文主旨与情感理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25373647_014",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "他这么一说，就增长了表的神秘。（修改病句）",
+    "options": null,
+    "answer": "他这么一说，就增加了表的神秘。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》语病修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25373647_015",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "虫在草丛叫。（改为拟人句）",
+    "options": null,
+    "answer": "虫在草丛里欢快地歌唱。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子拟人修辞改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k6_21cnjy_25373647_015",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_001",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语\nqīng cuì　 　 jiē xīn 　 　 jiān yìnɡ 　 　　单调　 　 wéi kǒnɡ 　 　 kǒnɡ bù",
+    "options": null,
+    "answer": "清脆；玻璃；抽屉；恐怖；蟋蟀；蝉鸣",
+    "explanation": "本题考查对词语的拼写能力。解答本题，首先读一读拼音，知道要写什么词语，然后写出正确的词语，写完后读一读，看看是否正确。注意掌握生字的结构和易错点。书写时要注意\"清脆\"的\"清\"不要写成同音字\"清\"；\"玻璃\"的\"璃\"不要写成形近字\"离\"；\"抽屉\"的\"屉\"里面\"世\"竖弯不要写成竖弯钩。书写时还要注意这些字的笔画、结构。要做到规范、正确和美观。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《表里的生物》词语书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_002",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列词语中字形、字音完全正确的一项是（　　）",
+    "options": [
+      "洪亮 艰硬 蝎子（xiē） 阻拦（lán）",
+      "青脆 恐怖 钵子（bō） 蝈蝈（guō）",
+      "蟋蟀 唯恐 丑恶（è） 嘀嗒（dā）",
+      "证实 加速 蛰伏（zhē） 单调（diào）"
+    ],
+    "answer": "2",
+    "explanation": "本题考查易错的字音、字形。作答此题，首先要认真阅读题目，然后根据自己的日常积累判断加点字的字音、字形是否正确。遇到记忆模糊、不确定的字词，可以采用排除法排除选项，得出正确答案。A.艰——坚；B.青——清；C. 正确；D. 蛰(zhé)。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》字音字形辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 蟋蟀 唯恐 丑恶（è） 嘀嗒（dā）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_005",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "\"哪里有死的东西会自己走动，并且能自动地发出和谐的声音呢？\"这句话运用了（　　）的修辞手法。",
+    "options": [
+      "比喻",
+      "夸张",
+      "反问",
+      "设问"
+    ],
+    "answer": "2",
+    "explanation": "\"哪里有死的东西会自己走动，并且能自动地发出和谐的声音呢？\"用反诘的语气表达一个肯定的意思（ 没有死的东西会自己走动，并且能自动地发出和谐的声音。），答案已经蕴涵在问句中了，不需要对方来回答，也就是明知故问，这是反问句，使用的是反问的修辞。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 反问",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_009",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "也许这里边的蝎子与一般的不同。",
+    "options": null,
+    "answer": "与众不同",
+    "explanation": "\"与一般的不同\"强调的是独特性、不一样，\"与众不同\"意思是跟大家不一样，正好符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_010",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "我看得入神，唯恐父亲再把这美丽的世界盖上。",
+    "options": null,
+    "answer": "目不转睛",
+    "explanation": "\"看得入神\"突出专注地看，\"目不转睛\"形容眼珠子一动不动地盯着看，形容注意力高度集中，与\"看得入神\"意思相符。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_011",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "我对于它的好奇心一天比一天增加。",
+    "options": null,
+    "answer": "与日俱增",
+    "explanation": "\"一天比一天增加\"体现出随着时间推移，程度在不断加深，\"与日俱增\"指随着时间的推移而不断增长，符合该句中好奇心增长的表述。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_014",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "反义词",
+    "stem": "从文中找出下列词语的反义词\n快乐　 　 丑陋　 　 缓慢",
+    "options": null,
+    "answer": "痛苦；美丽；加速",
+    "explanation": "文中描述：\"没有请求，父亲就自动给我看，我高兴极了\"，这里的\"高兴\"， \"痛苦\"是与\"高兴\"相对的情感状态；\"我的面前立即呈现出一个美丽的世界\"，这里的\"美丽\"与\"丑陋\"是相对的；\"我高兴极了，同时我的心也加速跳动\"这里的\"加速\"与\" 缓慢 \"是相对的。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》反义词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_015",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我\" 为什么越不许动越想动？",
+    "options": null,
+    "answer": "因为 \"我\" 对表充满了好奇，好奇心驱使 \"我\" 想要去了解表里面的情况。",
+    "explanation": "本题考查内容的理解。\"我\"对表里的生物充满了好奇，想要了解它究竟是什么，为什么会发出声音。这种好奇心是儿童天性中的一部分，对于未知的事物总是充满探索的欲望。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_016",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "父亲主动给 \"我\" 看表的原因可能是什么？",
+    "options": null,
+    "answer": "可能是父亲看 \"我\" 的样子太可怜了，也可能是父亲自己有高兴的事。",
+    "explanation": "本题考查内容的理解。文中提到，\"有一次，父亲也许看我的样子太可怜了，也许自己有什么高兴的事\"，这句话直接给出了父亲主动给\"我\"看表的可能原因。一方面，父亲可能注意到了\"我\"因为被禁止动表而表现出的痛苦和渴望，心生怜悯，因此决定给\"我\"一个满足好奇心的机会。另一方面，父亲也可能因为自己当时心情愉悦，想要与\"我\"分享这份快乐，于是选择了让\"我\"看他心爱的表。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_001",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下列加点字选择正确的读音，打\"√\"。 应和（hé hè） 厌恶（è wù） 躲藏（cáng zàng） 蝎子（xiē jiē） 钵子（bō běn） 清脆（cuì chuì）",
+    "options": null,
+    "answer": "hè、wù、cáng、xiē、bō、cuì",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《表里的生物》字音字形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_002",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "结合课文语境，选词填空，体会词语的情感色彩。 神秘 清脆 单调 唯恐 央求 好奇 童年的我对父亲的怀表充满（______），那（______）的咔嗒声，在枯燥的日子里格外动听。我（______）错过观察的机会，一次次（______）父亲打开表盖，想要揭开这（______）的盒子里，为何没有（______）的声响之外的动静。",
+    "options": null,
+    "answer": "好奇、清脆、唯恐、央求、神秘、单调",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》词语情感色彩",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_003",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "找出文中错别字并改正。 （1）我以为凡是能自动发出声音的东西，都是活的生务。（______改______） （2）父亲一把按住我的手，恐我弄坏了怀表。（______改______）",
+    "options": null,
+    "answer": "（1）务→物 （2）恐→唯恐",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》错别字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_004",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "哪里有死的东西会自己走动，并且能自动地发出和谐的声音呢？（改为陈述句）",
+    "options": null,
+    "answer": "没有死的东西会自己走动，并且能自动地发出和谐的声音。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》句式改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_005",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "此后我就常常请求父亲偶尔把他的表打开给我看。（修改病句）",
+    "options": null,
+    "answer": "此后我就常常请求父亲把他的表打开给我看。（删去\"偶尔\"，语义矛盾）",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》病句修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_006",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "我渴望看一看父亲的表。我一次次向父亲提出请求。（用合适的关联词合并句子）",
+    "options": null,
+    "answer": "因为我渴望看一看父亲的表，所以我一次次向父亲提出请求。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》关联词合并",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_007",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "父亲把表盖轻轻打开，表里的齿轮立刻转动起来。（改为被字句）",
+    "options": null,
+    "answer": "表盖被父亲轻轻打开，表里的齿轮立刻转动起来。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》被字句改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_008",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "起因：童年的\"我\"发现___________________________，产生强烈好奇，坚信___________________________的朴素认知。",
+    "options": null,
+    "answer": "怀表能自己走动、发出清脆声响；凡是能自动发声、走动的东西都是活的生物",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文内容起因梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_009",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "经过：\"我\"多次__________父亲打开怀表，观察表里的齿轮，听清脆声响，父亲告知表里藏着__________。",
+    "options": null,
+    "answer": "央求；小蝎子",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文内容经过梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_010",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "结果：\"我\"深信父亲的话，逢人就说___________________________，保留了童年纯粹的探索与想象。",
+    "options": null,
+    "answer": "父亲有一个小蝎子在表里",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文内容结果梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_011",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中\"越不许我动，我越想动\"体现了童年的\"我\"怎样的特点？",
+    "options": null,
+    "answer": "体现了\"我\"好奇心强烈、求知欲旺盛、执着专注的童年特点，对未知事物充满探索的渴望。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人物形象特点理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_012",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么坚定地认为表里藏着小蝎子？结合课文内容简要分析。",
+    "options": null,
+    "answer": "因为\"我\"坚信会自动发声、走动的都是活的生物，怀表的声响和转动让\"我\"认定里面有生命；再加上父亲刻意隐瞒、不予细说，告诉\"我\"里面是小蝎子，让\"我\"深信不疑。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合内容分析人物",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_013",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中反复写\"我\"对怀表的执念，这样的写法有什么作用？",
+    "options": null,
+    "answer": "①突出\"我\"对怀表的极致好奇，塑造了善于观察、爱思考、敢猜想的儿童形象；②串联全文叙事，推动情节发展；③凸显文章主旨，赞美童年纯粹的探索精神与丰富的想象力。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "反复写法作用分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.036060"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_26468796_014",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "有人说文中的\"我\"很幼稚，把机械怀表当成有生命的生物。你是否认同这个观点？说说理由。",
+    "options": null,
+    "answer": "示例：不认同。这不是幼稚，而是童年最纯粹的观察与猜想。年幼的作者依靠自己的认知规律判断事物，敢于思考、大胆探索，这份好奇心和求知欲，是可贵的科学探索萌芽，十分珍贵。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "开放性观点评价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3zxxk_50080720_010",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "看拼音写汉字。（2分）①枯jié　②shè及",
+    "options": null,
+    "answer": "①竭　②涉",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》字音字形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.427319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_21409818_018",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "第⑤自然段中的\"弄巧成拙\"指的是　　　　　　　　　　　　。",
+    "options": null,
+    "answer": "指本想卖弄聪明，做得好些，结果却做了蠢事或把事情弄糟。文中指的是给竹节人粘上一个橡皮雕成的脑袋，做一套纸盔甲，没打几个回合，\"脑袋连盔甲\"被它自己手里的大刀磕飞了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "表里的生物词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:45.485715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_51jiaoxi_17346502_007",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读。（一）表里的生物（节选）（二）追赶地平线\n（1）阅读材料，根据要求完成图表。\n（2）下面对画\"______\"句子理解错误的一项是______。\n（3）\"童年时，那些看似没有结果的探索真的有意义吗？\"阅读资料袋，结合材料及生活实际，谈谈你的看法。",
+    "options": [
+      "那道线是一个谜，激发了我对它的好奇心，驱使着我不断探索。",
+      "作者认为自己还不够努力，只要不停地追寻\"那道线\"，最终一定会解开谜团。",
+      "这句话的\"谜\"与材料（一）\"表里的生物\"一样，正是因为未知，才让人充满好奇。",
+      "这句话说的不仅是那道线，也是我们生活中的一些谜团，它吸引着人们不断探索。"
+    ],
+    "answer": "（1）心理 动作 好奇心强、善于观察、执着探究 都没有得到明确答案；（2）B；（3）有意义，材料（一）中\"我\"对表的好奇培养了观察力和想象力，材料（二）中追赶地平线的行为锻炼了执着精神。正如资料袋中冯至所说，\"从细小事物里发现广阔世界\"，这些探索是认知世界的起点。我曾反复拆解玩具试图弄清原理，虽弄坏了玩具，却从此对物理产生兴趣。",
+    "explanation": "（1）材料（一）运用心理描写，材料（二）运用动作描写，体现\"我\"好奇心强、善于观察、执着探究的特点，最终都没有得到明确答案。（2）材料（二）表明作者认为地平线的\"谜\"是其本质，并非\"不够努力\"，B项理解错误。（3）结合材料和生活实际谈看法。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》课文阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_12091063_012",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "照样子，写句子。\n例:他感到很奇怪:为什么睡觉时眼珠会转动 这会不会与做梦有关 会是什么关系呢\n我想:",
+    "options": null,
+    "answer": "示例:为什么不同的花开放的时间不同 会不会与昆虫活动有关 会是什么关系呢",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "表里的生物句式仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25883233_009",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "以下说法不恰当的一项是（ ）A．《学弈》选自《孟子·告子上》。 B．《真理诞生于一百个问号之后》这个题目是课文的主要观点。 C．《两小儿辩日》中的两个小孩各自指出对方的语言漏洞来证明自己的观点。 D．《表里的生物》中的\"我\"是一个善于观察、思考和探索的孩子。",
+    "options": [
+      "《学弈》选自《孟子·告子上》。",
+      "《真理诞生于一百个问号之后》这个题目是课文的主要观点。",
+      "《两小儿辩日》中的两个小孩各自指出对方的语言漏洞来证明自己的观点。",
+      "《表里的生物》中的\"我\"是一个善于观察、思考和探索的孩子。"
+    ],
+    "answer": "2",
+    "explanation": "C．《两小儿辩日》中两个小孩都是通过自己在日常生活中的观察与体验来说明自己的观点的。一个小孩是通过观察太阳不同时间段的视觉大小，运用打比方和反问的手法来说明观点的；另一个小孩则是根据不同时间段太阳照在身上的凉热感觉得出结论，也采用了打比方和反问的手法来说明自己的观点，不正确。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及表里的生物两小儿辩日等课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "学弈",
+      "两小儿辩日"
+    ],
+    "answer_text": "C. 《两小儿辩日》中的两个小孩各自指出对方的语言漏洞来证明自己的观点。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_10863474_019",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中画波浪线的句子属于什么描写？从中你体会到\"我\"是一个怎样的孩子？",
+    "options": null,
+    "answer": "心理描写。从中体会到\"我\"是一个爱思考、好奇心强、天真无邪的孩子。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描写方法辨析与人物体会",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.036060"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_18267567_021",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语辨析",
+    "stem": "用\"√\"画出文中括号里合适的词语。(2分) (持续 继续) (固执 顽固)",
+    "options": null,
+    "answer": "继续 固执",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析近义词，词语运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_004",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "人物描写",
+    "stem": "下列句子中，与其他几句运用的人物描写方法不同的一项是（　　）",
+    "options": [
+      "我只想，大半因为它有好听的声音吧。",
+      "\"糟糕！\"我心里暗喊一声，这下准要坏事。",
+      "我想：表里边一定也有一个蝉或虫一类的生物吧。",
+      "爸爸若有所思地说：\"等你长大了就明白了。\""
+    ],
+    "answer": "3",
+    "explanation": "A、B、C都是运用了心理描写。D.从\"爸爸若有所思地说\"可知，这句话运用了神态和语言描写。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》人物描写方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 爸爸若有所思地说：\"等你长大了就明白了。\"",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_007",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子理解",
+    "stem": "下列对\"后来我见人就说：'我有蟋蟀在钵子里，蝈蝈儿在葫芦里，鸟儿在笼子里；父亲却有一个小蝎子在表里。'\"理解有误的一项是（　　）",
+    "options": [
+      "句中分号写\"我\"对父亲表里有一个\"小蝎子\"的说法深信不疑，并感到愉快。",
+      "它证实了\"我\"的猜想没有错，表里面有一个活的生物。",
+      "这是对\"我\"的思考和判断的肯定。",
+      "分号表示后一部分比前一部分进一层的关系。"
+    ],
+    "answer": "3",
+    "explanation": "A、B、C正确。D.有误，分号前后的内容是并列关系。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》句子理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 分号表示后一部分比前一部分进一层的关系。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_008",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文梳理",
+    "stem": "请梳理《表里的生物》的情节，将其摘录到手账中以丰富手账内容。（课后1题变式）读读作者冯至在探索中的心路历程，写出与画横线部分意思相近的四字词语。",
+    "options": null,
+    "answer": "凡能发出声音的，都是活的生物；表里有一个\"小蝎子\"；为什么要把蝎子放在表里呢；也许这个\"蝎子\"与众不同",
+    "explanation": "将课文情节按照\"提出观点-产生疑问——做出猜测-——证实猜测——产生新疑问——做出新猜测\"的逻辑线索进行梳理，以加深对文章内容及人物思维发展的把握。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》情节梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_012",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "越不许我动，我越想动，但是我又不敢，因此很痛苦，不能用言语表达。",
+    "options": null,
+    "answer": "苦不堪言",
+    "explanation": "\"不能用言语表达\"即难以用语言说出来，\"苦不堪言\"意思是痛苦或困苦到了极点，已经不能用言语来表达，符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_013",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求完成句子练习。\n（1）哪里有死的东西会自己走动，并且能自动地发出和谐的声音呢？（改为陈述句）\n（2）父亲对我笑着说：\"我给你看看表里是什么在响，可是只许看，不许动。\"（改为转述句）\n（3）早晨有鸟叫得很好听，夜里有狗吠得很怕人，夏天蝉在绿树上叫，秋晚有各种的虫在草丛中唱不同的歌曲。（仿写句子）\n早晨有　 　，夜里　 　，夏天　 　，秋晚有　 　。",
+    "options": null,
+    "answer": "（1）没有死的东西会自己走动，并且能自动地发出和谐的声音。（2）父亲对我笑着说，他给我看看表里是什么在响，可是只许看，不许动。（3）公鸡叫得很好听；狼嚎得很怕人；青蛙在荷叶上叫；蟋蟀在草丛里弹琴",
+    "explanation": "（1）改为陈述句，把\"哪里有……呢\"改为\"没有\"，结尾用句号。（2）改为转述句，把引号里的\"我\"改为\"他\"，\"你\"改为\"我\"，去掉引号。（3）①从\"唱\"等词语可以看出是拟人句，从句子结构可以看出运用了排比。②仿写时写出一个拟人句即可。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》句子练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_017",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中 \"美丽的世界\" 指的是什么？",
+    "options": null,
+    "answer": "指的是表里面蓝色的、红色的小宝石，金黄色的齿轮，还有一个小尾巴似的不停摆来摆去的东西。",
+    "explanation": "本题考查词语的理解。文中\"美丽的世界\"指的是父亲手表内部的结构和景象。当父亲打开表盖时，\"我\"看到了蓝色的、红色的小宝石，钉住几个金黄色的齿轮，以及一个小尾巴似的东西不停地摆来摆去。这些精细、色彩丰富的机械部件构成了一个对\"我\"来说全新而迷人的世界。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_018",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我看得入神，唯恐父亲再把这美丽的世界盖上。\" 从 \"唯恐\" 一词可以看出 \"我\" 怎样的心情？",
+    "options": null,
+    "answer": "可以看出 \"我\" 非常留恋这个美丽的表内世界，很担心不能再看到它，表现出 \"我\" 对表内世界的喜爱和不舍的心情。",
+    "explanation": "本题考查词句的理解。在文中，\"我\"看到父亲打开表盖后，呈现出一个由蓝色、红色小宝石和金黄色齿轮等构成的美丽世界，这让\"我\"感到非常好奇和着迷。然而，\"我\"又非常担心父亲会把这个美丽的世界再次盖上，因为这意味着\"我\"将失去进一步观察和探索的机会。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《表里的生物》阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25883233_019",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "辰辰认为第1自然段中引用毛毛虫和牡蛎的例子没有什么作用，可以删去，你同意他的观点吗？说一说。",
+    "options": null,
+    "answer": "不同意。第1自然段引用毛毛虫和牡蛎的例子，是为了引出中心论点\"当人生遭遇不自由时，我们要乐观旷达，坚持信念，勇敢面对，开辟独有的天空\"，同时运用比喻论证，将抽象的道理形象化，激发读者阅读兴趣，并为后文苏轼、史铁生的事例论证作铺垫，所以不能删去。",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "表里的生物类举例论证",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u7.k1_21cnjy_25883233_019"
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_019",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "近义词",
+    "stem": "在文中找出下列词语的近义词。\n神奇——　 　 探究——",
+    "options": null,
+    "answer": "神秘；探索",
+    "explanation": "本题主要考查对近义词的辨析能力。近义词，是指词汇意义相同或相近的词语，解答本题，要理解词语的意思，然后在文中找出所给词语的近义词。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文词语近义词积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:42.315465"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k3_21cnjy_25068996_020",
+    "subject": "语文",
+    "kp_id": "u7.k3",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "文章中的\"饥饿\"指的是　 　。",
+    "options": null,
+    "answer": "充满好奇心",
+    "explanation": "这道题考查的是词语在具体语境中的意思，解答时要联系文章上下文及主旨来思考。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文重点词句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:42.315465"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

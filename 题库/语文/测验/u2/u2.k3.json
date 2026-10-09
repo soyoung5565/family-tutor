@@ -1,0 +1,6204 @@
+[
+  {
+    "qid": "语文_u2.k3_zxxk_54139655_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "仿写题",
+    "stem": "句子模仿秀。\n英雄是什么？\n在狼牙山五壮士的故事里，英雄是舍身跳崖的壮烈。\n在邱少云的事迹里，英雄是烈火中不动的坚守。\n在我的心中，英雄是______",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54139655.html",
+      "site": "学科网",
+      "title": "第二单元 综合素质达标卷 2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "仿写排比句式，首例素材直接来源于《狼牙山五壮士》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_55959574_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "为了帮助同学们更好地理解两幅剪纸作品中体现的\"抗战精神\"，你为其配上了文字解读。作品一：这幅作品定格了五位壮士dàn()尽粮绝，砸枪跳yá()的英勇瞬间。作品二：1938年秋，冷云率领的8名东北抗日联军女官兵，面对敌kòu()的逼降，不假思suǒ()，mài()入江中。根据拼音，在括号内写出正确的汉字。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55959574.html",
+      "site": "学科网",
+      "title": "第二单元(单元测试)-2025-2026学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》关键汉字拼音：弹(dàn)、崖(yá)。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.955299"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_55959574_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "请你将下面的词语（热血沸腾、视死如归、英勇无畏、粉身碎骨）填写到作品文字解读的横线处，使语句通顺。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55959574.html",
+      "site": "学科网",
+      "title": "第二单元(单元测试)-2025-2026学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语皆为革命英雄壮举的典型描述，契合《狼牙山五壮士》主题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59486341_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞判断+仿写",
+    "stem": "判断下列句子运用的修辞手法，再仿写。句子：石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486341.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级上册语文",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子选自《狼牙山五壮士》，考查比喻修辞及仿写。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.182133"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_55094783_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "联系上下文，解释下列词语。艰难险阻：________________　惊天动地：________________",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55094783.html",
+      "site": "学科网",
+      "title": "5.《七律·长征》课后同步练-2025-2026学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两词需结合革命课文上下文理解，属词语理解训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_006",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "拼音填空",
+    "stem": "五位战士yīlì（　　）在狼牙山山顶，tiàowàng（　　）着远方的大部队。",
+    "options": null,
+    "answer": "屹立、眺望",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子内容出自《狼牙山五壮士》，考查课文重点字词拼音。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.182133"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "拼音填空",
+    "stem": "战士们bēng（　　）紧神情，奋力阻击rìkòu（　　）的进攻。",
+    "options": null,
+    "answer": "绷、日寇",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语\"日寇\"出自《狼牙山五壮士》抗日战争语境，考查拼音声调与韵母。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_008",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列关于课文文学常识的表述，正确的一项是（　　）",
+    "options": [
+      "《狼牙山五壮士》的作者是老舍，文章是一篇纪实记叙文",
+      "课文按照'接受任务—诱敌上山—引上绝路—顶峰歼敌—跳下悬崖'的顺序行文",
+      "课文讲述的是解放战争时期的英雄战斗故事",
+      "五位壮士分别是马宝玉、葛振林、宋学义、胡德林、李大钊"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》作者、时代、顺序及人物等文学常识。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "B. 课文按照'接受任务—诱敌上山—引上绝路—顶峰歼敌—跳下悬崖'的顺序行文",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "对下列句子修辞手法判断正确的一项是（　　）（1）石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。（2）难道五位壮士舍身报国的精神不值得我们永远铭记吗？（3）青松伫立山崖，流云致敬英雄，山河铭记忠魂。",
+    "options": [
+      "比喻、反问、排比",
+      "夸张、设问、拟人",
+      "比喻、设问、排比",
+      "夸张、反问、拟人"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目句子选自《狼牙山五壮士》，考查修辞手法辨析。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "A. 比喻、反问、排比",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_010",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "《狼牙山五壮士》一文记叙了________时期，五位战士为了掩护________和________转移，与敌人殊死搏斗，最后跳崖的英雄事迹。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》课文核心内容识记",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.182133"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_011",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "课文通过对五壮士的动作、________、________描写，刻画了顶天立地的英雄形象，抒发了作者对革命先烈的________之情。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》人物描写方法及思想感情。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_012",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "五壮士最后选择跳崖，体现了他们________、________的崇高革命气节。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》五壮士跳崖的革命精神",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58685700_013",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "陈述句改反问句：五壮士的英雄壮举震撼了每一个中国人的心灵。________________________________________________",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式转换内容直接出自《狼牙山五壮士》课文，考查陈述句改反问句的基本句式技能。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_014",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "根据提示填词语。①我能从本文中积累两个描写战士神态、气势的四字词语：__________、__________；其中形容注意力高度集中的词语是__________，形容气势盛大震撼天地的词语是________。②结合狼牙山画面，我能用两个词语形容山峰地势：__________、__________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "积累描写战士神态气势的四字词语，紧扣狼牙山五壮士课文语言学习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_015",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "补充本课词语，完成下面的练习。全（　）贯（　）　斩（　）截（　）　惊（　）动（　）　居（　）临（　）　昂（　）挺（　）　热（　）沸（　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "全神贯注、斩钉截铁、居高临下、昂首挺胸等均出自《狼牙山五壮士》生字词表",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_016",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "选词填空：战士们站在峰顶________，石块带着仇恨砸向山下敌军。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对《狼牙山五壮士》课文内容的识记，搬石头砸敌情节。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "选词填空：听闻五壮士跳崖的故事，同学们个个________，内心满是崇敬。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对《狼牙山五壮士》内容的理解与词语运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_018",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "顿时，石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。句中\"____________\"这个比喻词写出石块又多又密，这是动作描写，同时融入了作者________________对英雄的崇敬、对敌人的痛恨之情。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《狼牙山五壮士》，考查比喻词及动作描写融入情感。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_019",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "马宝玉抢前一步，夺过手榴弹插在腰间，猛地举起一块大石头，大声喊道：\"同志们！用石头砸！\"这句话是对马宝玉的______和______描写，在这个场面描写中，加点的部分突出了他的形象。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》中人物描写方法（动作、语言）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_020",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "【语文要素】\"这是英雄的中国人民坚强不屈的声音！这声音惊天动地，气壮山河！\"这句话在文中的作用是________________，由这句话你想象到的画面是：五位壮士屹立悬崖之巅，________________________________________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目考查《狼牙山五壮士》结尾句的作用，属革命题材课文理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_021",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "\"马宝玉嗖的一声拔出手榴弹，拧开盖子，用尽全身气力扔向敌人。随着一声巨响，手榴弹在敌群中开了花。\"对这句话理解，错误的一项是（　）。",
+    "options": [
+      "\"嗖、拔、拧、扔\"一连串动作，写出班长动作干脆利落。",
+      "表现五壮士弹尽粮绝后与敌人血战到底的无畏气魄。",
+      "说明五壮士想要保存弹药，舍不得使用手榴弹。",
+      "承接上文顶峰歼敌情节，为后文跳崖做铺垫。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》句子理解，涉及动作描写、英雄气魄及结构作用。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.182133"
+    },
+    "answer_text": "C. 说明五壮士想要保存弹药，舍不得使用手榴弹。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_022",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "分清课文叙事脉络、人物形象，体会革命题材写作手法。《狼牙山五壮士》一课，作者按照________顺序，依次写了：接受任务、________、________、顶峰歼敌、________。其中________部分写得最为详细，通过动作、神态刻画英雄形象。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》叙事顺序与课文内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.182133"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_023",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "根据课文内容，补全思维导图。梳理完课文内容，我想用（　）赞美五壮士的英雄气概。",
+    "options": [
+      "死去元知万事空，但悲不见九州同",
+      "至今思项羽，不肯过江东",
+      "人生自古谁无死？留取丹心照汗青",
+      "捐躯赴国难，视死忽如归"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》课文主题与英雄气概的理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "answer_text": "C. 人生自古谁无死？留取丹心照汗青",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_59136629_024",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "阅读课文语段，完成下面练习。作者为什么详写顶峰歼敌？根据选文，完成思维导图。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "顶峰歼敌是《狼牙山五壮士》核心情节，考查对详写用意的理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_025",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "书写习惯：请在下方田字格中默写课文中描写五位壮士英勇跳崖时的两个四字成语，要求无涂改、字体匀称、格式端正。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》课文默写与书写习惯。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_026",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "看拼音写词语：面对rìkòu()的疯狂扫荡，战士们满腔fènzhàn()的怒火，yìlì()在xuányá()边，誓死保卫群众。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语情境描写日寇扫荡、战士悬崖抗敌，对应《狼牙山五壮士》内容。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_027",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "看拼音写词语：伴随着bīngbáo()般的石头砸向敌群，战士们热血fèiténg()，用生命谱写了一曲气壮山河的赞歌。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题干内容描写战士英勇抗敌，与《狼牙山五壮士》主题契合，同时考查看拼音写词语基础技能。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_028",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列关于《狼牙山五壮士》的文学常识及背景，表述不正确的一项是",
+    "options": [
+      "本文记叙的故事发生在抗日战争时期。",
+      "五位壮士为了掩护群众和连队主力的转移，主动将敌人引向绝路。",
+      "课文按照事情发展的顺序，详写了\"接受任务\"和\"英勇跳崖\"，略写了\"诱敌上山\"和\"顶峰歼敌\"。",
+      "\"壮士\"一词不仅指他们英勇善战，更赞美了他们视死如归、舍生取义的崇高精神。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》文学常识及课文详略安排",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_029",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列句子运用的修辞手法与其他三项不同的一项是",
+    "options": [
+      "石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。",
+      "副班长葛振林打一枪就大吼一声，好像细小的枪口喷不完他的满腔怒火。",
+      "班长马宝玉像每次发起冲锋一样，第一个纵身跳下深谷。",
+      "狼牙山上响起了他们壮烈豪迈的口号声，这声音惊天动地，气壮山河！"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "四句均出自《狼牙山五壮士》，考查修辞手法辨析（比喻vs夸张）。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_zxxk_58686042_030",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "课文内容填空：《狼牙山五壮士》一文按照事情发展的顺序，依次写了\"接受任务→（①）→（②）→（③）→英勇跳崖\"五个部分。其中，作者对（④）、（⑤）、（⑥）这三个部分进行了详细描写。文章运用了（⑦）结合的写作手法，既展现了五位壮士的英雄群像，又刻画了每个人物的鲜明个性，表现了他们（⑧）的革命精神。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《狼牙山五壮士》课文结构与重点段落",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17542869_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "班长马宝玉激动地说：\"同志们，我们的任务顺利完成了！\"（改为转述句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17542869.html",
+      "site": "21世纪教育网",
+      "title": "江苏省沭阳县部分学校2023-2024学年六年级上学期10月学情调研 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自狼牙山五壮士",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:44:20.006332"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26536921_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "我会查字典填空。\"殉\"用音序查字法应查音序______，再查音节______；用部首查字法，应先查______部，再查______画。\"殉\"在字典中的意思是：______。",
+    "options": null,
+    "answer": "X；xun（xùn）；歹；6；为了某种目的而牺牲自己的生命。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "查字典认字·五壮士跳崖",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26536921_010",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据对\"点面结合\"的理解，完成下面的表格。描写角度 具体内容 作用 面（群体） 五位壮士一面向顶峰攀登，一面依托大树和岩石向敌人射击 ___________________ __________________ 点（个体） 马宝玉抢前一步，夺过手榴弹插在腰间，猛地举起一块大石头 ___________________ __________________ 点面结合 既写群体，又写个体 既展现整体气势，又突出典型形象，增强感染力",
+    "options": null,
+    "answer": "面（群体）：展现五位壮士整体作战的英勇气势。点（个体）：突出马宝玉在弹尽粮绝时的果断勇敢和英勇无畏。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理点面结合·狼牙山五壮士",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "给下列词语选择正确读音，在括号里填写序号\n①qiáng ②qiǎng ①chuán ②zhuàn ①sù ②xiǔ ①dǎo ②dào\n强（ ）迫 传（ ）记 宿（ ）营 倒（ ）退\n①mó ②mú ①gé ②gě ①tán ②dàn ①yīng ②yìng\n模（ ）型 葛（ ）藤 弹（ ）琴 应（ ）答",
+    "options": [
+      "② ② ① ② ① ② ① ②",
+      "② ② ② ① ① ① ② ②",
+      "① ② ① ② ① ② ① ②",
+      "② ① ① ② ① ② ② ②"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多音字辨析结合《狼牙山五壮士》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ② ② ① ② ① ② ① ②",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "形近字辨析",
+    "stem": "形近字辨析，选字填空\n【寇 冠】 敌（ ） 皇（ ）\n【稍 梢】 （ ）微 树（ ）\n【沸 佛】 （ ）腾 仿（ ）\n【涧 简】 山（ ） （ ）单",
+    "options": null,
+    "answer": "寇 冠；稍 梢；沸 佛；涧 简",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字辨析属基础字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补充词语，并完成练习\n居（ ）临下 坚贞不（ ） 大义（ ）然 英勇无（ ）\n披（ ）斩棘 奋不（ ）身 （ ）发图强 勇往直（ ）\n（1）用来描写英雄人物坚守气节，绝不屈服的词语是：（ ）\n（2）请选一个词语，写一句赞美英雄的话：_____________________________________________________________________",
+    "options": null,
+    "answer": "临 屈 凛 畏 荆 顾 奋 前；（1）坚贞不屈；（2）示例：无数先烈奋不顾身，用生命守护祖国大地。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语积累配合革命题材课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "《狼牙山五壮士》的故事脉络，排序正确的一项是（ ）",
+    "options": [
+      "诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+      "痛击敌人→诱敌上山→顶峰歼敌→引上绝路→跳下悬崖",
+      "诱敌上山→引上绝路→痛击敌人→顶峰歼敌→跳下悬崖",
+      "诱敌上山→痛击敌人→顶峰歼敌→引上绝路→跳下悬崖"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理《狼牙山五壮士》情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_014",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系选文，解释词语\n屹立：________________________________________________________\n昂首挺胸：____________________________________________________",
+    "options": null,
+    "answer": "屹立：像山峰一样高耸而稳固地立着，文中形容五壮士坚定不可动摇。昂首挺胸：抬起头，挺起胸膛，形容斗志昂扬。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语解释结合《狼牙山五壮士》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.955299"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_015",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "五壮士为什么要把枪砸碎？",
+    "options": null,
+    "answer": "不想让武器落入敌人手中，不留给敌人任何物资。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解《狼牙山五壮士》细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_016",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选段最后两句口号，表达了五壮士怎样的情感？",
+    "options": null,
+    "answer": "饱含对侵略者的憎恨，对祖国和人民的热爱，宁死不屈的英雄气概。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会五壮士口号情感",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_018",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系短文，理解词语\n恼羞成怒：________________________________________________________",
+    "options": null,
+    "answer": "因为羞愧恼火而大发脾气。文中指敌人被王璞拒绝之后十分愤怒。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语理解属革命课文阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_019",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "日军逼迫王璞做什么事情？",
+    "options": null,
+    "answer": "逼迫王璞说出八路军伤员以及枪支隐藏的地点。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解抗日小英雄王璞",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_020",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中哪些地方可以看出王璞毫不畏惧敌人？",
+    "options": null,
+    "answer": "敌人哄骗恐吓，王璞坚定摇头；面对刺刀威胁依然不肯泄密；敌人杀害乡亲后，他依旧高喊抗日口号，毫不畏惧。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解体会人物品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_21576209_025",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "对下列句子运用的修辞手法判断有误的一项是",
+    "options": [
+      "起初是全场肃静，只听见炮声和乐曲声，只听见国旗和其他许多旗帜飘拂的声音。（反复）",
+      "顿时，石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。（比喻）",
+      "震耳欲聋的掌声，送走了一间牢房的节目。（拟人）",
+      "群众差不多把嗓子都喊哑了，把手掌都拍麻了，还觉得不能够表示自己心里的欢喜和激动。（夸张）"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查修辞手法，涉及革命课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 震耳欲聋的掌声，送走了一间牢房的节目。（拟人）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_21576209_027",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列不属于狼牙山五壮士之一的是",
+    "options": [
+      "葛振林",
+      "董存瑞",
+      "马宝玉",
+      "宋学义"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》人物",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 董存瑞",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "下列对选文内容理解不正确的一项是（ ）",
+    "options": [
+      "选文用\"开头\"",
+      "选文运用动静结合的描写方法，使场面描写得丰富生动。"
+    ],
+    "answer": "2",
+    "explanation": "选文主要描写的是阅兵式上各部队行进和群众的欢呼，并没有明显的静态描写。这里主要是点面结合的写法，而不是动静结合。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士场面描写赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对\"昂首挺胸\"这个词语赏析有误的一项是（ ）。",
+    "options": [
+      "表现了五位壮士英勇无畏的牺牲精神。",
+      "这个词语是对狼牙山五壮士的动作描写。",
+      "写出了狼牙山五壮士被迫跳下悬崖、一心求死的决绝的精神。",
+      "生动地描摹了五位战士跳崖时的那种无畏的精神。"
+    ],
+    "answer": "2",
+    "explanation": "昂首挺胸\"是神态、动作描写，能体现五壮士主动选择牺牲、英勇无畏的决心和状态，而不是\"被迫跳崖、一心求死\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士词语赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 写出了狼牙山五壮士被迫跳下悬崖、一心求死的决绝的精神。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "战士们\"脸上露出胜利的喜悦\"是因为（ ）。",
+    "options": [
+      "他们击溃了敌人的多次进攻。",
+      "抗日战争即将胜利。",
+      "群众和部队主力已经安全转移，任务完成。",
+      "他们马上可以和大部队会合了。"
+    ],
+    "answer": "2",
+    "explanation": "文中\"五位壮士屹立在狼牙山顶峰，眺望着群众和部队主力远去的方向\"，确认任务胜利完成，所以露出胜利的喜悦。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 群众和部队主力已经安全转移，任务完成。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_006",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对文中画\"_____\"的句子分析有误的一项是（ ）。",
+    "options": [
+      "这是全国人民共同的心声，中国人民在中国共产党的领导下能够英勇战斗。",
+      "中国人民抗战的决心不动摇，抗战的力量无比巨大，抗战必定胜利。",
+      "这两句仅仅表达了五位壮士对敌人无比憎恨的情感。",
+      "这两句话感人至深，充分显示了五壮士坚强不屈、不怕牺牲的英雄气概。"
+    ],
+    "answer": "2",
+    "explanation": "画横线的两句口号不只是表达对敌人的憎恨，还饱含对党的拥护、抗战必胜的坚定信念和不怕牺牲的崇高精神，\"仅仅表达憎恨\"理解片面。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士句子理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 这两句仅仅表达了五位壮士对敌人无比憎恨的情感。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_012",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中画",
+    "options": null,
+    "answer": "动作；神态；战士仇恨的眼神（愤怒的目光）；火焰；战士们对敌人的仇恨之深（无比仇恨和愤怒的样子）",
+    "explanation": "结合第②段\"看看手中顶不上劲的步枪，战士们攥紧拳头，眼里喷出仇恨的火焰\"，关键词\"攥紧\"是动作，\"眼里喷出仇恨的火焰\"是神态，将战士们愤怒的眼神比作喷出的火焰，写出对敌人的无比仇恨。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士句子分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_014",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"说时迟那时快\"的意思是___________________________，通过那时徐存洋的行为，我感受到了徐存洋________的特点。",
+    "options": null,
+    "answer": "形容事情或动作发生得非常迅速，行动极其敏捷；沉着冷静、机智勇敢、动作敏捷（果断）",
+    "explanation": "结合第⑤段敌机扫射后还没拉升，徐存洋便\"抬手对准敌机又是一枪\"，果断抓住转瞬即逝的机会反击，结合其观察敌机规律、利用大树隐蔽、机智躲避等行为，体现出他沉着冷静、机智勇敢、动作敏捷的特点。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "战斗英雄人物特点理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:18.183513"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563146_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "情景化词句练习 （1）判断句子表达的情感，填序号 ①崇敬赞美 ②愤怒痛恨 战士们高喊口号，纵身跳下悬崖。（ ） 敌人疯狂抢夺百姓物资，残害乡亲。（ ） （2）按要求完成句子练习 ①石头砸向敌人。扩写句子，用上神态或者动作描写_____________________________________ ②三十万人的目光一齐投向主席台。改为双重否定句",
+    "options": null,
+    "answer": "（1）①；② （2）①示例：战士们瞪大双眼，奋力把一块块石头狠狠砸向敌人。 ②三十万人的目光不会不一齐投向主席台。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合《狼牙山五壮士》扩写句子",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563146_012",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果来到狼牙山五壮士纪念塔，你想诵读一句赞颂英雄的话，最合适的是（ ） A. 少壮不努力，老大徒伤悲 B. 捐躯赴国难，视死忽如归 C. 读书须用意，一字值千金",
+    "options": [
+      "少壮不努力，老大徒伤悲",
+      "捐躯赴国难，视死忽如归",
+      "读书须用意，一字值千金"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合《狼牙山五壮士》选诗句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 捐躯赴国难，视死忽如归",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_16427384_014",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下面词语中书写完全正确的一项是（　　）",
+    "options": [
+      "书籍 晏会 侵袭 全神惯注",
+      "贷款 辟静 煎熬 万不得已",
+      "肿胀 匪徒 惊慌 兴高彩烈",
+      "倒霉 幼稚 寂寞 惟妙惟肖"
+    ],
+    "answer": "3",
+    "explanation": "A项\"晏会\"应为\"宴会\"，\"全神惯注\"应为\"全神贯注\"；B项\"辟静\"应为\"僻静\"；C项\"兴高彩烈\"应为\"兴高采烈\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形基础练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 倒霉 幼稚 寂寞 惟妙惟肖",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_15377092_016",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "用\"√\"选择文中括号内使用恰当的词语。",
+    "options": null,
+    "answer": "拖着 巡视 关注",
+    "explanation": "\"疲惫的身躯\"用\"拖着\"搭配；配合文语境用\"巡视病房\"\"关注病情\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士词语辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_15377092_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字词解释",
+    "stem": "\"卒\"的解释有：①兵；②死亡；③完毕。\"身先士卒\"中的\"卒\"意思是__________（填序号），这个词在文中的意思是___________。",
+    "options": null,
+    "answer": "① 叶欣亲自带头，冲在前面，前往一线",
+    "explanation": "\"身先士卒\"原指作战时将帅亲自上阵，现比喻领导带头走在群众前面。文中指叶欣冲在一线。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26047889_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书法抄写",
+    "stem": "笔书汉字。用楷书抄写下面的文字，标题写在醒目的位置，段落要分明。（2分）1. 狼牙山五壮士（节选）狼牙山上响起了他们壮烈豪迈的口号声：\"打倒帝国主义！\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "抄写《狼牙山五壮士》文段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26047889_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "配乐朗读更能让人入情入境。在读第1题《狼牙山五壮士》（选文）文段时，下面音乐风格中最适合配乐朗读的是（ ）。",
+    "options": [
+      "欢快愉悦",
+      "恐怖紧张",
+      "激动振奋",
+      "悲伤忧郁"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会课文情境选配乐",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 激动振奋",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26047889_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "当读到\"五位壮士屹立在狼牙山峰顶，决意跳崖时\"，我想起了本学期积累的曹植的诗句：\" ， 。\"",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "曹植壮士相关诗句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_14856497_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语：wéi jiān、xiōng qiáng、jù jīng huì shén、qiān jūn yí fà",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语出自《狼牙山五壮士》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_14856497_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "查字典",
+    "stem": "查字典填空。'钧'字用音序查字法先查音序_______，再查音节_______。按部首查字法先查_______部，再查_______画。意思_______，能组成词语_______、_______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查'钧'字查字典及字义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_14856497_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "选择加点字的正确读音。电钮（niǔ  nǔ）、围歼战（qiān  jiān）、千钧一发（yūn  jūn）、璀璨（càn  chàn）、黑魆魆（xū  qū）、豫皖苏平原（wān  wǎn）。",
+    "options": null,
+    "answer": "电钮（niǔ）、围歼战（jiān）、千钧一发（jūn）、璀璨（càn）、黑魆魆（xū）、豫皖苏平原（wǎn）",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音涉及《狼牙山五壮士》生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_14856497_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "写出下列词语的反义词。宽阔——（   ）暴露——（   ）挺进——（   ）璀璨——（   ）黑暗——（   ）漆黑——（   ）",
+    "options": null,
+    "answer": "狭窄（窄小）——隐蔽（隐藏）——撤退（后撤）——黯淡（暗淡）——光明——明亮",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语出自《狼牙山五壮士》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_14856497_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读课文片段，完成练习。",
+    "options": null,
+    "answer": "1.B；2.郝副营长点燃的，为后续部队照亮了前进的路；3.略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命题材课内阅读片段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_008",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文排序",
+    "stem": "《狼牙山五壮士》的故事脉络，排序正确的一项是（  ）",
+    "options": [
+      "诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+      "痛击敌人→诱敌上山→顶峰歼敌→引上绝路→跳下悬崖",
+      "诱敌上山→引上绝路→痛击敌人→顶峰歼敌→跳下悬崖"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士情节顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:10.858994"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k3_21cnjy_26563138_009",
+    "answer_text": "A. 诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_013",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课内阅读：五位壮士屹立在狼牙山顶峰……狼牙山上响起了他们壮烈豪迈的口号声：\"打倒日本帝国主义！\"\"中国共产党万岁！\" 1.联系选文，解释词语：屹立、昂首挺胸。2.五壮士为什么要把枪砸碎？3.选段最后两句口号，表达了五壮士怎样的情感？4.这段话既有群体描写，又有班长马宝玉的刻画，运用了______的写法，突出表现______。",
+    "options": null,
+    "answer": "1.屹立：像山峰一样高耸而稳固地立着，文中形容五壮士坚定不可动摇。昂首挺胸：抬起头，挺起胸膛，形容斗志昂扬。2.不想让武器落入敌人手中，不留给敌人任何物资。3.饱含对侵略者的憎恨，对祖国和人民的热爱，宁死不屈的英雄气概。4.点面结合；五壮士舍生取义、视死如归的英雄形象",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士课内阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:10.858994"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17486035_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文学常识",
+    "stem": "下列表述有误的一项是(     )",
+    "options": [
+      "\"灯光\"是课文的线索,也象征着幸福安宁的生活,表达了革命先烈对美好未来的向往之情。",
+      "《狼牙山五壮士》一文选取了最能代表人物身份、性格的细节进行了描写,其中既有对个体形象的细致描写,又有对人物群体形象的粗线条勾勒。",
+      "孟浩然是宋朝山水田园派诗人,他与另一位山水诗人王维并称为\"王孟\"。",
+      "\"红军不怕远征难,万水千山只等闲。\"这两句话统领全诗,赞美了红军长征途中不畏艰难万险、勇往直前的英雄气概。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文学常识覆盖多课",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k2_21cnjy_17486035_008",
+    "answer_text": "C. 孟浩然是宋朝山水田园派诗人,他与另一位山水诗人王维并称为\"王孟\"。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17486035_010",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "学习了《狼牙山五壮士》,我想用曹植的名言\"                ,               \"来赞美五位壮士。面对南海争端,我们会如李纲所说的\"             ,            \"。(5分)",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士赞美革命先烈",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_21409818_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "画横线的句子主要是对人物的　　　和　　　描写，从中我感受到了　　　　　　　　　　　　。",
+    "options": null,
+    "answer": "动作；神态；沉着冷静、奋勇杀敌的英雄气概",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士描写手法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:45.485715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26559954_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "用\"√\"给加点字选择正确的读音。围歼（jiān qiān） 倚着（yǐ qǐ） 电钮（niǔ chǒu）憧憬（chōng chóng）黑魆魆（xū qū）千钧一发（jūn yún）",
+    "options": null,
+    "answer": "jiān、yǐ、niǔ、chōng、xū、jūn",
+    "explanation": "本题考查字音辨析。\"歼\"读jiān，\"倚\"读yǐ，\"钮\"读niǔ，\"憧\"读chōng，\"魆\"读xū，\"钧\"读jūn（注意不读yún）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26559954.html",
+      "site": "21世纪教育网",
+      "title": "第14课《灯光》课堂练习题（含答案）.docx - 试卷- 小学语文- 21世纪 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形，含围歼、憧憬等课文词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:44.917021"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26559954_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。cuǐ càn（ ） chōng jǐng（ ） hēi xū xū（ ） yǐ kào（ ） wéi jiān（ ） jiān miè（ ）",
+    "options": null,
+    "answer": "璀璨、憧憬、黑魆魆、倚靠、围歼、歼灭",
+    "explanation": "本题考查重点词语的书写，注意\"璀\"\"璨\"\"憧\"\"憬\"\"魆\"\"倚\"\"歼\"等字的正确写法。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26559954.html",
+      "site": "21世纪教育网",
+      "title": "第14课《灯光》课堂练习题（含答案）.docx - 试卷- 小学语文- 21世纪 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本课词语拼音书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:44.917021"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_6048344_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "2.给下面形近字注音并组词。眷、誉、遗、遣、浆、桨、魁、槐",
+    "options": null,
+    "answer": "juàn 眷恋；yù 荣誉；yí 遗忘；qiǎn 消遣；jiāng 泥浆；jiǎng 船桨；kuí 魁梧；huái 槐树",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-6048344.html",
+      "site": "教习网",
+      "title": "2021年 统编版六年级语文期中精选卷（1）（附参考答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字辨析，五壮士相关字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.413335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_6048344_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "4.下列词语中有错别字的是( )组和( )组。",
+    "options": [
+      "烘烤 悬崖峭壁 寝不安席 惹人叽笑",
+      "忧虑 可见一斑 风烛残年 不约而同",
+      "静谧 庞然大物 囫囵吞枣 张冠李戴",
+      "凄晾 津津乐道 忑忐不安 纷至沓来"
+    ],
+    "answer": "A D",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-6048344.html",
+      "site": "教习网",
+      "title": "2021年 统编版六年级语文期中精选卷（1）（附参考答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字辨析，与课文相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.413335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_6048344_006",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "三、词语句子。(一)用\"然\"字组词，并分别填入下面的句子中。1.班长马宝玉回头看了看，( )带头转向棋盘陀。2.岁月悠悠，唯有你( )如旧。3.爷爷今年八十岁了，他( )还能爬上五指山顶峰。4.这种说法( )错了，所以大家都摇头。5.天气预报说今天要下雪，傍晚，天空( )飘起雪花。6.他( )工作忙，可是对业余学习并不放松。",
+    "options": null,
+    "answer": "毅然；依然；居然；显然；果然；虽然",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-6048344.html",
+      "site": "教习网",
+      "title": "2021年 统编版六年级语文期中精选卷（1）（附参考答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用\"然\"组词，狼牙山五壮士",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.413335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_23110730_008",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文理解",
+    "stem": "《十六年前的回忆》的作者是____,她的父亲是____。\"我永远忘不了那一天\"中的\"那一天\"是____。文中\"我\"的父亲是一个____的人。",
+    "options": null,
+    "answer": "李星华；李大钊；1927年4月28日；忠于革命,勇于为革命献身以及关爱家人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《十六年前的回忆》回忆李大钊",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "十六年前的回忆"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_24909242_019",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请你给选段（二）拟一个小标题：　。",
+    "options": null,
+    "answer": "英勇跳崖",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》拟小标题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_24909242_021",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课文对五位英雄的称呼最初是“战士”，后变成“壮士”，你认为改变的原因是什么？",
+    "options": null,
+    "answer": "因为在文章开始，战士们是在英勇地执行任务，打击敌人，而到后面，他们放弃了回到大部队的机会，用生命的代价将敌人引到悬崖，掩护了大部队，他们英勇无畏、可歌可泣，是英雄，是“壮士”。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》称呼变化理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "\"胡德林和胡福才这两个小战士把脸绷得紧紧的，全神贯注地瞄准敌人射击。\"下列与句中加点词不是一类的是( )",
+    "options": [
+      "聚精会神",
+      "专心致志",
+      "鸦雀无声",
+      "目不转睛"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语辨析出自狼牙山五壮士",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 鸦雀无声",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_008",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "加点的词语、诗句用得不恰当的句子是（ ）。",
+    "options": [
+      "黄山是令人心驰神往的地方，今天我终于来到了它的脚下。",
+      "小明认真地听取了教练关于游泳的要点，但一下水还是沉到了水底。这真是\"纸上得来终觉浅，绝知此事要躬行\"啊！",
+      "在回答小学生\"作文写得好靠什么\"时，王老师说：\"古人说得好，'问渠那得清如许？为有源头活水来'。\"",
+      "英勇的八路军战士负隅顽抗，终于等来了援军，一举击败了日寇。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语运用含狼牙山五壮士等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 英勇的八路军战士负隅顽抗，终于等来了援军，一举击败了日寇。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_030",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容理解",
+    "stem": "黑体的两个词语位置能否调换？为什么？（2分）",
+    "options": null,
+    "answer": "不能，因为\"眺望\"是指从高处远望，而\"望望\"是指看看的意思。如果两个词语位置调换，会不符合原文意思。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士词语顺序揣摩",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k3_21cnjy_7897198_030"
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_031",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "把画线的句子改写成转述句。_____________________________________________.（1分）",
+    "options": null,
+    "answer": "班长马宝玉激动地对同志们说，他们的任务胜利完成了！",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直述句改转述句基础句式训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_032",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容理解",
+    "stem": "哪些词语写出了五壮士跳崖时的奋不顾身？________________________（1分）",
+    "options": null,
+    "answer": "纵身、昂首挺胸。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士关键词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_033",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容理解",
+    "stem": "\"这声音\"指的是什么？从\"这声音\"里面你能够感受到五壮士的怎样的情怀？（2分）",
+    "options": null,
+    "answer": "\"这声音\"指的是五壮士跳崖时喊出的壮烈豪迈的口号声。从\"这声音\"里面你能够感受到五壮士对日本帝国主义的仇恨，对祖国和人民的热爱。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士文中指代与情感",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_034",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容理解",
+    "stem": "给这几段文字添加一个小标题：______________。（1分）",
+    "options": null,
+    "answer": "英勇跳崖。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士段落拟小标题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_035",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列加点字理解有误的一组是（???）（2分）",
+    "options": [
+      "敝同乡（自己）",
+      "踯躅（在一个地方来回走）",
+      "营巢：（建造）",
+      "任其咎（责备）"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合革命课文考查加点字理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 营巢：（建造）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_036",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "文中省略号的作用是（????）（1分）",
+    "options": [
+      "省略没有说完的内容。",
+      "省略同类词语。",
+      "表示意在言外的省略。",
+      "表示事物或道理的多项列举。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "省略号用法标点符号基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 省略没有说完的内容。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_006",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "战士们冒着大雨和泥泞的小路快步前进。修改病句",
+    "options": null,
+    "answer": "战士们冒着大雨，沿着泥泞的小路快步前进。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》病句修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_011",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列字音字形全部正确的一项是（ ）",
+    "options": [
+      "围歼 崎岖 憧憬（chóng jǐng）",
+      "电钮 璀璨 绷着脸（běng zhe liǎn）",
+      "茂胜 屹立 擎着（qíng zhe）",
+      "飘拂 毫迈 瞻仰（zhān yǎng）"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形综合辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 电钮 璀璨 绷着脸（běng zhe liǎn）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_012",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "《狼牙山五壮士》的故事脉络，排序正确的一项是（ ）",
+    "options": [
+      "诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+      "痛击敌人→诱敌上山→顶峰歼敌→引上绝路→跳下悬崖",
+      "诱敌上山→引上绝路→痛击敌人→顶峰歼敌→跳下悬崖"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》情节排序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k3_21cnjy_26563138_009",
+    "answer_text": "A. 诱敌上山→痛击敌人→引上绝路→顶峰歼敌→跳下悬崖",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课内阅读",
+    "stem": "联系选文，解释词语。屹立：昂首挺胸：",
+    "options": null,
+    "answer": "屹立：像山峰一样高耸而稳固地立着，文中形容五壮士坚定不可动摇。昂首挺胸：抬起头，挺起胸膛，形容斗志昂扬。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26563138_023",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课外阅读",
+    "stem": "文中哪些地方可以看出王璞毫不畏惧敌人？",
+    "options": null,
+    "answer": "敌人哄骗恐吓，王璞坚定摇头；面对刺刀威胁依然不肯泄密；敌人杀害乡亲后，他依旧高喊抗日口号，毫不畏惧。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过具体描写体会人物精神品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k3_21cnjy_26563138_020",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_14408787_024",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中第一段外祖父发怒的对象是______，从文中推断他发怒的原因是______；描写他发怒的样子时用了一个比喻句，把他比作______，两者之间的相同点是______；根据平时所读，结合上文选段故事情节，我们可以猜出外祖母的性格特点是______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14408787.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册现代文阅读寒假复习+预习检测卷（一）（有解析 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》外祖父形象分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:00.833729"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_14408787_025",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中第二段外祖父发怒的对象是______，请把描写他发怒动作的句子用",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14408787.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册现代文阅读寒假复习+预习检测卷（一）（有解析 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》动作描写找句子",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:00.833729"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17486035_013",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "学习了《狼牙山五壮士》,我想用曹植的名言",
+    "options": null,
+    "answer": "捐躯赴国难,视死忽如归;祖宗疆土,当以死守,不可以尺寸与人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系狼牙山五壮士背诵",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_21409818_011",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文既描写了人物群体，也描写了每一位战士，这种方法叫____。其中第____句整体描写了五位战士痛击敌人的情形：第____句具体描写每位战士的表现。这样写的好处是____。",
+    "options": null,
+    "answer": "点面结合；②；③-⑥；使文中对人物的描写更加新鲜生动，内容更加直观具体，便于读者了解五壮士奋勇歼敌的精神。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "点面结合，狼牙山五壮士写法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "用\"\"给加点字选择正确的读音。蒙(méng měng)古包 抡(lūn lún)起 瞻(zhān yán)仰 山涧(jiān jiàn) 沉着(zháo zhuó) 磅礴(bàng páng)",
+    "options": null,
+    "answer": "měng lūn zhān jiàn zhuó páng",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士等课文字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。sǎ tuō / chóu yuàn / yōu yǎ / qí zhì / pān dēng / zhèng fǔ / yì lì / zhào yào",
+    "options": null,
+    "answer": "洒脱 愁怨 幽雅 旗帜 攀登 政府 屹立 照耀",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命单元重点字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义辨析",
+    "stem": "查字典。\"贯\"共有几画，第三画是____；按部首查字法应先查____部，再查____画。\"贯\"在字典中的解释有：①集中；②连贯；③古代钱币的单位。请给下面句子中的\"贯\"字选择正确的解释(写序号)。(1)五壮士全神贯注地瞄准敌人射击。(2)纵使你有万贯家财，如果不努力奋斗，总有一天会坐吃山空。(3)上课了，同学们鱼贯而入，走进教室。",
+    "options": null,
+    "answer": "8画 I 贝 4画 (1)① (2)③ (3)②",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士等课文字义辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_010",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "祖宗疆土，当以死守，____。",
+    "options": null,
+    "answer": "不可以尺寸与人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文第1自然段运用了\"点面结合\"的手法，其中，第________句是\"点\"，第________句是\"面\"，这样写既能让我们感受到________________，又能_______________________________。",
+    "options": null,
+    "answer": "三、四；一、二、五、六；班长个体英勇决绝的特质；感受到五位壮士对国家和人民的热爱与忠诚",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "点面结合手法辨识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_013",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请按照事情的发展顺序，补全下面的信息。",
+    "options": null,
+    "answer": "日军伤亡大，调来飞机→日军得支援，情况紧急→徐存洋抓住时机，击落战机",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士事情发展顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_015",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中A、B两处是怎样运用点面结合的手法描写战斗场面的？这样描写的作用是什么？",
+    "options": null,
+    "answer": "A处描写了敌我双方激烈的战斗场面，属于\"面\"的描写；B处具体描写了徐存洋用步枪打敌机的过程，属于\"点\"的描写。点面结合更好地表现了敌人的凶残和我军战士的机智勇敢、不畏艰险的特点。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士点面结合手法分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_016",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "运用点面结合的手法，把日军飞机坠落后战士们欢腾的场面描写出来。",
+    "options": null,
+    "answer": "十团八连的战士们看到击落的敌机后欢呼起来，欢呼声传遍了每一个角落。通讯员小李迅速把这一好消息报告给团长，团长兴奋地说：\"徐存洋真是好样的！\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "运用点面结合写欢腾场面",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_018",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第⑤自然段使用了点面结合的手法，对村民们的描写属于\"________\"的描写，对崔莹及其母亲的描写属于\"________\"的描写。这样写的作用是________________。",
+    "options": null,
+    "answer": "面；点；既概括地写出村民们对罗盛教的感激与痛悼之情，又通过具体人物的言行（崔莹和其母亲的话）生动地表现了罗盛教舍己救人的国际主义精神感动了朝鲜人民，使人物形象更加丰满，情感表达更加真挚动人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "点面结合手法辨析作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_021",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中画\"_____\"句子是对黄晓文________、________的描写，从中我们可以感受到黄晓文________的形象。",
+    "options": null,
+    "answer": "动作、语言、神态；不怕牺牲、顽强坚韧（铮铮铁汉）",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士人物描写及形象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_028",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请用简洁的语言概括第①—④段的主要内容。",
+    "options": null,
+    "answer": "一个朝鲜小孩掉进了冰窟窿 罗盛教三次潜水救朝鲜小孩",
+    "explanation": "按照记叙文“起因-经过-结果”的梳理逻辑，第①段介绍了事情的起因，几个朝鲜小朋友在河面上滑冰，冰破了，一个小孩掉进了冰窟窿。第②到④段介绍了事情的经过，罗盛教听到叫声跳下去救小孩，经过三次营救，罗盛教最终用头和肩膀把孩子顶出来。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "段落大意概括",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_029",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请分别概括第②段、第④段、第⑤段的主要内容。",
+    "options": null,
+    "answer": "九江赛城湖大堤抢险 黄晓文带伤抗洪 战士们乘冲锋舟救援群众",
+    "explanation": "结合第②段写战士们奋力保大堤；结合第④段写黄晓文带伤坚持抢险；结合第⑤段写冲锋舟奋勇救助受灾群众。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "段落大意概括",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26568178_030",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第④段中“来不及了！”是对黄晓文的______描写，“一咬牙，猛地把铁钉一拔”是对黄晓文的______描写。这两处细节描写展现了黄晓文______的品质。",
+    "options": null,
+    "answer": "语言 动作 英勇无畏、意志坚强、一心抗洪",
+    "explanation": "结合第④段“黄晓文大声说：‘来不及了！’说着，一咬牙，猛地把铁钉一拔，一股鲜血涌了出来”可知，这些细节展现出黄晓文不顾伤痛、坚守抢险一线，铁骨铮铮、不畏伤痛的英雄形象。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26568178.html",
+      "site": "21世纪教育网",
+      "title": "第2单元阅读理解专练-2026-2027学年语文六年级上册统编版（2024）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人物细节描写方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:02:36.157279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_24126519_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义理解",
+    "stem": "下列句子中的加点字和例句中加点字意思相同的一项是（2分）\n例句：不到半日，我们便熟识了。",
+    "options": [
+      "俗话说，熟能生巧嘛。",
+      "锅里的饭熟了。",
+      "我和小花是老同学，相互熟得很。",
+      "妹妹睡得很熟。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多义字辨析，结合上下文理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 我和小花是老同学，相互熟得很。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_15377092_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子理解",
+    "stem": "下列对句子的理解错误的一项是（　　） 父亲仍旧穿着他那件灰布旧棉袍，可是没戴眼镜。我看到了他那乱蓬蓬的长头发下面的平静而慈祥的脸。",
+    "options": [
+      "外貌描写\"没戴眼镜\"\"乱蓬蓬的长头发\"写出了敌人对李大钊施了重刑。",
+      "神态描写\"平静\"表现了李大钊经历残酷的折磨后依旧坚强。",
+      "外貌描写\"仍旧穿着他那件灰布旧棉袍\"说明李大钊很喜欢这件衣服，对它有感情。",
+      "\"慈祥\"体现了李大钊对亲人的爱。"
+    ],
+    "answer": "2",
+    "explanation": "外貌描写\"仍旧穿着他那件灰布旧棉袍\"并不是写出李大钊很喜欢这件衣服，而是通过朴素的外表写其形象。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士句子理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 外貌描写\"仍旧穿着他那件灰布旧棉袍\"说明李大钊很喜欢这件衣服，对它有感情。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7893415_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《狼牙山五壮士》是按照\"接受任务—痛歼敌人—诱敌上山—顶峰歼敌—跳下悬崖\"的顺序来写的。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查狼牙山五壮士叙事顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7893415_019",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子合并",
+    "stem": "五位壮士痛击敌人。五位壮士完成了掩护群众和部队转移的任务。（用恰当的关联词语把两句话合并成一句话）",
+    "options": null,
+    "answer": "五位壮士不但痛击敌人，而且完成了掩护群众和部队转移的任务。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士句式合并",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_12474190_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字词解释",
+    "stem": "下列句子中画线字或词解释错误的一项是（    ）。",
+    "options": [
+      "到了狼牙山峰顶，五位壮士居（站在）高临（相邻）下，继续向紧跟在身后的敌人射击。",
+      "胡德林和胡福才这两个小战士把脸绷得紧紧的，全神贯（连贯，穿通）注（集中）地瞄准敌人射击。",
+      "为了不让敌人发现群众和连队主力，班长马宝玉斩（砍掉）钉截（切断）铁地说了一声'走！'",
+      "战士们也昂（抬起）首（头）挺胸，相继从悬崖往下跳。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》字词理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 到了狼牙山峰顶，五位壮士居（站在）高临（相邻）下，继续向紧跟在身后的敌人射击。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_12474190_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中画线的词语运用错误的一项是（    ）。",
+    "options": [
+      "战斗正在激烈地进行着。",
+      "又一群敌人扑上来了。马宝玉嗖的一声拔出手榴弹，拧开盖子，竭尽全力扔向敌人。",
+      "到了狼牙山峰顶，五位壮士居高临下，继续向紧跟在身后的敌人射击。",
+      "山坡上传来一阵叽里呱啦的叫声，敌人陆续滚落深谷。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》词语运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 山坡上传来一阵叽里呱啦的叫声，敌人陆续滚落深谷。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_12474190_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语填空",
+    "stem": "下列成语补充完整。\n气________山河    全神________注\n居高________下    斩钉________铁\n横七________八    昂首________胸",
+    "options": null,
+    "answer": "壮；贯；临；截；竖；挺",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》成语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_12474190_013",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "把下面表示'看'的词语恰当地填在括号里。\n探望  赡养  观赏  俯瞰  环视  仰望\n________国旗    ________四周    ________风景\n________山谷    ________病人    ________星空",
+    "options": null,
+    "answer": "瞻仰；环视；观赏；俯视；探望；仰望",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》近义词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_12474190_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞判断",
+    "stem": "读下面的句子，判断是否比喻句，用'正确''错误'表示。\n（1）更喜岷山千里雪，三军过后尽开颜。\n（2）副班长葛振林打一枪就大吼一声，好像细小的枪口喷不完他的满腔怒火。\n（3）顿时，石头像雹子一样向敌人头上砸去。\n（4）到了正午，天安门广场已经成了人的海洋，红旗翻动，像海上的波浪。",
+    "options": null,
+    "answer": "（1）错误（2）错误（3）正确（4）正确",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12474190.html",
+      "site": "教习网",
+      "title": "统编版（部编版）小学语文六年级上册第二单元单元测试卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》修辞判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:51.669929"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_24909242_020",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "两个选段都运用了点面结合的方法，请你进行分析。①选段（一）中，第　　句是“面”的描写，从整体上描写了　　的情形；第　　句是“点”的描写，分别写出了　　。②选段（二）在描写“点”时，通过对班长马宝玉的　　描写，重点表现了他　　的精神。",
+    "options": null,
+    "answer": "①②；五位战士痛击敌人；③④⑤⑥；每位战士的表现；语言、动作；勇于牺牲",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《狼牙山五壮士》点面结合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:02.180502"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k1_21cnjy_24909242_020"
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列加点字的读音完全正确的一组是（ ）。",
+    "options": [
+      "小丘（qiū） 衣襟（jīnɡ） 妩媚（wǔ） 绷带（pénɡ)",
+      "渲染（xuān） 蒙古（mēnɡ） 摇曳（yì） 岷山（minɡ)",
+      "勾勒（lè） 聂荣臻（zhēn) 馥郁（fù） 擎着（qínɡ)",
+      "迂回（yū） 参差（chā） 婆娑（shā） 歼灭（qiān)"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音辨析含狼牙山五壮士字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:35.899460"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 勾勒（lè） 聂荣臻（zhēn) 馥郁（fù） 擎着（qínɡ)",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k2_21cnjy_7897198_001"
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_007",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中加点的词语运用错误的一项是（ ）",
+    "options": [
+      "丁字形的广场汇集了从四面八方来的群众队伍。",
+      "他们清早到了北京车站，一下火车就直奔会场。",
+      "到了狼牙山峰顶，五位壮士居高临下，继续向紧跟在身后的敌人射击。",
+      "山坡上传来一阵叽里呱啦的叫声，敌人继续滚落深谷。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语搭配涉及狼牙山五壮士",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:35.899460"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 山坡上传来一阵叽里呱啦的叫声，敌人继续滚落深谷。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_7897198_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子衔接",
+    "stem": "下列句子中，关联词语使用正确的一项是（ ）",
+    "options": [
+      "即使石块有多重，小草也要从下面钻出来。",
+      "因为同学们信任你，所以你应该勇敢地接受这份工作。",
+      "虽然太阳离地球太远了，但是我们并不感到它有那么热。",
+      "这件好事是李晓华做的，也是我的同学张晔做的。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "关联词考查革命题材语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:35.899460"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 因为同学们信任你，所以你应该勇敢地接受这份工作。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "拼音拼写",
+    "stem": "请用拼音写出以下人名和地名。马宝玉：____  港口路：____",
+    "options": [
+      "",
+      ""
+    ],
+    "answer": "Ma Baoyu GANGKOU LU",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士人名地名拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:56.800062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k6_21cnjy_17921665_004"
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_17921665_005",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "填字成词：心( )神( )  ( )色( )流  ( )飘带( )  ( )芳自( )  ( )山( )海  ( )( )一发  ( )精( )神  ( )面( )方  ( )七( )八",
+    "options": [
+      "",
+      ""
+    ],
+    "answer": "驰 往 翠 欲 襟 舞 孤 赏 排 倒 千 钧 聚 会 四 八 横 竖",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "狼牙山五壮士词语积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:40:56.800062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_23110730_011",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面对课文主题概括有误的一项是( )",
+    "options": [
+      "《真理诞生于一百个问号之后》一文告诉我们,只要善于观察,从细微的、常见的现象中不断发现问题并解决问题,锲而不舍地追根求源,就能在现实生活中发现真理。",
+      "《腊八粥》全文围绕八儿全家吃妈妈熬的腊八粥的经过,展现了一幅淳朴、和睦的图景。",
+      "《匆匆》一文中作者把看不见、摸不着的时间形象生动地描述了出来,表达了作者对时光流逝的无奈和惋惜。",
+      "《为人民服务》中毛泽东引用司马迁的名言来证明人死的意义不同,号召全党发扬张思德精神。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及多篇主题概括辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 《腊八粥》全文围绕八儿全家吃妈妈熬的腊八粥的经过,展现了一幅淳朴、和睦的图景。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540171_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "选字填空。【崖 涯】天______ 山______ 悬______ 无边无______ 【爆 暴】______雨 ______炸 狂______ ______发",
+    "options": null,
+    "answer": "天涯 山崖 悬崖 无边无涯 暴雨 爆炸 狂暴 爆发",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540171",
+      "site": "21世纪教育网",
+      "title": "doc 26540171",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字形辨析，狼牙山五壮士生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:36.220394"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540171_006",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求完成句子练习。（1）广场上人山人海，十分热闹。（运用夸张手法改写句子）（2）五位壮士的英雄壮举让无数人动容。（改为反问句）",
+    "options": null,
+    "answer": "（1）示例：广场上人山人海，挤得连一丝风都透不进来。（2）难道五位壮士的英雄壮举不让无数人动容吗？",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540171",
+      "site": "21世纪教育网",
+      "title": "doc 26540171",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "五壮士句式及夸张修辞",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:36.220394"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540171_015",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合短文，谈谈你对\"无名丰碑\"的理解。",
+    "options": null,
+    "answer": "“无名丰碑”指那些没有留下姓名、默默奉献、为国牺牲的革命先烈。他们虽无人铭记姓名，却用生命铸就了革命胜利，他们的崇高精神永远不朽，是屹立在人民心中最伟大的丰碑。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540171",
+      "site": "21世纪教育网",
+      "title": "doc 26540171",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命精神主题理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:36.220394"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26581174_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音",
+    "stem": "下列词语中加点字的读音全都正确的一项是",
+    "options": [
+      "溃退（kuì） 要塞（sài） 翘首（qiáo） 锐不可当（dāng）",
+      "颁发（bān） 仲裁（zhòng） 匿名（nì） 深恶痛疾（è）",
+      "畸形（qí） 诘责（jié） 不逊（xùn） 杳无消息（yǎo）",
+      "炽热（zhì） 猝然（cù） 踱步（duó） 筋疲力尽（jīn）"
+    ],
+    "answer": "0",
+    "explanation": "B项\"恶\"应读wù；C项\"畸\"应读jī；D项\"炽\"应读chì。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 溃退（kuì） 要塞（sài） 翘首（qiáo） 锐不可当（dāng）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_15109734_004",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "根据要求，完成句子练习。①贝多芬说：\"我是来弹一首曲子给这位姑娘听的。\"（改成转述句）②深蓝的天空中挂着一轮金黄的圆月。（缩写句子）③同学们一定要遵守交通规则，防止不要发生事故。（修改病句）④他便对父亲说，可以叫他的儿子认可来管祭器的，（改为直接引用）",
+    "options": null,
+    "answer": "①贝多芬说，他是来弹一首曲子给那位姑娘听的。②圆月挂着。③去掉\"不要\"。④他便对父亲说：\"可以叫你的儿子认可来管祭器的。\"",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/15109734",
+      "site": "21世纪教育网",
+      "title": "doc 15109734",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《狼牙山五壮士》句式练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:14.953162"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_001",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音写词语。dēng lóng；huì jí；bào zhà；lán gān；qí zhì；shān jiàn；rì kòu；xī shēng",
+    "options": null,
+    "answer": "灯笼 汇集 爆炸 栏杆 旗帜 山涧 日寇 牺牲",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文字词，狼牙山五壮士生字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "给加点字选择正确读音，打\"√\"。（1）屹立（yì yí）（2）绷着脸（bēng běng）（3）围歼（jiān qiān）（4）擎着（qíng jìng）",
+    "options": null,
+    "answer": "yì√ běng√ jiān√ qíng√",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文字音辨析，革命题材字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_003",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "辨字组词",
+    "stem": "辨字组词。涧／间、寇／冠、爆／曝、帜／织",
+    "options": null,
+    "answer": "山涧 房间 日寇 冠军 爆炸 曝光 旗帜 织布",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨字组词，第二单元课文生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "战士们借着夜色和地形成功拖住了敌人。（缩句）",
+    "options": null,
+    "answer": "战士们拖住了敌人。",
+    "explanation": "删去修饰成分，保留主干。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "缩句，狼牙山五壮士语句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_016",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这名战士执行任务时遇到了哪些困难？",
+    "options": null,
+    "answer": "敌军火力凶猛、炮火密集，作战环境危险；自身多处受伤、身体剧痛。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析狼牙山五壮士战斗困难",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_017",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这位无名战士身上有哪些可贵品质？",
+    "options": null,
+    "answer": "英勇无畏、舍己为人、热爱祖国、意志坚定、无私奉献。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会五壮士革命精神品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26540166_018",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读完短文，你想对无名英雄说些什么？",
+    "options": null,
+    "answer": "示例：无名英雄们，你们默默牺牲、无私奉献，用生命换来和平。我们一定会铭记历史、好好学习，珍惜当下的幸福生活，长大后报效祖国。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系实际表达对英雄的敬意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_21cnjy_26582207_002",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音",
+    "stem": "给语段中加点的字\"刹\"注音，正确的一项是(         )",
+    "options": [
+      "chà",
+      "shà"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多音字\"刹\"辨音基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. chà",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_15505532_008",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "课内阅读。\n十六年前的回忆（节选）\n\"什么？爹！\"我瞪着眼睛问父亲。\n\"没有什么，不要怕。星儿，跟我到外面看看去。\"\n父亲不慌不忙地从抽屉里取出一支闪亮的小手枪，就向外走。我紧跟在他的后面，走出院子，暂时躲在一间僻静的小屋里。\n一会儿，外面传来一阵沉重的皮鞋声。我的心剧烈地跳动起来，用恐怖的的目光瞅了瞅父亲。\n\"不要放走一个！\"窗外传来粗暴的吼声，穿灰制服的宪兵，穿便衣的侦探，穿黑制服的警察，一拥而入，挤满了这间小屋子。他们像一群魔鬼似的，把我们包围起来。他们每人拿着一支手枪，枪口对着父亲和我。在军警中间，我发现了前几天被捕的工友阎振三。他的胳膊上拴着绳子，被一个肥胖的便衣侦探拉着。\n在括号里填上合适的词语。\n(       )的小屋  (       )的目光  (       )的吼声 (       )地跳动",
+    "options": null,
+    "answer": "僻静；恐怖；粗暴；剧烈",
+    "explanation": "本题考查词语的搭配。结合\"一间僻静的小屋里\"\"恐怖的的目光\"\"粗暴的吼声\"\"剧烈地跳动起来\"可知答案。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《十六年前的回忆》课内阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "十六年前的回忆"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_15505532_009",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "从\"_________\"这个词语可以看出父亲非常沉着、镇定。",
+    "options": null,
+    "answer": "不慌不忙",
+    "explanation": "本题考查对词语的理解。结合\"父亲不慌不忙地从抽屉里取出一支闪亮的小手枪，就向外走\"可知，不慌不忙：不慌张，不忙乱。形容态度镇定，或办事稳重、踏实。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《十六年前的回忆》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_15505532_010",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "用波浪线画出文中的比喻句。",
+    "options": null,
+    "answer": "他们像一群魔鬼似的，把我们包围起来。",
+    "explanation": "本题考查对比喻句的掌握。把\"宪兵\"比作了\"魔鬼\"，突出了宪兵的凶残。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《十六年前的回忆》修辞手法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_15505532_011",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "找出描写\"我\"十分惊慌害怕的句子（两处），用横线画出来。",
+    "options": null,
+    "answer": "我紧跟在他的后面，走出院子。我的心剧烈地跳动起来，用恐怖的的目光瞅了瞅父亲。",
+    "explanation": "本题考查对关键信息的提炼。\"紧跟\"一词突出了我内心的害怕。\"心剧烈地跳动起来\"和\"恐怖的目光\"可知，我内心的害怕。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《十六年前的回忆》人物描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k3_51jiaoxi_15505532_012",
+    "subject": "语文",
+    "kp_id": "u2.k3",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "从文中找出下列句子的照应句，写下来。\n工友阎振三一早上街买东西，直到夜里还不见回来。",
+    "options": null,
+    "answer": "在军警中间，我发现了前几天被捕的工友阎振三。",
+    "explanation": "本题考查对句子和短文内容的理解。后一句话照应了前一句话。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "前后照应，课文内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

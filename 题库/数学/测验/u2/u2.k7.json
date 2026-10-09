@@ -1,0 +1,3433 @@
+[
+  {
+    "qid": "数学_u2.k7_zxxk_59610546_001",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "半径是7厘米的圆比半径是4厘米的圆大9π平方厘米。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求两圆面积之差，属圆环面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_59610546_002",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一个半径是9米的圆形喷水池，周围有一条1米宽的小路，这条小路的面积是多少平方米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求圆环面积：S=πR²-πr²，R=10,r=9",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_59646189_003",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个半径是3dm的圆，若半径增加1dm，则周长增加( )dm，面积增加( )dm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "面积增加=大圆面积-小圆面积=π(R²-r²)，属圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_59568243_004",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆环的外直径是5dm，内直径是4dm，圆环的面积是（　　）dm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查圆环面积公式 S=πR²-πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.028949"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_40664127_005",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "如图，沿半圆形草坪外围铺一条4米宽的小路，求小路的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664127.html",
+      "site": "学科网",
+      "title": "（必考计算题）圆的周长和面积（试题）小学数学六年级上册高频易错题专项训练（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k9"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "沿半圆外围小路即半圆环面积=½π(R²-r²)，圆环面积的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_54041134_006",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "有一个直径为8米的圆形苗圃。（1）在苗圃的周围铺上1米宽的石子路，石子路的面积是多少平方米？（2）要在石子路的外沿围上一圈篱笆，至少需要多少米的篱笆？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求石子路面积即圆环面积=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_48705654_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "\"日环食\"是日食的一种，发生时太阳的中心部分黑暗，边缘仍然明亮，形成光环。妙想把自己观察到的日环食画了下来（如图），内圆、外圆的直径分别是______，光环部分的面积是______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求日环食光环面积，即圆环面积 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.798710"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_48705654_008",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "圆的半径是3厘米，如果半径增加到5厘米，那么圆的面积增加了______，周长增加了______厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "面积增加=πR²-πr²=圆环面积公式的直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.028949"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_48705654_009",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "某儿童游乐园开展了一种投飞镖抽奖的活动，投中最中间的圆是一等奖，由内往外依次是二等奖、三等奖和四等奖（如图所示）。已知最小圆的半径为______，圆环的环宽都是______，投中可能性最大的奖次是______。",
+    "options": [
+      "一等奖",
+      "二等奖",
+      "三等奖",
+      "四等奖"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较各圆环面积大小，判断投中各奖次的概率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_39474022_010",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "一个圆的半径由3厘米变成5厘米，圆的面积增加了（）平方厘米．",
+    "options": [
+      "2π",
+      "4",
+      "16π"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式 S=π(R²-r²) 的直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.028949"
+    },
+    "answer_text": "C. 16π",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_39474022_011",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一种钢管的横截面是个环形，外圆周长是9.42厘米，管壁厚0.5厘米，这个环形的面积有()平方厘米．（用小数表示）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由外圆周长求外半径，再求圆环面积 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.028949"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_39474022_012",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，AB是两个同心圆，B的面积是A面积的，A的面积是15平方厘米，圆环的面积是()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查圆环面积=大圆面积-小圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_55545068_013",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "一个圆形花坛的周长是62.8米，在花坛周围修一条宽1米的石子路，石子路的面积是多少平方米？（5分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知内圆周长求半径，再用圆环面积公式 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.028949"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_zxxk_55471663_014",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "光盘是一个圆环（如图），内圆直径是4厘米，外圆半径是6厘米。这个光盘的面积是( )平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接套用圆环面积公式 S=π(R²-r²) 计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_11088645_018",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "在一个半径为5m的圆形水池周围有一条宽2m的环形小路，如果每平方米的石子150kg，铺这条路需石子多少吨？",
+    "options": null,
+    "answer": "11.304吨",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积乘单位用量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_001",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆环是由两个（　　　　）、（　　　　）的同心圆围成的封闭图形，其中较大的圆叫做（　　　　），较小的圆叫做（　　　　），两圆之间的宽度叫做（　　　　）。",
+    "options": null,
+    "answer": "圆心相同；半径不同；外圆；内圆；环宽",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环定义概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_002",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆环的面积计算公式是______，也可以变形为______，其中______表示（　　　　），______表示（　　　　）。",
+    "options": null,
+    "answer": "S=πR²-πr²；S=π(R²-r²)；R；外圆半径；r；内圆半径",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_003",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "环宽与外半径、内半径的关系是：环宽=（　　　　）；若已知环宽是3cm，内半径是4cm，则外半径是（　　　　）cm。",
+    "options": null,
+    "answer": "R-r；7",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环宽与半径的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_004",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆环的圆心只有一个（即外圆和内圆的圆心相同）。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环同心圆概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_005",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "计算圆环面积时，若已知外直径和内直径，可直接用公式计算。",
+    "options": null,
+    "answer": "×",
+    "explanation": "已知外直径和内直径时，需先除以2转化为外半径和内半径再代入公式计算，不能直接用直径计算。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "需理解直径与半径转换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_006",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "环宽越大，圆环的面积不一定越大（还与外圆、内圆的半径大小有关）。",
+    "options": null,
+    "answer": "√",
+    "explanation": "圆环面积还与外圆半径大小有关，环宽大但外圆半径小，面积不一定大。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解面积影响因素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个圆挖去一个同心小圆后，剩余部分的面积就是圆环的面积。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_008",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆环的外半径是8cm，内半径是5cm，环宽是（　　　　）cm，圆环面积是（　　　　）cm²（取3.14）。",
+    "options": null,
+    "answer": "3；122.46",
+    "explanation": "环宽=8-5=3（cm）；面积=3.14×(8²-5²)=3.14×39=122.46（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知内外半径求环宽与面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_009",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆环的环宽是2cm，内圆半径是3cm，外圆面积是（　　　　）cm²（取3.14）。",
+    "options": null,
+    "answer": "78.5",
+    "explanation": "外半径=3+2=5（cm）；外圆面积=3.14×5²=78.5（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由环宽和内半径求外圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_010",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用一根铁丝围成一个外直径是14cm的外圆，再在内部围一个内直径是6cm的内圆，这个圆环的面积是（　　　　）cm²。",
+    "options": null,
+    "answer": "125.6",
+    "explanation": "外半径=7cm，内半径=3cm；面积=3.14×(7²-3²)=3.14×40=125.6（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由直径求圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_24334549_011",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下列圆环的面积。（1）外半径是6厘米，内半径是4厘米；（2）外直径是10cm，内半径是3cm；（3）内直径是4cm，环宽=2cm。",
+    "options": null,
+    "answer": "（1）方法一：3.14×6²-3.14×4²=113.04-50.24=62.8（cm²）；方法二：3.14×(6²-4²)=3.14×20=62.8（cm²）；（2）外半径5cm，面积：3.14×(5²-3²)=3.14×16=50.24（cm²）；（3）内半径2cm，外半径4cm，面积：3.14×(4²-2²)=3.14×12=37.68（cm²）。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24334549",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版六年级数学上册第五单元《圆环》学案（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积综合计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:31.018277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_6646908_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形游乐场周长62.8m，后来扩建时半径增加1米，面积增加多少m²？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径增加形成圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_6646908_014",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根木桩上有两根绳，分别拴着两只羊，绳分别长5m和3m，这两只羊吃到草的面积差最大是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两半径活动范围面积差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k6_21cnjy_6646908_014",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_6646908_019",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "街道花园直径6m，在花园周围修了一条1m宽的小路，小路面积是多少？在小路边上涂了一周红油漆，红油漆长多少m？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "外圈小路圆环面积及外周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_10533455_013",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图（单位：m）是学校的一个花园，圆环上种植的是一串红，一串红的种植面积是多少平方米？",
+    "options": null,
+    "answer": "122.46",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.798710"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_10533455_025",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "街心花园有一个圆形花坛，花坛的直径是12m。要在花坛的外围修一条宽2m的小路，这条小路的面积是多少平方米？",
+    "options": null,
+    "answer": "87.92平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610351_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "周长是25.12cm的圆的直径是(        )cm，面积是(        )cm²，在这个圆内剪去一个半径为2cm的圆，剩下图形的面积是(        )cm²。",
+    "options": null,
+    "answer": "8；50.24；37.68",
+    "explanation": "根据d＝c÷π、s＝πr²求出圆的直径、面积；用大圆的面积减去减掉半径是2cm的圆的面积。25.12÷3.14＝8（厘米）；8÷2＝4（厘米）；3.14×4²＝50.24（平方厘米）；50.24－3.14×2²＝50.24－12.56＝37.68（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_17702696_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆形花坛的半径是3米，在花坛一周铺一条宽1米的碎石小路，小路的面积是(  )平方米。",
+    "options": [
+      "21.98",
+      "50.24",
+      "15.7",
+      "28.26"
+    ],
+    "answer": "0",
+    "explanation": "外半径=4米，小路面积=3.14×(4²-3²)=3.14×7=21.98平方米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 21.98",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_17702696_013",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在正方形的内外各画一个圆(如图)，已知小圆的半径是20厘米。图中阴影部分(圆环)的面积是______平方厘米。",
+    "options": null,
+    "answer": "1256",
+    "explanation": "正方形边长=20+20=40厘米，面积=1600平方厘米。大圆半径²=1600÷2=800，大圆面积=3.14×800=2512平方厘米，圆环面积=2512-3.14×20²=2512-1256=1256平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_17702696_032",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "玉璧最早产生于距今约五六千年前的新石器时代，是一种中央有穿孔的扁平状圆形玉器，为我国传统的玉礼器之一。有一块环形玉璧，尺寸如图。要为这个玉璧做一个同规格的环形保护垫，保护垫一面的面积是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_17702696_034",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "沈阳方圆大厦是一座古钱币造型的建筑。成成模仿它设计了一个模型，模型的正面是铜钱的形状，外圆的直径是24 cm，中间正方形的边长是0.8 dm。这个模型正面的面积是多少平方厘米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积=圆面积减正方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610467_004",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图大半圆中有两个小半圆，两个小半圆的直径比是3∶4，则阴影部分的面积与两个小半圆的面积之和相比较，阴影部分的面积（    ）两个小半圆的面积之和。",
+    "options": [
+      "无法比较",
+      "小于",
+      "等于",
+      "大于"
+    ],
+    "answer": "1",
+    "explanation": "设左边小半圆的半径为3，则右边小半圆的半径为4，那么大半圆的半径为3＋4＝7。两个小半圆的面积之和：π×3²÷2＋π×4²÷2＝12.5π；大半圆的面积：π×7²÷2＝24.5π；阴影部分的面积：24.5π－12.5π＝12π；12π＜12.5π",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积关系比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 小于",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610467_006",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "左图中两个小圆面积的和占大圆面积的（    ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "3",
+    "explanation": "O1的半径为2÷2＝1，O2的半径为4÷2＝2，则大圆半径为（2＋4）÷2＝3，两个小圆面积之和3.14×1²＋3.14×2²＝3.14＋12.56＝15.7，大圆面积3.14×3²＝28.26，15.7÷28.26＝5/9",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积与比的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610467_021",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "下图是一个圆形花坛的平面图，现在设计师要在圆形花坛的周围修一条宽是1厘米的环形小路，请你帮他画出这条小路，并用阴影表示出来。并计算出环形小路的面积。",
+    "options": null,
+    "answer": "图见详解；12.56cm²",
+    "explanation": "3÷2＝1.5（cm），1.5＋1＝2.5（cm），3.14×（2.5²－1.5²）＝3.14×4＝12.56（cm²）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610467_022",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "在一个周长为31.4米的圆形水池外修一条宽1米的环形水泥路。如果每平方米要用水泥25千克，那么修完这条小路至少要用水泥多少千克？（得数保留整数）",
+    "options": null,
+    "answer": "864千克",
+    "explanation": "31.4÷3.14÷2＝5（米），5＋1＝6（米），（6²－5²）×3.14×25＝11×3.14×25＝863.5（千克）≈864（千克）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积，需先算水池半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16610467_025",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "中兴公园有一个直径为6米长的圆形喷水池，工人准备绕喷水池修一条宽为1米的小路，求这条小路的面积是多少？",
+    "options": null,
+    "answer": "21.98平方米",
+    "explanation": "大圆的半径：6÷2＋1＝4（米），小圆的半径：6÷2＝3（米），圆环的面积＝3.14×（4²－3²）＝21.98（平方米）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_15302301_022",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "李叔叔把一个直径4厘米的圆形铁片加工成一个环形垫片（如图），这个环形垫片的面积是多少平方厘米？",
+    "options": null,
+    "answer": "9.42平方厘米",
+    "explanation": "3.14×[(4÷2)²-(2÷2)²]=3.14×3=9.42（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7zxxk_48256217_007",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某火锅店特制火锅（如图所示）的直径是60厘米，现在火锅的周围配上一张宽50厘米的圆环形的桌面，桌面的面积是多少平方厘米？",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "略",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48256217.html",
+      "site": "学科网",
+      "title": "专项10：圆的面积应用题（八大考点）-2024-2025学年六年级数学上学期期末备考真题分类汇编（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:46.802239"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18711615_003",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "有一个环形铁片，它的外圆半径是5厘米，内圆半径是3厘米。这个环形铁片的面积是　　平方厘米。",
+    "options": null,
+    "answer": "50.24",
+    "explanation": "3.14×（52-32）=50.24（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18711615_018",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "为响应环保，双流某小区用废旧轮胎做花坛(示意图如下)，废旧轮胎内圈直径为1m，外圈直径为1.2m。废旧轮胎的占地面积是(　　)m²。",
+    "options": [
+      "0.36π",
+      "0.25π",
+      "0.71π",
+      "0.11π"
+    ],
+    "answer": "3",
+    "explanation": "外圆半径0.6m，面积0.36π(m²)；内圆半径0.5m，面积0.25π(m²)；圆环面积：0.36π−0.25π=0.11π(m²)。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 0.11π",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18711615_028",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一块圆形空地，半径是10米，在里面修了一个半径为5米的圆形水池，其余地方种上草皮，种草皮的面积是多少平方米？",
+    "options": null,
+    "answer": "235.5平方米",
+    "explanation": "3.14×10²−3.14×5²=314−78.5=235.5（平方米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18711615_030",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "为进一步推进新农村建设，幸福新村新建了一个直径为16米的圆形花坛。为了便于游客观赏，村委会决定在花坛的周围铺一条环形的石子路，石子路宽1米。如果每平方米小路需要20千克石子，那么修这条石子路一共需要多少千克石子?",
+    "options": null,
+    "answer": "1067.6千克",
+    "explanation": "内圆半径：16÷2=8（米）；外圆半径：8+1=9（米）；石子路面积：3.14×(9²-8²)=53.38（平方米）；一共需要：53.38×20=1067.6(千克)。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_10544096_006",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "圆的半径为5厘米，求图中红色部分的面积？",
+    "options": null,
+    "answer": "78.5平方厘米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求红色部分（圆环或扇形差）面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_027",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_21611281_002",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆环纸垫的外圆直径是4厘米，内圆直径是2厘米，那么这个纸垫的面积是（    ）平方厘米。",
+    "options": [
+      "37.68",
+      "9.42",
+      "6.28",
+      "3.14"
+    ],
+    "answer": "1",
+    "explanation": "圆环面积＝外圆面积－内圆面积，3.14×(4÷2)²－3.14×(2÷2)²＝12.56－3.14＝9.42（平方厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 9.42",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18622429_020",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "求圆环的面积。已知外圆半径R=8cm，内圆半径r=5cm。（π取3.14）",
+    "options": null,
+    "answer": "122.46cm²",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式 π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18622429_024",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根圆形管道的横截面外直径是20cm，管壁厚2cm。管道横截面的面积是多少平方厘米？（π取3.14）",
+    "options": null,
+    "answer": "263.76cm²",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积，外圆减内圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18609596_008",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆环面积的计算方法是用（________）面积减去（________）面积。",
+    "options": null,
+    "answer": "外圆；内圆",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18609596_017",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "已知外圆半径8cm，内圆半径5cm，求圆环面积。",
+    "options": null,
+    "answer": "3.14×(8²−5²)=3.14×39=122.46（cm²）",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_18609596_024",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "校园圆形花坛半径9米，现对花坛升级改造，在花坛外围修建一条宽1米的环形石子路，这条石子路的面积是多少平方米？",
+    "options": null,
+    "answer": "59.66平方米",
+    "explanation": "外圆半径：9+1=10（米） 石子路面积=圆环面积：3.14×(10²−9²)=3.14×19=59.66（平方米）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16107002_006",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆形花坛，直径8米，在它周围修一条2米宽的小路，小路的面积是（　　）平方米。",
+    "options": [
+      "200.96",
+      "100.48",
+      "62.8",
+      "36"
+    ],
+    "answer": "2",
+    "explanation": "圆环的面积＝大圆面积－小圆面积。花坛半径：8÷2＝4（米），小路的面积：3.14×(4+2)²-3.14×4²=3.14×36-3.14×16=62.8（平方米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 62.8",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16107002_009",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆环，大圆半径用R表示，小圆半径用r表示，则圆环面积表示为（　　）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "根据环形面积公式：π(R²-r²)。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_5795056_002",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "大圆半径正好是小圆的直径，则小圆面积是大圆面积的（  ）",
+    "options": [
+      "1/4",
+      "1/2",
+      "2",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "假设大圆的半径是2，小圆直径也是2，小圆半径就是1；大圆面积＝π×22＝4π，小圆面积＝π×12＝π，小圆面积是大圆面积的π÷(4π)＝1/2",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1/2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_17275102_011",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆环的面积和(       )和(       )有关．",
+    "options": null,
+    "answer": "外圆的半径；内圆的半径",
+    "explanation": "根据圆环的公式S=πR²-πr²，π是固定值，所以环形面积由外圆和内圆的半径决定．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积与内外半径有关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_14914156_005",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个周长是43.96cm的圆，半径增加了5cm，面积增加了（   ）。",
+    "options": [
+      "153.86cm²",
+      "452.16cm²",
+      "298.3cm²",
+      "518.1cm²"
+    ],
+    "answer": "2",
+    "explanation": "43.96÷3.14÷2＝7（厘米），7＋5＝12（厘米），3.14×（12²－7²）＝298.3（平方厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "先求半径再算圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 298.3cm²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_14914156_008",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图的三个圆环中，内圆和外圆的直径比值相等的是（   ）。",
+    "options": [
+      "（1）和（3）",
+      "（1）和（2）",
+      "（2）和（3）",
+      "以上答案均不对"
+    ],
+    "answer": "0",
+    "explanation": "（1）比值为1/2，（2）比值为1/3，（3）比值为1/2，所以（1）和（3）的内圆和外圆直径比值相等。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较内外圆直径比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. （1）和（3）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_14914156_023",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如下图，从这张长方形纸上剪下一个最大的圆，剩余纸的面积是多少平方厘米？",
+    "options": null,
+    "answer": "20.375平方厘米",
+    "explanation": "圆的直径＝长方形的宽＝5厘米，剩余部分的面积＝8×5－3.14×（5÷2）²＝40－19.625＝20.375（平方厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形减圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_14914156_024",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "文化广场的喷水池直径是40米，在它的外围有一条宽4米的环形路。这条环形路的面积是多少平方米？",
+    "options": null,
+    "answer": "552.64平方米",
+    "explanation": "内圆半径：40÷2＝20（米），外圆半径：20＋4＝24（米），环形面积＝3.14×（24²－20²）＝552.64（平方米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_12683050_002",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，在Rt△ABC中，∠C=90°，AC=3，BC=3√3，以斜边AB边上一点O为圆心作⊙O，恰与边AC，BC分别相切于点A，D，则阴影部分的面积为（    ）",
+    "options": [
+      "(9√3-3π)/4",
+      "(9√3-6π)/4",
+      "(9√3-9π)/4",
+      "(9√3-12π)/4"
+    ],
+    "answer": "0",
+    "explanation": "连结OC，根据切线长性质DC=AC，OC平分∠ACD，求出∠OCD=∠OCA=30°，利用在Rt△ABC中，AC=ABtanB=3√3，在Rt△AOC中，∠ACO=30°，AO=ACtan30°=1，利用三角形面积公式求出，再求出扇形面积，利用割补法求即可．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积+直角三角形综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. (9√3-3π)/4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_51jiaoxi_16504365_031",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，已知边长为2的正六边形ABCDEF内接于⊙O，则阴影部分的面积为（    ）",
+    "options": [
+      "2√3",
+      "3√3",
+      "4√3",
+      "6√3"
+    ],
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形内阴影（圆环）面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_21030908_013",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "计算如图阴影部分面积，正确的列式是（    ）。",
+    "options": [
+      "6²×3.14－（）×3.14",
+      "×6²×3.14－（）²×3.14",
+      "×[6²×3.14－（）²×3.14]",
+      "×（6×2×3.14－6×3.14）"
+    ],
+    "answer": "2",
+    "explanation": "阴影部分面积＝较大半圆的面积－较小半圆的面积，已知半圆的面积S＝πr²÷2。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21030908",
+      "site": "21世纪教育网",
+      "title": "doc 21030908",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式及分数应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:57.505013"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ×[6²×3.14－（）²×3.14]",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_009",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "幸福小区里有一个直径为9米的圆形喷泉，有一条宽1.5米的休闲步道围着喷泉。这条休闲步道的面积是（    ）平方米。",
+    "options": [
+      "28.26",
+      "49.455",
+      "56.52",
+      "35.325"
+    ],
+    "answer": "1",
+    "explanation": "内圆半径4.5米，外圆半径6米，3.14×(36-20.25)=49.455（平方米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 49.455",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_022",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "某圆形舞台的直径是18米，由于元旦演出需要，现将这个圆形舞台的半径增加1米，增加半径后舞台的半径为(        )米，面积为(        )平方米，比原来的面积增加了(        )平方米。",
+    "options": null,
+    "answer": "10；314；59.66",
+    "explanation": "半径18÷2+1=10（米）；面积3.14×10²=314（m²）；增加3.14×(10²-9²)=59.66（m²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_035",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "广场中央有一个圆形音乐喷泉池，它的半径是10米。(1)为了大家的安全，在音乐喷泉池的外沿围上一圈网格防护栏，那么需要多少米的网格防护栏？(2)这个音乐喷泉池的占地面积是多少平方米？(3)在这个音乐喷泉池的周围修一条宽2米的鹅卵石小路，这条小路的面积是多少平方米？",
+    "options": null,
+    "answer": "(1)62.8米；(2)314平方米；(3)138.16平方米",
+    "explanation": "(1)周长=2×3.14×10=62.8（米）。(2)面积=3.14×10²=314（m²）。(3)3.14×(12²-10²)=138.16（m²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_040",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "街心花园的半径是10米，要在花坛四周围一圈栅栏，再在花坛外围修一条宽4米的环形小路。(1)栅栏的长度是多少米？(2)这条小路的面积是多少？",
+    "options": null,
+    "answer": "(1)62.8米；(2)351.68平方米",
+    "explanation": "(1)栅栏周长=2×3.14×10=62.8（米）。(2)小路面积=3.14×(14²-10²)=351.68（m²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "栅栏周长加圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_047",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，一个圆形喷泉池的半径是10米，周围有一条2米宽的小路。(1) 沿喷泉池周围围一圈网格防护栏，需要多少米的网格防护栏？(2) 这个音乐喷泉池的占地面积是多少平方米？(3) 这条小路的面积是多少平方米？",
+    "options": null,
+    "answer": "(1)62.8米 (2)314平方米 (3)138.16平方米",
+    "explanation": "(1)2×3.14×10＝6.28×10＝62.8（米）；(2)3.14×10²＝3.14×100＝314（平方米）；(3)10＋2＝12（米），3.14×(12²－10²)＝3.14×44＝138.16（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积+周长公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_050",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，烧烤区（圆环）的面积是多少平方厘米？(1) 火锅区（内圆）的周长是188.4厘米，火锅区的面积是多少平方厘米？(2) 外大圆的周长是314厘米，烧烤区（圆环）的面积是多少平方厘米？",
+    "options": null,
+    "answer": "(1)2826平方厘米 (2)5024平方厘米",
+    "explanation": "(1)火锅区半径：188.4÷3.14÷2＝30（厘米），面积＝2826（平方厘米）；(2)外大圆半径：314÷3.14÷2＝50（厘米），面积＝7850（平方厘米），烧烤区面积：7850－2826＝5024（平方厘米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求圆环面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_26559779_052",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，一个圆形花坛半径是10米，周围有一条4米宽的小路。(1) 沿花坛周围围一圈栅栏，栅栏的长度是多少米？(2) 这条小路的面积是多少平方米？",
+    "options": null,
+    "answer": "(1)62.8米 (2)301.44平方米",
+    "explanation": "(1)2×3.14×10＝62.8（米）；(2)10＋4＝14（米），3.14×(14²－10²)＝3.14×96＝301.44（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积+周长公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_21353165_010",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "银河广场有一个圆形喷水池，直径是7m，有一条3m宽的小路围着喷水池，这条小路的面积是多少？",
+    "options": null,
+    "answer": "65.94平方米",
+    "explanation": "外圆半径=7÷2+3=6.5m，外圆面积=3.14×6.5²=132.665m²；喷水池面积=3.14×3.5²=38.465m²；小路面积=132.665-38.465=65.94m²。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21353165",
+      "site": "21世纪教育网",
+      "title": "doc 21353165",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积S=πR²-πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:25:27.551053"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_11969015_017",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如图，阴影部分的面积可以用S＝π（R2－r2）来计算。（________）",
+    "options": null,
+    "answer": "√",
+    "explanation": "阴影部分面积＝大圆面积－小圆面积＝πR2－πr2＝π（R2－r2）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_11969015_025",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "有一圆形蓄水池，它的周长是31.4米，现需在它的外围修一条宽2米的环形栈道，栈道的面积是多少？",
+    "options": null,
+    "answer": "75.36平方米",
+    "explanation": "31.4÷3.14÷2＝5（米）；5＋2＝7（米）；3.14×（72－52）＝3.14×24＝75.36（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积公式 S=π(R²-r²)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_25068757_028",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "火锅桌起源于我国古代，从陶鼎到青铜器，演变至今，形式多样。如图所示，一个圆形火锅桌面，桌面直径是2米。中间放置火锅的部分的直径是60厘米，采用大理石制作，其他部分是由实木板做成的桌面。制作这样一张桌面，至少需要多少平方米的木板？",
+    "options": null,
+    "answer": "2.8574平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环面积木板用料",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k7_21cnjy_21496138_016",
+    "subject": "数学",
+    "kp_id": "u2.k7",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "有一个圆环，内圆的周长是31.4厘米，外圆的周长是62.8厘米，圆环的宽是多少厘米？",
+    "options": null,
+    "answer": "5厘米",
+    "explanation": "小圆半径31.4/3.14/2=5（厘米），大圆半径62.8/3.14/2=10（厘米），圆环的宽度为10-5=5（厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21496138",
+      "site": "21世纪教育网",
+      "title": "doc 21496138",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环内外周长求宽度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:29.400052"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

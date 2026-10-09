@@ -1,0 +1,32 @@
+{
+ "id": "u2.k7",
+ "name": "圆环面积",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "S = πR² - πr² = π(R²-r²)",
+ "example": "外R=5, 内r=3, S=3.14×(25-9)=50.24",
+ "key_formulas": [
+  "S = π(R²-r²)"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "depends_on": [
+  {
+   "id": "u2.k6",
+   "reason": "圆环面积需要先掌握圆的面积公式 S=πr²"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u2.k8",
+   "reason": "圆环可看作大圆减去扇形化的组合，对比理解面积推导"
+  },
+  {
+   "id": "u3.k5",
+   "reason": "S=π(R²-r²)是字母公式表示的典型应用"
+  }
+ ]
+}

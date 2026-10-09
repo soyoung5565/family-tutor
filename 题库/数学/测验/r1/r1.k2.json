@@ -1,0 +1,2618 @@
+[
+  {
+    "qid": "数学_r1.k2_001",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "右图是三个同样大小的正方形，它们的阴影部分相比，（　　）",
+    "options": [
+      "周长相等，面积不相等",
+      "周长不相等，面积相等",
+      "周长和面积都相等",
+      "周长和面积都不相等"
+    ],
+    "answer": "2",
+    "explanation": "三个正方形大小相同，阴影部分均为正方形面积的一半，周长和面积均相等。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6787.html",
+      "site": "深圳城市学校网",
+      "title": "深圳宝安区2025六上数学期末",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "u35d"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u2.k9"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三图阴影均占正方形一半，周长平移相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T19:28:35"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.971217"
+    },
+    "answer_text": "C. 周长和面积都相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_002",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "在括号里填上合适的单位名称。\n按圆形，林幽背着一个容积大约是 20( )的保温包装去远足，她所住的这节车厢的容积约是 300( )，找到座位后，她从双肩包里拿出一本大约 0.8( )的书页看了起来，看到喜欢的她合上，……",
+    "options": null,
+    "answer": "解析见原题",
+    "explanation": "按图所示容积大约是 20升的保温包装，她所住的行李箱的容积约是 300 升，找到座位后，她从双肩包里拿出一本大约 0.8 厘米的书页看了起来，看到喜欢的她合上，……（原题不完整）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "填写容积长度单位，无专项KP，归入图形几何复习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.739127"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_003",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "一根长方体柱子长 4 分米，宽 3 分米，如果高增加 1 分米，表面积会增加( )平方分米，体积会增加( )立方分米。",
+    "options": null,
+    "answer": "56；12",
+    "explanation": "表面积增加：4×(4×1×2 + 3×1×2) = 4×14 = 56 平方分米；体积增加：4×3×1 = 12 立方分米。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考长方体表面积体积增量，仅总复习立体几何可归",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_004",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "填空题",
+    "stem": "一个正方体的棱长是 1/2 分米，它的表面积是( )平方分米，体积是( )立方分米。",
+    "options": null,
+    "answer": "3/2；1/8",
+    "explanation": "表面积 = 6 × (1/2)² = 6 × 1/4 = 3/2 平方分米；体积 = (1/2)³ = 1/8 立方分米。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查正方体表面积体积公式的分数计算，属几何复习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.971217"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_005",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "应用题",
+    "stem": "包装一个礼品盒需要 1/2 米的正方形丝带，丝带包装这个长 2.1 米、宽 0.6 米的长方体大箱子（厚度忽略不计）外，每个大箱子需要多少米丝带？",
+    "options": null,
+    "answer": "解析见原题",
+    "explanation": "原题不完整，未能计算。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "包扎丝带求周长加打结，属几何测量总复习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "一个体积是 1000cm³ 的长方体木块，按其棱长为一个棱长 2cm 的小正方体后，它的表面积是( )。",
+    "options": [
+      "可能变小",
+      "一定不变",
+      "肯定变大",
+      "不会变小"
+    ],
+    "answer": "1",
+    "explanation": "切小正方体时，每切一刀增加两个切面的面积，所以表面积一定变大。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "切割增加切面表面积变大属立体几何",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "answer_text": "B. 一定不变",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_007",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "将下图的纸片折起来可以做成一个正方体，这个正方体第 3 号的对面是( )号面。\n图示：一个展开图，包含数字 1、2、3、4、5、6。",
+    "options": [
+      "2",
+      "6",
+      "1",
+      "5"
+    ],
+    "answer": "0",
+    "explanation": "根据展开图的位置关系，3 号对面是 2 号。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6932.html",
+      "site": "深圳城市学校网",
+      "title": "苏教版2025-2026六上数学期中",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "4kst"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u8.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查正方体展开图找相对面，属立体观察",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T21:12:29"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "answer_text": "A. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_zxxk_59128793_008",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一个正方形的边长是分米，它的周长是（）分米，面积是（）平方分米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59128793.html",
+      "site": "学科网",
+      "title": "第二单元《分数乘法》（单元自测练习卷）-2026-2027学年六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查正方形周长(C=4a)与面积(S=a²)公式应用，属图形与几何总复习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_zxxk_54320424_009",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，一个梯形被分成了一个三角形和一个平行四边形，那么S甲∶S乙＝（　　）；如果梯形面积是39平方厘米，那么三角形面积是（　　）平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查梯形、三角形、平行四边形面积公式及等高等量关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.971217"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_zxxk_53818187_010",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一个长方体相交于一个顶点的三条棱分别长米、米、米，如果把它削成一个最大的正方体，那么这个正方体的表面积是(　)平方米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53818187.html",
+      "site": "学科网",
+      "title": "第二单元分数乘法（单元测试）-2025-2026学年苏教版六年级数学上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体削最大正方体求表面积，属立体图形综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.971217"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_zxxk_53818187_011",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如图，长方形的面积是72平方分米，A、B分别是长和宽的中点，涂色部分的面积是(　)平方分米。",
+    "options": [
+      "27",
+      "9",
+      "18",
+      "36"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53818187.html",
+      "site": "学科网",
+      "title": "第二单元分数乘法（单元测试）-2025-2026学年苏教版六年级数学上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查长方形中中点连线分割图形面积的几何关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.971217"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_21cnjy_10544096_026",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个油桶的形状是长方体，底面恰好是正方形，从里面量边长是4分米，深1米，做这个油桶至少需要多少平方分米的铁皮？桶内装的油占容积的，如果每立方分米油重0.7千克，这个桶里的油有多少千克？",
+    "options": null,
+    "answer": "176平方分米；84千克",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体表面积+体积分数综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_21cnjy_10533455_030",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个油桶的形状是长方体，底面恰好是正方形，从里面量边长是4分米，深1米，做这个油桶至少需要多少平方分米的铁皮？桶内装的油占容积的，如果每立方分米油重0.7千克，这个桶里的油有多少千克？",
+    "options": null,
+    "answer": "176平方分米；84千克",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体表面积与体积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_r1.k2_21cnjy_10544096_026",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_13280860_005",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "【2021·菏泽】如图是一个几何体的三视图，根据图中所标数据计算这个几何体的体积为(　　)\nA．12π    B．18π    C．24π     D．30π",
+    "options": null,
+    "answer": "B",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13280860.html",
+      "site": "教习网",
+      "title": "人教版29.2 三视图同步测试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图求体积，圆柱综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:45.061630"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.739127"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_13280860_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "【2021·眉山】我国某型号运载火箭的整流罩的三视图如图所示，根据图中数据(单位：米)计算该整流罩的侧面积是(　　)\nA．7.2π平方米     B．11.52π平方米    C．12π平方米     D．13.44π平方米",
+    "options": null,
+    "answer": "C",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13280860.html",
+      "site": "教习网",
+      "title": "人教版29.2 三视图同步测试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图(由圆锥圆柱组成)求侧面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:45.061630"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_13280860_017",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图是一个几何体的三视图(单位:cm).(1)说明组成该几何体的两部分分别是什么几何体?(2)求该几何体的体积.(π取3.14,结果精确到1 cm3)(3)制作这个模型的木料密度为360 kg/m3,则这个模型的质量是多少?(结果精确到0.1 kg)",
+    "options": null,
+    "answer": "(1)主视图和左视图中两个几何体的基本形状都是长方形,那么这两个几何体均为柱体,由俯视图可得下层的柱体是长方体,上层的柱体是圆柱.(2)体积为30×25×40+π×(20÷2)2×32≈40048(cm3).(3)40048÷106≈0.04(m3),这个模型的质量约为360×0.04＝14.4(kg).",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13280860.html",
+      "site": "教习网",
+      "title": "人教版29.2 三视图同步测试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三视图+圆柱圆锥体积密度综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:45.061630"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_12043731_004",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "有两张同样大小的长方形纸片,长10厘米,宽3厘米,把它们按图所示的方法叠合贴在一起,贴好后所成的\"十\"字图形,它的周长是_____,面积是_____.",
+    "options": null,
+    "answer": "40厘米,51平方厘米",
+    "explanation": "周长为(2×10+2×3)×2-4×3=40(厘米);面积为10×3×2-3×3=51(平方厘米).",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形叠合周长面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_12043731_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "图中共有______个三角形.",
+    "options": null,
+    "answer": "8",
+    "explanation": "单个小块的三角形有3个,两小块拼成的三角形有3个,三小块拼成的三角形有1个,六小块拼成的三角形有1个,共8个.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数三角形，几何计数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_12043731_011",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "已知图中三角形的面积为1998平方厘米,是平行四边形面积的3倍.那么,图中阴影部分的面积是多少?",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形与平行四边形面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_12043731_040",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "在长方形中,AB=30,AD=40,E为上一点,EB、EF为已知,求EF的值.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "几何综合，图形关系求值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_54173189_016",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "阅读：出入相补原理：一个平面几何图形被分割成若干部分后，面积的总和保持不变．解决问题：如图所示，一个阴影四边形，其外侧是边长为35的正方形，求阴影部分面积是正方形面积的几分之几？(24-25六上·上海奉贤区·期中)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://m.zxxk.com/soft/54173189.html",
+      "site": "学科网",
+      "title": "专题10 一元一次方程及其应用（期中真题汇编，上海专用）六年级 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "出入相补求面积分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:32.917991"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49341188_010",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "小丽在一个无盖的长方体玻璃容器内摆了一些棱长1分米的小正方体(如右图)。做这个玻璃容器至少要用玻璃()平方分米，它的容积是()升。(玻璃的厚度忽略不计)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体表面积与容积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49341188_012",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "右图是由同样大小的小方块堆积起来的，已知每个小方块的棱长是1厘米，它的体积是()立方厘米，表面积是()平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "立体图形体积与表面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49341188_014",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "体积相等的两个长方体，表面积不一定相等。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体体积与表面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49341188_017",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用长方体纸盒装牛奶，从外面量得包装盒的长是6厘米，宽是4厘米，高是10厘米。根据以上数据信息，你认为这盒牛奶的\"净含量\"可能是()。",
+    "options": [
+      "250毫升",
+      "240毫升",
+      "230毫升"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体容积实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 240毫升",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49103820_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将一根64厘米长的铁丝截下它的焊接成一个正方体框架，这个正方体框架的棱长是( )厘米。在这个框架的侧面贴上彩纸，至少需要( )平方厘米的彩纸。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方体棱长与表面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49103820_007",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个正方体的表面积是54平方厘米，如果棱长增加2厘米，表面积增加( )平方厘米，体积增加( )立方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方体表面积体积的变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2zxxk_49103820_009",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将棱长1分米的大正方体，平均切成棱长1厘米的小正方体，可以切出( )块，将这些小正方体排成一排，长( )米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49103820.html",
+      "site": "学科网",
+      "title": "江苏省盐城市东台市2024-2025学年六年级上学期期末数学试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方体切割后小正方体数与排列",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:57.703796"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_18622429_016",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列关于探索规律的说法，正确的是（________）。",
+    "options": [
+      "从正方形中切割的最大圆个数越多，废料面积越大",
+      "两个相同圆组成的图形只有1条对称轴",
+      "大圆半径等于小圆直径时，两个小圆周长之和等于大圆周长",
+      "铁环链每增加一个铁环，长度增加外直径"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的组合与变化规律综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5795056_005",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法正确的个数是（  ） ①圆的直径是半径的2倍 ②一个半圆形的周长等于同等半径圆周长的一半 ③甲数比乙数大，乙数比甲数小 ④等腰三角形的一个角是45°，这个三角形一定是等腰直角三角形． ⑤设a＝1×2×3×…×29×30，则a的末尾有8个0．",
+    "options": [
+      "1个",
+      "2个",
+      "3个",
+      "4个"
+    ],
+    "answer": "0",
+    "explanation": "①错误，前提是在同圆或等圆中；②错误，半圆的周长多出一条直径；③正确；④错误，若45°为顶角则不一定是直角三角形；⑤错误，末尾有7个0；故只有③正确，选A",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-5795056.html",
+      "site": "教习网",
+      "title": "小学数学人教版六年级上册整理和复习单元测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周长+三角形+数论综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:53:34.272112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1个",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_12685605_020",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，△ABC和△ADE中，AB=AC，AD=AE，连接BD，CE，点M，N，P分别是BD，CE，BC的中点．（1）请你判断△PMN的形状，并证明你的结论．（2）将△ADE绕点A旋转，若AB=8，AD=3，请直接写出△PMN周长的最大值与最小值．",
+    "options": null,
+    "answer": "(1)是等腰直角三角形，证明见解析；(2)周长最小值为5√2，最大值为11√2",
+    "explanation": "（1）连接BD，CE，根据SAS证明得BD=CE，根据三角形中位线性质可证明PM=PN，且∠MPN=90°，故△PMN是等腰直角三角形；（2）由（1）知△PMN是等腰直角三角形，其周长为(2+√2)PN，当BD最小时即点D在AB上，此时周长最小，当点D在BA的延长线上时，BD最大，此时周长最大，分别求出BD的值即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形旋转与中点三角形综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_21cnjy_18277690_026",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一个无盖的长方体玻璃金鱼缸，从里面量，长米，宽米，高米。鱼缸里水深米，再往水里放入一些鹅卵石，水面上升了米。（玻璃的厚度忽略不计）（1）这个鱼缸至少占地多少平方米？（2）做这个鱼缸至少需要玻璃多少平方米？（3）鹅卵石的体积一共是多少立方米？",
+    "options": null,
+    "answer": "（1）1/6平方米；（2）1 5/12平方米；（3）1/48立方米",
+    "explanation": "（1）1/2×1/3＝1/6（平方米）；（2）1/2×1/3＋1/2×1/2×2＋1/3×1/2×2＝1/6＋1/2＋1/3＝1 5/12（平方米）；（3）1/2×1/3×1/8＝1/48（立方米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方体表面积体积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_21cnjy_23126114_027",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图所示，平行四边形ABCD的周长是45cm，以BC为底的高是7cm，以CD为底的高是8cm，求平行四边形ABCD的面积。（用方程解答）",
+    "options": null,
+    "answer": "84平方厘米",
+    "explanation": "设BC的长为xcm，则CD的长为(45÷2-x)cm。7x=(45÷2-x)×8，15x=180，x=12。12×7=84（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行四边形面积（方程）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_21cnjy_23126114_030",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把一个底面周长是18.84dm的圆柱的底面分成许多相等的扇形，然后沿直径将圆柱切开，拼成一个和它体积相等的长方体，这个长方体的表面积比原来圆柱的表面积增加30 dm2。圆柱的体积是多少立方分米？",
+    "options": null,
+    "answer": "141.3立方分米",
+    "explanation": "18.84÷3.14÷2=3（分米）；30÷2÷3=5（分米）；3.14×3²×5=28.26×5=141.3（立方分米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱切拼长方体求体积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_002",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个三角形的面积是32 dm2,高是40 cm,底是(  )cm。",
+    "options": null,
+    "answer": "160",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形面积公式逆用，单位换算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_003",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个直角梯形的下底是8 cm,如果上底增加3 cm,就变成一个正方形,这个梯形的面积是(  )cm2。",
+    "options": null,
+    "answer": "52",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_005",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两个面积相等的三角形,它们的底和高一定相等。(  )",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形面积与底高关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "周长相等的长方形和平行四边形,面积一定不相等。(  )",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长与面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_007",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个三角形的底和高都扩大到原来的2倍,则面积扩大到原来的2倍。(  )",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形面积与底高变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_008",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "梯形面积的大小只与它的上底和高有关。(  )",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_009",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "两个完全一样的直角三角形可以拼成(  )。",
+    "options": [
+      "一个长方形",
+      "一个平行四边形",
+      "一个三角形",
+      "以上都可以"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形拼组",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 以上都可以",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_010",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "右图是两个完全相同的长方形,甲、乙两个三角形的面积相比,(  )。",
+    "options": [
+      "甲乙",
+      "略",
+      "略",
+      "无法确定"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底等高三角形面积相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 略",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_011",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "等底等高的两个三角形(  )。",
+    "options": [
+      "形状相同",
+      "面积相等",
+      "形状相同、面积相等",
+      "无法确定"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底等高三角形面积相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 面积相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_012",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "比较右图平行线间三个图形的面积,(  )。",
+    "options": [
+      "平行四边形的面积最大",
+      "三角形的面积最大",
+      "梯形的面积最大",
+      "不能确定谁的面积大"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行线间图形面积比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 平行四边形的面积最大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_013",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "选择合适的数据,计算下面每个图形的面积。(单位:cm)",
+    "options": null,
+    "answer": "7.1×3÷2=10.65(cm2)；4.5×2=9(cm2)或3.6×2.5=9(cm2)；(5+6.8)×3.2÷2=18.88(cm2)",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行四边形面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_014",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下面每个组合图形的面积。(单位:cm)",
+    "options": null,
+    "answer": "6×(6+6)+6×2÷2×2=84(cm2)；(10+7+5)×4÷2+5×5=69(cm2)",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_015",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "估计下面每个图形的面积。(每格表示1 cm2)",
+    "options": null,
+    "answer": "58 cm2；38 cm2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形面积估算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_017",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某超市为了迎接\"十周年店庆\",准备用长10 m、宽2 m的长方形红布做成直角边都是5 dm的三角形小红旗。这块红布可以做多少面这样的小红旗?",
+    "options": null,
+    "answer": "5 dm=0.5 m；(10÷0.5)×(2÷0.5)×2=160(面)",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单位换算+三角形面积求旗数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_018",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如下图所示,平行四边形的面积是50 m2,阴影部分的面积是多少平方米?",
+    "options": null,
+    "answer": "50÷5=10(m)；(10-7)×5÷2=7.5(m2)",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行四边形中三角形面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5641602_019",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个三角形的底边长6 m,如果底边延长2 m,那么面积就增加3 m2。原来三角形的面积是多少平方米?",
+    "options": null,
+    "answer": "3×2÷2=3(m)；6×3÷2=9(m2)",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5641602.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形面积公式逆用求底高",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:17.348101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_002",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "当一个四边形的两组对边分别平行，四条边都相等，四个角都相等时，这个四边形是（ ）",
+    "options": [
+      "正方形",
+      "长方形",
+      "平行四边形",
+      "菱形"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "四边形特征辨析，属图形与几何",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 正方形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_005",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，两条平行线间的三个三角形的面积关系是（  ）",
+    "options": [
+      "不相等",
+      "相等",
+      "无法确定"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底等高三角形面积相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_006",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个梯形，直角最多有（  ）",
+    "options": [
+      "1个",
+      "2个",
+      "3个",
+      "4个"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形直角个数判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 2个",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_007",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个长方形木框拉成一个平行四边形，它的（  ）不变．",
+    "options": [
+      "面积",
+      "周长",
+      "周长和面积",
+      "高"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形变中周长不变性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 周长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_008",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图：三个完全相同的长方形中，阴影部分的面积（   ）",
+    "options": [
+      "甲面积大",
+      "乙面积大",
+      "丙面积大",
+      "一样大"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中阴影面积比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 一样大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_010",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "延长梯形的上底和下底，它们（    ）。",
+    "options": [
+      "永不相交",
+      "相交",
+      "无法判断"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形两腰延长后相交",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 永不相交",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_013",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将一个边长为26厘米的正方形，折成两个完全一样的长方形，每个长方形的长是________厘米，宽是________厘米。",
+    "options": null,
+    "answer": "26；13",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形折成长方形求长宽",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_r1.k2_51jiaoxi_5596900_016",
+    "subject": "数学",
+    "kp_id": "r1.k2",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "计算下列图形的表面积或体积．",
+    "options": null,
+    "answer": "长方体表面积4536平方厘米，体积10584立方厘米；正方体表面积96平方分米，体积64立方分米",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-5596900.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "立体图形表面积体积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:02:28.450319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

@@ -1,0 +1,3624 @@
+[
+  {
+    "qid": "数学_u5.k1_szns_014",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "动手操作",
+    "stem": "在右图中涂黑最少数量的方格，使整个图案成为有两条对称轴的轴对称图形，并用虚线画出对称轴。",
+    "options": null,
+    "answer": "开放题",
+    "explanation": "涂黑适当方格，使图案既关于水平中线对称，又关于垂直中线对称，画出两条互相垂直的对称轴。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "涉及两条对称轴的轴对称，需画对称轴"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.996722"
+    },
+    "duplicate_of": "数学_u5.k1_szns_014",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59646189_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "想要找出一个圆形纸片的圆心，需要把圆形纸片至少对折( )次。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折找圆心利用圆是轴对称图形，对折两次得两条直径交点即圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.768165"
+    },
+    "answer_text": "B. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59646189_003",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "画出下列图形的对称轴，能画几条画几条。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查轴对称图形对称轴画法，涉及圆有无数条对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59409420_004",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "四名同学观察了圆内接正六边形和正十二边形的两幅图，你认为表达错误的是()",
+    "options": [
+      "乐乐",
+      "欢欢",
+      "玲玲",
+      "聪聪"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正多边形内接于圆，考查对称轴数量等性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59409420_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "在下面的长方形中，画一个最大的圆，并画出其中一条对称轴。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "在长方形中画最大圆需理解直径≤短边，再画一条对称轴考查圆的轴对称性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59568243_006",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是（　　）图形，一个圆有（　　）条对称轴；一个半圆有（　　）条对称轴。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆是轴对称图形及对称轴数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.996722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_59568243_007",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆形纸片至少对折（　　）次，可以找圆心。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折找圆心利用圆是轴对称图形，直径即为对称轴，两次对折交点为圆心。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.996722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_48705654_008",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图为2022年北京冬奥会奖牌——\"同心\"，\"五环同心，同心归圆\"表达了\"天地合·心同\"的中华文化内涵。如果要找到这个\"同心\"奖牌所在圆的圆心，你的方法是______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "找圆心利用圆的轴对称性，对折或作弦的垂直平分线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.996722"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_48705654_009",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "把一张圆形纸片对折3次，就把这个圆平均分成了______份。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折圆即沿对称轴分割，考查圆的轴对称性，3次对折得2³=8份。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_48705654_010",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "把圆形纸片按不同方向对折，折痕一定都通过圆心。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形，任意对折折痕都是直径，必过圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.768165"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_38069643_011",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "聪聪有一张圆形纸片，要想找到它的圆心，最少要将纸片对折（）次。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/38069643.html",
+      "site": "学科网",
+      "title": "1.1 圆的认识（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形，对折两次得两条直径，交点即圆心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.996722"
+    },
+    "answer_text": "B. 2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_38069643_012",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "太极图在中国传统文化中含义深邃，其形状为阴阳两鱼互纠在一起，象征两极和合。照样子在空白圆里画一个。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/38069643.html",
+      "site": "学科网",
+      "title": "1.1 圆的认识（同步练习）-六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "太极图是圆轴对称性的应用，需在圆中画出对称曲线和小圆",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_zxxk_55545068_013",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下面图形中，对称轴最多的是()",
+    "options": [
+      "正方形",
+      "圆",
+      "等边三角形",
+      "长方形"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆有无数条对称轴，是考查圆轴对称性的典型题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_24309063_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是（ ）图形，它有（ ）条对称轴（后续学习，可先思考）。",
+    "options": null,
+    "answer": "轴对称；无数",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24309063",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册第五单元《圆的认识》预习学案 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "学案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形及对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:45:52.401215"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_16610351_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用两个大小不同的圆组成图形，对称轴最多可以有（    ）条。",
+    "options": [
+      "无数",
+      "2",
+      "1"
+    ],
+    "answer": "0",
+    "explanation": "由题意可知，两个大小不同的圆组成同心圆的时候，对称轴最多，有无数条。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两圆组合的对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 无数",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_17702696_030",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "(1)在一个长6cm、宽3cm的长方形内画一个最大的半圆。(2)画出半圆的一条对称轴。(3)这个半圆的周长是______cm；若将半圆剪下，剩下部分的面积是______cm²。",
+    "options": null,
+    "answer": "(3) 15.42；3.87",
+    "explanation": "(3)半圆周长=3.14×6÷2+6=15.42cm，面积=3.14×3²÷2=14.13cm²，剩余面积=6×3-14.13=3.87cm²。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆的对称轴及周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15302301_015",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的几个图形中，对称轴最多的是（  ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "1",
+    "explanation": "圆有无数条对称轴，是轴对称图形中对称轴最多的。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较图形对称轴数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 图B",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622427_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个大小相同的圆组成的图形有（________）条对称轴。",
+    "options": null,
+    "answer": "2",
+    "explanation": "两个相同的圆组成的图形有2条对称轴：连心线所在的直线和连心线段的垂直平分线。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两等圆组合图形的对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622427_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个大小不同的圆组成的图形有（________）条对称轴。",
+    "options": null,
+    "answer": "1",
+    "explanation": "两个不同的圆组成的图形只有1条对称轴，即连心线所在的直线。垂直平分线不再是对称轴，因为两个圆大小不同，沿垂直平分线对折后不能重合。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两不等圆组合图形的对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622427_003",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "连接两个相同圆的圆心的线段所在的直线，一定是这两个圆组成图形的对称轴。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "连心线所在的直线是两个圆组成图形的对称轴，无论两个圆是否相同，这条直线都是对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断连接圆心的直线是否为对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18711615_004",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆有　　条对称轴，圆的　　所在的直线就是圆的对称轴。",
+    "options": null,
+    "answer": "无数；直径",
+    "explanation": "任何一条直径所在的直线都是圆的对称轴，所以圆有无数条对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的轴对称性，无数条对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18711615_011",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列选项中，(　　)不是轴对称图形。",
+    "options": [
+      "正方形",
+      "长方形",
+      "圆",
+      "平行四边形"
+    ],
+    "answer": "3",
+    "explanation": "正方形有4条对称轴；长方形有2条对称轴；圆有无数条对称轴；平行四边形没有对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断轴对称图形，圆是而平行四边形不是",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 平行四边形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18711615_019",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "把一张圆形纸对折2次，所形成的角是45度。(　　)",
+    "options": null,
+    "answer": "错误",
+    "explanation": "对折一次：360°÷2=180°；对折两次：180°÷2=90°。把一张圆形纸对折2次，所形成的角是90度。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆对折2次得直角，非45度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18711615_020",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "左图一共有4条对称轴。(　　)",
+    "options": null,
+    "answer": "正确",
+    "explanation": "正方形外接圆形，正方形有四条对称轴，圆和正方形共用四条对称轴，所以该图形共有4条对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断图形对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_5056829_020",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的直径就是圆的对称轴。          （     ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/5056829.html",
+      "site": "21世纪教育网",
+      "title": "小学六年级数学（上）《圆的周长》练习题（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径所在直线才是对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:20.139375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_16773906_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，甲、乙两条彩带都被遮住了一部分，两条彩带的长度相比，（ ）。",
+    "options": [
+      "甲比乙长",
+      "乙比甲长",
+      "一样长",
+      "无法比较"
+    ],
+    "answer": "0",
+    "explanation": "分别把两条彩带的总长度看作单位\"1\"，假设出相等部分的彩带长度，根据量÷对应的分率＝单位\"1\"分别求出两条彩带的长度，最后比较大小。假设相等部分彩带的长度为1。甲：1÷(2/3)＝3/2；乙：1÷(3/5)＝5/3；因为3/2<5/3，所以甲比乙短，乙比甲长。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16773906.html",
+      "site": "21世纪教育网",
+      "title": "5升6奥数拓展：分数除法综合（试题）小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用圆的轴对称性比较弧长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:48.616128"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 甲比乙长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中，对称轴条数最少的是（    ）。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较不同图形对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. C",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "半圆有（    ）条对称轴。",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "无数"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆的对称轴判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的图形中，对称轴最多的是（    ）．",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较对称轴条数多少",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. D",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_008",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是轴对称图形．圆的(    )都是它的对称轴．",
+    "options": null,
+    "answer": "直径所在的直线",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的对称轴是直径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_011",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆的对称轴是(     )所在的直线，它有(     )条这样的对称轴．",
+    "options": null,
+    "answer": "直径；无数",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_15038194_014",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆是轴对称图形，它的对称轴有无数条。(        )",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15038194.html",
+      "site": "教习网",
+      "title": "小学数学北师大版六年级上册2 圆的认识（二）精练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:44:52.781112"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622429_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个大小相同的圆组成的图形有（________）条对称轴。",
+    "options": null,
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两圆组合图形对称轴判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k2_51jiaoxi_18622427_001"
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622429_011",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两个大小不同的圆组成的图形有2条对称轴。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两不同圆组合对称轴判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18609596_003",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是（________）图形，有（________）条对称轴，对称轴是圆的（________）所在的直线。",
+    "options": null,
+    "answer": "轴对称；无数；直径",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的轴对称性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18609596_010",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中，对称轴数量最多的是（　　）",
+    "options": [
+      "正方形",
+      "圆形",
+      "等腰三角形"
+    ],
+    "answer": "1",
+    "explanation": "圆有无数条对称轴，多于正方形、等腰三角形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较对称轴数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 圆形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_13693005_014",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "平行四边形、圆、正方形都是轴对称图形。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断轴对称图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_16107002_021",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "上体育课时，体育老师在讲动作要领时，经常让同学们围一个多半圆圈，请你利用所学知识分析一个其中的道理．",
+    "options": null,
+    "answer": "因为同圆中，所有的半径都相等，老师站的位置正好是圆心的位置，老师和每个学生之间的距离都是半径，同圆中，所有半径的长度都相等，这样学生听得清楚",
+    "explanation": "因为学生围一个多半圆圈，老师站的位置正好是圆心的位置，这样老师和每个学生之间的距离都是半径，即距离相等，学生听得清楚。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形，讲动作时围圈便于看到示范",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622424_007",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是轴对称图形，（________）所在的直线都是圆的对称轴。圆有（________）条对称轴。",
+    "options": null,
+    "answer": "每条直径；无数",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622424.html",
+      "site": "教习网",
+      "title": "西师大版（2024）六年级上册（2024）圆的认识第1课时达标测试 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形无数对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:41.017955"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_18622424_016",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆有无数条对称轴。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622424.html",
+      "site": "教习网",
+      "title": "西师大版（2024）六年级上册（2024）圆的认识第1课时达标测试 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆有无数条对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:41.017955"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_17275102_007",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面图形对称轴最少的是（   ）。",
+    "options": [
+      "圆",
+      "扇形",
+      "正方形"
+    ],
+    "answer": "1",
+    "explanation": "圆有无数条对称轴，扇形只有一条对称轴，正方形有四条对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较圆、扇形、正方形对称轴数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 扇形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_17275102_015",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆有(        )条对称轴，每一条对称轴都是这个圆的(        )，扇形有(        )条对称轴。一个圆的面积大小由(        )确定。扇形面积的大小和(        )与(        )有关。",
+    "options": null,
+    "answer": "无数；直径；1；半径；半径；弧长",
+    "explanation": "一个圆有无数条对称轴，每一条对称轴都是这个圆的直径，扇形有1条对称轴。一个圆的面积大小由半径确定。扇形面积的大小和半径与弧长有关。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的对称轴与扇形对称轴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_17275102_018",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆是        图形，它有        条对称轴，扇形有        条对称轴。",
+    "options": null,
+    "answer": "轴对称；无数；1",
+    "explanation": "圆是轴对称图形，它有无数条对称轴，扇形有1条对称轴。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆和扇形对称轴条数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_17275102_022",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如图，实线部分是弧，虚线部分不是弧。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆上任意两点之间的部分叫弧，图中，实线部分是弧，虚线部分也是弧，所以原题说法错误。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查弧的概念与圆的曲线特征",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14914156_022",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "下面图形共有几条对称轴？请在图形上画出来。",
+    "options": null,
+    "answer": "4条；见详解",
+    "explanation": "4个小圆的圆心连在一起可构成一个正方形，组合图形有4条对称轴。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的轴对称性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12685605_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中，是中心对称图形的是（    ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "根据中心对称图形的概念：一个平面图形绕某一点旋转180°，如果旋转后的图形能够和原图形重合，那么这个图形叫做中心对称图形。C是中心对称图形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查中心对称与轴对称图形识别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12685605_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，△ABC中，∠ACB=90°，∠ABC=40°．将△ABC绕点B逆时针旋转得到△A'BC'，使点C的对应点C'恰好落在边AB上，则∠A'BC的度数是（    ）",
+    "options": [
+      "50°",
+      "70°",
+      "110°",
+      "120°"
+    ],
+    "answer": "1",
+    "explanation": "由旋转可得BC=BC'，∠C'BC'旋转角，由题意可计算出旋转角等于∠ABC-∠A'BC，即得∠A'BC=70°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "旋转中的角度计算与对称性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 70°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12685605_010",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中，是中心对称图形也是轴对称图形的是（    ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "根据中心对称图形和轴对称图形的定义即可判断出。C既是轴对称图形，又是中心对称图形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "中心对称与轴对称图形判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12685605_013",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，将矩形ABCD绕点A顺时针旋转到矩形A'B'C'D'的位置，旋转角为α．若∠ABC=90°，则α的大小为________（度）．",
+    "options": null,
+    "answer": "20",
+    "explanation": "由旋转的性质可得∠ADC=90°，∠DAD'=α，再由四边形内角和可得∠BAD'=70°，然后利用互余可计算得α=20°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "旋转角与矩形对称轴关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12685605_015",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，△COD是由△AOB绕点O顺时针旋转30°后得到的图形，若点D恰好落在AB上，且∠AOC的度数为100°，则∠B的度数是______．",
+    "options": null,
+    "answer": "35°",
+    "explanation": "根据旋转的性质可得∠AOD=∠BOC=30°，AO=DO，可求出∠BOD=40°，∠ADO=75°，由三角形的外角性质可得∠B=∠ADO-∠BOD=75°-40°=35°。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "旋转角度与三角形内角关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12683050_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，为⊙O的直径，C为⊙O外一点，过C作⊙O的切线，切点为A，连接CO交⊙O于B，∠C=38°，点E在右侧的半圆周上运动（不与A，B重合），则∠AEB的大小是（    ）",
+    "options": [
+      "19°",
+      "38°",
+      "52°",
+      "76°"
+    ],
+    "answer": "1",
+    "explanation": "连接OA，由AB为⊙O的直径，求解∠AOB，结合CA为⊙O的切线，求解∠OAC，再利用圆周角定理可得答案.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆周角与切线性质综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 38°",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12683050_003",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图所示四个图形中，既是轴对称图形又是中心对称图形的是（    ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "3",
+    "explanation": "根据轴对称图形和中心对称图形的概念，对各选项分析判断即可得解．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断轴对称和中心对称",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 图D",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12683050_009",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中，既是中心对称图形又是轴对称图形的是（    ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "1",
+    "explanation": "B既是轴对称图形，也是中心对称图形．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "中心对称和轴对称判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 图B",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12683050_010",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列四个图案中，是中心对称图形但不是轴对称图形的是（    ）",
+    "options": [
+      "图A",
+      "图B",
+      "图C",
+      "图D"
+    ],
+    "answer": "3",
+    "explanation": "D不是轴对称图形，是中心对称图形．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "中心对称非轴对称图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 图D",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_12683050_012",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，PA，PB分别与⊙O相切于A，B两点，C是优弧AB上的一个动点，若∠P=50°，则∠ACB ＝_____________°",
+    "options": null,
+    "answer": "65",
+    "explanation": "连接OA，OB，根据切线的性质以及四边形内角和定理求得∠AOB=130°，根据圆周角定理∠ACB=65°．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12683050.html",
+      "site": "教习网",
+      "title": "初中数学第24章圆综合与测试一课一练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "切线和圆周角综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:29.467109"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_16504365_023",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列命题中，真命题是（    ）",
+    "options": [
+      "正六边形是轴对称图形但不是中心对称图形",
+      "正六边形的每一个外角都等于中心角",
+      "正六边形每条对角线都相等",
+      "正六边形的边心距等于边长的一半"
+    ],
+    "answer": "2",
+    "explanation": "正六边形是中心对称图形，A错；正六边形的外角为60°，中心角也为60°，但外角与中心角定义不同，B表述不当；正六边形每条对角线都相等，C对；正六边形的边心距=√3/2×边长，D错。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形轴对称与中心对称",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 正六边形每条对角线都相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_16504365_027",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "连接正八边形的三个顶点，得到如图所示的图形，下列说法不正确的是（    ）",
+    "options": [
+      "四边形ABCH与四边形EFGH的周长相等",
+      "连接HD，则HD平分∠CHE",
+      "整个图形不是中心对称图形",
+      "△HDE是等边三角形"
+    ],
+    "answer": "2",
+    "explanation": "整个图形是中心对称图形，C不正确。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正八边形对称性判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 整个图形不是中心对称图形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_16504365_032",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "第二十四届北京冬奥会入场式引导牌上的图案融入了中国结和雪花两种元素．如图这个图案绕着它的中心旋转后能够与它本身重合，则旋转角α最小可以为_____度．",
+    "options": null,
+    "answer": "60",
+    "explanation": "中国结图案绕中心旋转60°后能与自身重合。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "旋转对称最小旋转角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_14115544_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列关于圆的说法正确的是（          ）。",
+    "options": [
+      "半径确定圆的位置",
+      "圆是轴对称图形",
+      "圆周率是周长与半径的比值",
+      "圆的对称轴是直径"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆是轴对称图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 圆是轴对称图形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_11969015_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列图形中对称轴条数最多的是（    ）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "1",
+    "explanation": "A．对称轴有4条；B．对称轴有6条；C．对称轴有3条；D．对称轴有5条；故答案为：B。",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "轴对称图形对称轴条数比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_21cnjy_25936914_014",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "等边三角形、正方形、正五边形、正六边形都可以密铺。",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断正多边形能否密铺涉及对称性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_001",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "图（    ）的角最多。",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "角的比较，对称轴相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_002",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面关于角的说法，正确的是（    ）。",
+    "options": [
+      "角的两条边越短，角就越小",
+      "大三角尺上的直角比小三角尺上的直角大",
+      "一个三角尺上只能有一个直角"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "角的大小与边的长短无关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_003",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的角中，最大的角是（    ）。",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "锐角钝角直角大小比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_004",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的图形中，只有2个锐角的是（    ）。",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "锐角个数的判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_005",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "（    ）时整，钟面上的时针与分针所夹的角是直角。",
+    "options": [
+      "12",
+      "9",
+      "6"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "钟面上直角的时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_006",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "只用一副三角尺不能拼出一个（    ）角。",
+    "options": [
+      "直",
+      "钝",
+      "锐"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角尺拼角类型判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_007",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "以下角从大到小排列正确的是（    ）。",
+    "options": [
+      "直角、钝角、锐角",
+      "锐角、钝角、直角",
+      "钝角、直角、锐角",
+      "钝角、锐角、直角"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "锐角钝角直角排序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_008",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在下面（    ）时整的时候，钟面上分针与时针组成的角是一个钝角。",
+    "options": [
+      "3",
+      "4",
+      "9",
+      "10"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "钟面上钝角的时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_009",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用三角尺拼角，拼出了锐角的是（    ）。",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角尺拼锐角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_010",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如下图，把一张纸先上下对折，再左右对折以得到的是（    ）角。",
+    "options": [
+      "直角",
+      "钝角",
+      "锐角"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对折后角的判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_011",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "任意一个三角形最少有（    ）个锐角。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角形锐角个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_012",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法错误的是（    ）。",
+    "options": [
+      "锐角比直角小",
+      "钝角比直角大",
+      "三角形有三个直角",
+      "正方形有四个直角"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "角的概念辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_013",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "数一数，填一填。直角有（______）个，锐角有（______）个，钝角有（______）个。直角有（______）个，锐角有（______）个，钝角有（______）个。直角有（______）个，锐角有（______）个，钝角有（______）个。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数直角锐角钝角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_014",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "1个红领巾有（______）个角，直角有（______）个，锐角有（______）个。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "红领巾角的分类",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_016",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图中有（______）条线段；有（______）个角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数线段和角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_017",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一块三角尺有（______）个钝角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角尺钝角个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_018",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "图形中有（______）条线段，有（______）个锐角，有（______）个直角，有（______）个钝角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "数线段和各类角",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_019",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在钟面上，3时整时针和分针组成（______）角；5时整时针和分针组成（______）角；10时整时针和分针组成（______）角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "钟面上角的类型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k2_51jiaoxi_14895696_020",
+    "subject": "数学",
+    "kp_id": "u2.k2",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个周角＝______个平角＝______个直角。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14895696.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周角平角直角换算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:02.436712"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

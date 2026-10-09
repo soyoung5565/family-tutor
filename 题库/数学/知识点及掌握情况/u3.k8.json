@@ -1,0 +1,20 @@
+{
+ "id": "u3.k8",
+ "name": "日历中数字关系",
+ "unit": "u3",
+ "unit_name": "用字母表示数（二）",
+ "definition": "同行相邻差1, 同列相邻差7, 对角和相等 (a + (a+7) = 2a+7)",
+ "example": "用字母表示相邻3个日期",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 38,
+ "slide_range": "slide_038-048",
+ "see_also": [
+  {
+   "id": "u3.k1",
+   "reason": "用a表示日历中某格数字，建立字母模型"
+  }
+ ]
+}

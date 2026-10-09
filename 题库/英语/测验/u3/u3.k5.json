@@ -1,0 +1,191 @@
+[
+  {
+    "qid": "英语_u3.k5_zxxk_58908374_001",
+    "subject": "英语",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听音选词",
+    "stem": "听录音，选出你所听到的单词。",
+    "options": [
+      "photo",
+      "phone",
+      "plant"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58908374.html",
+      "site": "学科网",
+      "title": "Unit 4 Getting together 单元自测卷(含听力)-2026-2027学年上学期英语六年级上册(译林版三起·新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查/p/与/f/（ph字母组合）辅音辨听能力，属语音辨别基础。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.337703"
+    },
+    "suspect_no_audio": true,
+    "duplicate_of": "英语_u1.k1_zxxk_58908374_015",
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k5_51jiaoxi_16435399_081",
+    "subject": "英语",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "have",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查失去爆破，连贯语流中爆破音/p/在v前失去爆破。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k5_51jiaoxi_16435399_082",
+    "subject": "英语",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "life",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查失去爆破，连贯语流中爆破音/p/在v前失去爆破。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u3.k5_21cnjy_26566391_037",
+    "subject": "英语",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "There is only one ________ (match) this afternoon.",
+    "options": null,
+    "answer": "match",
+    "explanation": "one后面接可数名词单数；match比赛。句意：今天下午只有一场比赛。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "match变复数matches，失去爆破语音题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

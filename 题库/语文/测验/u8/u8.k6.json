@@ -1,0 +1,3715 @@
+[
+  {
+    "qid": "语文_u8.k6_zxxk_59487017_001",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "默写",
+    "stem": "无情未必真豪杰，_________________。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59487017.html",
+      "site": "学科网",
+      "title": "第八单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言默写，属第八单元语文园地日积月累。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.273682"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_zxxk_59487017_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "默写",
+    "stem": "惟有民魂是值得宝贵的，_______________，_______________。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59487017.html",
+      "site": "学科网",
+      "title": "第八单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言，考查日积月累中鲁迅名言的默写。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.273682"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_zxxk_59602692_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "缩句：深蓝的天空中挂着一轮金黄的圆月。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602692.html",
+      "site": "学科网",
+      "title": "第八单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "缩句属词句段运用句式训练，原句出自本单元《少年闰土》。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:27:43.231101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.273682"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_zxxk_55507262_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "书法是我国国粹，历册语文书上均有介绍，让我们用一段话来聊聊书法。如果能在兼顾介绍其他楷书书法家的同时，侧重于其中一位就更好啦！",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55507262.html",
+      "site": "学科网",
+      "title": "2024-2025学年江苏省扬州市广陵区育才集团统编版六年级上册期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地书写提示即欣赏柳公权楷书，直接关联书法家介绍。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.273682"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25915744_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面句子中，标点符号使用正确的一项是( )",
+    "options": [
+      "我国的四大发明——造纸术、印刷术、火药、指南针，对世界历史的发展有重大贡献。",
+      "这么快就赢下比赛，确实没想到。他说：\"我只想打好每一场球，没考虑几连冠的事。\"",
+      "聪聪闲暇时喜欢阅读，他最喜欢的书是《红岩》、《稻草人》和《假如给我三天光明》。",
+      "奋斗，是青春最亮丽的底色，奋斗，是人生最精彩的篇章，奋斗，是时代最强劲的旋律。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书写提示相关，考查标点正确使用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:54.222949"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 我国的四大发明——造纸术、印刷术、火药、指南针，对世界历史的发展有重大贡献。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25915744_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "请在下面句子中的方框内加上合适的标点符号。漫步在西湖边，只见碧波荡漾，杨柳轻拂。我不禁赞叹□□这景色真美啊□□",
+    "options": null,
+    "answer": "：“！”(前引号和后引号共1分，其他每个1分)",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标点符号运用练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:54.222949"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_23110730_034",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "……是世界文学史上第一部,也是目前唯一一部获得诺贝尔文学奖的童话作品。该作品讲述了一个顽童的奇异之旅,展示了瑞典相关的地理概况、风土人情等。( )",
+    "options": null,
+    "answer": "《骑鹅旅行记》",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "诺贝尔奖童话作品",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:36.040068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u4.k1_21cnjy_23110730_034"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26545723_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面这副悼念鲁迅的挽联，横线上应该填入的词语是（　　）。\n上联：译著尚未成书，惊闻陨星，中国何人领（　　）\n下联：先生已经作古，痛忆旧雨，文坛从此感彷徨",
+    "options": [
+      "祝福",
+      "呐喊",
+      "野草",
+      "伤逝"
+    ],
+    "answer": "1",
+    "explanation": "下联最后一个词是\"彷徨\"，所以上联最后一个词最为恰当的是\"呐喊\"。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545723",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版六年级上册语文26.《有的人 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "挽联填词，考查鲁迅作品集",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:17.846396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u8.k4_21cnjy_26545723_004",
+    "answer_text": "B. 呐喊",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25883233_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "科技馆前厅的电子屏上滚动着\"惊奇就是科学的种子\"宣传标语，辰辰看到后就认定这是元代赵孟頫的楷书字体，因为赵孟頫的楷书字体具备下列特点：（ ）①运笔自然，点画圆润多姿，有行书的笔意 ②结构严谨端庄，平正宽绰 ③秀丽柔美，稳健大方 ④线条粗细变化明显，有明显的锋芒和骨力",
+    "options": [
+      "①②③",
+      "①②③④",
+      "①②④",
+      "②③"
+    ],
+    "answer": "0",
+    "explanation": "④线条粗细变化明显，有明显的锋芒和骨力，这是颜真卿楷书的特点，不符合赵孟頫楷书字体的特点，因此①②③符合。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法字体辨析，书写提示板块",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:09.359902"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ①②③",
+    "has_answer": true,
+    "duplicate_of": "语文_u7.k1_21cnjy_25883233_005"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_24033448_016",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "书法赏析：看到柳公权的作品，我想用词语（ ）来形容；欣赏了王羲之的《兰亭集序》，我想用（ ）来赞美。（2分）",
+    "options": [
+      "飘逸遒劲、婀娜多姿 B.瘦硬挺拔、骨力遒劲",
+      ""
+    ],
+    "answer": "B A",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法赏析词语文园地",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_24033448_017",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "除了柳公权和王羲之，我认识的著名书法家还有________、___________。（1分）",
+    "options": null,
+    "answer": "示例：颜真卿 欧阳询",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法家常识积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_24033448_019",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "课上，老师请你介绍自己喜欢的书法作品，你觉得怎样才能讲述得更加生动？（3分）",
+    "options": null,
+    "answer": "示例：展示彩色图片配以幽默易懂的语言，有条理地依次介绍书法作品的字体特点及大概内容，最后选择简单的提问与同学形成良好的互动。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "介绍书法作品口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.056115"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25373647_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "\"为了使人们的生活更快走出疫情的影响，政府实施了许多创新之举：发放消费券，县长直播带货，真是________。\"填入横线处最恰当的是（　　）（2分）",
+    "options": [
+      "有意栽花花不发，无心插柳柳成荫",
+      "近水知鱼性，近山识鸟音",
+      "苟利于民，不必法古；苟周于事，不必循旧",
+      "读书须用意，一字值千金"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累名言警句运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 苟利于民，不必法古；苟周于事，不必循旧",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25373647_009",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "六年级语文老师想在教室墙上挂标语牌，便向学生征集名言警句。下面句子不合适的一项是（　　）（2分）",
+    "options": [
+      "树欲静而风不止，子欲养而亲不待。",
+      "良药苦口利于病，忠言逆耳利于行。",
+      "书到用时方恨少，事非经过不知难。",
+      "苟日新，日日新，又日新。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言警句运用与语境匹配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 树欲静而风不止，子欲养而亲不待。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26289907_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列词语填入句子中，正确的一项是(　　)。京剧是我国人民____的一种传统艺术，演员要具备____四项基本功，演唱、念白讲究____，令人回味。",
+    "options": [
+      "喜闻乐见　唱念做打　活灵活现",
+      "粉墨登场　唱念做打　活灵活现",
+      "喜闻乐见　唱念做打　字正腔圆",
+      "粉墨登场　生旦净丑　字正腔圆"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "京剧与柳公权，第八单元综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 喜闻乐见　唱念做打　字正腔圆",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_10863474_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列词语中，书写完全正确的一项是（ ）",
+    "options": [
+      "掺和 骡马 闲熟 零七八碎",
+      "唾沫 榛子 翡翠 无济于事",
+      "脱缰 肿胀 嘟囔 乌和之众",
+      "响彻 演泽 畜养 头晕目眩"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查字音字形，涉及课文词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 唾沫 榛子 翡翠 无济于事",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_10863474_020",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给划线字注音。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "给字注音，基础字音考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567734_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补全词语，并根据语境选词填空。追（ ）溯（ ） 茅塞（ ）（ ） 浮（ ）掠（ ） 融会（ ）（ ） 千（ ）百（ ） 风（ ）雨（ ）。（1）学习课文不能__________，浅尝辄止，要深入理解、感悟内涵。（2）听完老师对鲁迅人生的讲解，我__________，彻底读懂了他的家国情怀。",
+    "options": null,
+    "answer": "追根溯源 茅塞顿开 浮光掠影 融会贯通 千方百计 风风雨雨；（1）浮光掠影；（2）茅塞顿开",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567734.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级语文上册第八单元全新原创检测卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成语积累与语境运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:32.820723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567734_007",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子修辞手法判断正确的是（ ）：“其实地上本没有路，走的人多了，也便成了路。”",
+    "options": [
+      "比喻",
+      "拟人",
+      "排比",
+      "夸张"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567734.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级语文上册第八单元全新原创检测卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言修辞判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:32.820723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "answer_text": "A. 比喻",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567734_009",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "鲁迅先生的崇高精神永远值得我们敬仰和学习。（改为双重否定句）",
+    "options": null,
+    "answer": "鲁迅先生的崇高精神不得不值得我们敬仰和学习。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567734.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级语文上册第八单元全新原创检测卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式转换：双重否定句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:32.820723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567734_011",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "课文名句默写。（1）____________________，俯首甘为孺子牛。（2）无情未必真豪杰，____________________。（3）其实地上本没有路，____________________，____________________。（4）《有的人》中，批判欺压百姓的句子：有的人____________________，____________________。",
+    "options": null,
+    "answer": "（1）横眉冷对千夫指；（2）怜子如何不丈夫；（3）走的人多了，也便成了路；（4）骑在人民头上，他活着别人就不能活",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567734.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级语文上册第八单元全新原创检测卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言与《有的人》名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:32.820723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26047889_029",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对于 “中国的脊梁”，鲁迅先生这样说道：“我们从古以来，就有 的人，有 的人，有 的人，有舍身求法的人……” 读了短文，你觉得 “中国的脊梁” 还有 。（4 分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言仿写，属第八单元积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6zxxk_48783942_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "\"用笔方圆并施,点画棱角分明,结构精妙\"说的是书法家( )的楷书特点。",
+    "options": [
+      "颜真卿",
+      "柳公权",
+      "赵孟頫",
+      "欧阳询"
+    ],
+    "answer": "3",
+    "explanation": "这是欧阳询楷书的特点,被称为\"欧体\"。",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48783942.html",
+      "site": "学科网",
+      "title": "2024-2025学年六年级语文上学期期末备考真题分类汇编（湖北专版）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查柳公权书法特点（园地书写提示）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:58.512274"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 欧阳询",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6zxxk_48783942_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "古琴台下,有四位同学预备用不同的书法字体抄写《伯牙鼓琴》一文,以下关于书法的知识说法错误的是",
+    "options": [
+      "赵小宇预备使用以柳公权为代表的楷书字体书写,其特点是用笔方圆并施,点画棱角分明。",
+      "钱子恒预备使用以颜真卿为代表的楷书字体书写,其特点是恢弘雄壮,大气磅礴。",
+      "孙莉预备使用以王羲之为代表的行书字体书写,其特点是潇洒流畅,优美俊逸。",
+      "李其茹预备使用以怀素为代表的楷书字体书写,其特点是结构简省,笔画连绵。"
+    ],
+    "answer": "3",
+    "explanation": "怀素是草书大家,不是楷书代表。",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48783942.html",
+      "site": "学科网",
+      "title": "2024-2025学年六年级语文上学期期末备考真题分类汇编（湖北专版）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查书法家字体特点（书写提示）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:58.512274"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 李其茹预备使用以怀素为代表的楷书字体书写,其特点是结构简省,笔画连绵。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25915744_013",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "下列填入语段横线处的名言，最合适的一项是( )。(2分) 李时珍耗费二十七年时间，走遍名山大川采集药材、验证药方，即便遭遇重重困难也从未停歇。最终，他编撰出《本草纲目》这部中医学巨著,为后世留下了宝贵财富。这正印证了",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言积累填空，日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.907385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_25915744_019",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "古诗词是中华优秀传统文化的精华之一，妙妙对一些古诗词进行了分类，请帮她补全。(19分) 1.托物言志、借景抒情是诗人常用来表达思想情感的手法，请你填空。(7分) 2.下面是妙妙整理的诗句导图，请你填空。(12分)",
+    "options": null,
+    "answer": "1.(7分)(1)粉骨碎身浑不怕(2)何当金络脑(3)当春乃发生(4)应怜屐齿印苍苔 春色满园关不住(5)示例：遗憾、失望 惊喜(每空1分，诗句中错字、漏字、多字则该空不得分) 2.(12分)(1)接天莲叶无穷碧(2)空山新雨后(3)雨雪霏霏(4)西出阳关无故人(5)一片冰心在玉壶(6)孤帆远影碧空尽(7)春风送暖入屠苏(8)轻烟散入五侯家(9)今夜月明人尽望(10)大雪满弓刀(11)但使龙城飞将在(12)醉卧沙场君莫笑(每空1分，错字、漏字、多字则该空不得分)",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗分类整理与默写，日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.907385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k4_21cnjy_25915744_019",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26545723_001",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列注音完全正确的一组是（　　）",
+    "options": [
+      "朽xiǔ 臧zān",
+      "摔shuāi 入rù",
+      "记jì 刻kèi",
+      "场chǎn 抬tái"
+    ],
+    "answer": "1",
+    "explanation": "A：“臧”zān改为zāng，意思是善、好。B：全部正确。C：“刻”kèi改为kè，意思是雕刻。D：“场”chǎn改为chǎng，适应某种需要的比较大的地方。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545723",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版六年级上册语文26.《有的人 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本课字音字形练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:53.134883"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u8.k4_21cnjy_26545723_001",
+    "answer_text": "B. 摔shuāi 入rù",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26545723_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "写出下列词语的反义词。逝世—　 　 汇集—　 　 悲痛—",
+    "options": null,
+    "answer": "生存；分散；欢喜",
+    "explanation": "本题考查对反义词的辨析能力。逝世意为去世、死亡，反义词：生存；汇集意思是指将人或物聚集在一起，反义词：分散；悲痛意思是悲伤哀痛，反义词：欢喜。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545723",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版六年级上册语文26.《有的人 - 二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本课词语积累运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:53.134883"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u8.k3_21cnjy_26545723_006",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567508_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "给加点字选择正确读音，打\"√\"。（1）敷药（fū fú） （2）祭祀（sì shì）（3）骤然（zhòu zòu） （4）参差（cī chā）",
+    "options": null,
+    "answer": "（1）fū√ （2）sì√ （3）zhòu√ （4）cī√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音辨析属语文园地基础练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:14.487335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.056115"
+    },
+    "duplicate_of": "语文_u6.k3_21cnjy_26567508_002",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567508_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "形近字组词",
+    "stem": "形近字辨析，组词填空。【租 祖 组】（____）国 （____）房 小（____） （____）传【绵 棉 锦】（____）花 连（____） （____）绣 丝（____）",
+    "options": null,
+    "answer": "祖国 租房 小组 祖传；棉花 连绵 锦绣 丝绵",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字组词属字词基础积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:14.487335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567508_019",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系短文，解释词语。振聋发聩：________________________",
+    "options": null,
+    "answer": "比喻文章、言论深刻有力，能唤醒糊涂麻木的人。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语理解属语文园地积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:14.487335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567508_020",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "求索：________________________",
+    "options": null,
+    "answer": "探索、追求真理与理想。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语理解联系鲁迅精神",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:14.487335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_15109734_011",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "你知道我国古代哪些著名的书法家？你知道他们的哪些故事？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109734.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册第7-8单元练习卷（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法家故事与书写提示相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:01.743179"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17346502_001",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "抄写题",
+    "stem": "请抄写以下句子，注意行款整齐、布局合理。\n徐霞客用一生诠释：真正的旅行不在于周游名山大川，而在于敢于出发的勇气。正如他在黄山绝壁留下的那道刻痕——\"大丈夫当走遍九州，穷天下之路\"。",
+    "options": null,
+    "answer": "徐霞客用一生诠释：真正的旅行不在于周游名山大川，而在于敢于出发的勇气。正如他在黄山绝壁留下的那道刻痕——\"大丈夫当走遍九州，穷天下之路\"。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "抄写题涉及行款布局与书写提示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17346502_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小阳临摹了赵孟頫的字，运笔自然、点画圆润多姿，以下属于他临的是（  ）",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "赵孟頫楷书运笔自然流畅，点画圆润，有融合行书笔意的特点。符合这一特点的是C。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法鉴赏属书写提示范畴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_12091063_018",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言名句",
+    "stem": "习作中引用名言会使表达的观点更具说服力。请根据中心观点的提示,引用名句，完成练习。\n(1)当我以\"读书\"为中心观点进行阐述时，我想引用 的名言: 。",
+    "options": null,
+    "answer": "示例:冰心 读书好，好读书，读好书",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_12091063_019",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言名句",
+    "stem": "(2)当我以\"奉献\"为中心观点进行阐述时，我想引用 的名言: 。",
+    "options": null,
+    "answer": "示例:李商隐 春蚕到死丝方尽 蜡炬成灰泪始干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26567508_016",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系短文，解释词语。振聋发聩：________________________求索：________________________",
+    "options": null,
+    "answer": "振聋发聩：比喻文章、言论深刻有力，能唤醒糊涂麻木的人。求索：探索、追求真理与理想。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言词语理解积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:08.915437"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_10863474_012",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "把下面的句子补充完整。（1）从小爸爸就教我背诗词，现在我的诗词积累量已经超过爸爸了。爸爸高兴地说：\"这真是'青，____________________'啊！\"（2）在说到变革创新时，习近平主席曾引用了\"苟利于民，_______；________，不必循旧\"这句古语。（3）创新是一个国家兴旺发达的不竭源泉，当我们重温\"苟日新，________，_______\"这句古训时，不仅要在科技创新、制度创新上积极有为，更须认真体会古人\"日新其德\"的精神。（4）习近平主席在两院院士大会上发表讲话时谈道：\"科技体制改革要敢于啃硬骨头，敢于涉险滩、闯难关，破除一切制约科技创新的思想障碍和制度藩篱，正所谓'穷则___，___，______'。\"",
+    "options": null,
+    "answer": "取之于蓝而青于蓝；不必法古；苟周于事；日日新，又日新；变，变则通，通则久",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗文名句默写与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26563658_009",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读理解（28分）（二）课外阅读《怀念鲁迅》（14分）\n[原文]鲁迅先生的背影，永远挺立在近代中国的文坛之上……依旧温暖、鼓舞着一代代中国青年奋勇前行。\n1. 联系短文，解释下列词语。（4分）\n（1）毫不退缩：________________________________\n（2）慕名：____________________________________\n2. 短文从哪几个方面刻画了鲁迅先生的形象？（3分）\n3. 赏析文中\"他以笔为刃，刺破黑暗，唤醒沉睡的国人\"这句话。（3分）\n4. 结合课文和短文，说说你心中的鲁迅先生是一位怎样的人？（4分）",
+    "options": null,
+    "answer": "1.（1）一点也不后退、不畏惧，文中指鲁迅面对黑暗势力勇敢抗争。\n（2）仰慕他人的名声，文中指青年们敬佩鲁迅，专程前来拜访。\n2. 生活简朴、勇敢抗争黑暗、心怀百姓悲悯众生、悉心扶持青年。\n3. 运用比喻的修辞手法，将鲁迅的文字比作利刃，生动形象地写出了鲁迅文章尖锐有力、直击时弊的特点，赞美了他以文字为武器，批判旧社会、唤醒民众、拯救民族的伟大贡献。\n4. 我心中的鲁迅先生，是一位爱憎分明、心怀家国、甘于奉献的革命者，是生活简朴、心怀温柔、关爱青年、体恤百姓的文坛战士，他一生以笔救国，无私无畏，令人敬佩。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26563658.html",
+      "site": "21世纪教育网",
+      "title": "2026年最新统编版六年级语文上册第八单元测试卷（含答案）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课外阅读拓展鲁迅主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:34.221864"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_14230577_022",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文化常识",
+    "stem": "上图选自王羲之的《___________》（摹本）。我还知道的著名书法家有____________、柳公权、欧阳询等。（2分）",
+    "options": null,
+    "answer": "兰亭集序 示例：颜真卿",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法家常识属本单元书写提示积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_14230577_023",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "你认为练习书法有哪些好处？（2分）",
+    "options": null,
+    "answer": "示例：①培养耐心和自信心。②提高文化素养，促进身心健康发展。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法好处联系单元书写提示主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26013256_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书法题",
+    "stem": "用楷书工整抄写课文开篇段落，标题居中醒目，段落分明。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26013256.html",
+      "site": "21世纪教育网",
+      "title": "25《我的伯父鲁迅先生》教学课件+教案+学案+课时作业+视频素材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本单元书写提示与抄写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:12.018846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26013256_026",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书法题",
+    "stem": "用楷书工整抄写课文重点段落，标题居中醒目，段落分明。的确，伯父就是这样的一个人，他为自己想得少，为别人想得多。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26013256.html",
+      "site": "21世纪教育网",
+      "title": "25《我的伯父鲁迅先生》教学课件+教案+学案+课时作业+视频素材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本单元书写提示与抄写练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:12.018846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26013256_043",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "zhuīdào（ ）、diàoyàn（ ）、húlúntūnzǎo（ ）、zhāngguānlǐdài（ ）",
+    "options": null,
+    "answer": "追悼；吊唁；囫囵吞枣；张冠李戴",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26013256.html",
+      "site": "21世纪教育网",
+      "title": "25《我的伯父鲁迅先生》教学课件+教案+学案+课时作业+视频素材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本单元重点字词识记书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:12.018846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_26013256_044",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词造句：从\"囫囵吞枣\"\"张冠李戴\"中选一个写一句话。",
+    "options": null,
+    "answer": "示例：读书不能囫囵吞枣，要细细品读理解。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26013256.html",
+      "site": "21世纪教育网",
+      "title": "25《我的伯父鲁迅先生》教学课件+教案+学案+课时作业+视频素材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用词语造句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:12.018846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u8.k3_21cnjy_26013256_035",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_019",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面说法正确的一项是（    ）",
+    "options": [
+      "\"人们的泪水如雨，洒了一地\"和\"过去的日子如轻烟，被微风吹散了\"两个句子都采用了夸张的写法。",
+      "同学们写毕业联欢会活动策划书，可以采用\"编年体\"或\"栏目式\"方式。",
+      "\"通国之善弈者也\"和\"虽与之俱学\"中的\"之\"意思不同。",
+      "王羲之是元代著名的书法家，《三门记》是其楷书代表作之一。"
+    ],
+    "answer": "2",
+    "explanation": "A.前者夸张，后者比喻；B.\"编年体\"或\"栏目式\"用于制作成长纪念册；D.王羲之是东晋书法家，《三门记》是赵孟頫作品。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合考查语法、文言及书法常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. \"通国之善弈者也\"和\"虽与之俱学\"中的\"之\"意思不同。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_020",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列关于书法家赵孟頫的介绍不正确的一项是（　　）",
+    "options": [
+      "他是元代著名的书法家。",
+      "《三门记》是他的传世代表作之一。",
+      "他的楷书运笔自然，点画圆润多姿，具有行书的笔意。",
+      "他的书法整体上刚劲有力，挥洒自如。"
+    ],
+    "answer": "3",
+    "explanation": "赵孟頫书法整体上秀丽典雅，结构端正严谨、稳健和雍容。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查书法家赵孟頫相关常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 他的书法整体上刚劲有力，挥洒自如。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_024",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "中国古代楷书四大家指的是（    ）",
+    "options": [
+      "王羲之  欧阳询  颜真卿 柳公权",
+      "颜真卿 柳公权 苏轼 赵孟頫",
+      "欧阳询 颜真卿 柳公权 赵孟頫",
+      "王羲之 颜真卿  柳公权 张旭"
+    ],
+    "answer": "2",
+    "explanation": "楷书四大家：欧阳询、颜真卿、柳公权、赵孟頫。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "楷书四大家，含柳公权书法知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 欧阳询 颜真卿 柳公权 赵孟頫",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_24126519_021",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "根据下面意思在短文中找到相应的词语写下来。\n形容要求非常迫切。（　　　　　　）；\n日夜不停，干劲十足。（　　　　　）",
+    "options": null,
+    "answer": "如饥似渴；夜以继日",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，词语理解属基础积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_24126519_026",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言积累",
+    "stem": "请写一句关于时间的名言或谚语。",
+    "options": null,
+    "answer": "一寸光阴一寸金，寸金难买寸光阴。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累，名言谚语积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_001",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "结合语境，根据拼音写汉。(6分) ① 深宵灯火是他的伴lǚ（    ）。 ② 一个又一个大的四方竹纸本子上，写满了密密麻麻的小kǎi（    ）。 ③ 闻一多先生是一个热情péng pài（    ）的优秀诗人。 ④ 杜甫晚年，疏懒得“一月不shū（    ）头”。 ⑤ 闻一多先生说：“zhì（    ）序不在我的范围内。”",
+    "options": null,
+    "answer": "①侣 ②楷 ③澎湃 ④梳 ⑤秩",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形，语文园地基础积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "找出下面句子中的错别字并改正。（6分） ① 闻一多先生是桌越的学者。（    ） ② 他正向古代典藉钻探。（    ） ③ 奥本海默是一个拔尖的人物，锋芒必露。（    ） ④ 他从唐诗下手，目不规园，租不下楼。（    ） ⑤ 他为争取民主，反对独载起稿政治传单。（    ） ⑥ 在这个方面，情况就炯乎不同，而且一反既往了。（    ）",
+    "options": null,
+    "answer": "①桌—卓 ②藉—籍 ③必—毕 ④规—窥 ⑤载—裁 ⑥炯—迥",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "错别字辨析，基础字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词填空。（4分） ① 闻先生总是头发（    ），他是无暇及此。【零乱 凌乱】 ② 闻先生的书桌，（    ）不堪，众物腾怨。【零乱 凌乱】 ③ 他又向“古典新义”（    ）了。【挺进 迈进】 ④ 他终于以（    ）的生命，实证了他的“言”和“行”。【珍贵 宝贵】",
+    "options": null,
+    "answer": "①凌乱 ②零乱 ③迈进 ④宝贵",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语辨析与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据要求填空。（4分） ① 这篇文章记叙了闻一多先生的主要事迹，他是诗人，_________，_________。 ② 臧克家的代表作有诗集《        》。 ③ 《骆驼祥子》的作者是_________。",
+    "options": null,
+    "answer": "①学者 民主战士 ②《烙印》 ③老舍（舒庆春）",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文内容与作家常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语运用",
+    "stem": "下列加点成语使用有误的一项是(    )(2分) ① 一个又一个大的四方竹纸本子，写满了密密麻麻的小楷，如群蚁排衙。 ② 这个方面，情况就*乎不同，而且一如既往了。 ③ 十年艰辛，一部《校补》赫然出现。 ④ 他潜心贯注，心会神凝，成了“何妨一下楼”的主人。",
+    "options": [
+      "一个又一个大的四方竹纸本子，写满了密密麻麻的小楷，如群蚁排衙。",
+      "这个方面，情况就*乎不同，而且一如既往了。",
+      "十年艰辛，一部《校补》赫然出现。",
+      "他潜心贯注，心会神凝，成了“何妨一下楼”的主人。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成语运用，语境理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 这个方面，情况就*乎不同，而且一如既往了。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12807744_007",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点运用",
+    "stem": "下列标点使用有误的一项是(    )(2分) ① 刚走到校门口，我就看见一幅写着“向闻一多先生学习”的巨大标语。 ② 我们朗诵着这篇课文，怎能不激起心中的豪迈之情，将自己火红的青春投入到实现民族复兴的“中国梦”中去呢？ ③ 给成功者一个微笑，那是赞赏；给失败者一个微笑，那是鼓励。 ④ 挫折与磨难面前，你是做畏缩逃避的懦夫？还是做奋起搏击的勇士。",
+    "options": [
+      "刚走到校门口，我就看见一幅写着“向闻一多先生学习”的巨大标语。",
+      "我们朗诵着这篇课文，怎能不激起心中的豪迈之情，将自己火红的青春投入到实现民族复兴的“中国梦”中去呢？",
+      "给成功者一个微笑，那是赞赏；给失败者一个微笑，那是鼓励。",
+      "挫折与磨难面前，你是做畏缩逃避的懦夫？还是做奋起搏击的勇士。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12807744.html",
+      "site": "教习网",
+      "title": "初中语文2 说和做——记闻一多先生言行片段课后练习题-教习网|试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标点符号辨析运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:45:20.065839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 挫折与磨难面前，你是做畏缩逃避的懦夫？还是做奋起搏击的勇士。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17262632_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "柳公权是______代书法家，\"楷书四大家\"还包括欧阳询、______、赵孟頫。",
+    "options": null,
+    "answer": "唐；颜真卿",
+    "explanation": "柳公权是唐代书法家，楷书四大家为欧阳询、颜真卿、柳公权、赵孟頫。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书写提示介绍柳公权等书法家常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17262632_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列属于柳公权作品的是（     ）",
+    "options": [
+      "《颜勤礼碑》",
+      "《三门记》",
+      "《玄秘塔碑》"
+    ],
+    "answer": "2",
+    "explanation": "《玄秘塔碑》是柳公权的代表作；《颜勤礼碑》是颜真卿作品；《三门记》是赵孟頫作品。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书写提示辨析柳公权代表作品",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 《玄秘塔碑》",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17262632_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "分类题",
+    "stem": "按要求将下列题目分类：①《司马光》 ②《盘古开天地》 ③《草原》 ④《慢性子裁缝和急性子顾客》 以人物为题：______ 以事件为题：______ 以事物为题：______ 悬念式题目：______",
+    "options": null,
+    "answer": "以人物为题：①④；以事件为题：②；以事物为题：③；悬念式题目：④",
+    "explanation": "①《司马光》以人物为题；②《盘古开天地》以事件为题；③《草原》以事物（景物）为题；④《慢性子裁缝和急性子顾客》既是人物也是悬念式题目。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用体会不同类型题目特点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17262632_007",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "回忆学习过的课文题目，补全表格。\n拟题角度 | 以人物命名 | 以______命名 | 以事物命名 | 以吸引人为目的命名\n题目示例 | 少年闰土 | 开国大典 | 桥 | 在牛肚子里旅行",
+    "options": null,
+    "answer": "事件",
+    "explanation": "中间一列\"以事件命名\"，以《开国大典》《草船借箭》等为例。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用梳理拟题角度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17262632_009",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "对右边的书法作品说法有误的一项（     ）",
+    "options": [
+      "这是唐代书法家柳宗元的书法作品。",
+      "这是一幅楷书作品，用笔方圆并施，点画棱角分明，结构精妙。",
+      "\"颜筋柳骨\"中的\"柳骨\"说的就是这幅作品的作者的书法特点，即形容其书法瘦硬挺拔，骨力遒劲。",
+      "这幅作品是《玄秘塔碑》的一部分。"
+    ],
+    "answer": "0",
+    "explanation": "该作品为柳公权所作，而非柳宗元（柳宗元是文学家）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书写提示辨析柳公权作品常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 这是唐代书法家柳宗元的书法作品。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_12258094_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗文默写",
+    "stem": "一粥一饭，                  ；半丝半缕，                  。",
+    "options": null,
+    "answer": "当思来处不易；恒念物力维艰",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "朱子家训日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_17797918_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "下列句子中，标点符号使用正确的一项是（ ）",
+    "options": [
+      "他看上去三、四十岁，苹果脸，短发，一副菜农打扮。",
+      "“不行，”程老师干干脆脆地回答，“不行。你的嗓子沙哑得厉害，念不好。”",
+      "我北来后，他写了一信给我，信中说道：“我身体平安，惟膀子疼痛厉害，举箸提笔，诸多不便，大约大去之期不远矣”。",
+      "他说：“了不起，你们中国的人才太多了”！"
+    ],
+    "answer": "1",
+    "explanation": "A项“三、四十岁”表示约数，中间不用顿号；C项句号应放在引号内；D项感叹号应放在引号内。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797918.html",
+      "site": "教习网",
+      "title": "初中语文统编版五四学制六年级上册第六单元测试卷及答案-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标点符号运用，六年级基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:08.604807"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. “不行，”程老师干干脆脆地回答，“不行。你的嗓子沙哑得厉害，念不好。”",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k2_21cnjy_7897198_010"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "昌昌同学参加古诗词\"飞花令\"游戏时，好多次都背诵不出恰当的诗句，十分后悔自己平时没有好好积累古诗。如果用一句话来评价这种现象，最恰当的一项是（    ）",
+    "options": [
+      "路遇知马力，日久见人心。",
+      "书到用时方恨少，事非经过不知难。",
+      "听君一席话，胜读十年书。",
+      "有意栽花花不开，无心插柳柳成荫。"
+    ],
+    "answer": "1",
+    "explanation": "\"书到用时方恨少，事非经过不知难\"的意思是：在你真正应用知识于实际中的时候，才发现自己学的知识不够；很多事情不亲身经历，不会知道它的难处的。形容后悔平时没有好好积累古诗的名言是：书到用时方恨少，事非经过不知难。故选B。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累名言运用情境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:16.782495"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 书到用时方恨少，事非经过不知难。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k6_21cnjy_19424068_002"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在下列情境中，引用俗语不恰当的一项是（    ）。",
+    "options": [
+      "山上的农民常常能够根据云雾的变化比较准确地判断天气情况，我想这就是\"近水知鱼性，近山识鸟音\"的道理。",
+      "每次和外公聊天，我都有\"听君一席话，胜读十年书\"的感觉。",
+      "新店开张请书法家写牌匾花了六千元，爸爸告诉我以后可得好好练字，要知道\"读书须用意，一字值千金\"。",
+      "奶奶早晨7点来到超市买促销商品，发现门口已经排了很长的队，这可真是\"莫道君行早，更有早行人\""
+    ],
+    "answer": "2",
+    "explanation": "\"读书须用意，一字值千金\"的意思是：想文采出众，一字千金，就得在读书时下一番苦功夫。这个俗语与读书有关，但是不是指书法家的书法可以卖钱的意思，故本题俗语使用错误。故选C。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "俗语运用情境辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:16.782495"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 新店开张请书法家写牌匾花了六千元，爸爸告诉我以后可得好好练字，要知道\"读书须用意，一字值千金\"。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k6_21cnjy_19424068_005"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_19424068_022",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "关于文学常识，下列说法不正确的一项是（        ）",
+    "options": [
+      "《水浒传》中\"雪夜上梁山\"的是林冲，\"倒拔垂杨柳\"的是鲁智深。",
+      "《儒林外史》是清代吴敬梓的长篇讽刺小说，范进、贾宝玉，严监生都是其中的艺术典型。",
+      "老舍，原名舒庆春，杰出的语言大师。《北京的春节》是老舍写的，他的代表作有《骆驼祥子》《茶馆》等。",
+      "《鲁滨逊漂流记》的作者是英国小说家丹尼尔·笛福。丹尼尔·笛福被誉为\"英国与欧洲小说之父\"。"
+    ],
+    "answer": "1",
+    "explanation": "贾宝玉是《红楼梦》中的人物，不是《儒林外史》中的人物。故选B。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文学常识，涉及《水浒传》《儒林外史》等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:16.782495"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 《儒林外史》是清代吴敬梓的长篇讽刺小说，范进、贾宝玉，严监生都是其中的艺术典型。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_15393503_016",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文理解",
+    "stem": "成语\"后来居上\"与荀子的\"____\"有异曲同工之妙。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅名言积累与理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_15393503_017",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言填空",
+    "stem": "选择恰当的名言抄写在横线上，把下面的句子补充完整。A.先天下之忧而忧，后天下之乐而乐  B.拳不离手，曲不离口①不论清早、夜晚，不论往东往西，我在这条长长的胡同里走着的时候，总听到寓所斜对面高楼的窗户里，传出一阵阵好听的琴声叮咚!叮咚!叮叮咚咚!这弹琴的人真是\"____\"啊!②爱国华侨陈嘉庚\"____\"。为了孩子的未来，为了祖国的振兴，他毫无保留地献出自己辛辛苦苦挣来的钱，为家乡兴办学校，自己却过着俭朴的生活。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言日积月累运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_23110730_027",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句",
+    "stem": "\"一粥一饭,当思来处不易\",我们在生活中要节俭,需\"常将有日思无日,______ \":要及时行孝,因为我们不想有\"树欲静而风不止,______ \"的遗憾。",
+    "options": null,
+    "answer": "莫把无时当有时；子欲养而亲不待",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言警句日积月累补充",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_23110730_029",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "《三国演义》中的诸葛亮倾其一生辅佐刘备父子。下面赞誉诸葛亮的名言,最恰当的是( )",
+    "options": [
+      "知者不惑,仁者不忧,勇者不惧。",
+      "君子之修身也,内正其心,外正其容。",
+      "君子喻于义,小人喻于利。",
+      "鞠躬尽瘁,死而后已。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言选用，评价人物",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 鞠躬尽瘁,死而后已。",
+    "has_answer": true,
+    "duplicate_of": "语文_u4.k3_21cnjy_23110730_025"
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_15109734_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "口语交际。你知道我国古代哪些著名的书法家？你知道他们的哪些故事？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/15109734",
+      "site": "21世纪教育网",
+      "title": "doc 15109734",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第八单元语文园地书法家话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:14.953162"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k6_21cnjy_15109734_014",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对于鲁迅，你听老师讲过，也读过介绍他的文章，那么你心目中的鲁迅是一个什么样的人？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/15109734",
+      "site": "21世纪教育网",
+      "title": "doc 15109734",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第八单元鲁迅人物形象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:14.953162"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "语文_u8.k3_21cnjy_15109734_019"
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_001",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "读拼音，写词语。\nbiān pào      tōng xiāo        cǎi huì         zhǎ yǎn\nzhǒng zhàng    rǎn gāng       làng màn        jīng yì",
+    "options": null,
+    "answer": "鞭炮；通宵；彩绘；眨眼；肿胀；染缸；浪漫；惊异",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形练习，考查字词掌握",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_002",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下面各组词语中错别字最多的一组是（     ）\n  A．通霄    水绞    摆摊    残灯未庙\n  B．板栗    肿胀    碗筷    无可奈何\n  C．僧人    脱僵    演译    青面獠牙",
+    "options": [
+      "通霄 水绞 摆摊 残灯未庙",
+      "板栗 肿胀 碗筷 无可奈何",
+      "僧人 脱僵 演译 青面獠牙"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析错别字，考查字形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 通霄 水绞 摆摊 残灯未庙",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_003",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义解释",
+    "stem": "选择正确的解释，把序号填在括号里。",
+    "options": null,
+    "answer": "⑤    ④    ①    ③",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字义解释，考查字词理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_004",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "先补充词语，再完成练习。\n①万象______　②截然_______　③悬灯_________　④独出________\n（1）形容想出来的办法与众不同，是词语_________的意思。 \n（2）这次考试的内容与上次_________。\n（3）形容节日状态的词语是_________和_________。",
+    "options": null,
+    "answer": "更 新 不 同 结 彩 心 裁 ④ ② ① ③",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语补充与运用，考查词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_005",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词填空。\n平静  安静  宁静\n（1）房间里非常________，只听见钟表的嘀哒声。\n（2）几只小船飘荡在________的湖面上。\n（3）夜晚，________的乡间小路上连一个人影都没有。",
+    "options": null,
+    "answer": "安静    平静    宁静",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "近义词辨析填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_006",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列句子没有运用修辞手法的一项是（     ）\n  A．花生仁脱了它的红外套，这是不消说的事。\n  B．有名的老铺都要挂出几百盏灯来：有的一律是玻璃的，有的清一色是牛角的，有的都是纱灯。\n  C．看羊还不够资格的八儿，难道还能设什么法来反抗吗？\n  D．锅巴，正是围了锅边成一圈。",
+    "options": [
+      "花生仁脱了它的红外套，这是不消说的事。",
+      "有名的老铺都要挂出几百盏灯来：有的一律是玻璃的，有的清一色是牛角的，有的都是纱灯。",
+      "看羊还不够资格的八儿，难道还能设什么法来反抗吗？",
+      "锅巴，正是围了锅边成一圈。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "修辞手法辨析，语文园地练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 锅巴，正是围了锅边成一圈。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_007",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言运用",
+    "stem": "把下列句子填入横线，排序最恰当的一项是（     ）\n书法是易学难精的艺术。作为一门传统艺术，      。唯其如此，才能成为生活中真正的随心所欲不逾矩的书法大家。\n①它要求笔墨有出处，结字有法度②诚然，既定的法度有时会使书法显得死板③传承是它显著的特征④\"穿着汉唐服装，舞出时代风采\"⑤但是一流的书法家都是从法度中走出来的⑥不像现代艺术那样可以\"天马行空为所欲为\"",
+    "options": [
+      "③①⑤④②⑥",
+      "①③⑤④②⑥",
+      "③①⑥②⑤④",
+      "①③⑥②④⑤"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子排序，考查语言连贯",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ③①⑥②⑤④",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_008",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求完成句子练习。\n（1）身无分文的唐东杰布就这样在雅鲁藏布江上留下了58座铁索桥。（缩句）\n（2）经过这次外出调查活动，对同学们的启发很大。（修改病句）\n（3）妈妈对我说:\"我上班去了，你中午在家自己温习功课。\"（改为转述句）\n（4）花生仁儿的红色外皮没有了。（改为拟人句）\n（5）在外边做事的人，除非万不得已，必定赶回家来吃团圆饭。（改为双重否定句）",
+    "options": null,
+    "answer": "（1）唐东杰布留下了铁索桥。\n（2）这次外出调查活动，对同学们的启发很大。\n（3）妈妈对我说，她上班去了，让我中午在家自己温习功课。\n（4）花生仁儿脱了它的红色外套。\n（5）在外边做事的人，除非万不得已，不可能不赶回家来吃团圆饭。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式变换与病句修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_15825427_010",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读专项训练。\n亲情是一碗浓香的粥（节选）\n①母亲在厨房忙碌了好一阵子，厨房里渐渐飘出粳米的特有香气。香气一点点浓郁起来，粥香如蝶，满室翩跹，锅内深红浅绿，脂稠玉浓，伴着气泡上下翻飞，飞珠溅玉，美如流花。我的眼睛竟然随着那馥郁的香气而慢慢湿润了。\n②这哪里是一碗粥啊，这分明是母亲心底对我那份至浓至醇的爱啊!\n③母亲端来一碗看似平凡得不能再平凡的粥，我先用嘴唇轻轻碰触，感知它的温度，再用牙齿撞进它绵香软糯的怀内，用舌输送着它清爽嫩滑的躯体，然后我的味蕾一点点地通泰舒展，我的身体一段段地褪尽疲惫，我的心灵一寸寸地扫去凡尘喧嚣。\n④伴着袅袅的粥香，我与父母闲话家常，碗边的话，像是投进岁月长河的石子，淡淡然了无回声，清朗得如同天上人间。清代文人袁枚在《随园食单》中自拟了煮粥的标准：\"见水不见米，非粥也；见米不见水，非粥也。必使米水融合，柔腻如一，而后谓之粥。\"急躁之人理解不了粥的妙处，父母的一切平凡而琐碎的爱，就如同不疾不徐的火，持久平和，才能熬出这一锅好粥。\n（1）画\"______\"的句子运用了______________的修辞手法，从粥的_________、______________、______________三个方面详细描写了粥的美味诱人。\n（2）画\"﹏﹏\"的部分详细描写了\"我\"喝粥的过程和感受。仔细品读，补全思维导图。\n（3）选文中作者对粥的美味诱人和吃粥的过程与感受描写得极为详细，但对与父母闲话家常的描写却一笔带过。对作者这样安排详略的原因，说法恰当的一项是（     ）。\nA．与那碗粥相比，同父母闲话家常显得很平常\nB．\"我\"喜欢喝母亲熬的粥\nC．那碗粥融入了父母对\"我\"至浓至醇的爱\nD．\"我\"忘了同父母聊天的内容了",
+    "options": null,
+    "answer": "（1）比喻  气味  颜色  形态\n（2）牙齿  舌  身体  心灵  撞进怀内  通泰  舒展  褪尽疲惫\n（3）C",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15825427.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课外片段阅读，考查理解能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:50.581730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k6_51jiaoxi_13225086_032",
+    "subject": "语文",
+    "kp_id": "u8.k6",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合性学习",
+    "stem": "学习了《从百草园到三味书屋》一文后，班级开展了以\"读鲁迅作品，学鲁迅精神\"为主题的读书活动，请你按要求完成以下任务。\n（1）（辨识作品）小亮收集了四部作品，请你帮他选出不属于鲁迅先生的一部作品（_____）\nA．《樱花赞》  B．《呐喊》  C．《彷徨》  D．《朝花夕拾》\n（2）（探究名言）下面是小鹏摘抄的鲁迅名言，这些名言反映了鲁迅的哪些精神？请你分别用四字词语予以概括。（概括出三种精神即可）\n名言一：横眉冷对千夫指，俯首甘为孺子牛。\n名言二：哪里有天才？我是把别人喝咖啡的工夫都用在工作上的。\n名言三：其实地上本没有路，走的人多了，也便成了路。\n名言四：单是说不行，要紧的是做。\n名言五：时间就像海绵里的水，只要愿挤，总还是有的。\n____________________________________\n（3）（畅谈感想）下面是王明同学给大家讲的少年鲁迅\"早\"字的故事，你听后有什么感想？\n鲁迅小时候在三味书屋读书的时候，有一次，因为给父亲买药而上学迟到了，受到了先生的批评。回到座位上，鲁迅用小刀在课桌上刻了一个小小的\"早\"字，提醒自己以后上学不要迟到。从此，他再也没迟到过。\n_____________________________________",
+    "options": null,
+    "answer": "A；（示例）爱憎分明；珍惜时间（勤奋努力）；勇于实践（勤于探索）；行胜于言。（示例）通过这个小故事，我体会到鲁迅先生从小自尊心就很强，对自己要求严格。我们一定要向鲁迅先生学习，改掉做事拖拉的坏毛病，珍惜时间，养成\"时时早、事事早\"的良好习惯！",
+    "explanation": "（1）A.《樱花赞》是冰心的散文集。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅作品辨识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

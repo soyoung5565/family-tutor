@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>加载测验题</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0a0a;--card:#141414;--border:#262626;--text:#fafafa;--text-secondary:#a1a1aa;--primary:#6366f1;--primary-light:#818cf8;--radius:12px}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter','Noto Sans SC',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;justify-content:center;align-items:center;padding:2rem}
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:3rem;text-align:center;max-width:500px;width:100%}
+.icon{font-size:4rem;margin-bottom:1.5rem}
+h1{font-size:1.5rem;font-weight:700;margin-bottom:0.5rem}
+p{color:var(--text-secondary);margin-bottom:2rem;line-height:1.6}
+.btn{background:var(--primary);color:white;border:none;padding:1rem 2rem;border-radius:8px;font-size:1rem;font-weight:600;cursor:pointer;transition:all 0.2s;width:100%}
+.btn:hover{background:#4f46e5;transform:translateY(-2px);box-shadow:0 4px 12px rgba(99,102,241,0.4)}
+.success{color:#22c55e;font-weight:600;margin-top:1rem}
+.info{color:var(--text-secondary);font-size:0.875rem;margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="card">
+<div class="icon">📚</div>
+<h1>家庭教师 - 课后测验</h1>
+<p>点击下方按钮加载 Day 1 的测验题<br>《古诗词三首》</p>
+<button class="btn" onclick="loadQuiz()">🎯 开始测验</button>
+<p id="status"></p>
+<div class="info">
+共 10 题（8 道选择题 + 2 道简答题）<br>
+AI 自动批改 · 薄弱知识点分析
+</div>
+</div>
+<script>
+function loadQuiz(){
+const quizData={
+title:"六年级上册语文 - 古诗词三首（Day 1）",
+questions:[
+{type:"choice",question:"《宿建德江》的作者是哪位唐代诗人？",options:["李白","杜甫","孟浩然","白居易"],answer:"孟浩然"},
+{type:"choice",question:"「野旷天低树，江清月近人」这两句诗主要表达了诗人怎样的感受？",options:["对自然美景的单纯赞美","身处异乡、孤独愁闷的羁旅之情","获得升迁后的轻松与喜悦","与友人重逢的激动心情"],answer:"身处异乡、孤独愁闷的羁旅之情"},
+{type:"choice",question:"《西江月·夜行黄沙道中》的作者是哪位宋代词人？",options:["李白","辛弃疾","苏轼","陆游"],answer:"辛弃疾"},
+{type:"choice",question:"「明月别枝惊鹊」中「别枝」的意思是？",options:["离开树枝","横斜的树枝","另一根树枝","独特的树枝"],answer:"横斜的树枝"},
+{type:"choice",question:"「移舟泊烟渚」中「渚」的正确读音是？",options:["zhǔ","zhù","zǔ","zù"],answer:"zhǔ"},
+{type:"choice",question:"「渚」在诗中的意思是？",options:["水中间的小块陆地","河流的岸边","大海中的岛屿","湖泊的中心"],answer:"水中间的小块陆地"},
+{type:"choice",question:"《六月二十七日望湖楼醉书》的作者是哪个朝代的？",options:["唐代","宋代","元代","明代"],answer:"宋代"},
+{type:"choice",question:"「路转溪桥忽见」中「见」的正确读音是？",options:["jiàn","xiàn","jiān","xiān"],answer:"xiàn"},
+{type:"essay",question:"苏轼的《六月二十七日望湖楼醉书》生动描绘了一幅夏日西湖骤雨图。请结合诗句，用自己的话描述这首诗描绘的景象。",answer:"参考答案：诗人描绘了西湖夏日骤雨的景象。乌云像打翻的墨汁一样翻滚，但还没有完全遮住山峦；白色的雨点像珍珠一样跳入船中。忽然一阵卷地风来，吹散了乌云，望湖楼下水面又恢复了平静，像天空一样开阔。整首诗生动地表现了夏日西湖骤雨来去匆匆的景象。"},
+{type:"essay",question:"《宿建德江》和《西江月·夜行黄沙道中》都写了月夜的景色，但表达的情感却不同。请结合具体诗句，简要说明两首诗词在情感上的主要差异。",answer:"参考答案：《宿建德江》通过「野旷天低树，江清月近人」等景物描写，抒发了诗人羁旅在外、孤寂愁闷的情感。《西江月·夜行黄沙道中》通过描绘「稻花香里说丰年，听取蛙声一片」以及「路转溪桥忽见」的惊喜，表达了作者对田园生活的热爱、对丰收在望的喜悦以及轻松愉快的心情。"}
+]
+};
+localStorage.setItem('current-quiz',JSON.stringify(quizData));
+document.getElementById('status').innerHTML='<p class="success">✅ 测验题已加载！</p>';
+setTimeout(()=>{window.location.href='quiz-pending.html'},1000);
+}
+</script>
+</body>
+</html>

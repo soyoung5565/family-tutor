@@ -1,0 +1,344 @@
+[
+  {
+    "qid": "语文_u3.k5_zxxk_54198656_001",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "在\"____让生活更美好\"的主题交流中，你选择的话题是\"阅读让生活更美好\"，请简要说说阅读让生活更美好的理由（至少两点）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54198656.html",
+      "site": "学科网",
+      "title": "第三单元的测试卷-2025-2026学年统编版语文六年级上册 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目直接对应习作《让生活更美好》话题阐述理由。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.206650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_26289907_015",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "随着低空经济的快速发展，你认为在未来，外卖骑手会被取代吗？说说你的理由。",
+    "options": null,
+    "answer": "示例：不会完全取代。无人机擅长远距离、标准化生鲜配送，但复杂路况、上门交付、特殊物品配送仍需要人工骑手，二者会互补配合。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作话题，让生活更美好",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.984031"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_17908149_036",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "微笑是美好的，月色是美好的、诗句是美好的……亲爱的同学，你觉得还有哪些是美好的呢 以\"美好的______\"为题写一篇作文，先把题目补充完整，再写作文。字数不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对应习作《让生活更美好》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.984031"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_26540512_020",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "请以《生活真美好》为题，写一篇记叙文。写作要求：1.紧扣中心，选取1-2件具体事例，内容具体充实；2.条理清晰，语句通顺，情感真挚自然；3.字数500字以上，书写工整，无错别字、病句。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540512.html",
+      "site": "21世纪教育网",
+      "title": "2026秋统编版六年级语文上册第三单元原创测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元习作《让生活更美好》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:50:30.203773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_15109679_020",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "把题目补充完整：          让生活更美好。要求：结合自己的生活体验，完成这次习作。从\"微笑、诚信、梦想……\"中选择一个话题，也可以写其他话题。写之前想想它是怎么影响你的生活的，为什么让你觉得生活更美好。写的时候注意把原因写具体。字数450字以上。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《让生活更美好》习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_15109679_028",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "把题目补充完整：          让生活更美好。要求：结合自己的生活体验，完成这次习作。从\"微笑、诚信、梦想……\"中选择一个话题，也可以写其他话题。写之前想想它是怎么影响你的生活的，为什么让你觉得生活更美好。写的时候注意把原因写具体。字数450字以上。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作《让生活更美好》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u3.k5_21cnjy_15109679_020",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k5_21cnjy_17908149_018",
+    "subject": "语文",
+    "kp_id": "u3.k5",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "微笑是美好的，月色是美好的、诗句是美好的……亲爱的同学，你觉得还有哪些是美好的呢 以\"美好的______\"为题写一篇作文，先把题目补充完整，再写作文。字数不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半命题习作，关联让生活更美好话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:27.435894"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u3.k5_21cnjy_17908149_036",
+    "has_answer": false
+  }
+]

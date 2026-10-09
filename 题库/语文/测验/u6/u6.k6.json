@@ -1,0 +1,451 @@
+[
+  {
+    "qid": "语文_u6.k6_zxxk_59332293_001",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "瞻前顾后，才能把事情做得更稳妥。（）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59332293.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷-2026-2027学年六年级上册语文统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对观点表态判断，属口语交际'意见不同怎么办'",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.244662"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_25883233_004",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "小梦看到了下面两组形近字，请你帮她选择正确的字，填入括号中。【辩 辨】( )别 狡( ) ( )识 【健 建】( )树 ( )全 ( )康",
+    "options": null,
+    "answer": "辨 辩 辨 建 健 健",
+    "explanation": "注意\"辩\"与说话、争论有关，\"辨\"与区分、辨别有关，如\"辨别\"、\"分辨\"；注意\"健\"与身体、强健有关，\"建\"与建立、设立有关。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨字，形近字辨析（辩辨、健建）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:09.359902"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_24033448_018",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "在交流环节，优优对“意见不同怎么办”提出了建议，其中不恰当的一项是（ ）（2分）",
+    "options": [
+      "坚持自己的观点，断章取义地进行辩驳。",
+      "听到不同的意见时，要“换位思考”，站在别人的角度看问题。",
+      "以正面、积极、合作的态度参与到协商中去，态度要平和，以理服人。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "意见不同口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 坚持自己的观点，断章取义地进行辩驳。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_26047889_005",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "安安在研学活动中，就某个问题意见与小伙伴产生分歧。他们的做法不正确的一项是（ ）。",
+    "options": [
+      "认真倾听，尊重不同意见，不断听取。",
+      "以理服人，积极沟通。",
+      "声音大，气势上压倒别人，表明自己的观点。",
+      "态度平和，学会换位思考。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "意见分歧时正确做法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.025077"
+    },
+    "answer_text": "C. 声音大，气势上压倒别人，表明自己的观点。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_51jiaoxi_16190336_017",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读下面的语段，对其表达的观点，概括正确的一项是",
+    "options": [
+      "爆竹声声辞旧岁，银花朵朵贺新年。",
+      "烟花爆竹能带来年味和喜庆气氛。",
+      "过年燃放烟花爆竹是不被允许的。",
+      "过年燃放烟花爆竹虽好，但也存在问题。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际燃放爆竹观点辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.025077"
+    },
+    "answer_text": "D. 过年燃放烟花爆竹虽好，但也存在问题。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_51jiaoxi_16190336_018",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "说说下面的语段表达了怎样的观点。",
+    "options": null,
+    "answer": "苏州园林不讲究对称，追求自然之趣，与一般建筑不同",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际观点概括",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_18267567_020",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "周六下午,小敏在七里庙公交站台准备乘车回家。(公交站牌见下图) 小敏的家住在宝丰路,只要乘坐      路公交车，坐     站就可以到家了。就在她准备上车时,一位老爷爷问她:\"小姑娘,请问到麒麟路该怎么乘车 \"请你代小敏回答老爷爷的问话:\"                                                          。\"(4分)",
+    "options": null,
+    "answer": "39 6 示例:您坐56路公交车,坐5站就到了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际，指向意见不同怎么办",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_15393503_005",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中，加点词语运用不恰当的一项是( )",
+    "options": [
+      "随着\"垃圾分类\"知识的普及，同学们树立了环保意识，垃圾分类成为司空见惯的事。",
+      "无独有偶，也有一位天文学家通过测量宇宙的微波背景辐射在宇宙空间中的起伏变化，获得结论!",
+      "爸爸处理问题十分谨慎，他懂得过犹不及这个道理。",
+      "在当今这个科技迅速发展的时代，许多传统风俗也应当集思广益，才能带来新的活力。"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "意见不同、口语交际与词语运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "语文_u4.k3_21cnjy_25883233_008"
+  },
+  {
+    "qid": "语文_u6.k6_21cnjy_15393503_013",
+    "subject": "语文",
+    "kp_id": "u6.k6",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "在日常生活中，我们常常会遇到一些容易产生分歧的问题。六(1)班的同学们对\"电脑时代需要/不需要练习书法\"的问题产生了分歧，请你选择一种观点，说说自己的想法。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "意见分歧的协商表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

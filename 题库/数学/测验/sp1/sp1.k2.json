@@ -1,0 +1,553 @@
+[
+  {
+    "qid": "数学_sp1.k2_zxxk_59635418_001",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果一个未关紧的水龙头1分钟滴水30mL。照这样计算，全校40个水龙头1小时滴水( )L，一天滴水( )L。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59635418.html",
+      "site": "学科网",
+      "title": "第三单元《用字母表示数》(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验：单位换算+乘法求总水量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.973717"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_21cnjy_26442607_002",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个漏水龙头每分钟漏水50 mL，按这个比率，全国约30万所学校全年大约要浪费水多少吨？（1 m³水约重1吨）",
+    "options": null,
+    "answer": "23652000吨",
+    "explanation": "26280 L＝26.28 m³；26.28×3×300000＝23652000（吨）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26442607",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版（新教材）六年级上水是生命之源教案_21世纪教育网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "漏水实验数据放大推算全年浪费量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:36:47.304041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k2_21cnjy_26442607_003",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "平均每吨水价为2.5元，一共要支付多少水费？",
+    "options": null,
+    "answer": "59130000元",
+    "explanation": "23652000×2.5＝59130000（元）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26442607",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版（新教材）六年级上水是生命之源教案_21世纪教育网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由浪费水量×单价算水费，节水方案延伸",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:36:47.304041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.742127"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k2_21cnjy_26442607_004",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如果1个人1年用水30吨，这些水可供多少人用1年？",
+    "options": null,
+    "answer": "788400人",
+    "explanation": "23652000÷30＝788400（人）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26442607",
+      "site": "21世纪教育网",
+      "title": "小学数学人教版（新教材）六年级上水是生命之源教案_21世纪教育网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "总水量÷人均用水量，节水实践应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:36:47.304041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_001",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小组做滴水实验：在杯子底部扎个眼代替水龙头，往杯中倒水，用计时器计时1分钟，量得滴水量约2.5 mL（示例数据，学生以自己测得的数据为准）。请推算：1小时、1天（24小时）、1年（按365天）各滴多少水？一年滴的水约可以装多少个550 mL的矿泉水瓶？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验推算日年浪费水量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_002",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明刷牙2分钟。一直开着水龙头，每分钟大约流6 L水（示例数据）；改用杯接水刷牙，一杯水约300 mL（教材数据），一次刷牙用2杯。算一算：每次刷牙，用杯接水比一直开着水龙头节约多少水？如果每天刷牙2次，一年（365天）能节约多少水？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "刷牙用水推算节水实验",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_006",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "推算滴水量要用到时间换算：1时 =（________）分；1天 =（________）分；1年（按365天）=（________）分。",
+    "options": null,
+    "answer": "60；1440；525600",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验时间单位换算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_008",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "做滴水实验前，小组先分工并填写《实验记录单》中的前四项：实验名称、实验人员及分工、测量工具、实验方法与步骤。（实验数据与计算过程在实验后填写）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验分工与记录单",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_010",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断对错：\"用杯接水刷牙比刷牙时一直开着水龙头更节水。\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断刷牙节水方式的正误",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_011",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小华小组做滴水实验，测得1分钟滴水约3 mL（示例数据）。照示范任务一的方法推算：1小时滴多少毫升？1天滴多少升？1年（按365天）滴的水约装多少个550 mL的矿泉水瓶？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验数据推算装瓶数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.742127"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_18676529_012",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "洗脸时一直开着水龙头，洗一次约用水8 L（自拟示例数据）；如果随手关水龙头洗，约只用4 L。每天洗2次脸，照这样算，一年（365天）能节约多少水？（先算升，再换算成吨）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676529.html",
+      "site": "教习网",
+      "title": "数学制订节水方案优秀同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "洗脸节水推算升换算吨",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:10.906958"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_sp1.k2_51jiaoxi_16642489_001",
+    "subject": "数学",
+    "kp_id": "sp1.k2",
+    "unit_id": "sp1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "学校有1个水龙头漏水，经过测量，每天浪费15000mL，一个月（按30天算）浪费（　　）升，一年浪费（　　）t.（1立方米水重1吨）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16642489.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册节约用水同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "滴水实验：日浪费量×天数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:39.812443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

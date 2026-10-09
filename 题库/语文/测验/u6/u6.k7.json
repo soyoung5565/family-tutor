@@ -1,0 +1,1375 @@
+[
+  {
+    "qid": "语文_u6.k7_zxxk_54166240_001",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "根据下面的开头，把句子补充完整。在日常生活中，做好垃圾分类是非常重要的，这样有很多好处，一是___，二是___。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写倡议书的前置练习，围绕垃圾分类列举好处，'一是…二是…'是倡议书常见结构。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.244662"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18216651_035",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "题目：关于保护鸟类的倡议书。要求：(1)主要交代清楚倡议书的内容；(2)条理清楚；(3)不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查学写倡议书习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:41.851721"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26460286_013",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "情境运用",
+    "stem": "当下生活中，存在浪费水资源、乱砍滥伐、乱扔垃圾等破坏地球生态的行为，请你结合课文内容，写出两条保护地球的倡议，语言简洁、有号召力。（10分）",
+    "options": null,
+    "answer": "倡议一：节约自然资源，杜绝水电浪费，践行低碳生活。 倡议二：爱护生态环境，不乱扔垃圾，主动参与植树护绿活动。",
+    "explanation": "每条5分，贴合主题、语句通顺、有号召力即可",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26460286.html",
+      "site": "21世纪教育网",
+      "title": "第16课只有一个地球课堂练习题（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写保护地球倡议书",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.618312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_22044145_027",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "我们大环境日益恶劣，我们要行动起来，一起保护我们的生存家园。请你写两条关于保护环境的宣传标语。",
+    "options": null,
+    "answer": "绿色生活，从我做起。地球只有一个，保护环境，人人有责。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写环保宣传标语属倡议延伸",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:09.489238"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k1_21cnjy_22044145_028",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_22044145_028",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "同学们，一走进校园，花繁草绿的景象能给我们带来美的享受，但近段时间攀折花草树木、践踏草坪的现象时有发生，请你写一份倡议书，号召同学们爱护花草树木。注意倡议书的格式，不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作学写倡议书直接对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:09.489238"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18127030_018",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "餐厅老板： 。",
+    "options": null,
+    "answer": "示例：使用公勺公筷，推行分餐制，就要购买更多的餐具，会增加餐厅的营业成本，这样不好。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书情境与对象表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18127030_019",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "医务工作者： 。",
+    "options": null,
+    "answer": "示例：使用公勺公筷，推行分餐制，可以有效阻断一些传染病的传播，有利于人们的身体健康，应该大力推广。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书情境与对象表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.026062"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18127030_020",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "请你写一条宣传标语，倡导大家就餐时使用公勺公筷或进行分餐。",
+    "options": null,
+    "answer": "示例：分开的是餐具，保障的是健康。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写倡议书宣传标语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.026062"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_16427384_002",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中，加点词语使用不正确的一项是（　　）",
+    "options": [
+      "爸爸为增强体质，不断加大运动量，结果膝盖损伤，真是过犹不及。",
+      "假日里，人民公园游客如织，络绎不绝。",
+      "正确的学习方法事倍功半，良好的生活习惯终身受益。",
+      "俗话说\"路遥知马力，日久见人心\"，朋友是需要时间来考验的。"
+    ],
+    "answer": "2",
+    "explanation": "事倍功半：形容做事的方法费力大，收效小。用在此句与语境不符。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语运用涉及成语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 正确的学习方法事倍功半，良好的生活习惯终身受益。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26047889_013",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用文格式",
+    "stem": "这份倡议书有两处格式错误，一处是 ，另一处是 。（2分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书格式规范",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26047889_021",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "安安家有年事已高的爷爷，轻微高血压的爸爸，爱美的妈妈和爱美食的姐姐。她可以从哪些方面劝说家人少吃盐呢？请结合材料，概括要点，帮她劝说家人。（3 分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕倡议书主题，概括劝说要点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26047889_022",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断下面的说法或做法是否正确，正确的画 “√”，错误的画 “×”。（3 分）\n（1）在饮食上需要注意的是，食物不咸并不代表它的含盐量就低。（ ）\n（2）烧菜时放盐，早放与晚放，咸味一样。（ ）\n（3）为了控制血压，舅舅已经有两个星期烧菜不放盐且不吃含盐的食物了。（ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断饮食健康认知，属倡议书话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26047889_023",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "安安明天要去爬山，她为自己准备了一份登山午餐：三片切片面包、三根火腿肠、两大包薯片、一瓶矿泉水，午餐是否健康？请说明理由。（3 分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断午餐是否健康，属倡议书话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_26545513_008",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "学写宣传语。\n随着人类开发海洋资源的规模日益扩大，海洋环境已受到污染。请你写两句保护海洋环境或开发海洋资源的宣传语。",
+    "options": null,
+    "answer": "珍惜海洋资源，造福子孙后代。拥抱蓝色海洋，珍爱生命摇篮",
+    "explanation": "设计宣传语语言要简练，紧扣宣传主题，主题突出，字数简洁，活用修辞。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545513.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版六年级上册语文16.《只有一个地球》分层练习 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写宣传语，倡议书类语言表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:37.392315"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k1_21cnjy_26545513_008",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18267567_015",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修改病句",
+    "stem": "用修改符号修改下面的语段。(共6处错误)(6分) 进入六年级以来,我们班的读书氛围更加浓重了。一有空,同学们就棒起书如花似锦地读起来。现在，大家已读完(三国演义)(鲁滨逊漂流记(八十天环游地球》等古典名著。许多同学写的读后感在报纸上刊登了,我们班还被评为《书香班级》的光荣称号。",
+    "options": null,
+    "answer": "①将\"浓重\"改为\"浓厚\";②将\"棒\"改为\"捧\";③将\"如花似锦\"改为\"如饥似渴\";④去掉\"古典\";⑤《书香班级》改为\"书香班级\";⑥删去\"的光荣称号\"。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "修改病句，综合语用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "鲁滨逊漂流记"
+    ],
+    "has_answer": true,
+    "duplicate_of": "语文_u5.k5_21cnjy_18267567_015"
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18267567_019",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用文",
+    "stem": "写倡议书要按照格式写,首先标题要鲜明,其次是依据倡议的对象写        ,正文要写清楚                ,最后要                               。",
+    "options": null,
+    "answer": "称呼 倡议的内容 署名并写上日期",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书格式，指向学写倡议书",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18216651_024",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "阅读上面的材料，你得到哪些信息？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书材料信息提取",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k1_21cnjy_18216651_033",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18216651_025",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "对于材料的主题，你有什么看法？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "倡议书主题看法表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k1_21cnjy_18216651_034",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_18216651_026",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "题目：关于保护鸟类的倡议书。要求：(1)主要交代清楚倡议书的内容；(2)条理清楚；(3)不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写保护鸟类倡议书",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k7_21cnjy_18216651_035",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_15109679_006",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修改病句",
+    "stem": "这种不爱惜劳动成果、任意浪费，是可耻的。（用修改符号修改）",
+    "options": null,
+    "answer": "这种不爱惜劳动成果、任意浪费，是可耻的行为。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句涉及倡议书语言规范",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u4.k7_21cnjy_15109679_006",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_22044145_029",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "同学们，一走进校园，花繁草绿的景象能给我们带来美的享受，但近段时间攀折花草树木、践踏草坪的现象时有发生，请你写一份倡议书，号召同学们爱护花草树木。注意倡议书的格式，不少于450字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写倡议书习作练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:03.441321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k7_21cnjy_22044145_028",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_18650026_021",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在资源回收辩论中，反方的核心论点是（   ）。",
+    "options": [
+      "环保不重要",
+      "回收成本过高，应先发展替代技术",
+      "不需要保护环境",
+      "回收没有任何好处"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18650026.html",
+      "site": "教习网",
+      "title": "小学科学20 珍惜自然资源达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕环保议题写倡议书，涉及辩论论点的辨别。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:54.312909"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 回收成本过高，应先发展替代技术",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_18650026_022",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "探究题",
+    "stem": "观察下图的节约资源做法，回答问题。(1) 图中有六种节约资源的做法，请把它们分别归类到三种方法中。减少消耗：_______________ 重复使用：_______________ 回收利用：_______________ (2) 为什么说\"减少消耗\"是最根本的保护方法？(3) 请你再写出两种图中没有提到的、你生活中能做到的节约资源做法。(4) 如果让你设计一张\"节约资源\"宣传海报，你的主题口号是什么？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18650026.html",
+      "site": "教习网",
+      "title": "小学科学20 珍惜自然资源达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "节约资源做法分类与倡议书主题相关，属环保实践。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:54.312909"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797918_004",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "下列句子中，没有语病的一项是（ ）",
+    "options": [
+      "通过这次活动，使我明白了团结的重要性。",
+      "他那崇高的革命品质，经常浮现在我的脑海中。",
+      "为了防止不再发生类似的事故，学校采取了很多安全措施。",
+      "他的写作水平明显提高了。"
+    ],
+    "answer": "3",
+    "explanation": "A项缺少主语，应删去“通过”或“使”；B项“品质”不能“浮现”，可把“品质”改为“形象”；C项否定不当，应删去“不”。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797918.html",
+      "site": "教习网",
+      "title": "初中语文统编版五四学制六年级上册第六单元测试卷及答案-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改，属语言运用基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:08.604807"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 他的写作水平明显提高了。",
+    "has_answer": true,
+    "duplicate_of": "语文_u5.k1_21cnjy_24126519_011"
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797918_016",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请你结合本文有关知识，向一位正在使用普通塑料袋的人宣传“绿色塑料”的优点。",
+    "options": null,
+    "answer": "您好！普通塑料袋很难自行降解，会造成严重的“白色污染”，破坏土壤环境，影响农作物生长。而“绿色塑料”能够自行降解和再利用，不会污染环境。它在一定使用期限内和普通塑料袋功效一样，但完成功效后能迅速自行降解，与自然环境同化。所以为了保护环境，建议您使用“绿色塑料”制品。",
+    "explanation": "结合普通塑料袋的危害和绿色塑料的优点进行宣传，语言要得体。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797918.html",
+      "site": "教习网",
+      "title": "初中语文统编版五四学制六年级上册第六单元测试卷及答案-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语表达，环保倡议主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:08.604807"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797918_017",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "题目：我心中的绿色家园 要求：1. 结合现实生活，发挥想象，描绘出你心中的绿色家园的样子。2. 内容具体，语句通顺，表达出自己的真情实感。3. 字数不少于 500 字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "发挥想象，结合现实生活中存在的环境问题，描绘出心中绿色家园的样子，要具体生动，表达真情实感。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797918.html",
+      "site": "教习网",
+      "title": "初中语文统编版五四学制六年级上册第六单元测试卷及答案-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作想象写绿色家园",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:08.604807"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_19424068_011",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "\"江山无墨画，花鸟有情诗。\"这副对联最有可能贴在下列哪个地方？（    ）",
+    "options": [
+      "理发店",
+      "水果店",
+      "功夫训练馆",
+      "书房"
+    ],
+    "answer": "3",
+    "explanation": "由对联中的\"墨画\"\"情诗\"可知，最可能贴的地方是书房。故选D。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对联内容与场所对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:16.782495"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 书房",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k6_21cnjy_19424068_011"
+  },
+  {
+    "qid": "语文_u6.k7_21cnjy_12264269_033",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "假如你是学生会主席李华，为了唤起全校学生的环保意识，现发出全员环保倡议。请根据图示内容及以下要点，写一份倡议书。要点：1. 保护环境是我们中学生的职责；2. 保护环境的具体措施；3. 让我们都为地球母亲尽一份力。注意：1. 词数100左右；2. 可以适当增加细节， 以使行文连贯；3. 开头与结尾已为你写好，不计入总词数。",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/12264269",
+      "site": "21世纪教育网",
+      "title": "doc 12264269",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学写倡议书环保主题习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:45:31.102639"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797919_020",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "话题作文",
+    "stem": "请以\"保护地球，从我做起\"为话题，写一篇不少于 500 字的作文。要求：（1）题目自拟；（2）文体不限（诗歌除外）；（3）文中不得出现真实的人名、校名、地名。",
+    "options": null,
+    "answer": "略",
+    "explanation": "紧扣\"保护地球，从我做起\"的话题，可从分析地球现状、阐述保护地球的重要性、具体的保护措施等方面进行写作。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "保护地球倡议类作文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797934_011",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子理解",
+    "stem": "请写出一句关于保护环境的宣传标语：__________。",
+    "options": null,
+    "answer": "示例：保护地球，就是保护我们自己。",
+    "explanation": "围绕\"保护环境\"这一主题，创作简洁、有感染力的宣传标语。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797934.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环保宣传标语拟写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:10:40.584977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k7_51jiaoxi_17797934_021",
+    "subject": "语文",
+    "kp_id": "u6.k7",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "地球是我们人类赖以生存的家园，保护地球，人人有责。请以\"保护地球\"为话题，写一篇不少于400字的作文。题目自拟，文体不限。",
+    "options": null,
+    "answer": "略",
+    "explanation": "围绕\"保护地球\"这一话题，确定写作内容和文体，如可以写记叙文，讲述自己或他人保护地球的故事；也可以写议论文，阐述保护地球的重要性等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797934.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对应保护地球单元倡议书习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:10:40.584977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

@@ -1,0 +1,26 @@
+{
+ "id": "u3.k9",
+ "name": "花坛周长问题",
+ "unit": "u3",
+ "unit_name": "用字母表示数（二）",
+ "definition": "花坛外加1m小路，外周长-内周长 = 2π(r+1) - 2πr = 2π",
+ "example": "扩建部分周长增加 = 2π ≈ 6.28m",
+ "key_formulas": [
+  "Δ周长 = 2π (与r无关)"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 38,
+ "slide_range": "slide_038-048",
+ "see_also": [
+  {
+   "id": "u2.k5",
+   "reason": "花坛周长公式直接应用C=2πr"
+  },
+  {
+   "id": "u3.k5",
+   "reason": "外周-内周=2π是用字母化简得到的恒等公式"
+  }
+ ]
+}

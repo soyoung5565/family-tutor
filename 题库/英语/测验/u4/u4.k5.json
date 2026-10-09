@@ -1,0 +1,199 @@
+[
+  {
+    "qid": "英语_u4.k5_zxxk_53830485_001",
+    "subject": "英语",
+    "kp_id": "u4.k5",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "s__amp",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53830485.html",
+      "site": "学科网",
+      "title": "Module 3(单元测试)-2025-2026学年外研版(三起)(2012)英语六年级上册 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查单词 stamp 中 st 辅音组合的拼写，属辅音-辅音相关知识。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.353932"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k5_21cnjy_26355151_061",
+    "subject": "英语",
+    "kp_id": "u4.k5",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "He is nice _____ always helps me.",
+    "options": null,
+    "answer": "and",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查辅音-辅音连读规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k5_51jiaoxi_16829394_019",
+    "subject": "英语",
+    "kp_id": "u4.k5",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What d the underlined wrds \"give it a g\" in paragraph 3 prbably mean?",
+    "options": [
+      "Try ding it.",
+      "Cperate with thers.",
+      "Organize the game.",
+      "G t a friend's hme."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习语理解短语辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Try ding it.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k5_51jiaoxi_16829394_020",
+    "subject": "英语",
+    "kp_id": "u4.k5",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What can we infer frm Rebecca's wrds?",
+    "options": [
+      "The athletes are mstly in their 30s.",
+      "There are mre than 40 events that they can chse.",
+      "The triathln will be an internatinal event in the future.",
+      "It's very hard t keep n training and cmpeting fr the event."
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读推断人物话语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. It's very hard t keep n training and cmpeting fr the event.",
+    "has_answer": true
+  }
+]

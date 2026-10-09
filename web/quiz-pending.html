@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>答题页面 - 等候批改</title>
+<style>
+:root {
+  --bg: #0a0a0a;
+  --surface: #141414;
+  --border: #262626;
+  --text: #fafafa;
+  --text-muted: #a1a1aa;
+  --primary: #6366f1;
+  --success: #22c55e;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+.container { max-width: 800px; margin: 0 auto; }
+h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.subtitle { color: var(--text-muted); margin-bottom: 2rem; font-size: 0.95rem; }
+
+.quiz-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.question-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--text);
+}
+.question-topic {
+  display: inline-block;
+  background: rgba(99, 102, 241, 0.15);
+  color: #818cf8;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.option {
+  display: block;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  user-select: none;
+}
+.option:hover { border-color: var(--primary); background: rgba(99, 102, 241, 0.05); }
+.option.selected {
+  border-color: var(--primary);
+  background: rgba(99, 102, 241, 0.15);
+}
+.option.disabled { cursor: not-allowed; opacity: 0.7; }
+
+textarea {
+  width: 100%;
+  min-height: 100px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  resize: vertical;
+}
+textarea:focus { outline: none; border-color: var(--primary); }
+
+.btn-submit {
+  width: 100%;
+  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  color: white;
+  border: none;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+.btn-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.status-bar {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+.status-bar.success {
+  border-color: var(--success);
+  background: rgba(34, 197, 94, 0.1);
+  color: var(--success);
+}
+
+.notice {
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid var(--warning);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  color: #fbbf24;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.notice strong { display: block; margin-bottom: 0.25rem; color: #f59e0b; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>📝 答题页面</h1>
+<div class="subtitle">提交后等待批改</div>
+
+<div class="notice">
+  <strong>💡 新模式：批改由 AI 老师完成</strong>
+提交答案后，页面会保存到本地。你可以告诉 AI 老师"我答完了"，他会逐题批改、给出错误原因、参考答案和改进建议。
+</div>
+
+<div class="status-bar" id="status-bar">📊 请作答以下题目</div>
+
+<div id="quiz-container"></div>
+
+<button class="btn-submit" id="btn-submit" onclick="submitQuiz()">✓ 提交答案（保存到本地）</button>
+
+</div>
+
+<script>
+let quizData = null;
+let userAnswers = {};
+let isSubmitted = false;
+
+function loadQuiz() {
+  const data = localStorage.getItem('current-quiz');
+  if (!data) {
+    document.getElementById('status-bar').textContent = '❌ 没有找到测验数据，请从加载页面进入';
+    return;
+  }
+  quizData = JSON.parse(data);
+  // 兼容两种数据格式（question 旧字段 / text 新字段）
+  quizData.questions.forEach(q => {
+    if (!q.text && q.question) q.text = q.question;
+    if (typeof q.answer === 'string' && q.type === 'choice' && Array.isArray(q.options)) {
+      const idx = q.options.indexOf(q.answer);
+      if (idx >= 0) q.answer = idx;
+    }
+  });
+  document.getElementById('status-bar').textContent = `📊 共 ${quizData.questions.length} 题`;
+  renderQuestions();
+}
+
+function renderQuestions() {
+  const container = document.getElementById('quiz-container');
+  container.innerHTML = '';
+
+  quizData.questions.forEach((q, i) => {
+    const card = document.createElement('div');
+    card.className = 'quiz-card';
+    card.id = `card-${i}`;
+
+    let html = `<div class="question-topic">${q.topic || ''}</div>`;
+    html += `<div class="question-title">${i+1}. ${q.text}</div>`;
+
+    if (q.type === 'choice') {
+      q.options.forEach((opt, idx) => {
+        html += `<div class="option" onclick="selectOption(${i}, ${idx})" id="opt-${i}-${idx}">${String.fromCharCode(65+idx)}. ${opt}</div>`;
+      });
+    } else {
+      html += `<textarea id="essay-${i}" placeholder="请输入你的答案..."></textarea>`;
+    }
+
+    card.innerHTML = html;
+    container.appendChild(card);
+  });
+}
+
+function selectOption(qIdx, optIdx) {
+  if (isSubmitted) return;
+  userAnswers[qIdx] = optIdx;
+  // 更新 UI
+  const question = quizData.questions[qIdx];
+  question.options.forEach((_, idx) => {
+    const el = document.getElementById(`opt-${qIdx}-${idx}`);
+    el.classList.toggle('selected', idx === optIdx);
+  });
+}
+
+async function submitQuiz() {
+  if (isSubmitted) return;
+  if (!quizData) return;
+
+  // 收集所有答案
+  quizData.questions.forEach((q, i) => {
+    if (q.type === 'text' || q.type === 'essay') {
+      const textarea = document.getElementById(`essay-${i}`);
+      if (textarea) userAnswers[i] = textarea.value;
+    }
+  });
+
+  // 禁用输入
+  isSubmitted = true;
+  document.getElementById('btn-submit').disabled = true;
+  document.getElementById('btn-submit').textContent = '✓ 已提交，等待批改';
+
+  // 禁用所有选项
+  document.querySelectorAll('.option').forEach(el => el.classList.add('disabled'));
+  document.querySelectorAll('textarea').forEach(el => el.disabled = true);
+
+  // 构建提交数据
+  const submitData = {
+    title: quizData.title || '测验',
+    totalQuestions: quizData.questions.length,
+    questions: quizData.questions.map((q, i) => ({
+      type: q.type,
+      topic: q.topic,
+      text: q.text,
+      userAnswer: userAnswers[i] !== undefined ? userAnswers[i] : null,
+      referenceAnswer: q.type === 'choice' ? (typeof q.answer === 'number' ? q.options[q.answer] : q.answer) : q.answer,
+      correctAnswer: q.answer,
+      options: q.options,
+      submittedAt: new Date().toISOString()
+    })),
+    pendingGrading: true,
+    submittedAt: new Date().toISOString()
+  };
+
+  // 发送到 quiz-server（只保存，不批改）
+  try {
+    const response = await fetch('http://localhost:8765/api/quiz-results', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(submitData)
+    });
+    if (response.ok) {
+      const result = await response.json();
+      document.getElementById('status-bar').className = 'status-bar success';
+      document.getElementById('status-bar').innerHTML =
+        `✅ 答案已保存到本地<br>文件：${result.file}<br>📌 请告诉 AI 老师"我答完了"，他会批改并生成报告`;
+    } else {
+      throw new Error('提交失败');
+    }
+  } catch (error) {
+    document.getElementById('status-bar').className = 'status-bar';
+    document.getElementById('status-bar').textContent = '❌ 提交失败：' + error.message;
+    document.getElementById('btn-submit').disabled = false;
+    isSubmitted = false;
+  }
+}
+
+window.onload = loadQuiz;
+</script>
+</body>
+</html>

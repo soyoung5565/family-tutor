@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>导入课件到 OpenMAIC</title>
+<style>
+  body { font-family: -apple-system, sans-serif; padding: 2rem; max-width: 800px; margin: 0 auto; background: #0a0a0a; color: #fafafa; }
+  h1 { color: #6366f1; }
+  .card { background: #141414; border: 1px solid #262626; border-radius: 12px; padding: 2rem; margin: 1rem 0; }
+  .btn { background: #6366f1; color: white; border: none; padding: 1rem 2rem; border-radius: 8px; font-size: 1rem; cursor: pointer; margin: 0.5rem 0.5rem 0.5rem 0; }
+  .btn:hover { background: #4f46e5; }
+  .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .log { background: #0a0a0a; border: 1px solid #262626; border-radius: 8px; padding: 1rem; margin-top: 1rem; max-height: 400px; overflow-y: auto; font-family: monospace; font-size: 0.875rem; }
+  .success { color: #22c55e; }
+  .error { color: #ef4444; }
+  .info { color: #a1a1aa; }
+</style>
+</head>
+<body>
+<h1>📚 导入课件到 OpenMAIC</h1>
+
+<div class="card">
+  <p>此页面会读取文件系统中的所有课件（<code>D:\projects\OpenMAIC\data\classrooms\</code>）并导入到浏览器的 IndexedDB，导入完成后刷新 OpenMAIC 主页即可看到所有课件。</p>
+  <button class="btn" id="importBtn" onclick="importAll()">🚀 开始导入</button>
+  <button class="btn" onclick="window.location.href='http://localhost:3000'">🏠 打开 OpenMAIC 主页</button>
+  <div class="log" id="log"></div>
+</div>
+
+<script>
+// 要导入的课件列表
+const classrooms = [
+  { id: 'lP9nXINn4H', name: '古诗词三首赏析', file: 'lP9nXINn4H.json' },
+  { id: '9jp1o99YxE', name: '古诗三首赏析', file: '9jp1o99YxE.json' },
+  { id: 'gc5c-Q1CJB', name: '分数应用（一）：找单位"1"', file: 'gc5c-Q1CJB.json' },
+  { id: '3-7zjuYaNa', name: '分数应用题(二)', file: '3-7zjuYaNa.json' },
+  { id: 'ioV6DWsxka', name: '数据的表示和分析（三）', file: 'ioV6DWsxka.json' },
+  { id: 'k4-ZJlu-yI', name: '数据的分段整理与分析', file: 'k4-ZJlu-yI.json' },
+  { id: 'OAyqv75_oY', name: '代词与可数名词', file: 'OAyqv75_oY.json' }
+];
+
+function log(msg, type = 'info') {
+  const el = document.getElementById('log');
+  const line = document.createElement('div');
+  line.className = type;
+  line.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+  el.appendChild(line);
+  el.scrollTop = el.scrollHeight;
+}
+
+async function importAll() {
+  const btn = document.getElementById('importBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ 导入中...';
+  
+  document.getElementById('log').innerHTML = '';
+  log('开始导入课件到 IndexedDB...', 'info');
+  
+  let successCount = 0;
+  let failCount = 0;
+  
+  for (const classroom of classrooms) {
+    try {
+      log(`📥 读取 ${classroom.id}...`, 'info');
+      
+      // 1. 从文件系统读取课件数据
+      const response = await fetch(`/api/classroom/get-file?id=${classroom.id}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const data = await response.json();
+      
+      // 2. 写入 IndexedDB
+      await saveToIndexedDB(data.classroom);
+      
+      log(`✅ ${classroom.name} (${classroom.id}) 导入成功`, 'success');
+      successCount++;
+    } catch (error) {
+      log(`❌ ${classroom.name} (${classroom.id}) 失败: ${error.message}`, 'error');
+      failCount++;
+    }
+  }
+  
+  log('', 'info');
+  log(`=== 导入完成 ===`, successCount > 0 ? 'success' : 'error');
+  log(`成功: ${successCount}`, 'success');
+  log(`失败: ${failCount}`, failCount > 0 ? 'error' : 'info');
+  log('', 'info');
+  log('💡 请刷新 OpenMAIC 主页查看所有课件', 'info');
+  
+  btn.disabled = false;
+  btn.textContent = '🚀 重新导入';
+}
+
+async function saveToIndexedDB(data) {
+  // 使用 OpenMAIC 的 API 导入课件
+  // 这会触发 OpenMAIC 的 IndexedDB 写入逻辑
+  const response = await fetch('/api/classroom/import', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+  
+  if (!response.ok) {
+    throw new Error(`导入失败: HTTP ${response.status}`);
+  }
+  
+  return await response.json();
+}
+</script>
+</body>
+</html>

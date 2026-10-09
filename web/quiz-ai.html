@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>家庭教师 - 课后测验（AI 批改版）</title>
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --card: #141414;
+      --border: #262626;
+      --text: #fafafa;
+      --text-secondary: #a1a1aa;
+      --primary: #6366f1;
+      --success: #22c55e;
+      --danger: #ef4444;
+      --warning: #f59e0b;
+      --radius: 12px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .header p {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    .progress {
+      margin-bottom: 2rem;
+    }
+
+    .progress-bar {
+      background: var(--border);
+      border-radius: 999px;
+      height: 6px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      background: linear-gradient(90deg, var(--primary), #818cf8);
+      height: 100%;
+      border-radius: 999px;
+      transition: width 0.3s;
+    }
+
+    .progress-text {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 0.5rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .question-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .question-card.correct {
+      border-color: var(--success);
+      background: #052e16;
+    }
+
+    .question-card.wrong {
+      border-color: var(--danger);
+      background: #450a0a;
+    }
+
+    .question-card.grading {
+      border-color: var(--warning);
+      background: #451a03;
+    }
+
+    .question-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .question-number {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      background: var(--primary);
+      color: white;
+      border-radius: 50%;
+      font-weight: 600;
+      font-size: 0.875rem;
+    }
+
+    .question-type {
+      display: inline-flex;
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .type-choice {
+      background: rgba(99, 102, 241, 0.2);
+      color: #818cf8;
+    }
+
+    .type-essay {
+      background: rgba(245, 158, 11, 0.2);
+      color: var(--warning);
+    }
+
+    .question-text {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+
+    .options {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .option {
+      display: flex;
+      align-items: center;
+      padding: 0.75rem 1rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .option:hover {
+      border-color: var(--primary);
+    }
+
+    .option.selected {
+      border-color: var(--primary);
+      background: rgba(99, 102, 241, 0.1);
+    }
+
+    .option.correct {
+      border-color: var(--success);
+      background: #052e16;
+    }
+
+    .option.wrong {
+      border-color: var(--danger);
+      background: #450a0a;
+    }
+
+    .option-marker {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      margin-right: 0.75rem;
+      font-weight: 600;
+      font-size: 0.75rem;
+    }
+
+    .option.selected .option-marker {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    .option.correct .option-marker {
+      background: var(--success);
+      border-color: var(--success);
+      color: white;
+    }
+
+    .option.wrong .option-marker {
+      background: var(--danger);
+      border-color: var(--danger);
+      color: white;
+    }
+
+    .essay-input {
+      width: 100%;
+      min-height: 120px;
+      padding: 1rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 1rem;
+      font-family: inherit;
+      color: var(--text);
+      resize: vertical;
+    }
+
+    .essay-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .essay-input:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    .feedback {
+      margin-top: 1rem;
+      padding: 1rem;
+      border-radius: 8px;
+      display: none;
+    }
+
+    .feedback.show {
+      display: block;
+    }
+
+    .feedback.correct {
+      background: rgba(34, 197, 94, 0.1);
+      border: 1px solid rgba(34, 197, 94, 0.2);
+    }
+
+    .feedback.wrong {
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.2);
+    }
+
+    .feedback.ai {
+      background: rgba(99, 102, 241, 0.1);
+      border: 1px solid rgba(99, 102, 241, 0.2);
+    }
+
+    .feedback-title {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .feedback-title.correct {
+      color: var(--success);
+    }
+
+    .feedback-title.wrong {
+      color: var(--danger);
+    }
+
+    .feedback-title.ai {
+      color: #818cf8;
+    }
+
+    .feedback-content {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      line-height: 1.6;
+    }
+
+    .feedback-content strong {
+      color: var(--text);
+    }
+
+    .ai-grading-indicator {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background: rgba(99, 102, 241, 0.1);
+      border-radius: 8px;
+      font-size: 0.875rem;
+      color: #818cf8;
+      margin-top: 0.5rem;
+    }
+
+    .spinner {
+      width: 16px;
+      height: 16px;
+      border: 2px solid rgba(99, 102, 241, 0.3);
+      border-top-color: #818cf8;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .results {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2rem;
+      margin-top: 2rem;
+      display: none;
+    }
+
+    .results.show {
+      display: block;
+    }
+
+    .results-header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+
+    .results-score {
+      font-size: 3rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .results-score.pass {
+      color: var(--success);
+    }
+
+    .results-score.fail {
+      color: var(--danger);
+    }
+
+    .results-label {
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+
+    .results-stats {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .stat {
+      text-align: center;
+    }
+
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .stat-value.correct {
+      color: var(--success);
+    }
+
+    .stat-value.wrong {
+      color: var(--danger);
+    }
+
+    .stat-label {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .weak-areas {
+      margin-top: 1.5rem;
+    }
+
+    .weak-areas h3 {
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+      color: var(--warning);
+    }
+
+    .weak-chip {
+      display: inline-flex;
+      padding: 0.25rem 0.75rem;
+      background: rgba(245, 158, 11, 0.1);
+      border: 1px solid rgba(245, 158, 11, 0.2);
+      border-radius: 999px;
+      font-size: 0.875rem;
+      margin: 0.25rem;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #4f46e5;
+    }
+
+    .btn-primary:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #818cf8;
+      border: 1px solid var(--primary);
+    }
+
+    .btn-outline:hover {
+      background: var(--primary);
+      color: white;
+    }
+
+    .btn-success {
+      background: var(--success);
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #16a34a;
+    }
+
+    .sync-status {
+      text-align: center;
+      padding: 0.75rem;
+      margin-top: 1rem;
+      border-radius: 8px;
+      font-size: 0.875rem;
+      display: none;
+    }
+
+    .sync-status.show {
+      display: block;
+    }
+
+    .sync-status.success {
+      background: rgba(34, 197, 94, 0.1);
+      color: var(--success);
+    }
+
+    .sync-status.error {
+      background: rgba(239, 68, 68, 0.1);
+      color: var(--danger);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 id="quiz-title">加载中...</h1>
+      <p>AI 批改 · 语义理解 · 详细解析</p>
+    </div>
+
+    <div class="progress">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+      </div>
+      <div class="progress-text">
+        <span id="progress-text">0 / 0</span>
+        <span id="progress-label">答题进度</span>
+      </div>
+    </div>
+
+    <div id="questions-container"></div>
+
+    <div class="results" id="results">
+      <div class="results-header">
+        <div class="results-score" id="results-score">0%</div>
+        <div class="results-label" id="results-label">加载中...</div>
+      </div>
+
+      <div class="results-stats">
+        <div class="stat">
+          <div class="stat-value correct" id="correct-count">0</div>
+          <div class="stat-label">答对</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value wrong" id="wrong-count">0</div>
+          <div class="stat-label">答错</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="accuracy-display">0%</div>
+          <div class="stat-label">正确率</div>
+        </div>
+      </div>
+
+      <div class="weak-areas">
+        <h3>薄弱知识点</h3>
+        <div id="weak-grid"></div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="btn btn-primary" id="btn-submit">提交答案</button>
+      <button class="btn btn-outline" id="btn-reset" style="display: none;">重新测验</button>
+      <button class="btn btn-success" id="btn-next" style="display: none;">下一课</button>
+    </div>
+
+    <div class="sync-status" id="sync-status"></div>
+  </div>
+
+  <script>
+    let quizData = null;
+    let userAnswers = {};
+    let isSubmitted = false;
+    let gradingResults = {};
+
+    // 加载测验题
+    async function loadQuiz() {
+      const saved = localStorage.getItem('current-quiz');
+      if (saved) {
+        quizData = JSON.parse(saved);
+        document.getElementById('quiz-title').textContent = quizData.title;
+        renderQuestions();
+      } else {
+        document.getElementById('quiz-title').textContent = '没有找到测验题';
+      }
+    }
+
+    // 渲染题目
+    function renderQuestions() {
+      const container = document.getElementById('questions-container');
+      container.innerHTML = '';
+
+      quizData.questions.forEach((q, index) => {
+        const card = document.createElement('div');
+        card.className = 'question-card';
+        card.id = `card-${index}`;
+
+        let html = `
+          <div class="question-header">
+            <span class="question-number">${index + 1}</span>
+            <span class="question-type ${q.type === 'choice' ? 'type-choice' : 'type-essay'}">
+              ${q.type === 'choice' ? '选择题' : '简答题'}
+            </span>
+          </div>
+          <div class="question-text">${q.text}</div>
+        `;
+
+        if (q.type === 'choice') {
+          html += '<div class="options">';
+          q.options.forEach((opt, optIndex) => {
+            const letter = String.fromCharCode(65 + optIndex);
+            html += `
+              <div class="option" onclick="selectOption(${index}, ${optIndex})" id="option-${index}-${optIndex}">
+                <span class="option-marker">${letter}</span>
+                <span>${opt}</span>
+              </div>
+            `;
+          });
+          html += '</div>';
+        } else {
+          html += `
+            <textarea class="essay-input" id="essay-${index}" 
+              placeholder="请输入你的答案..." 
+              oninput="updateEssay(${index})"></textarea>
+            <div class="ai-grading-indicator" id="ai-indicator-${index}" style="display: none;">
+              <div class="spinner"></div>
+              <span>AI 正在批改中...</span>
+            </div>
+          `;
+        }
+
+        html += `
+          <div class="feedback" id="feedback-${index}">
+            <div class="feedback-title" id="feedback-title-${index}"></div>
+            <div class="feedback-content" id="feedback-content-${index}"></div>
+          </div>
+        `;
+
+        card.innerHTML = html;
+        container.appendChild(card);
+      });
+
+      updateProgress();
+    }
+
+    // 选择选项
+    function selectOption(questionIndex, optionIndex) {
+      if (isSubmitted) return;
+      const options = document.querySelectorAll(`#card-${questionIndex} .option`);
+      options.forEach(opt => opt.classList.remove('selected'));
+      document.getElementById(`option-${questionIndex}-${optionIndex}`).classList.add('selected');
+      userAnswers[questionIndex] = optionIndex;
+      updateProgress();
+    }
+
+    // 更新简答题
+    function updateEssay(questionIndex) {
+      if (isSubmitted) return;
+      const textarea = document.getElementById(`essay-${questionIndex}`);
+      userAnswers[questionIndex] = textarea.value;
+      updateProgress();
+    }
+
+    // 更新进度
+    function updateProgress() {
+      const total = quizData.questions.length;
+      const answered = Object.keys(userAnswers).filter(key => {
+        const answer = userAnswers[key];
+        return answer !== undefined && answer !== '';
+      }).length;
+
+      const percentage = (answered / total) * 100;
+      document.getElementById('progress-fill').style.width = `${percentage}%`;
+      document.getElementById('progress-text').textContent = `${answered} / ${total}`;
+      document.getElementById('btn-submit').disabled = answered < total;
+    }
+
+    // AI 批改简答题
+    async function gradeEssayWithAI(questionIndex) {
+      const q = quizData.questions[questionIndex];
+      const userAnswer = userAnswers[questionIndex] || '';
+
+      // 显示 AI 批改指示器
+      const indicator = document.getElementById(`ai-indicator-${questionIndex}`);
+      indicator.style.display = 'inline-flex';
+
+      try {
+        const response = await fetch('http://localhost:8765/api/grade-essay', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            question: q.text,
+            userAnswer: userAnswer,
+            referenceAnswer: q.answer,
+            subject: '语文'
+          })
+        });
+
+        if (response.ok) {
+          const result = await response.json();
+          if (result.status === 'ok' && result.grading) {
+            return result.grading;
+          }
+        }
+
+        // 如果 AI 批改失败，返回默认结果
+        return {
+          is_correct: false,
+          score: 0,
+          error_reason: 'AI 批改失败，请参考答案',
+          reference_answer: q.answer,
+          process_issues: '',
+          suggestions: '请参考正确答案'
+        };
+      } catch (error) {
+        console.error('AI 批改错误:', error);
+        return {
+          is_correct: false,
+          score: 0,
+          error_reason: 'AI 批改失败，请参考答案',
+          reference_answer: q.answer,
+          process_issues: '',
+          suggestions: '请参考正确答案'
+        };
+      } finally {
+        indicator.style.display = 'none';
+      }
+    }
+
+    // 提交答案
+    async function submitQuiz() {
+      if (isSubmitted) return;
+      isSubmitted = true;
+
+      const btnSubmit = document.getElementById('btn-submit');
+      btnSubmit.disabled = true;
+      btnSubmit.textContent = 'AI 批改中...';
+
+      let correctCount = 0;
+      let wrongCount = 0;
+      const weakAreas = {};
+
+      // 先处理选择题
+      for (let i = 0; i < quizData.questions.length; i++) {
+        const q = quizData.questions[i];
+        const userAnswer = userAnswers[i];
+
+        if (q.type === 'choice') {
+          let isCorrect = false;
+          if (q.multi) {
+            if (Array.isArray(userAnswer) && Array.isArray(q.answer) && userAnswer.length === q.answer.length) {
+              const sortedUser = userAnswer.slice().sort();
+              const sortedAns = q.answer.slice().sort();
+              isCorrect = sortedUser.every((v, idx) => v === sortedAns[idx]);
+            }
+          } else {
+            isCorrect = userAnswer === q.answer;
+          }
+
+          gradingResults[i] = { is_correct: isCorrect };
+
+          // 更新 UI
+          const card = document.getElementById(`card-${i}`);
+          const feedback = document.getElementById(`feedback-${i}`);
+          const feedbackTitle = document.getElementById(`feedback-title-${i}`);
+          const feedbackContent = document.getElementById(`feedback-content-${i}`);
+
+          if (isCorrect) {
+            correctCount++;
+            card.classList.add('correct');
+            feedback.classList.add('show', 'correct');
+            feedbackTitle.className = 'feedback-title correct';
+            feedbackTitle.textContent = '✅ 回答正确';
+            feedbackContent.textContent = '';
+          } else {
+            wrongCount++;
+            card.classList.add('wrong');
+            feedback.classList.add('show', 'wrong');
+            feedbackTitle.className = 'feedback-title wrong';
+            feedbackTitle.textContent = '❌ 回答错误';
+            feedbackContent.innerHTML = `<strong>正确答案：</strong>${q.options[q.answer]}`;
+          }
+
+          // 更新薄弱知识点
+          if (!weakAreas[q.topic]) {
+            weakAreas[q.topic] = { total: 0, correct: 0 };
+          }
+          weakAreas[q.topic].total++;
+          if (isCorrect) weakAreas[q.topic].correct++;
+
+          // 禁用选项
+          const options = card.querySelectorAll('.option');
+          options.forEach((opt, idx) => {
+            opt.classList.add('disabled');
+            if (idx === q.answer) opt.classList.add('correct');
+            if (idx === userAnswer && !isCorrect) opt.classList.add('wrong');
+          });
+        }
+      }
+
+      // 然后处理简答题（AI 批改）
+      const essayPromises = [];
+      for (let i = 0; i < quizData.questions.length; i++) {
+        const q = quizData.questions[i];
+        if (q.type === 'text') {
+          essayPromises.push(gradeEssayWithAI(i).then(result => ({ index: i, result })));
+        }
+      }
+
+      // 等待所有 AI 批改完成
+      const essayResults = await Promise.all(essayPromises);
+
+      // 处理简答题结果
+      for (const { index, result } of essayResults) {
+        const q = quizData.questions[index];
+        gradingResults[index] = result;
+
+        const card = document.getElementById(`card-${index}`);
+        const feedback = document.getElementById(`feedback-${index}`);
+        const feedbackTitle = document.getElementById(`feedback-title-${index}`);
+        const feedbackContent = document.getElementById(`feedback-content-${index}`);
+        const textarea = document.getElementById(`essay-${index}`);
+
+        textarea.disabled = true;
+
+        if (result.is_correct) {
+          correctCount++;
+          card.classList.add('correct');
+          feedback.classList.add('show', 'correct');
+          feedbackTitle.className = 'feedback-title correct';
+          feedbackTitle.textContent = '✅ 回答正确';
+          feedbackContent.textContent = '';
+        } else {
+          wrongCount++;
+          card.classList.add('wrong');
+          feedback.classList.add('show', 'ai');
+          feedbackTitle.className = 'feedback-title ai';
+          feedbackTitle.textContent = '🤖 AI 批改结果';
+
+          let content = '';
+          if (result.error_reason) {
+            content += `<p><strong>错误原因：</strong>${result.error_reason}</p>`;
+          }
+          if (result.reference_answer) {
+            content += `<p><strong>参考答案：</strong>${result.reference_answer}</p>`;
+          }
+          if (result.process_issues) {
+            content += `<p><strong>过程问题：</strong>${result.process_issues}</p>`;
+          }
+          if (result.suggestions) {
+            content += `<p><strong>改进建议：</strong>${result.suggestions}</p>`;
+          }
+          feedbackContent.innerHTML = content;
+        }
+
+        // 更新薄弱知识点
+        if (!weakAreas[q.topic]) {
+          weakAreas[q.topic] = { total: 0, correct: 0 };
+        }
+        weakAreas[q.topic].total++;
+        if (result.is_correct) weakAreas[q.topic].correct++;
+      }
+
+      // 显示结果
+      const total = quizData.questions.length;
+      const accuracy = Math.round((correctCount / total) * 100);
+
+      document.getElementById('results-score').textContent = `${accuracy}%`;
+      document.getElementById('results-score').className = `results-score ${accuracy >= 60 ? 'pass' : 'fail'}`;
+      document.getElementById('results-label').textContent = accuracy >= 90 ? '优秀！掌握非常扎实' :
+        accuracy >= 70 ? '良好，仍有提升空间' :
+        accuracy >= 60 ? '及格，需要巩固薄弱点' :
+        '不及格，建议重新学习薄弱知识点';
+
+      document.getElementById('correct-count').textContent = correctCount;
+      document.getElementById('wrong-count').textContent = wrongCount;
+      document.getElementById('accuracy-display').textContent = `${accuracy}%`;
+
+      // 显示薄弱知识点
+      const weakGrid = document.getElementById('weak-grid');
+      weakGrid.innerHTML = '';
+      Object.keys(weakAreas).forEach(topic => {
+        const info = weakAreas[topic];
+        const rate = Math.round((info.correct / info.total) * 100);
+        const cls = rate >= 80 ? 'strong' : (rate >= 50 ? 'medium' : '');
+        const label = rate >= 80 ? '掌握良好' : (rate >= 50 ? '需加强' : '薄弱');
+        weakGrid.innerHTML += `<span class="weak-chip ${cls}">${topic} — ${label} (${rate}%)</span>`;
+      });
+
+      document.getElementById('results').classList.add('show');
+      document.getElementById('btn-submit').style.display = 'none';
+      document.getElementById('btn-reset').style.display = 'inline-flex';
+      document.getElementById('btn-next').style.display = 'inline-flex';
+      document.getElementById('progress-fill').style.width = '100%';
+      document.getElementById('progress-text').textContent = `${total} / ${total}`;
+
+      // 同步结果到后端
+      await syncResults(accuracy, correctCount, weakAreas);
+    }
+
+    // 同步结果到后端
+    async function syncResults(score, correctCount, weakAreas) {
+      const syncStatus = document.getElementById('sync-status');
+
+      const weakAreasList = Object.keys(weakAreas).map(topic => ({
+        topic: topic,
+        rate: Math.round((weakAreas[topic].correct / weakAreas[topic].total) * 100)
+      })).filter(w => w.rate < 80);
+
+      const syncData = {
+        title: quizData.title,
+        date: new Date().toISOString(),
+        score: score,
+        correctCount: correctCount,
+        totalQuestions: quizData.questions.length,
+        weakAreas: weakAreasList,
+        details: quizData.questions.map((q, i) => ({
+          question: q.text,
+          type: q.type,
+          userAnswer: userAnswers[i],
+          isCorrect: gradingResults[i]?.is_correct || false,
+          aiGrading: gradingResults[i] || null
+        }))
+      };
+
+      // 保存到 localStorage
+      const history = JSON.parse(localStorage.getItem('quiz-history') || '[]');
+      history.push(syncData);
+      localStorage.setItem('quiz-history', JSON.stringify(history));
+
+      // 同步到后端
+      try {
+        const response = await fetch('http://localhost:8765/api/quiz-results', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(syncData)
+        });
+
+        if (response.ok) {
+          syncStatus.className = 'sync-status show success';
+          syncStatus.textContent = '✅ 结果已同步到后端';
+        } else {
+          syncStatus.className = 'sync-status show error';
+          syncStatus.textContent = '⚠️ 同步失败，结果已保存到本地';
+        }
+      } catch (error) {
+        syncStatus.className = 'sync-status show error';
+        syncStatus.textContent = '⚠️ 同步失败，结果已保存到本地';
+      }
+    }
+
+    // 重新测验
+    function resetQuiz() {
+      isSubmitted = false;
+      userAnswers = {};
+      gradingResults = {};
+
+      document.getElementById('results').classList.remove('show');
+      document.getElementById('btn-submit').style.display = 'inline-flex';
+      document.getElementById('btn-submit').disabled = true;
+      document.getElementById('btn-submit').textContent = '提交答案';
+      document.getElementById('btn-reset').style.display = 'none';
+      document.getElementById('btn-next').style.display = 'none';
+      document.getElementById('sync-status').className = 'sync-status';
+
+      document.querySelectorAll('.question-card').forEach(card => {
+        card.classList.remove('correct', 'wrong', 'grading');
+      });
+      document.querySelectorAll('.option').forEach(opt => {
+        opt.classList.remove('selected', 'correct', 'wrong', 'disabled');
+      });
+      document.querySelectorAll('.essay-input').forEach(textarea => {
+        textarea.value = '';
+        textarea.disabled = false;
+      });
+      document.querySelectorAll('.feedback').forEach(fb => {
+        fb.classList.remove('show');
+      });
+      document.querySelectorAll('.ai-grading-indicator').forEach(indicator => {
+        indicator.style.display = 'none';
+      });
+
+      updateProgress();
+    }
+
+    // 下一课
+    function nextLesson() {
+      alert('请告诉 Hermes "下一课"，继续学习！');
+    }
+
+    // 初始化
+    document.getElementById('btn-submit').addEventListener('click', submitQuiz);
+    document.getElementById('btn-reset').addEventListener('click', resetQuiz);
+    document.getElementById('btn-next').addEventListener('click', nextLesson);
+
+    loadQuiz();
+  </script>
+</body>
+</html>

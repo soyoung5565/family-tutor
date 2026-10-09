@@ -1,0 +1,656 @@
+[
+  {
+    "qid": "语文_u4.k6_zxxk_59640475_001",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "李明创编这篇小说的灵感来自一则新闻，这则新闻最有可能是",
+    "options": [
+      "神舟二十号、神舟二十一号两个航天员乘组在中国空间站会师。",
+      "2023年\"巅峰使命\"珠峰科考登山队员成功登顶。",
+      "2026年1月19日，中央气象台发布寒潮黄色预警，多地部分地区降温幅度可达12℃以上。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59640475.html",
+      "site": "学科网",
+      "title": "第四单元自测练习卷-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查小说创编与素材来源的关联，属小说单元习作。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.217655"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_7754479_001",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "按原文填空：《如果国宝会说话》将一个个\"______________________\"浓缩在了五分钟的视频里，着重讲述国宝背后________________的传奇故事和曲折经历。",
+    "options": null,
+    "answer": "大国重器|鲜为人知",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及想象创编相关课文语段填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_7754479_002",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断下列说法是否正确，对的打\"√\"，错的打\"×\"。（1）《如果国宝会说话》是由中央电视台纪录片频道制作的百集纪录片。（2）《如果国宝会说话》共有100集，每集是10分钟。（3）《如果国宝会说话》短小精悍，让更多繁忙的现代人\"快速充电\"，了解文物背后的文化意义。",
+    "options": null,
+    "answer": "√,×,√",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对推荐篇目内容的了解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u4.k3_21cnjy_7754479_002",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_7754479_017",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "写作。根据下面提供的环境和人物，展开丰富的想象，创编故事。要注意围绕人物展开情节，故事要完整，情节要吸引人，还要注意环境描写和人物描写方法的恰当运用，题目自拟，语句通顺，400字左右。环境：鸟语花香的公园里。人物：5岁的小男孩豆丁、小学生李明。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环境人物创编故事单元习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_26408869_020",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "在你身边，一定有许多具有优秀品质的人，他们有的坚韧不拔，有的乐于助人，有的勤奋好学，有的默默奉献……请选择你熟悉的一个人，通过写和他（她）相关的一两件事，来表现他（她）的优秀品质。要求：题目自拟，内容具体，感情真挚，语句通顺，字数不少于500字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "开放性题目，要求通过一两件事表现人物品质。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元习作，写人记事表现品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_26047889_030",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "作家笔尖流出的故事，大多是虚构的，但又有生活的影子。让我们展开丰富的想象，根据以下环境和人物，创编故事。\n环境：寒风凛冽的操场\n人物：不爱运动的王明 认真负责的体育委员孟飞 幽默的体育老师\n要求：①题目自拟；②故事要围绕主要人物展开；③把故事写完整，情节能吸引人；④试着写出故事发生的环境，写一写人物的心理活动。⑤书写要工整，400 字以上。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "创编故事，笔尖流出的故事习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_7754479_023",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "根据下面提供的环境和人物，展开丰富的想象，创编故事。要注意围绕人物展开情节，故事要完整，情节要吸引人，还要注意环境描写和人物描写方法的恰当运用，题目自拟，语句通顺，400字左右。环境：鸟语花香的公园里。人物：5岁的小男孩豆丁、小学生李明。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "据环境和人物创编故事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.993031"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_15109679_004",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "她的心跳得很厉害,自己也不知道为什么要这样做,但是觉得非这样做不可。（1）改肯定句:（2）改反问句:",
+    "options": null,
+    "answer": "(1)她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得必须这样做。(2)她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得不这样做怎么可以呢？",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式转换，叙事文本语言",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.993031"
+    },
+    "duplicate_of": "语文_u4.k3_21cnjy_15109679_004",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_15109679_005",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "张老师对小明说：\"我今天中午有事情，不能到公园去了，请你告诉张春，让她不要等我了\"。（改转述句）",
+    "options": null,
+    "answer": "张老师对小明说，张老师今天中午有事情，不能到公园去了，请小明告诉张春，让张春不要等张老师了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "转述句改写，言语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_51jiaoxi_17346502_003",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合题",
+    "stem": "阅读以下材料，完成要求。\n行走在天地间：于僻静小巷中徘徊，触摸岁月变迁的痕迹；于人潮fèi téng    处驻足，体悟繁华背后的沧桑【1】变；màn bù    jì mò    星光下，任绵长的幽思带你神游八荒；攀登雄浑峰峦间，感受内心力量的升腾与【2】……行遍千山万水，见处处皆有前人履痕，此刻方彻悟\"______\"的真谛。\n（1）根据拼音填写词语。\n（2）给下列加点字选择正确的读音。①僻静  A.pì B.bì  ②徘徊  A.huái B.huí\n（3）根据释义，短文【1】处应填______。\n（4）下列选项中，填入短文【2】处最合适的一项是______。\n（5）下列句子中，填入短文\"______\"处最合适的一项是______。",
+    "options": null,
+    "answer": "（1）沸腾 漫步 寂寞；（2）①A ②A；（3）C；（4）A；（5）A",
+    "explanation": "（1）根据拼音写汉字。（2）①\"僻静\"应读\"pì jìng\"；②\"徘徊\"的\"徊\"读\"huái\"。（3）嬗变指更替、变迁。（4）沉淀符合语境。（5）\"莫道君行早，更有早行人\"与文中\"行遍千山万水，见处处皆有前人履痕\"相呼应。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作情境，与小说单元创编相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_51jiaoxi_17346502_005",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合题",
+    "stem": "行走于文学经典中，读推荐语，完成以下题目。\n（1）根据推荐语选一选。彭懿推荐的是______，小语同学推荐的是______。\n（2）结合自己的阅读感受，为《鲁滨逊漂流记》写一则推荐语，填在横线处。\n（3）《爱丽丝漫游奇境》这本书中有爱丽丝、白兔先生、蜥蜴比尔、公爵夫人等人物，关系复杂，我们可以用______的办法来阅读。",
+    "options": [
+      "《骑鹅旅行记》",
+      "《童年》",
+      "《汤姆•索亚历险记》",
+      "《红岩》"
+    ],
+    "answer": "（1）C A；（2）鲁滨逊在荒岛上独自求生，凭借着顽强的毅力、智慧的头脑，克服了无数难以想象的困难，从搭建住所、种植粮食到驯养动物，他的故事充满了勇气与拼搏的力量，能让读者感受到人类在绝境中迸发的无限潜能，是一部激励人勇敢面对困境的经典之作；（3）绘制人物关系图",
+    "explanation": "（1）《汤姆•索亚历险记》是历险故事，符合彭懿推荐；《骑鹅旅行记》是尼尔斯骑鹅历险故事，符合小语同学推荐。（2）结合作品内容写推荐语。（3）人物关系复杂，可用绘制人物关系图的方法阅读。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "推荐语与小说人物关系梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "鲁滨逊漂流记"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_7754479_026",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "根据下面提供的环境和人物，展开丰富的想象，创编故事。要注意围绕人物展开情节，故事要完整，情节要吸引人，还要注意环境描写和人物描写方法的恰当运用，题目自拟，语句通顺，400字左右。环境：鸟语花香的公园里。人物：5岁的小男孩豆丁、小学生李明。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据环境人物创编故事，属小说单元习作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:51.111074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u4.k6_21cnjy_7754479_023",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_26405961_008",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "材料题",
+    "stem": "为什么\"虚构的故事\"能让读者\"读得津津有味\"？",
+    "options": null,
+    "answer": "因为虚构的故事背后有真实：想象寄托了人们真实的情感与愿望（对自由的渴望、对虚荣的讽刺、对生命的温情、对忧虑的劝诫），能与读者产生共鸣。",
+    "explanation": "原因题抓\"情感共鸣、寓意真实\"。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26405961",
+      "site": "21世纪教育网",
+      "title": "doc 26405961",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作要求谈虚构故事的吸引力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:11.487372"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k6_21cnjy_26405961_009",
+    "subject": "语文",
+    "kp_id": "u4.k6",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "材料题",
+    "stem": "请结合本单元一篇课文，谈谈想象\"背后有真实\"的具体体现。",
+    "options": null,
+    "answer": "示例：《皇帝的新装》想象奇特（赤身游行），背后却十分真实：现实生活中爱慕虚荣、自欺欺人的人比比皆是，小孩的\"真话\"提醒我们要保持诚实，所以\"背后有真实\"。",
+    "explanation": "结合课文题要\"想象情节＋背后寓意\"双对应。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26405961",
+      "site": "21世纪教育网",
+      "title": "doc 26405961",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合课文谈想象与真实关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:11.487372"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

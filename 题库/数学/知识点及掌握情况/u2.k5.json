@@ -1,0 +1,32 @@
+{
+ "id": "u2.k5",
+ "name": "圆的周长公式",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "C = 2πr = πd。π 取 3.14 计算",
+ "example": "d=10cm, C=3.14×10=31.4 cm",
+ "key_formulas": [
+  "C = πd = 2πr"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "depends_on": [
+  {
+   "id": "u2.k4",
+   "reason": "圆的周长公式 C=2πr 需要先理解圆周率 π 的含义"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u3.k5",
+   "reason": "周长公式C=2πr是用字母表示数量关系的典型例子"
+  },
+  {
+   "id": "u3.k4",
+   "reason": "已知半径求周长需要代入π≈3.14求值"
+  }
+ ]
+}

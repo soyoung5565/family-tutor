@@ -1,0 +1,24 @@
+{
+ "id": "u6.k2",
+ "name": "方向+距离确定位置",
+ "unit": "u6",
+ "unit_name": "确定位置（象群北迁）",
+ "definition": "方向（北偏东X°）+ 距离，描述路线",
+ "example": "从A 北偏东30°走 500m 到 B",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 72,
+ "slide_range": "slide_072-077",
+ "see_also": [
+  {
+   "id": "u6.k3",
+   "reason": "单段方向+距离组合延伸为多段路线描述"
+  },
+  {
+   "id": "u3.k4",
+   "reason": "计算两点的实际距离需要代入比例尺数值"
+  }
+ ]
+}

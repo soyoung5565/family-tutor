@@ -1,0 +1,5054 @@
+[
+  {
+    "qid": "语文_u7.k1_zxxk_59486969_001",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法中不正确的一项是()",
+    "options": [
+      "\"五行\"指的是金、木、水、火、土；\"五谷\"指的是稻、麦、黍、菽、稷；\"五音\"指的是宫、商、角、徵、羽。",
+      "《他们那时候多有趣啊》是一篇科幻小说，作者是阿西莫夫，美国科普作家。",
+      "我从《两小儿辩日》《曹冲称象》两则寓言故事中，受到的启发是小孩子探索未知世界的智慧并不比成年人差。",
+      "《表里的生物》中\"我\"对所有活的生物都感兴趣：好听的鸟鸣、可怕的狗吠、柔和的虫声。\"我\"以儿童的眼光观察世界，以儿童的思维认识世界，充满了童真童趣。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486969.html",
+      "site": "学科网",
+      "title": "第七单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k2",
+        "u7.k3",
+        "u7.k4",
+        "u7.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合考查第七单元课文内容与传统文化常识，属于单元整体回顾。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.248661"
+    },
+    "answer_text": "C. 我从《两小儿辩日》《曹冲称象》两则寓言故事中，受到的启发是小孩子探索未知世界的智慧并不比成年人差。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_zxxk_49223824_002",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下面这段话的主要意思是（　）\n蜗牛需要观察周围的情况，但同时也需要躲在自己的壳里。眼睛长在触角上就可以同时满足这两种需求。它的触角又细又长，可以提供良好的视野。如果一只饥饿的鸟正好停在蜗牛附近，蜗牛的眼柄就会像微型望远镜一样收缩起来。这样它们的身体就能完全藏进壳里了。现在你知道蜗牛的眼睛为什么长在触角了吗？",
+    "options": [
+      "蜗牛的眼睛可以观察到四周。",
+      "蜗牛的眼睛长在触角上的原因。",
+      "蜗牛的眼睛非常灵活且敏锐。",
+      "蜗牛的眼柄很像微型望远镜。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49223824.html",
+      "site": "学科网",
+      "title": "2024-2025学年广东省深圳市六年级语文上学期期末考试真题重组卷（统编版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查把握段落主要内容，与本单元语文要素\"把握文章主要内容\"直接对应。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.248661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_zxxk_49223824_003",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "概括下面这段话的主要意思最恰当的一项是（　）\n成语是祖先留给我们的文化遗产，是汉语词汇系统中的精华。我们应该善待这份遗产。从较高层次的要求说，要积极研究它，挖掘它的深刻内涵，探讨如何在新的时代将它发扬光大。从较低层次的要求说，要正确地理解它，使用它，然而，我们许多人连这起码的要求也做不到。生活中误用成语的现象十分普遍。",
+    "options": [
+      "成语是文化遗产，是汉语词汇系统中的精华。",
+      "我们应该善待成语这份遗产。",
+      "我们要正确地理解和使用成语。",
+      "生活中误用成语的现象十分普遍。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49223824.html",
+      "site": "学科网",
+      "title": "2024-2025学年广东省深圳市六年级语文上学期期末考试真题重组卷（统编版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元导语明确要求'综合运用多种方法把握文章主要内容'，概括段落主要意思正对应此能力点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.248661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_001",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语：dàn shēng（  ）xuán wō（  ）jiāo shuǐ（  ）jiào yù（  ）mán yán（  ）zhēng xún（  ）pī pàn（  ）yán jīn jīn（  ）",
+    "options": null,
+    "answer": "诞生 漩涡 浇水 教育 蔓延 征询 批判 笑吟吟",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第七单元基础字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_002",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下列加点字选择正确的读音，打\"√\"：鄙夷（bǐ pǐ） 诞生（dàn yán） 酸碱（jiǎn jiàn） 钵子（bō běn）",
+    "options": null,
+    "answer": "bǐ√ dàn√ jiǎn√ bō√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第七单元字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_003",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "形近字组词",
+    "stem": "形近字组词：诞（  ）涡（  ）碱（  ）鄙（  ）延（  ）窝（  ）减（  ）壁（  ）",
+    "options": null,
+    "answer": "示例：诞生/延长 漩涡/鸟窝 酸碱/减法 鄙夷/墙壁",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第七单元形近字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.030062"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_005",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词填空（持续 连续 启迪 启发）：（1）科学家（  ）三年扎根实验室，反复开展对比实验。（2）他（  ）五次观察实验现象，精准记录每一组数据。（3）生活中的小事，往往能给我们深刻的（  ）。（4）老师的一番话，（  ）了大家的创新思维。",
+    "options": null,
+    "answer": "（1）持续 （2）连续 （3）启迪 （4）启发",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语辨析与语境运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求完成句子练习：（1）所有的科学真理，都来源于不断的发问与探索。（改为反问句）（2）不断观察、大胆质疑、坚持求证，能帮助我们发现真理。（改为双重否定句）（3）请用一个具体事例，论证\"大胆质疑才能突破认知\"的观点。",
+    "options": null,
+    "answer": "（1）难道不是所有的科学真理，都来源于不断的发问与探索吗？（2）没有观察、不敢质疑、不去求证，就无法发现真理。（3）伽利略不盲从亚里士多德的权威结论，大胆质疑、反复实验，最终在比萨斜塔证明了自由落体定律。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子改写与论证",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_011",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合单元要素，说说选文带给你的学习启示。",
+    "options": null,
+    "answer": "在学习和生活中，我们要永葆好奇心，遇到不懂的问题主动追问、积极探究，不被动接受知识，敢于思考、敢于质疑，在探索中积累知识、提升能力，培养求真务实的科学精神。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合单元语文要素谈启示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_012",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "本文的中心主旨是什么？",
+    "options": null,
+    "answer": "科学探索永无止境，少年要保持好奇、勤于思考、勇于求真，不断探索未知。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元主题中心主旨把握",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_013",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者认为科学探索需要具备哪些品质？",
+    "options": null,
+    "answer": "细致入微的观察力、敢于质疑的勇气、持之以恒的毅力、不盲从权威的求真态度。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学探索品质综合理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.030062"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_014",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "如何理解\"平凡中发现不凡，常态中探寻规律\"？",
+    "options": null,
+    "answer": "生活中很多看似平常、人人熟知的现象，大多不会深究，但若用心观察、善于思考，就能发现隐藏在现象背后的科学规律与道理，收获新的认知。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元主题观点理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26555846_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合自身，说说你今后如何培养科学探索精神？",
+    "options": null,
+    "answer": "示例：日常留心观察生活现象，遇到疑问主动查阅资料、动手验证；学习中不迷信标准答案，敢于提出自己的想法，坚持思考、不断探索，培养求真求实的态度。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26555846.html",
+      "site": "21世纪教育网",
+      "title": "最新部编版六年级语文上册第七单元全新综合测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系自身谈科学精神",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.719303"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_22245406_021",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "为什么\"我\"登上月球最强烈的感受是对地球的爱更深了",
+    "options": null,
+    "answer": "月球一片死寂，没有与地球相比肩的优点，由此与地球形成对比，表现了作者对地球的热爱。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科幻想象单元，感悟文章中心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_22245406_024",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系已有知识，谈一谈你对安德斯所说的\"我觉得大家应该同心协力，维护这个微小、美丽而脆弱的星球\"的理解。",
+    "options": null,
+    "answer": "示例：只要我们人人都有很强的环保意识，努力做好环保工作，真正维持生态平衡，地球这位人类的母亲，生命的摇篮，将会更好地造福于人类。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系实际谈对保护地球的理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k2_21cnjy_22245406_021",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_12091063_009",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列语句排列顺序正确的一项是( )。\n①你才能真正懂得读书，学会读书。 ②读教科书，在基础知识和专业技能的学习中，当然是必需的。 ③所谓读书，不只是读教科书。 ④但是，只有超越了读教科书的阶段，把读书变成了一种发自内心的、精神上的需求。 ⑤这是求知的阶梯，也是人生必不可少的一段路程。",
+    "options": [
+      "③②④⑤①",
+      "③②⑤①①",
+      "⑤③②④①",
+      "③①②④⑤"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读书主题文段排序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:33.442936"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u3.k6_21cnjy_12091063_009",
+    "answer_text": "B. ③②⑤①①",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_12091063_014",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "例:科学，是人类解开未解之谜的金钥匙；科学，是人类 的 ；科学，是人类 的 。",
+    "options": null,
+    "answer": "化解愚昧 灵丹 驶向未来 航船",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学主题仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:33.442936"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_008",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子中，加点词语运用不恰当的一项是（ ）",
+    "options": [
+      "滴水之所以能穿石，除了它能锲而不舍之外，还在于它有一个明确的目标。",
+      "我之所以长篇大论地去追根求源，是因为想让各位更加深切地认识到这个问题。",
+      "计算机尽管是高科技工具，但拥有它并不意味着任何工作都可以事半功倍。",
+      "同学们经常向老师请教，这种不耻下问的精神值得提倡。"
+    ],
+    "answer": "3",
+    "explanation": "D．不耻下问指学问/地位更高的人，不以向学问、地位比自己低的人请教为羞耻。句中是学生向学问更高的老师请教，该词语用错了对象，因此运用不恰当。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "加点词语辨析与病句，语文综合运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:09.359902"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 同学们经常向老师请教，这种不耻下问的精神值得提倡。",
+    "has_answer": true,
+    "duplicate_of": "语文_u4.k3_21cnjy_25883233_008"
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26468796_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "童年的好奇心是探索世界的起点。结合你的生活经历，写写一次自己大胆猜想、主动探索的小事。（不少于80字）",
+    "options": null,
+    "answer": "示例：小时候我发现含羞草一碰就会合拢叶片，十分好奇。我每天观察、查阅绘本、请教老师，慢慢了解到含羞草的叶片有叶枕，受到触碰就会失水合拢。这次探索让我明白，处处皆学问，好奇+探索就能发现新知。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26468796.html",
+      "site": "21世纪教育网",
+      "title": "21《表里的生物》课堂练习题（ 含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕好奇心写探索小事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:02.419593"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26445728_001",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "运用“抓题眼、找关键、理脉络”的阅读方法，尝试概括《夜间飞行的秘密》的主要内容。",
+    "options": null,
+    "answer": "本文主要讲述了科学家通过反复实验，揭开了蝙蝠在夜里依靠嘴和耳朵配合发出超声波探路的秘密，并从中受到启发，给飞机装上雷达，从而解决了飞机在夜间安全飞行的问题。",
+    "explanation": "抓题眼“秘密”，找关键“超声波探路”，理脉络“实验验证→揭开真相→发明雷达”。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26445728.html",
+      "site": "21世纪教育网",
+      "title": "2026秋部编版六年级语文上册第7单元语文园地七课件（共17张PPT）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查运用方法概括文章主要内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:45:38.213726"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26556115_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求完成句子练习（6分）（1）善于质疑、坚持探究，是获取真知的重要途径。（改为反问句）（2）任何科学真理都离不开无数次的观察与验证。（改为双重否定句）（3）请用简短事例证明\"坚持不懈，方能成功\"的观点。",
+    "options": null,
+    "answer": "（1）难道善于质疑、坚持探究，不是获取真知的重要途径吗？（2）没有一次科学真理，不是离不开无数次的观察与验证。（3）李时珍走遍山川、历经数十年搜集整理、反复考证，坚持不懈，最终编写出医学巨著《本草纲目》。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式转换与论证，属科学主题语言运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26556115_012",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "短文表达的主要观点是什么？（3分）",
+    "options": null,
+    "answer": "求知贵在发问与思考，敢于质疑、勤于求证，才能收获真知、获得成长。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "把握文章主要观点的阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26556115_013",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "为什么说\"小小的问号能带来大大的突破\"？（4分）",
+    "options": null,
+    "answer": "疑问是思考和探究的起点，发现问题、主动发问，才会推动人们深入研究、反复验证，最终突破固有认知，取得科学突破。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解文章核心观点：质疑推动突破",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26556115_014",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "在作者眼中，真正的\"发问与质疑\"是什么？（4分）",
+    "options": null,
+    "answer": "是基于独立思考的理性提问，求真务实、主动求证，不盲从权威、不迷信书本，是积极求知的科学态度。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解文章中\"真正发问与质疑\"的内涵",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26556115_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合学习，说说你今后怎样做到\"学贵有疑\"？（4分）",
+    "options": null,
+    "answer": "示例：上课不被动听讲，敢于提出自己的疑问；做题不依赖答案，主动思考对错；课后遇到疑惑主动查阅资料、请教老师，养成勤于发问、主动探究的习惯。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合文本谈学贵有疑的实践体会",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18480068_011",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "下面不属于北斗核心特点的是",
+    "options": [
+      "定位精准",
+      "信号稳定",
+      "造价低廉"
+    ],
+    "answer": "2",
+    "explanation": "北斗四大核心优势为定位精准、信号稳定、服务广泛、全天候工作。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学与想象单元说明文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 造价低廉",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18480068_012",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"为实现全球组网，科研团队先后发射数十颗导航卫星\"这句话采用的说明方法是",
+    "options": [
+      "列数字",
+      "作比较",
+      "打比方"
+    ],
+    "answer": "0",
+    "explanation": "句中出现'数十颗'这一数量词，运用了列数字的说明方法。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "说明方法列数字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 列数字",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18480068_013",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "下列理解不符合原文意思的是",
+    "options": [
+      "北斗是我国自主研发的全球卫星导航系统。",
+      "北斗仅能应用在交通和渔业两个领域。",
+      "北斗系统推动了我国卫星导航相关产业的发展。"
+    ],
+    "answer": "1",
+    "explanation": "原文提到北斗应用于交通、渔业、农林植保、气象监测、防灾救灾等多个领域。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元说明文理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 北斗仅能应用在交通和渔业两个领域。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_12091063_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "积累填空。(17分)\n《学弈》告诉我们，做事要 ，不能 ；《两小儿辩日》告诉我们要 观察事物，看待问题；《真理诞生于一百个问号之后》让我们懂得真理的诞生源于敏锐地 ，坚持不懈地 ，深入地 ；《表里的生物》让我们看到了一个 的孩子； 《他们那时候多有趣啊》让我们感受到了 故事的魅力。",
+    "options": null,
+    "answer": "专心致志 三心二意 从不同的角度 发现问题 思考问题 解决问题善于观察、善于思考 科幻",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元课文主题综合积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "学弈",
+      "两小儿辩日"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读文中画\"______\"的句子，体会引用的好处，并填空。（1）句子①引用外国人的话，让我们感受到了外国人对中国工程技术人员的轻蔑和__________，也说明了修筑关沟铁路的__________。（2）句子②引用冯如的话，让我们感受到了他__________的决心。",
+    "options": null,
+    "answer": "嘲笑 任务艰巨 立志报国",
+    "explanation": "（1）结合短文第②自然段\"当他决定铁路要在尽是悬崖峭壁的关沟地区通过时，外国人惊奇地说：'中国修筑关沟铁路的工程师还没出生呢！'\"可知，\"修筑关沟铁路\"这个任务是非常艰巨的，对于中国人来完成这个任务来说也是特别的艰难。其中的\"中国修筑关沟铁路的工程师还没出生呢\"更是直接体现出外国人对中国技术人员的轻蔑和嘲讽。（2）结合短文第⑧自然段\"可是冯如却说：'我衷心希望把自己菲薄的才能贡献给祖国。'\"可知，他并不自视甚高，而是谦虚地称自己的才能为\"菲薄\"，但他愿意将这份才能毫无保留地贡献给祖国，这体现了他对祖国的深深热爱和无私奉献的精神，感受到他立志报国的决心。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会引用好处属阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_016",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者是怎样证明观点的？仔细读短文，填写下表。论点 中国人有才能，有志气 中国人爱科学，更爱自己的祖国 事例 ①____________________ ④____________________ ②____________________ ⑤____________________ ③____________________ ⑥____________________",
+    "options": null,
+    "answer": "詹天佑在修筑京张铁路时勇挑重担，用成功的事实回击了外国人的嘲讽。 冯如驾驶自己设计的飞机在国际比赛中获胜。 谭根21岁时就自己制造了水上飞机，在万国飞机制造大会上赢得金牌。 詹天佑为修建川粤汉铁路谢绝了美国某大学的博士学位授领邀请。 冯如拒绝外国人重金聘请，将美国的公司迁回广州。 谭根不为名利所诱，从美国回到广州开办航空学校。",
+    "explanation": "①结合短文第②自然段可知，詹天佑面对外国人的质疑，成功主持修建了京张铁路，用过硬的工程能力证明了中国人的才干，也展现了为国争气的志气。②结合短文第③自然段可知，冯如靠自己设计制造的飞机在国际比赛中夺冠，证明了中国人在航空领域的才能，也展现了为国争光的志气。③结合短文第④自然段可知，谭根年轻时就造出水上飞机并在国际大会夺冠，被公认为顶尖飞行家，证明了中国人的航空才能与志气。④结合短文第⑦自然段可知，詹天佑虽热爱自己的铁路事业，却为了祖国的建设重任，毅然谢绝了美国大学授予博士学位的邀请，体现了他更爱祖国的赤诚之心。⑤结合短文第⑧自然段可知，冯如虽在航空科学上取得了巨大成就，却拒绝了外国的重金聘请，把公司迁回祖国，立志将才能献给祖国，体现了他爱科学更爱祖国的精神。⑥结合短文第⑨自然段可知，谭根不为国外名利诱惑，抱着报国志向从美国回到广州开办航空学校，希望用自己的航空才能为祖国培养人才，体现了他爱科学更爱祖国的决心。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理清论点论据属阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_017",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "针对文中的观点，你觉得还可以列举什么事例？观点一：__________________________________________ 观点二：__________________________________________",
+    "options": null,
+    "answer": "袁隆平毕生扎根田间，潜心研究杂交水稻技术，攻克粮食增产难题，成功培育出高产杂交水稻，大幅提升了中国粮食产量，用科研成果证明了中国人在农业科技领域的卓越才能与为国争光的志气。 钱学森放弃美国优厚的科研条件与待遇，冲破重重阻碍回到祖国，投身\"两弹一星\"事业，用毕生所学助力中国国防科技发展，体现了他热爱科学、更热爱祖国的赤诚之心。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "补充论据运用举例论证",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k2_21cnjy_25883233_017",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_018",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者的观点是什么？他用了哪些事例来论证自己的观点？结合短文内容填一填。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "概括论点论据结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_019",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "辰辰认为第1自然段中引用毛毛虫和牡蛎的例子没有什么作用，可以删去，你同意他的观点吗？说一说。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析论据作用属阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_020",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列是辰辰和同学们对短文内容的讨论，请你选出说法有误的一项：（ ）A．辰辰：苏轼能写出千古绝唱，体现了他面对困境时积极向上、乐观豁达的精神。 B．乐乐：史铁生之所以能写出优秀的作品是因为明白了自己\"职业是生病，业余在写作\"。 C．奇奇：我从结尾一段话中明白了在人生道路上要积极乐观，勇敢面对困难，才能克服困难。",
+    "options": [
+      "辰辰：苏轼能写出千古绝唱，体现了他面对困境时积极向上、乐观豁达的精神。",
+      "乐乐：史铁生之所以能写出优秀的作品是因为明白了自己\"职业是生病，业余在写作\"。",
+      "奇奇：我从结尾一段话中明白了在人生道路上要积极乐观，勇敢面对困难，才能克服困难。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解人物精神品质综合考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 乐乐：史铁生之所以能写出优秀的作品是因为明白了自己\"职业是生病，业余在写作\"。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_11932085_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文理解",
+    "stem": "下列关于课文表述不正确的一项是（ ）",
+    "options": [
+      "\"真理诞生于一百个问号之后\"这个题目是课文的主要观点。",
+      "《他们那时候多有趣啊》一文中的\"那时候\"指的是未来的日子。",
+      "《表里的生物》中童年的\"我\"是个好奇心强，善于观察，爱思考的孩子。",
+      "《两小儿辩日》中两个小孩的判断有相同的地方，即认为一天之内，太阳离人有远近之分。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及《他们那时候多有趣啊》等课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 《他们那时候多有趣啊》一文中的\"那时候\"指的是未来的日子。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_11932085_019",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "笨笨完成这篇论文经历了四个阶段：一开始_____，接着— ________________， 再到后来_______________， 最后成文。",
+    "options": null,
+    "answer": "在电脑上查找资料 到社区图书馆查找资料 到迈阿密大学图书馆借书",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解属阅读策略训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u3.k1_21cnjy_11932085_019",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_11932085_020",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "本文的标题是一个问句，读了这篇短文，你会怎样回答这个问题？",
+    "options": null,
+    "answer": "不是只有科学才能做研究，平常人只要有好奇心，爱思考，有锲而不舍、不怕困难的精神，同样可以做研究。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标题问答阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_11932085_025",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "习作。科学家的光辉成就都是从一个个小问号、一个个小发现开始的。在生活中，我们也会有类似的经历——一个小小的疑问激发了我们的好奇心，我们会想尽办法弄明白到底是怎么一回事，最终我们有了自己独特的发现。请你写一写这样的一次经历，注意除了发现的过程，也要把发现后的体会写出来。要求：字迹工整，不少于450字，语言通顺。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕科学发现写经历,契合单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_12258094_010",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "下列句子没有语病的一项是（    ）",
+    "options": [
+      "联欢会上，他首先第一个走上台表演节目。",
+      "奶奶的菜园里种了茄子、西红柿、黄瓜和蔬菜。",
+      "我经常阅读科幻小说。",
+      "松鼠喜欢把窝搭在高大的大树上。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改属基础语法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 我经常阅读科幻小说。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k1_21cnjy_26537814_009"
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_12258094_013",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "下列句式变换有误的一项是（    ）",
+    "options": [
+      "山民的几句朴素的话包蕴着意味深长的哲理。(缩句)话包蕴着哲理。",
+      "这是了不起的奇迹。(改为双重否定句)这不可能不是了不起的奇迹。",
+      "这点小事，不能要妈妈担心。改为反问句：这点小事，难道能要妈妈担心吗？",
+      "爸爸说：\"你明天别去玩了，我带你有事去。\"(换一种说法,意思不变)爸爸说，你明天别去玩了，他带你有事去。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式变换综合训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 爸爸说：\"你明天别去玩了，我带你有事去。\"(换一种说法,意思不变)爸爸说，你明天别去玩了，他带你有事去。",
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k3_51jiaoxi_12184775_004"
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25883233_005",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "科技馆前厅的电子屏上滚动着\"惊奇就是科学的种子\"宣传标语，辰辰看到后就认定这是元代赵孟頫的楷书字体，因为赵孟頫的楷书字体具备下列特点：（ ）①运笔自然，点画圆润多姿，有行书的笔意 ②结构严谨端庄，平正宽绰 ③秀丽柔美，稳健大方 ④线条粗细变化明显，有明显的锋芒和骨力",
+    "options": [
+      "①②③",
+      "①②③④",
+      "①②④",
+      "②③"
+    ],
+    "answer": "0",
+    "explanation": "①赵孟頫的楷书运笔自然，点画圆润多姿，并且融入了行书的笔意，使字体在端庄严谨中又带有灵动飘逸之感，所以特点①符合赵孟頫楷书字体的特点。②赵孟頫的楷书结构严谨端庄，平正宽绰，整体布局规整，给人一种稳重、大气的感觉，体现了其楷书在结构上的独特造诣，所以特点②符合赵孟頫楷书字体的特点。③赵孟頫的楷书风格秀丽柔美，稳健大方，笔画流畅自然，既不过于刚硬，也不过于柔弱，展现出一种优雅的气质，所以特点③符合赵孟頫楷书字体的特点。④线条粗细变化明显，有明显的锋芒和骨力，这是颜真卿楷书的特点。而赵孟頫的楷书线条相对较为圆润、流畅，没有特别明显的锋芒和骨力，所以特点④不符合赵孟頫楷书字体的特点。因此①②③符合赵孟頫楷书字体的特点。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法鉴赏，科学想象单元拓展",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ①②③",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_25068996_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "下列四个句子中，没有语病的一项是（　　）",
+    "options": [
+      "由于生活水平改变了，人们的日子越过越红火。",
+      "我们要共同爱护集体的利益，珍惜班级的荣誉。",
+      "在阅读文学名著的过程中，我明白了许多做人的道理。",
+      "每年3月，金黄色的油菜花一齐盛开，五颜六色，十分绚丽。"
+    ],
+    "answer": "2",
+    "explanation": "A：原句用词不当，\"生活水平\"应该是\"提高\"，而不是\"增加\"。B：用词不当，把\"爱护\"改为\"维护\"。C：正确。D：这句话的语病是：\"金黄色的油菜花\"和\"五颜六色十分绚丽\"互相矛盾了。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语言运用综合病句辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:42.315465"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 在阅读文学名著的过程中，我明白了许多做人的道理。",
+    "has_answer": true,
+    "duplicate_of": "语文_u3.k6_21cnjy_25068996_006"
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_15393503_002",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "根据语境，看拼音，写词语。科学家们有勤于思考的习惯，他们能够jiàn wēi zhī zhù( )，发现问题并sōu jí( )资料进行研究，从而在科学lǐnɡ yù( )有所建树。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学家善于思考，属科学与想象单元",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_041",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "To avoid being _____ by his own careless mistakes, he started to brainstorm every possible design.",
+    "options": [
+      "fooled",
+      "beaten",
+      "touched",
+      "praised"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学发明语境下的完形填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_042",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He tried different materials and recorded how much water each material could _____ or let pass slowly.",
+    "options": [
+      "displace",
+      "save",
+      "hold",
+      "waste"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学实验描述材料功能",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_043",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "It looked simple but _____.",
+    "options": [
+      "useless",
+      "practical",
+      "difficult",
+      "expensive"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "事物特点描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_044",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "On the competition day, Leo walked _____ to the stage and showed his invention.",
+    "options": [
+      "straight",
+      "slowly",
+      "shyly",
+      "nervous"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述人物状态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_045",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Leo explained his design clearly and successfully _____ his ideas across to all the listeners.",
+    "options": [
+      "got",
+      "took",
+      "made",
+      "turned"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "固定搭配表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_046",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "_____, keeping an open mind and taking breaks properly can help us think outside the box.",
+    "options": [
+      "However",
+      "Thus",
+      "Also",
+      "Besides"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "逻辑连接词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_047",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Great ideas are not only _____ among famous scientists like Archimedes or Franklin.",
+    "options": [
+      "wide",
+      "widespread",
+      "wild",
+      "wise"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_048",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "For ordinary students, small and thoughtful creations can also _____ our daily life.",
+    "options": [
+      "improve",
+      "change",
+      "damage",
+      "control"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_049",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Isn't that _____ amazing?",
+    "options": [
+      "a",
+      "an",
+      "/",
+      "the"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "感叹句冠词用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_053",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "这种创新的解题思路实在太巧妙了！(How感叹句)",
+    "options": null,
+    "answer": "How brilliant the creative problem-solving method is!",
+    "explanation": "原句中太巧妙了是关键词，how引导感叹句，结构为How+形容词+主语+谓语，brilliant表示巧妙的、绝妙的。因此填How;brilliant。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "How感叹句结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_056",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "Nowadays, more and more teenagers love creative practice at school. A group of Grade Nine students once designed a ______ environmental device in their science class.",
+    "options": null,
+    "answer": "brilliant",
+    "explanation": "句意：一群九年级学生曾在科学课上设计了一个出色的环保装置。空处修饰名词device，需填形容词；结合后文small creative ideas can change our daily life可知，这个装置是出色的，brilliant意为杰出的、出色的，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科学发明话题选词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_057",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "They wanted to ______ that small creative ideas can change our daily life.",
+    "options": null,
+    "answer": "prove",
+    "explanation": "句意：他们想证明小小的创意可以改变我们的日常生活。空处位于wanted to之后，需填动词原形；结合后文small creative ideas can change our daily life可知，他们想证明这一点，prove意为证明，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词搭配prove",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_058",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "They first used special light ______ to make the main part of the device.",
+    "options": null,
+    "answer": "metal",
+    "explanation": "句意：他们首先使用特殊的轻金属制造设备的主要部分。空处需填名词作动词used的宾语；结合make the main part可知，此处指制作装置主体的材料，metal意为金属，指材料，为不可数名词，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "材料名词选择",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_059",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "Then they ______ a small box with clean water to test its function.",
+    "options": null,
+    "answer": "filled",
+    "explanation": "句意：然后他们在一个小盒子里装满干净的水来测试其功能。空处作谓语，需填动词；结合a small box with clean water可知，是装满水，fill意为装满，描述过去动作用一般过去时，故填filled。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "实验动词选择",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26546730_060",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "They learned to ______ simple electricity tests by themselves and kept a ______ state during the experiment.",
+    "options": null,
+    "answer": "conduct",
+    "explanation": "句意：他们学会了自己进行简单的电学测试，并在实验过程中保持平衡状态。空处位于learned to之后，需填动词原形；结合simple electricity tests可知，是进行测试，conduct意为进行、实施，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "实验相关词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_001",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "\"Oil and salt are added by the machine.\" means the machine ________ the oil and salt.",
+    "options": [
+      "adds",
+      "is added",
+      "was added",
+      "adding"
+    ],
+    "answer": "0",
+    "explanation": "句意：\"油和盐由机器添加。\"意味着机器添加油和盐。adds添加；is added被添加；was added被添加；adding正在添加。原句\"are added by the machine\"是一般现在时的被动语态，机器是动作的执行者。改为主动语态时，主语the machine为第三人称单数，谓语动词应用一般现在时的第三人称单数形式adds。故选A。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "被动语态,科技说明文常见语法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. adds",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_002",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Lots of useful inventions ________ to make people's lives better so far.",
+    "options": [
+      "create",
+      "created",
+      "are created",
+      "have been created"
+    ],
+    "answer": "3",
+    "explanation": "句意：到目前为止，许多有用的发明被创造出来使人们的生活更美好。根据时间状语so far可知，句子时态为现在完成时；主语inventions与谓语create之间是被动关系，所以用现在完成时的被动语态，结构为\"have/has been done\"。主语是复数，助动词用have，create的过去分词是created。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "现在完成时被动语态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. have been created",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_003",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "We are saving money so that we can ________ to travel to Europe next summer.",
+    "options": [
+      "avoid",
+      "admire",
+      "afford",
+      "allow"
+    ],
+    "answer": "2",
+    "explanation": "句意：我们正在存钱，以便我们明年夏天能负担得起去欧洲旅行的费用。avoid避免；admire羡慕；afford负担得起；allow允许。根据\"We are saving money\"可知，存钱是为了有足够的钱去旅行，afford to do sth.意为\"负担得起做某事\"，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "afford用法,科技话题词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. afford",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_004",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "In the sentence \"A mini-camera is connected to the glasses.\", the verb is in _______ voice.",
+    "options": [
+      "active",
+      "passive",
+      "past",
+      "future"
+    ],
+    "answer": "1",
+    "explanation": "句意：在句子\"一个微型摄像头被连接到眼镜上\"中，动词是被动语态。active主动的；passive被动的；past过去的；future将来的。根据句子\"A mini-camera is connected to the glasses.\"中\"is connected\"结构可知，由\"be动词+过去分词\"构成，表示主语是动作的承受者，为被动语态，且题目询问的是voice（语态）。应填passive。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "被动语态识别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. passive",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_005",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "The scientist got a clever idea ________ and solved the difficult problem.",
+    "options": [
+      "suddenly",
+      "nearly",
+      "mostly",
+      "simply"
+    ],
+    "answer": "0",
+    "explanation": "句意：这位科学家突然想到了一个巧妙的主意，解决了这个难题。suddenly突然地；nearly几乎；mostly主要地；simply简单地。根据\"got a clever idea... and solved the difficult problem\"可知，想到解决难题的巧妙主意通常是灵光一闪，突然发生的，suddenly符合句意。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析,scientist与idea",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. suddenly",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "The word \"production\" comes from the verb \"________\".",
+    "options": [
+      "produce",
+      "product",
+      "productive",
+      "producer"
+    ],
+    "answer": "0",
+    "explanation": "句意：\"production\"一词源自动词\"produce\"。produce生产，动词；product产品，名词；productive多产的，形容词；producer生产者，名词。根据题干关键词\"verb\"可知，此处需要填入动词，故选用produce。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词性转化,produce派生",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. produce",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_007",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "I can't afford ________ a new laptop now. This one still works well.",
+    "options": [
+      "buy",
+      "buying",
+      "to buy",
+      "bought"
+    ],
+    "answer": "2",
+    "explanation": "句意：我现在买不起一台新笔记本电脑。这台还能用。afford to do sth.表示\"负担得起做某事\"，to buy符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "afford to do固定搭配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. to buy",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_008",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "The teacher's words ________ me to keep working hard and never give up.",
+    "options": [
+      "inspire",
+      "inspires",
+      "inspiration",
+      "inspiring"
+    ],
+    "answer": "0",
+    "explanation": "句意：老师的话语激励我继续努力，永不放弃。inspire激励；inspires激励；inspiration灵感；inspiring鼓舞人心的。句子缺少谓语动词，排除C和D。主语\"The teacher's words\"是复数，谓语动词应用原形。应填inspire。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "主谓一致与词性,inspire",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. inspire",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_009",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "The ________ of this new robot looks like a real person.",
+    "options": [
+      "shape",
+      "size",
+      "height",
+      "weight"
+    ],
+    "answer": "0",
+    "explanation": "句意：这个新机器人的外形看起来像真人。shape形状，外形；size尺寸，大小；height高度；weight重量。根据\"looks like a real person\"可知，此处指机器人的外形轮廓像人，而非大小、高度或重量。应填shape。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "机器人外形描述,shape",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. shape",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_010",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "This kind of paper is ________ from wood. It looks very smooth.",
+    "options": [
+      "made",
+      "invented",
+      "created",
+      "discovered"
+    ],
+    "answer": "0",
+    "explanation": "句意：这种纸是由木材制成的。它看起来很光滑。made制造；invented发明；created创作；discovered发现。根据题干\"is...from wood\"及纸由木材制成且看不出原材料，be made from是动词短语，意为\"由……制成（看不出原材料）\"，应填made。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be made from被动结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. made",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_011",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Ideas are everywhere, but not all ideas change the world. What makes some ideas powerful _____1_____ others are quickly forgotten  The answer often lies in how they are _____2_____ and shared with others.",
+    "options": [
+      "while",
+      "because",
+      "unless",
+      "although"
+    ],
+    "answer": "0",
+    "explanation": "句意：是什么让一些想法充满力量，而另一些却很快被遗忘。前后两类想法形成对比，while意为\"然而、而\"，用于对比两种不同情况。because\"因为\"表原因，unless\"除非\"表条件，although\"虽然\"表让步，均无法体现对比逻辑。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词辨析,发明话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. while",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_012",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "The answer often lies in how they are _____2_____ and shared with others.",
+    "options": [
+      "discovered",
+      "developed",
+      "forgotten",
+      "ignored"
+    ],
+    "answer": "1",
+    "explanation": "句意：答案往往在于这些想法如何被完善并与他人分享。结合后文把灵感落地为发明的内容，developed意为\"完善、发展\"，指将初步想法打磨成熟。discovered\"发现\"、forgotten\"遗忘\"、ignored\"忽视\"不符合把想法落地的文意。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词辨析,ideas与develop",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. developed",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_013",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "History shows us that great inventions often start _____3_____ a simple question: \"Is there a better way \"",
+    "options": [
+      "in",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": "2",
+    "explanation": "句意：历史告诉我们，伟大发明往往始于一个简单问题：有没有更好的办法。固定搭配start with意为\"以……作为开端\"，符合\"从提问开启创新\"的语境。in、for、by无法构成该短语。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "介词搭配,start with",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. with",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_014",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "When people ask this question, they open _____4_____ minds to new possibilities.",
+    "options": [
+      "his",
+      "her",
+      "their",
+      "our"
+    ],
+    "answer": "2",
+    "explanation": "句意：当人们提出这个问题，他们会打开自己的思维接纳新可能。主语是people，对应形容词性物主代词their意为\"他们的\"。his\"他的\"、her\"她的\"、our\"我们的\"人称不匹配。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代词their指代people",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. their",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_015",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "However, having a question is just the _____5_____.",
+    "options": [
+      "end",
+      "beginning",
+      "middle",
+      "result"
+    ],
+    "answer": "1",
+    "explanation": "句意：然而，提出问题仅仅只是开端。结合后文\"The real work begins when people try to answer it\"，提问只是第一步，beginning意为\"开端、起点\"。end\"终点\"、middle\"中间\"、result\"结果\"语义相反。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名词辨析,just the beginning",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. beginning",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_016",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Before paper was _____6_____, people wrote on bamboo slips and silk, which were either heavy or expensive.",
+    "options": [
+      "invented",
+      "discovered",
+      "created",
+      "found"
+    ],
+    "answer": "0",
+    "explanation": "句意：在纸被发明之前，人们在竹简或丝绸上书写，二者要么笨重要么昂贵。paper是全新创造出的物品，invented意为\"发明\"，特指创造此前不存在的事物。discovered\"发现\"（发现原本存在的事物）、created\"创造\"侧重艺术创作、found\"找到\"均不匹配科技发明语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "纸的发明,被动语态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. invented",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_017",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Cai Lun, a Chinese inventor, thought hard about this problem and _____7_____ a way to make paper from plant fibers.",
+    "options": [
+      "came up with",
+      "came across",
+      "came out",
+      "came over"
+    ],
+    "answer": "0",
+    "explanation": "句意：中国发明家蔡伦认真思考这个难题，并想出了用植物纤维造纸的方法。came up with意为\"想出（办法、主意）\"，贴合研发造纸方案的语境。came across\"偶遇\"、came out\"出版、开花\"、came over\"过来\"均无\"想出方案\"含义。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "短语动词,come up with",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. came up with",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_018",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "His invention changed the way people recorded and shared _____8_____ forever.",
+    "options": [
+      "food",
+      "money",
+      "time",
+      "knowledge"
+    ],
+    "answer": "3",
+    "explanation": "句意：他的发明永久改变了人们记录、分享知识的方式。纸张的作用是承载、传递知识，knowledge意为\"知识\"。food\"食物\"、money\"金钱\"、time\"时间\"和文字记录无关。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名词辨析,share knowledge",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. knowledge",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_019",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Johannes Gutenberg _____9_____ that books could be copied using movable type.",
+    "options": [
+      "believed",
+      "realized",
+      "forgot",
+      "doubted"
+    ],
+    "answer": "1",
+    "explanation": "句意：约翰内斯·古腾堡意识到书籍可以用活字印刷复制。古腾堡发现活字印刷的可行性，realized意为\"意识到、认识到\"。believed\"单纯相信\"缺少发现顿悟的含义，forgot\"忘记\"、doubted\"怀疑\"语义相悖。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词辨析,Gutenberg与印刷术",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. realized",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_020",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "This idea made books much _____10_____ to produce.",
+    "options": [
+      "cheaper",
+      "more expensive",
+      "harder",
+      "heavier"
+    ],
+    "answer": "0",
+    "explanation": "句意：这个想法让书籍制作成本变得更低。对比此前手工抄写，活字印刷降低成本，cheaper意为\"更便宜的\"。more expensive\"更贵的\"、harder\"更困难的\"、heavier\"更重的\"不符合印刷术带来的优势。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词比较级,cheaper",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. cheaper",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_021",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "As a result, knowledge spread _____11_____ widely than ever before.",
+    "options": [
+      "much",
+      "more",
+      "most",
+      "less"
+    ],
+    "answer": "1",
+    "explanation": "句意：结果就是，知识比以往传播得更为广泛。widely为多音节副词，比较级形式为more widely，符合后文than的比较语境。much不能单独使widely变为比较级，most修饰形容词最高级；less\"更少\"，不符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完形填空，词汇理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. more",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_022",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "What do these inventors have _____12_____ common",
+    "options": [
+      "at",
+      "for",
+      "in",
+      "on"
+    ],
+    "answer": "2",
+    "explanation": "句意：这些发明者有什么共同之处。固定搭配have...in common意为\"有共同特征\"，介词用in。at、for、on无此搭配。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "固定搭配in common",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. in",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_023",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "They didn't give up when they _____13_____ difficulties.",
+    "options": [
+      "made",
+      "avoided",
+      "met",
+      "caused"
+    ],
+    "answer": "2",
+    "explanation": "句意：当他们遭遇困境时，他们没有放弃。met是meet的过去式，meet difficulties意为\"遇到、遭遇困难\"。made\"制造\"、avoided\"躲避\"、caused\"造成\"不符合句意。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词短语meet difficulties",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. met",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_024",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "They kept learning from their _____14_____ until they succeeded.",
+    "options": [
+      "failures",
+      "successes",
+      "inventions",
+      "creations"
+    ],
+    "answer": "0",
+    "explanation": "句意：他们不断从失败中学习，直到取得成功。前文提到发明者会遇到困难不放弃，failures意为\"失败、挫折\"。successes\"成功\"、inventions\"发明\"、creations\"创作\"和\"学习汲取教训\"的语境不符。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语境词汇failures",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. failures",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_025",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Great ideas may come _____15_____ inspiration, but turning them into reality requires hard work and persistence.",
+    "options": [
+      "from",
+      "by",
+      "for",
+      "to"
+    ],
+    "answer": "0",
+    "explanation": "句意：伟大的想法或许源自灵感，但将想法变为现实需要辛勤付出与坚持不懈。固定搭配come from意为\"源自、来自\"，说明灵感是想法的来源。by、for、to无法构成该短语。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "介词搭配come from",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. from",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_026",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "According to the passage, why did Thomas Edison invent the light bulb",
+    "options": [
+      "Because he wanted to become famous.",
+      "Because he wanted to solve the problem of darkness.",
+      "Because he needed a new project.",
+      "Because he wanted to prove he was smart."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Because he wanted to solve the problem of darkness.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_027",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does Edison's quote \"I have not failed. I've just found 10,000 ways that won't work.\" teach us",
+    "options": [
+      "Failure is shameful.",
+      "Great ideas come easily.",
+      "We should give up when things get hard.",
+      "Failure is part of the learning process."
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解主旨推断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. Failure is part of the learning process.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_028",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "According to the passage, why is it important to share ideas",
+    "options": [
+      "Because ideas can only change the world when shared.",
+      "Because sharing ideas makes people famous.",
+      "Because everyone should have the same ideas.",
+      "Because it is easy to share ideas."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Because ideas can only change the world when shared.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_029",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What does the underlined word \"profound\" in the last paragraph most probably mean",
+    "options": [
+      "Simple and easy.",
+      "Deep and meaningful.",
+      "Long and complicated.",
+      "Boring and useless."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解词义猜测",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Deep and meaningful.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_030",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What is the main purpose of this passage",
+    "options": [
+      "To explain what makes an idea powerful.",
+      "To describe different types of inventions.",
+      "To compare famous inventors.",
+      "To encourage people to become inventors."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解主旨大意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. To explain what makes an idea powerful.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_031",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "History shows us that great inventions often start __________ a simple question: \"Is there a better way?\" When people ask this question, they open __________ minds to new possibilities. However, having a question is just the __________. The real work begins when people try to answer it.\nOne example is the invention of paper. Before paper was __________, people wrote on bamboo slips and silk, which were either heavy or expensive. Cai Lun, a Chinese inventor, thought hard about this problem and __________ a way to make paper from plant fibers. His invention changed the way people recorded and shared __________ forever.\nAnother example is the printing press. Johannes Gutenberg __________ that books could be copied using movable type. This idea made books much __________ to produce. As a result, knowledge spread __________ widely than ever before.\nWhat do these inventors have __________ common? They were curious, patient, and willing to try new things. They didn't give up when they __________ difficulties. They kept learning from their __________ until they succeeded.\nAs the saying goes, \"Genius is one percent inspiration and ninety-nine percent perspiration.\" Great ideas may come __________ inspiration, but turning them into reality requires hard work and persistence.",
+    "options": null,
+    "answer": "{'1': 'A', '2': 'B', '3': 'C', '4': 'C', '5': 'B', '6': 'A', '7': 'A', '8': 'D', '9': 'B', '10': 'A', '11': 'B', '12': 'C', '13': 'C', '14': 'A', '15': 'A'}",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语法填空start with短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_032",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "According to the passage, why did Thomas Edison invent the light bulb?",
+    "options": [
+      "Because he wanted to become famous.",
+      "Because he wanted to solve the problem of darkness.",
+      "Because he needed a new project.",
+      "Because he wanted to prove he was smart."
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Because he wanted to solve the problem of darkness.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_033",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "According to the passage, why is it important to share ideas?",
+    "options": [
+      "Because ideas can only change the world when shared.",
+      "Because sharing ideas makes people famous.",
+      "Because everyone should have the same ideas.",
+      "Because it is easy to share ideas."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Because ideas can only change the world when shared.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_034",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What is the main purpose of this passage?",
+    "options": [
+      "To explain what makes an idea powerful.",
+      "To describe different types of inventions.",
+      "To compare famous inventors.",
+      "To encourage people to become inventors."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解主旨大意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. To explain what makes an idea powerful.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_035",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "Li Wei believes the printing press is the most important invention.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读判断细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_036",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "Wang Mei thinks the Internet connects people and allows them to share information.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读判断细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_037",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "Zhang Peng believes the wheel is a complicated idea.",
+    "options": null,
+    "answer": "F",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读判断细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_038",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "Mr. Chen says the real power of ideas is in the ideas themselves.",
+    "options": null,
+    "answer": "F",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读判断细节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_039",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "The passage mainly discusses different opinions about the most important inventions.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读判断主旨",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_040",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "Many great inventions were not planned. They happened by accident. __________",
+    "options": [
+      "His small pieces of paper kept falling off the pages.",
+      "At first, no one could think of a use for it.",
+      "The sticky note quickly became popular.",
+      "Sometimes the best ideas come from mistakes."
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选词填空语篇衔接",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.138591"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. Sometimes the best ideas come from mistakes.",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_21cnjy_26414711_060",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "Tom: Hi, let's talk about Cai Lun and papermaking.\nLily: OK. __________",
+    "options": [
+      "What materials did Cai Lun use to make paper?",
+      "What was the process of making paper back then?",
+      "Why did Cai Lun want to invent new paper?",
+      "What influence did papermaking have on the world?"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26414711",
+      "site": "21世纪教育网",
+      "title": "doc 26414711",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "科普对话话题衔接",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:09.139595"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. Why did Cai Lun want to invent new paper?",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_001",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "补全对话：从方框中选择合适的选项补全对话（有两个多余选项）。A: Hi, Sally! What are yu reading? B: I'm reading a bk abut great peple. A: Can I read with yu? B: _____(1)_____ A: Lk at this picture. _____(2)_____ B: He's Thmas Edisn. _____(3)_____ A: What was he famus fr? B: _____(4)_____ A: Ww! What abut the Wright Brthers? B: _____(5)_____",
+    "options": [
+      "Wh is he?",
+      "He was famus fr his inventins.",
+      "He was an American inventr.",
+      "Sure!"
+    ],
+    "answer": "D|C|B|B|E",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "话题为伟大的发明家，属科学与人物主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_002",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "连词成句：was / inventr / He / great / a (.)",
+    "options": null,
+    "answer": "He was a great inventr.",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句训练基本句型结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_003",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "连词成句：famus / He / fr / was / his / inventins (.)",
+    "options": null,
+    "answer": "He was famus fr his inventins.",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句训练基本句型结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_004",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "连词成句：invented / They / plane / first / the (.)",
+    "options": null,
+    "answer": "They invented the first plane.",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句训练基本句型结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_005",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "连词成句：abut / him / yu / d / What / knw (?)",
+    "options": null,
+    "answer": "What d yu knw abut him?",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句训练疑问句结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_006",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "连词成句：wrld / the / in / famus / He / is (.)",
+    "options": null,
+    "answer": "He is famus in the wrld.",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句训练基本句型结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_007",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "阅读短文，判断下列句子是否与短文内容相符，相符写 T，不相符写 F。1. Thmas Edisn was a great inventr.",
+    "options": null,
+    "answer": "T",
+    "explanation": "短文首句Thmas Edisn was a great inventr.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读短文判断，属一般阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_008",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "He was brn in England in 1847.",
+    "options": null,
+    "answer": "F",
+    "explanation": "短文说He was brn in America in 1847.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读短文判断，属一般阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_009",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "He liked math and science.",
+    "options": null,
+    "answer": "T",
+    "explanation": "短文He liked math and science very much.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读短文判断，属一般阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_010",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "He invented the light bulb.",
+    "options": null,
+    "answer": "T",
+    "explanation": "短文He invented the light bulb.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读短文判断，属一般阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_011",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读判断",
+    "stem": "He had nly 100 inventins.",
+    "options": null,
+    "answer": "F",
+    "explanation": "短文He had mre than 1,000 inventins in his life.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读短文判断，属一般阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k1_51jiaoxi_18708675_012",
+    "subject": "语文",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "书面表达：以\"A Great Inventr\"为题，写一篇短文。提示：他/她是谁？他/她是哪国人？他/她发明了什么？你觉得他/她怎么样？要求：1. 条理清晰，语句通顺；2. 不少于5句话；3. 书写规范。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18708675.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "话题为伟大发明家，契合科学与想象主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:03:24.726717"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  }
+]

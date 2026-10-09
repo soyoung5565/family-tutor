@@ -1,0 +1,1901 @@
+[
+  {
+    "qid": "数学_u5.k2_zxxk_48918177_001",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单选题",
+    "stem": "将4∶5的前项和后项同时乘上4之后，比值是（）。",
+    "options": [
+      "0.8",
+      "3.2",
+      "0.2",
+      "32"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的基本性质：前项后项同乘一数，比值不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.089017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_zxxk_48918177_002",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "小明和哥哥去年年龄的比是5：8，今年他们年龄的比不变。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的前后项同加一个数，比值改变（不是不变），判断错误",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.089017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_zxxk_48918177_003",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比的前项和后项同时乘上或除以相同的数，比值不变。()",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48918177.html",
+      "site": "学科网",
+      "title": "第六单元 比的认识易错精选题检测卷(专项训练)-2024-2025学年六年级上册数学北师大版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质：同乘/除相同数，比值不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.089017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_zxxk_59525295_004",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把3∶5的后项增加10，要使比值不变，比的前项应（）。",
+    "options": [
+      "加上6",
+      "加上10",
+      "乘6",
+      "乘10"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59525295.html",
+      "site": "学科网",
+      "title": "广东省深圳市福田区2025-2026学年北师大版六年级上学期11月份月考数学试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查比的基本性质：前项后项同乘同除比值不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_zxxk_55623663_005",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "【易错题】沈阳方圆大厦是一座古钱币造型的建筑。在比例尺是的图纸上，此建筑设计图的正面外圆直径与中间正方形的边长的比是，那么正面外圆直径与中间正方形的边长实际之比是()。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺缩小同倍数，比值不变，比的基本性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.089017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_zxxk_55539155_006",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如果把4∶7的后项加上21，要使比值不变，它的前项应该（）。",
+    "options": [
+      "加上21",
+      "乘3",
+      "加上12"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55539155.html",
+      "site": "学科网",
+      "title": "期末练习卷(试题)-2025-2026学年六年级上册数学北师大版 - 学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质：前后项同乘同除（不为0），比值不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.089017"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_15920805_024",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比的前项和后项都乘或除以同一个数，比值大小不变。 （ ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质需乘除同非零数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_14474960_001",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把5∶3的后项加上9，要使比值不变，前项应（ ）。",
+    "options": [
+      "加上9",
+      "扩大到原来的4倍",
+      "扩大到原来的9倍"
+    ],
+    "answer": "1",
+    "explanation": "比的基本性质：比的前项和后项同时乘或除以相同的数（0除外），比值不变。比的后项3加9得12，相当于后项扩大到原来的4倍，根据比的基本性质，比的前项也要扩大到原来的4倍。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质：同乘后项变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 扩大到原来的4倍",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_14474960_020",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "10∶6＝（10－2）∶（6－2）＝8∶4。",
+    "options": null,
+    "answer": "×",
+    "explanation": "10∶6＝5∶3，8∶4＝2∶1，5∶3≠2∶1。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14474960.html",
+      "site": "21世纪教育网",
+      "title": "第4单元比常考易错检测卷（单元测试）-小学数学六年级上册人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断比的基本性质应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:01.920396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_6042285_012",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在比例尺为1：20000的学校平面布局图上，学生食堂到教学楼的距离是2.4厘米，学生食堂到教学楼的实际距离是________米。",
+    "options": null,
+    "answer": "480",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺=图上距离÷实际距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_6042285_014",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "A、B两地之间的实际距离大约是600千米，把它们画在一幅比例尺是1：1000000的地图上，它们之间的图上距离是________厘米。",
+    "options": null,
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺=图上距离÷实际距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_6042285_019",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "按2：1画出三角形A放大后的图形B。",
+    "options": null,
+    "answer": "A图形的两条直角边分别是3、2个格，扩大后的A图形的直角边分别是3×2＝6个格、2×2＝4个格，据此画出两条直角边，然后连线画出三角形的斜边",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按比例放大图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_6042285_020",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "图形的放大与缩小。①按3：1的比画出三角形放大后的图形。②按1：2的比画出长方形缩小后的图形。",
+    "options": null,
+    "answer": "根据题干解析画图",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按比例放大与缩小图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_16610351_010",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个圆的半径比是3：5，它们的周长比是(       )，面积比是(        )。",
+    "options": null,
+    "answer": "3：5；9：25",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径比推周长比与面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_14890728_009",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "（2021秋•铜山区期末）把8：15的前项增加16，要使比值不变，后项应增加_____．",
+    "options": null,
+    "answer": "30",
+    "explanation": "根据比的基本性质：比的前项和后项同时乘或除以一个相同的数（0除外）比值不变进行解答．比的前项增加16，比的前项就扩大了（8+16）÷8＝3倍，比的后项也要扩大3倍，求出扩大后的数，再减15，就是应增加的数．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14890728.html",
+      "site": "教习网",
+      "title": "【填空题20题】第三单元《分数除法》同步练习数学六年级上册高频易错题真题汇编（含解析）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质，前项变后项同变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:11.852392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676537_008",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比的前项和后项同时乘或除以相同的数（0除外），比值不变。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "这是比的基本性质，化简比就依据这条性质。注意\"相同的数\"不能是 0。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676537_014",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面各比中，与 3 : 4 的比值相等的是（________）。 A. 4 : 3  B. 9 : 12  C. 12 : 9  D. 15 : 25",
+    "options": [
+      "4 : 3",
+      "9 : 12",
+      "12 : 9",
+      "15 : 25"
+    ],
+    "answer": "1",
+    "explanation": "3 : 4 的比值是 3/4。9 : 12 的比值是 9 ÷ 12 = 3/4，相等。A（4 : 3）和 C（12 : 9）都是 4/3，是前后项颠倒后得到的错误比值；D 的比值是 3/5。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用比的基本性质求等比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.860242"
+    },
+    "answer_text": "B. 9 : 12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_15302301_012",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果A：B＝1/2，那么（A×6）：（B×6）＝（  ）",
+    "options": [
+      "1",
+      "1/2",
+      "1：1",
+      "无法确定"
+    ],
+    "answer": "1",
+    "explanation": "比的前项和后项同时乘或除以相同的数（0除外），比值不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质等比变形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1/2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2zxxk_49341188_008",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "8:5的前项增加16,要使比值不变，后项应增加();如果后项乘4,要使比值不变，前项应增加()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2zxxk_49341188_016",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如果A:B=12,那么(A÷0.25):(B×4)=12。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质(同乘同除)",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2zxxk_55167629_001",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把的后项乘3，要使比值不变，则的前项需要加（）。",
+    "options": [
+      "3",
+      "12",
+      "18",
+      "27"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55167629.html",
+      "site": "学科网",
+      "title": "专题04 比（期末真题汇编）六年级数学上学期（人教版·河北专用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质：前项后项同乘不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:26.820124"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2zxxk_55167629_005",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果A∶B＝，那么（A×3）∶（B×3）＝（）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55167629.html",
+      "site": "学科网",
+      "title": "专题04 比（期末真题汇编）六年级数学上学期（人教版·河北专用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质：同乘不变",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:26.820124"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_23194189_001",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据数值比例尺标明线段比例尺。数值比例尺：1﹕2000",
+    "options": null,
+    "answer": "线段比例尺：0 40 80米（每1厘米代表20米，即图上1厘米对应实际20米，线段上标0、40、80米）",
+    "explanation": "比例尺1:2000表示图上1厘米代表实际2000厘米=20米，因此线段比例尺应在0、(40)、(80)米处标注",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由数值比例尺改写为线段比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:08.868401"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_23194189_002",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一种机械手表上的螺丝直径是5毫米，画在图纸上的长度是2.5厘米。这张图纸的比例尺是多少？",
+    "options": null,
+    "answer": "5:1",
+    "explanation": "2.5厘米=25毫米，25:5=5:1。比例尺的后项是1，表示图上距离比实际距离大，是放大比例尺。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求图纸比例尺，图距÷实距",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:08.868401"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_21cnjy_23194189_004",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_23194189_003",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据线段比例尺写出数值比例尺。线段比例尺：0 50 100千米（1厘米代表50千米）",
+    "options": null,
+    "answer": "1:5000000",
+    "explanation": "图上距离∶实际距离=1厘米∶50千米=1厘米∶5000000厘米=1∶5000000",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由线段比例尺写出数值比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:08.868401"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_23194189_004",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据线段比例尺写出数值比例尺。线段比例尺：0 30 60米（1厘米代表30米）",
+    "options": null,
+    "answer": "1:3000",
+    "explanation": "图上距离∶实际距离=1厘米∶30米=1厘米∶3000厘米=1∶3000",
+    "source": {
+      "url": "https://zy.21cnjy.com/23194189",
+      "site": "21世纪教育网",
+      "title": "青岛大版（六年制）小学数学六年级下册4.1《比例尺》说课课件(共24张PPT)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,课件,说课"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由线段比例尺写出数值比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:08.868401"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.860242"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_16269526_015",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两个圆半径之比是3：4，它们周长之比是3：4 。     (         )",
+    "options": null,
+    "answer": "√",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径比等于周长比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676535_004",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "比的前项和后项同时乘或除以同一个不为0的数，比值（________）。",
+    "options": null,
+    "answer": "不变",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676535.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）比的化简优秀第3课时课时作业-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:56.839130"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676535_006",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比的前项和后项同时乘或除以同一个数，比值不变。（  ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "漏掉了\"不为0\"这个关键条件：同时乘0会得到0:0，比没有意义；同时除以0也无法进行。应该说\"同时乘或除以同一个不为0的数\"。[错因:理解]",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676535.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）比的化简优秀第3课时课时作业-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:56.839130"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676535_014",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "与3:4比值相等的比是（________）。",
+    "options": [
+      "9:12",
+      "12:9",
+      "4:3",
+      "10:15"
+    ],
+    "answer": "0",
+    "explanation": "9:12=(9÷3):(12÷3)=3:4，与3:4比值相等；B、C把前项、后项颠倒，D化简得2:3。[错因:方法]",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676535.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）比的化简优秀第3课时课时作业-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比值相等的比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:56.839694"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 9:12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676535_017",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断说明题",
+    "stem": "小亮说：\"3:8的前项和后项同时乘5，得到15:40，比值变大了。\"他说得对吗？为什么？",
+    "options": null,
+    "answer": "不对。3:8的比值是3/8；3:8=(3×5):(8×5)=15:40，15:40的比值是15/40=3/8。前项、后项同时乘同一个不为0的数，比值不变，所以小亮说得不对。",
+    "explanation": "这是比的基本性质的直接运用：同时乘5，前项、后项都乘大，但比值被约分抵消，保持不变。[错因:理解]",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676535.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）比的化简优秀第3课时课时作业-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比值不变性质辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:56.839694"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_51jiaoxi_18676535_019",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "开放题",
+    "stem": "和1:4相等的比有很多。请你写出3个与1:4相等的比，并用比的基本性质说明它们为什么相等。",
+    "options": null,
+    "answer": "示例：2:8、3:12、5:20。2:8=(2÷2):(8÷2)=1:4，3:12=(3÷3):(12÷3)=1:4，5:20=(5÷5):(20÷5)=1:4。它们都由1:4的前项、后项同时乘同一个不为0的数得到，化简后都是1:4，所以都与1:4相等。",
+    "explanation": "开放题，答案不唯一：只要写出的比化简后是1:4就符合要求。讲评时看三点——是否写出3个、每个比是否都与1:4等值、是否用\"同时乘或除以同一个不为0的数\"说明理由。[错因:理解]",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676535.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）比的化简优秀第3课时课时作业-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等比及基本性质应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:56.839694"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_24356407_002",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个比的前项是8，后项是12，若前项增加16，要使比值不变，后项应（ ）",
+    "options": [
+      "增加16",
+      "增加24",
+      "乘2",
+      "除以2"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 增加24",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_24356407_008",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把4:7的前项乘3，后项应（ ），比值不变；若前项加上8，后项应加上（ ），比值仍不变。",
+    "options": null,
+    "answer": "乘3；14",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24356407?f=beikeyi",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学 第四单元《比》单元练习题 (含答案)_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比的基本性质应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:08.198967"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_26031023_024",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "解比例。4：x=0.2：25%",
+    "options": null,
+    "answer": "x=5",
+    "explanation": "根据比例的基本性质解比例：0.2x=4×0.25，0.2x=1，x=5。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "解比例应用基本性质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_26031023_029",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "生理盐水的浓度接近人体的渗透压，因此在医学上有很多用途。取氯化钠0.9g，加入99.1g水中，可配制100g生理盐水。按照这样的浓度，如果要配制900g生理盐水，需要加入多少g氯化钠？(用比例知识列方程解答)",
+    "options": null,
+    "answer": "8.1g",
+    "explanation": "设需要加入xg氯化钠，0.9：100=x：900，100x=810，x=8.1。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "列比例方程求氯化钠质量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_25936914_024",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "天平中的物体a，b，c使天平处于平衡状态，则物体a与物体c的质量关系是(    )。",
+    "options": [
+      "2a=3c",
+      "4a=9c",
+      "a=2c",
+      "a=c"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25936914",
+      "site": "21世纪教育网",
+      "title": "doc 25936914",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比与比例关系判定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:47.426131"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 4a=9c",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_24875938_001",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个三角形，三个内角的度数比是1:3:5，这是个_______三角形。",
+    "options": null,
+    "answer": "钝角",
+    "explanation": "三个角分别为30°、90°、150°，最大角为150°，是钝角三角形。",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用比求三角形内角，判断形状",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_24875938_018",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在下面的方格图中画两个不同的正方形，使它们边长的比是3:2。",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按边长比3:2画正方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_24875938_019",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "上面的方格图中所画的两个正方形周长的比是____,面积的比是_____。",
+    "options": null,
+    "answer": "3:2;9:4",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形周长面积比等于边长比平方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k2_21cnjy_23126114_005",
+    "subject": "数学",
+    "kp_id": "u5.k2",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "龙门大桥项目全长约7.6千米，是广西在建的最长跨海大桥，如果把它画在比例尺是1：400000的地图上，应画 　     　厘米。",
+    "options": null,
+    "answer": "1.9",
+    "explanation": "7.6千米=760000厘米，760000×1/400000=1.9（厘米）。1千米=100000厘米；图上距离=实际距离×比例尺。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺=图上距离÷实际距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

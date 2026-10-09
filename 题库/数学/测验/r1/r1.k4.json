@@ -1,0 +1,107 @@
+[
+  {
+    "qid": "数学_r1.k4_zxxk_55064374_001",
+    "subject": "数学",
+    "kp_id": "r1.k4",
+    "unit_id": "r1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "垃圾分类已经成为关乎我们未来生活质量的一件大事，每一片垃圾，若处置不当，都可能成为破坏环境的\"元凶\"。为了让大家养成良好的垃圾分类意识，减少环境污染，变废为宝，环境保护部门对阳光小区2024年上半年的各类垃圾进行了统计，如下图。（1）该小区2024年上半年垃圾总量是多少？（2）请将上面两幅统计图补充完整。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55064374.html",
+      "site": "学科网",
+      "title": "第四五单元月考综合测试（试题）-2025-2026学年六年级上册数学北 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "垃圾分类综合实践题，属综合与应用范畴",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:06.973717"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_r1.k4_21cnjy_26378141_080",
+    "subject": "数学",
+    "kp_id": "r1.k4",
+    "unit_id": "r1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "综合与实践【项目主题】某校模拟用三角形和六边形地砖改善学校的活动场地．【预备知识】用形状，大小完全相同的一种或几种平面图形进行拼接，使图形之间没有空隙也没有重叠的铺成一片，叫做图形的密铺．【规律探究】用三角形和六边形按如图所示的规律拼图案．【规律应用】(1)第4个图案中，三角形的个数有_________个，六边形的个数有_________个；(2)第（为正整数）个图案中，三角形的个数有_________个，六边形的个数有_________个；【项目拓展】(3)是否存在某个符合上述规律的图案，其中有100个三角形与30个六边形？如果有，指出是第几个图案；如果没有，说明理由．",
+    "options": null,
+    "answer": "(1)10，4；(2)，；(3)没有，理由如下：∵当时，，∴不存在某个符合上述规律的图案，其中有100个三角形与30个六边形．",
+    "explanation": "（1）观察图案，首先找出哪些部分发生了变化，是按照什么规律变化的．即可得结论；（2）结合（1）即可得一般形式；（3）根据，可得不存在某个符合上述规律的图案，其中有100个三角形与30个六边形．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "密铺规律探究综合实践活动",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

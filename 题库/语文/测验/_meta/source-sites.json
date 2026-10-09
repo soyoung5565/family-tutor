@@ -1,0 +1,114 @@
+{
+  "subject": "语文",
+  "created_at": "2026-09-12T02:25:32",
+  "updated_at": "2026-09-12T02:25:32",
+  "version": "2026-09-12",
+  "sites": {
+    "深圳本地": [
+      {
+        "name": "深圳教育云",
+        "url": "https://szerc.sz.gov.cn/",
+        "access": "需登录",
+        "vip": false,
+        "owner": "深圳市教育局"
+      },
+      {
+        "name": "深圳外国语学校",
+        "url": "https://www.sfls.net.cn/",
+        "access": "公开",
+        "vip": false
+      },
+      {
+        "name": "深圳实验学校",
+        "url": "http://www.szsy.net/",
+        "access": "公开",
+        "vip": false
+      },
+      {
+        "name": "深圳中学",
+        "url": "https://www.shenzhong.net/",
+        "access": "公开",
+        "vip": false
+      },
+      {
+        "name": "深圳百合外国语",
+        "url": "https://www.szbh.net/",
+        "access": "公开",
+        "vip": false
+      }
+    ],
+    "广东省": [
+      {
+        "name": "广东省教育研究院",
+        "url": "http://www.gdedu123.com/",
+        "access": "公开",
+        "vip": false
+      },
+      {
+        "name": "广东教育出版社",
+        "url": "http://www.gdtextbook.com/",
+        "access": "公开",
+        "vip": false
+      },
+      {
+        "name": "广州市教研院",
+        "url": "https://www.gzedu.gov.cn/",
+        "access": "公开",
+        "vip": false
+      }
+    ],
+    "其他版本真题": [
+      {
+        "name": "人教社官网",
+        "url": "https://www.pep.com.cn/",
+        "access": "公开"
+      },
+      {
+        "name": "苏教社",
+        "url": "https://www.108teacher.com/",
+        "access": "公开"
+      },
+      {
+        "name": "北师大社",
+        "url": "http://www.bnupg.com/",
+        "access": "公开"
+      }
+    ],
+    "教辅资源": [
+      {
+        "name": "21 世纪教育网",
+        "url": "https://www.21cnjy.com/",
+        "vip": true,
+        "vip_owner": "user"
+      },
+      {
+        "name": "学科网",
+        "url": "https://www.zxxk.com/",
+        "vip": true,
+        "vip_owner": "user"
+      },
+      {
+        "name": "教习网",
+        "url": "https://www.51jiaoxi.com/",
+        "vip": false
+      },
+      {
+        "name": "组卷网",
+        "url": "https://www.zujuan.com/",
+        "vip": true,
+        "vip_owner": "user"
+      }
+    ],
+    "LLM 兜底": {
+      "model": "MiniMax-M3",
+      "via": "new-api 网关",
+      "fallback_when": "某 KP 搜不到 ≥ 6 道真题"
+    }
+  },
+  "notes": [
+    "1. 用户可登录 VIP 教辅网（21 世纪教育网/学科网/组卷网）补充账号信息",
+    "2. credentials 引用环境变量，不要明文存密码",
+    "3. 每搜完一个 KP 必须更新 last_used 字段",
+    "4. 新城市/新教材时，整体替换 sites 但保留 schema"
+  ]
+}

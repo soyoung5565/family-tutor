@@ -1,0 +1,1219 @@
+[
+  {
+    "qid": "语文_u3.k6_zxxk_54166240_001",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各组句子中，加点词语的意思相同的一项是()",
+    "options": [
+      "我实在气不过，就和她理论了几句。太过高深的理论知识我们听不懂。",
+      "这匹烈马很难制服。王警官穿上崭新的制服，更加帅气了。",
+      "是花朵，就要点缀广阔的原野。假山怪石、花坛盆景、藤萝翠竹，点缀其间。",
+      "这块宝石是自然形成的。作为妈妈，她自然了解自己的女儿。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查一词多义辨析，属语文园地词句段运用题型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_zxxk_54166240_002",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面与成语'别出心裁'意思最相近的成语是()",
+    "options": [
+      "独具匠心",
+      "斩钉截铁",
+      "别有用心",
+      "深谋远虑"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查成语辨析，属语言积累运用类，与语文园地词句段运用最相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_zxxk_54166240_003",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式改写",
+    "stem": "这样宏伟的建筑群，这样和谐统一的布局，令人惊叹。（改成双重否定句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u3.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式改写属词句段运用训练，与本单元语文园地对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.207651"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_zxxk_59640475_004",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列词语字形和加点字读音无误的一项是",
+    "options": [
+      "抽噎(yē) 狞绳(nǐng) 拧笑(níng)",
+      "掀起(xiān) 报怨(bào) 蹿上来(cuān)",
+      "瞻仰(zhān) 勉强(qiáng) 稻草铺(pù)",
+      "拥戴(dài) 魁梧(kuí) 搀扶(chān)"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59640475.html",
+      "site": "学科网",
+      "title": "第四单元自测练习卷-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形辨析属词句段运用基础积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_zxxk_55507262_005",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "看拼音写词语，注意写得匀称、美观。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55507262.html",
+      "site": "学科网",
+      "title": "2024-2025学年江苏省扬州市广陵区育才集团统编版六年级上册期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地涉及拼音拼写规则，看拼音写词语属基础语言运用练习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25373647_001",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "读句子，看拼音写词语。（6分）（1）在哥哥的yuán zhù（　　）下，我的shè jiàn（　　）技术大大提高了。（2）我lán zhù（　　）了打算出门去斗xī shuài（　　）的弟弟，告诉他，钟表会发出qīnɡ cuì（　　）的声音，是因为有chǐ lún（　　）在里面转动。",
+    "options": null,
+    "answer": "(1)援助 射箭 (2)拦住 蟋蟀 清脆 齿轮",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地字词积累与拼音拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25373647_002",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列词语中注音全部正确的一项是（　　）（2分）",
+    "options": [
+      "诞生（dàn） 花蕊（luǐ）",
+      "盛水（shèng） 锲而不舍（qiàn）",
+      "凹凸（āo） 碱性（jiǎn）",
+      "纬度（wéi） 华罗庚（huá gēng）"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形辨析，属基础积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 凹凸（āo） 碱性（jiǎn）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25373647_003",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中，加点词语使用不正确的一项是（　　）（2分）",
+    "options": [
+      "午后，天气酷热，一丝风也没有，树上的叶子全都静止不动了。",
+      "同学们围坐在电视前，全神贯注地观看\"神舟十四号\"发射的直播，他们的内心充满了骄傲和自豪。",
+      "这本书皱皱巴巴的，看样子已经被翻过很多遍了。",
+      "他讲英文时一字一顿，非常流利。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语运用（静止等）辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 他讲英文时一字一顿，非常流利。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25373647_008",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "下列句子中有没有语病的一项是（　　）（2分）",
+    "options": [
+      "我的理智现在已经逐渐能够控诉我的沮丧心情。",
+      "他爬到了长满荆棘和黑莓藤蔓攀缘的厚石头围墙上，坐在那里环顾着自己的家。",
+      "有一天，鲁滨逊忽然马上发现海边沙滩上出现了人的脚印。",
+      "片刻之间，街道上就挤满了衣衫不整却欣喜若狂。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语病辨析与修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 他爬到了长满荆棘和黑莓藤蔓攀缘的厚石头围墙上，坐在那里环顾着自己的家。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25373647_010",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "用关联词语把下面的两句话连接成一句话。地球停止转动。不会产生这种漩涡。",
+    "options": null,
+    "answer": "如果地球停止转动，就不会产生这种漩涡。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "关联词语合并句子",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:53.773493"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 1,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.984031"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25068996_006",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "下列四个句子中，没有语病的一项是（　　）",
+    "options": [
+      "由于生活水平改变了，人们的日子越过越红火。",
+      "我们要共同爱护集体的利益，珍惜班级的荣誉。",
+      "在阅读文学名著的过程中，我明白了许多做人的道理。",
+      "每年3月，金黄色的油菜花一齐盛开，五颜六色，十分绚丽。"
+    ],
+    "answer": "2",
+    "explanation": "A：原句用词不当，\"生活水平\"应该是\"提高\"，而不是\"增加\"。原句改为：因为生活水平提高了，所以中国人民的日子越来越红火。B：用词不当，把\"爱护\"改为\"维护\"。C：正确。D：这句话的语病是：\"金黄色的油菜花\"和\"五颜六色十分绚丽\"互相矛盾了。这个句子可以改为：田野里各种野花竞相开放，五颜六色，十分绚丽。也可以改为：田野里金黄的油菜花竞相开放，黄灿灿的一片，十分夺目。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，病句修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 在阅读文学名著的过程中，我明白了许多做人的道理。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_26540512_010",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "仿写句子",
+    "stem": "仿照例句，围绕一个意思写句子。例：教室里真安静，静得能听见笔尖划过纸张的声音，静得能听见轻微的呼吸声。公园里真热闹，________",
+    "options": null,
+    "answer": "示例：公园里真热闹，热闹得到处是欢声笑语，热闹得处处充满嬉戏的身影。",
+    "explanation": "贴合句式、围绕中心即可",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540512.html",
+      "site": "21世纪教育网",
+      "title": "2026秋统编版六年级语文上册第三单元原创测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕中心分条铺陈仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:50:30.203773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_26540512_011",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "课文内容与日积月累填空。（1）__________，__________，通则久。（《周易》）（2）穷则变，__________，__________。（《礼记》）（3）__________，日日新，__________。（《大学》）",
+    "options": null,
+    "answer": "（1）穷则变 变则通；（2）变则通 通则久；（3）苟日新 又日新",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540512.html",
+      "site": "21世纪教育网",
+      "title": "2026秋统编版六年级语文上册第三单元原创测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地日积月累填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:50:30.203773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_26556115_004",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补全词语，并选择合适词语填空（8分）（ ）思（ ）虑 （ ）韧（ ）拔 （ ）微（ ）著（ ）根（ ）源 （ ）新（ ）异 （ ）思（ ）通（1）面对难题，我们要__________，多角度思考，弄懂其中的道理。（2）科研人员__________，从细微现象中捕捉科学线索，收获新发现。",
+    "options": null,
+    "answer": "深思熟虑 坚韧不拔 见微知著 追根溯源 日新月异 集思广益（1）集思广益（2）见微知著",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26556115.html",
+      "site": "21世纪教育网",
+      "title": "最新六年级语文上册第七单元专用测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，考查词语理解与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:12:48.927600"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_16427384_017",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列词语搭配不完全正确的一组是（　　）",
+    "options": [
+      "实现理想 发展生产 提高效率 履行诺言",
+      "天气晴朗 气味芬芳 医术精湛 科技发达",
+      "伤心地哭 飞快地跑 用心地记 静静地等",
+      "优美的舞姿 特殊的爱好 惨重的负担 伟大的情怀"
+    ],
+    "answer": "3",
+    "explanation": "\"惨重的负担\"搭配不当，应改为\"惨重的代价\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语搭配属词句段运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 优美的舞姿 特殊的爱好 惨重的负担 伟大的情怀",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_25915744_008",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "给下面语句排序，正确的一项是( )。(2分) ①年轻传承人通过短视频、直播等方式，让古老的技艺被更多人看见。②竹编是中国传统手工艺的瑰宝，以其精巧的编织技法和实用价值闻名。③如今，在新一代匠人的努力下，竹编技艺正焕发新的生机。④从日常用品到艺术摆件，竹编作品承载着人们对生活美学的追求。⑤为了让技艺延续，老艺人耐心传授经验，年轻人大胆创新。",
+    "options": [
+      "②④③⑤①",
+      "②③⑤①④",
+      "④②③①⑤",
+      "④③②⑤①"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语句排序，园地词句段运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.907385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k6_21cnjy_25915744_008",
+    "answer_text": "A. ②④③⑤①",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_12091063_030",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解简答",
+    "stem": "短文举了什么事例 以此来证明什么道理 (4分)",
+    "options": null,
+    "answer": "文中举了一位将军重整旗鼓打垮对手的故事，以此来证明失败并非最终结果，化痛苦为动力，就有可能成功的道理。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "把握事例论证主旨的阅读策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:19.828389"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u3.k3_21cnjy_12091063_030",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_15109679_009",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "向同学推荐本学期快乐读书吧其中一本书,并说明推荐的理由。 (4分)",
+    "options": null,
+    "answer": "我向大家推荐的是《鲁滨孙漂流记》。推荐理由:这本书是英国作家笛福所写的一本长篇小说。主要讲述了一个名为鲁滨孙的英国人,因乘船遭遇了一场暴风雨而漂流到一个荒岛上,在荒岛上,他战胜了种种困难,最终回到了英国的故事。从故事中我们可以学习到主人公的身上那种不怕困难、永不退缩的精神品质,这本书值得大家一看。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "快乐读书吧推荐阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.984031"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_23110730_024",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "与\"亲身下河知深浅,亲口尝梨知酸甜\"所蕴含的道理最相近的一项是( )",
+    "options": [
+      "听君一席话,胜读十年书。",
+      "读万卷书,行万里路。",
+      "读书须用意,一字值千金。",
+      "纸上得来终觉浅,绝知此事要躬行。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累俗语理解与名句匹配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 纸上得来终觉浅,绝知此事要躬行。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k6_21cnjy_23110730_028"
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_12091063_009",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语句排序",
+    "stem": "下列语句排列顺序正确的一项是( )。\n①你才能真正懂得读书，学会读书。 ②读教科书，在基础知识和专业技能的学习中，当然是必需的。 ③所谓读书，不只是读教科书。 ④但是，只有超越了读教科书的阶段，把读书变成了一种发自内心的、精神上的需求。 ⑤ 这是求知的阶梯，也是人生必不可少的一段路程。",
+    "options": [
+      "③②④⑤①",
+      "③②⑤①①",
+      "⑤③②④①",
+      "③①②④⑤"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语句排序与阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ③②⑤①①",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_12091063_026",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系上下文，解释下列词语的意思。(2分)\n(1)一蹶不振: (2)重整旗鼓:",
+    "options": null,
+    "answer": "(1)比喻一遭到挫折就不能再振作起来。 (2) 指失败之后，重新集合力量再干。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系上下文解释词语，语文园地",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_15109679_017",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言表达",
+    "stem": "向同学推荐本学期快乐读书吧其中一本书,并说明推荐的理由。",
+    "options": null,
+    "answer": "示例：我向大家推荐的是《鲁滨孙漂流记》。推荐理由：这本书是英国作家笛福所写的一本长篇小说。主要讲述了一个名为鲁滨孙的英国人，因乘船遭遇了一场暴风雨而漂流到一个荒岛上，在荒岛上，他战胜了种种困难，最终回到了英国的故事。从故事中我们可以学习到主人公的身上那种不怕困难、永不退缩的精神品质，这本书值得大家一看。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "读书吧推荐属阅读策略运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_21409818_025",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中加点字\"可能\"能不能去掉？为什么？",
+    "options": null,
+    "answer": "不能去掉；宇宙生命之谜中提到的\"可能\"意味着存在生命的可能性，但并非绝对确定。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会词语准确性，属词句段运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k6_21cnjy_21409818_025",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_15393503_001",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "这幅书法作品是《三门记》（局部），属于____书，其作者是____代书法家（赵孟頫 颜真卿）。下列对这幅作品的欣赏评价有误的一项是（ ）",
+    "options": [
+      "运笔自然，点画圆润多姿。",
+      "具有行书的笔意，如其中的\"为\"字和\"以\"字。",
+      "结构严谨端庄，平正宽绰；整体上显得秀丽柔美，稳健大方。",
+      "运笔速度较为迅疾，笔势连贯，笔画之间的呼应关系非常紧密。"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书法欣赏与字帖，属语文园地书写提示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_15393503_006",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子排序",
+    "stem": "下列语句排列顺序正确的一项是( )①你才能真正懂得读书，学会读书。②读教科书，在基础知识和专业技能的学习中，当然是必需的。③所谓读书，不只是读教科书。④但是，只有超越了读教科书的阶段，把读书变成了一种发自内心的精神上的需求。⑤这是求知的阶梯，也是人生必不可少的一段路程。",
+    "options": [
+      "③②④⑤①",
+      "③②⑤④①",
+      "⑤③②④①",
+      "③①②④⑤"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子排序属阅读策略训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u3.k6_21cnjy_7897198_031",
+    "subject": "语文",
+    "kp_id": "u3.k6",
+    "unit_id": "u3",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "把画线的句子改写成转述句。",
+    "options": null,
+    "answer": "班长马宝玉激动地对同志们说，他们的任务胜利完成了！",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直述句与转述句转换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k5_21cnjy_7897198_031"
+  }
+]

@@ -1,0 +1,724 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_001",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "煮米饭时，稀一点的米饭，米和水的比大概是2∶3；干一点的米饭，米和水的比大概是1∶1。根据以上信息，煮软硬适中的米饭，米和水的比可以是（    ）。",
+    "options": [
+      "1∶2",
+      "3∶5",
+      "5∶6",
+      "3∶2"
+    ],
+    "answer": "2",
+    "explanation": "稀饭米水比2∶3≈0.67，干饭米水比1∶1=1，软硬适中应在两者之间。3∶5=0.6偏稀，5∶6≈0.83在两者之间。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_001",
+    "answer_text": "C. 5∶6",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "下面四幅图能用1∶2表示的是（    ）。",
+    "options": [
+      "两个圆的半径之比（1cm和2cm）",
+      "两个正方形的面积之比（边长1cm和2cm）",
+      "两个半圆的面积之比（半径1cm和2cm）",
+      "两个正方体的体积之比（棱长1cm和2cm）"
+    ],
+    "answer": "0",
+    "explanation": "A.半径比1:2 ✓；B.面积比1:4 ✗；C.面积比1:4 ✗；D.体积比1:8 ✗。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_002",
+    "answer_text": "A. 两个圆的半径之比（1cm和2cm）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_003",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "初冬时节，深圳湾迎回了'明星'候鸟黑脸琵鹭。______，______，去年出现了多少只？以下选项中的信息组合，不能解答问题的是（    ）。",
+    "options": [
+      "③④",
+      "①⑤",
+      "②③",
+      "②④"
+    ],
+    "answer": "0",
+    "explanation": "信息：①今年375只；②今年比去年增加25%；③今年比去年增加75只；④去年比今年少20%；⑤去年是今年的80%。A.③④只知道增加量不知基准量，不能解答。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_003",
+    "answer_text": "A. ③④",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_004",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "这张照片右下角有个污点，现将照片中的污点部分裁剪掉，这时照片的'宽高比'变为4∶3（横的边为宽，竖的边为高）。符合要求的是照片（    ）。",
+    "options": [
+      "原图",
+      "裁剪后选项A",
+      "裁剪后选项B",
+      "裁剪后选项C"
+    ],
+    "answer": "1",
+    "explanation": "原图为宽大于高的横向照片，裁掉右下角污点后，需要保持宽高比为4∶3。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "难",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_004",
+    "answer_text": "B. 裁剪后选项A",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_005",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "（    ）∶24＝3÷4＝12/(    )＝（    ）%＝（    ）（填小数）",
+    "options": null,
+    "answer": "18, 16, 75, 0.75",
+    "explanation": "3÷4=0.75=75%，分子分母同比例扩大：3:4=18:24=12:16。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_005",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_006",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "神舟十八号飞船搭载的长征二号F运载火箭的芯级直径为3.35米，助推器直径为2.25米，芯级直径和助推器直径的最简整数比为（    ），比值为（    ）。",
+    "options": null,
+    "answer": "67:45；67/45",
+    "explanation": "3.35:2.25 = 335:225 = 67:45，比值 = 67/45",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_006",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_007",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "2024年9月23日至10月6日，中国网球公开赛在北京国家网球中心举行，男子单打共32位选手，第一轮是分组循环赛，4人一组，组内每两位球员之间要进行一场比赛，每一小组内要比赛（    ）场；第一轮总共要比赛（    ）场。",
+    "options": null,
+    "answer": "3场；24场",
+    "explanation": "4人组内两人比赛一场：3场；32÷4=8组，8×3=24场。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_007",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_008",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "为推动劳动教育，某校倡议小学生'每天劳动不少于30分'。项目小组随机调查了一些学生每天劳动的时间，条形统计图：30分~1时 150人；扇形统计图：30分~1时 62.5%，超过1时 25%，小于30分（  ）%。（1）项目小组一共调查了（ ）名同学。（2）请补全条形统计图和扇形统计图。（3）对于劳动时间少于30分的同学，你有什么建议？",
+    "options": null,
+    "answer": "（1）240名；（2）超过1时60人（25%），小于30分30人（12.5%）；（3）开放题",
+    "explanation": "总人数：150÷62.5%=240（人）；超过1时：240×25%=60（人）；小于30分：240-150-60=30（人），占比12.5%。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_008",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_009",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "中国自主研制的北斗三号的卫星导航系统由中国轨道卫星、地球静止轨道卫星、倾斜地球同步轨道卫星组成，这些卫星的数量之比是8:1:1，其中中国轨道卫星的数量比地球静止轨道卫星多21颗，北斗三号卫星导航系统共有多少颗卫星？",
+    "options": null,
+    "answer": "30颗",
+    "explanation": "中国轨道卫星与地球静止轨道卫星数量差对应(8-1)=7份，每份：21÷7=3（颗）。总数：3×(8+1+1)=30（颗）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_009",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_010",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "解方程",
+    "stem": "深中通道通车后，深圳到中山的车程仅需30分钟，比原来的车程节省了75%，原来的车程是多少分钟？（先画图表示等量关系，再列方程解决问题）",
+    "options": null,
+    "answer": "120分钟",
+    "explanation": "设原来x分钟，x - 75%x = 30，25%x = 30，x = 120（分钟）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u6.k1_szns_010",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_011",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "勒杜鹃代表坚韧不拔和顽强奋进的精神，被评为深圳市市花。学校种了各种颜色的勒杜鹃，其中橙黄色勒杜鹃占20%，红色勒杜鹃占2/7，橙黄色勒杜鹃比红色勒杜鹃少12棵。学校一共种了多少棵勒杜鹃？",
+    "options": null,
+    "answer": "140棵",
+    "explanation": "2/7 - 1/5 = 10/35 - 7/35 = 3/35。12 ÷ (3/35) = 140（棵）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_011",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_012",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "淘气必须在国际象棋比赛中进行15场比赛。某个时刻，在已经完的比赛中，他有1/3取得胜利，有1/3输掉了，而其中有两场以平局结束。淘气还有（    ）场比赛没完成。写出你的思考过程，分享你的解题经验：",
+    "options": null,
+    "answer": "9场",
+    "explanation": "设已完成x场，胜x/3，负x/3，平2场。x/3 + x/3 + 2 = x，即2x/3 + 2 = x，x/3 = 2，x = 6。剩余 = 15 - 6 = 9（场）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_012",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k1_szns_013",
+    "subject": "数学",
+    "kp_id": "u6.k1",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "二选一。①举例说明比较两个量有哪些方法。②要比较两个班同学的身高，可以从哪些方面进行比较？",
+    "options": null,
+    "answer": "开放题",
+    "explanation": "①比较方法：直接比较（测量）、间接比较（中介量）、倍比法、差比法等。②平均身高、最高/最低身高、中位数等。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u6.k1_szns_013",
+    "has_answer": true
+  }
+]

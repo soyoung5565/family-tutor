@@ -1,0 +1,738 @@
+[
+  {
+    "qid": "数学_u5.k1_szns_001",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "根据左下的'设计图'，可搭建右图的'立体大楼'。根据左下'设计图'搭出的'立体大楼'，从左面看到的形状是（    ）。",
+    "options": [
+      "两个方块竖向排列的形状",
+      "两个方块横向排列的形状",
+      "左列两个方块竖排、右列一个方块上方对齐右列的形状",
+      "上方一个方块在右、下方一个方块靠左对齐的形状"
+    ],
+    "answer": "3",
+    "explanation": "由设计图（俯视图），底层后排3个方块，上排2个方块在最右两端。从左面看，能看到一列2个方块，且错位对齐。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_001",
+    "answer_text": "D. 上方一个方块在右、下方一个方块靠左对齐的形状",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "六（1）、六（2）两个班联手进行科学实验，共进行了100次尝试。其中，六（1）班实验了60次，有3次没有成功；六（2）班40次实验的成功率是100%。这100次实验的成功率是（    ）%。",
+    "options": [
+      "95%",
+      "97%",
+      "97.5%",
+      "100%"
+    ],
+    "answer": "1",
+    "explanation": "六（1）班成功60-3=57次，六（2）班成功40次，共成功57+40=97次，成功率=97/100=97%。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_002",
+    "answer_text": "B. 97%",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_003",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "为迎接第二十五届深圳读书月，晨光书友队决定共读同一套标价600元的'世界名著合集'。选择购买方式（    ）最省钱。",
+    "options": [
+      "新华书店，降二成",
+      "某网店，满200减50",
+      "南山书城，七九折",
+      "某商城代金券200元一张抵300元（可叠加使用，不找零）"
+    ],
+    "answer": "3",
+    "explanation": "A.600×0.8=480；B.600-50×3=450；C.600×0.79=474；D.用两张代金券400抵600，正好。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_003",
+    "answer_text": "D. 某商城代金券200元一张抵300元（可叠加使用，不找零）",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_004",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "小明周末步行去人才公园游玩，中途看见一家书店，他停下来到书店买书，用了半小时，然后继续步行到达人才公园，游玩了一小时，最后步行返回家中。以下图（    ）能反映出小明今天的行程。",
+    "options": [
+      "先上升，到高处后水平停留，再下降",
+      "先上升形成三角形，再到顶点后下降",
+      "上升、水平、再上升、再下降的阶梯形",
+      "上升、水平停留、下降、水平、再下降"
+    ],
+    "answer": "2",
+    "explanation": "步行离家（上升）→书店停留（水平）→到公园（再上升）→游玩（水平）→回家（下降）。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_004",
+    "answer_text": "C. 上升、水平、再上升、再下降的阶梯形",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_005",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "某款两年期理财产品的预期年化收益率为3.5%，李明的妈妈投入了20000元，预期两年后收益应为（    ）元。",
+    "options": null,
+    "answer": "1400",
+    "explanation": "20000 × 3.5% × 2 = 1400（元）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_005",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_006",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "一个反弹球从2米高处自由落下，记录第一次的反弹高度是3/4米，这个反弹球第一次的反弹高度是下落高度的（    ）%，按这样的规律预测第二次的反弹高度是（    ）米。",
+    "options": null,
+    "answer": "37.5%；9/16",
+    "explanation": "3/4 ÷ 2 = 3/8 = 37.5%；第二次反弹高度 = 3/4 × 3/4 = 9/16（米）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_006",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_007",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "你知道吗？出于安全考虑，往往在可乐瓶内留出可乐体积5%~8%的空间，以承受体积膨胀带来的压力。要装500ml的可乐，至少选择容量为（    ）mL的瓶子。",
+    "options": null,
+    "answer": "543.5",
+    "explanation": "500 ÷ (1-8%) ≈ 543.5mL，至少选择550mL的瓶子。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_007",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_008",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "判断改错：(1/2)×(4/5)÷(4/5)×(1/2)；错误：除法没有分配律；正确计算：1/2×4/5÷4/5×1/2 = 1/4。",
+    "options": null,
+    "answer": "见解析",
+    "explanation": "乘除混合运算按从左到右顺序：(1/2×4/5)÷(4/5)×1/2 = 2/5 ÷ 4/5 × 1/2 = 1/2 × 1/2 = 1/4",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_008",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_009",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "解方程",
+    "stem": "先构思一个故事补充线段标签，再根据线段图列算式或方程（不计算）。（1）第一筐360kg，第二筐多25%，第二筐多少kg？（2）x个，第一筐20个，第二筐多1/3，求第二筐多少个？",
+    "options": null,
+    "answer": "（1）算式：360×(1+25%)；方程：设第二筐x kg，x - 360×25% = 360；（2）算式：20×(1+1/3)；方程：x = 20 + 20×1/3",
+    "explanation": "考查线段图理解和方程/算式的列法。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_009",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_010",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "动手操作",
+    "stem": "如图所示，丽丽家住第五层，门前有一棵大树，当丽丽走到什么位置时，正好完全看不到家，画图说明。（用△表示丽丽的位置，忽略人的身高）",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据光的直线传播，丽丽应站在树的另一侧（远离家的方向），此时大树正好遮挡从家底部到丽丽眼睛的视线。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "jev"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_010",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k1_szns_011",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "如图，杯子里有300mL果汁，小明喝了一些，他喝了多少mL果汁？下面谁的算式对？请说明理由。淘气：300×(1-3/4)；笑笑：300×(4/5-3/5)",
+    "options": null,
+    "answer": "笑笑对（60mL）",
+    "explanation": "图中显示喝后剩3/5。笑笑算的是喝掉的份：4/5-3/5=1/5，300×1/5=60（mL）。淘气算式对应1-3/4，与图不符。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_011",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_012",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "明年开春计划增种新品种——紫色勒杜鹃，紫色勒杜鹃棵数是红色勒杜鹃的3/4，将种植紫色勒杜鹃多少棵？",
+    "options": null,
+    "answer": "30棵",
+    "explanation": "红色勒杜鹃 = 140 × 2/7 = 40棵；紫色勒杜鹃 = 40 × 3/4 = 30（棵）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k1_szns_012",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_013",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "张叔叔要去福州出差，购票信息：11月8日15:14深圳北→福州南，二等座¥358.00。11月7日16:00退票。退票费率：≥8天 0%；48-8天 5%；24-48小时 10%；<24小时 20%。张叔叔最终收到的退票款是多少元？",
+    "options": null,
+    "answer": "286.4元",
+    "explanation": "退票时间距开车约23小时14分钟，<24小时，手续费20%。退票款 = 358 × (1-20%) = 358 × 0.8 = 286.4元",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_013",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k1_szns_014",
+    "subject": "数学",
+    "kp_id": "u5.k1",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "动手操作",
+    "stem": "在右图中涂黑最少数量的方格，使整个图案成为有两条对称轴的轴对称图形，并用虚线画出对称轴。",
+    "options": null,
+    "answer": "开放题",
+    "explanation": "涂黑适当方格，使图案既关于水平中线对称，又关于垂直中线对称，画出两条互相垂直的对称轴。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.150055"
+    },
+    "duplicate_of": "数学_u5.k1_szns_014",
+    "has_answer": true
+  }
+]

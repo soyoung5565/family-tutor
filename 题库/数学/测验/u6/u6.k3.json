@@ -1,0 +1,1385 @@
+[
+  {
+    "qid": "数学_u6.k3_zxxk_58921941_001",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是笑笑家附近的行走路线图。（1）根据路线图完成下面表格：乐园小区→电影院路程5千米；电影院→商场路程2千米；商场→公园路程3千米；公园→笑笑家路程6千米；笑笑家→体育馆路程4千米。表格列出方向、路程（千米）、时间（分）三列。（2）从乐园小区到体育馆的平均速度是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58921941.html",
+      "site": "学科网",
+      "title": "第六单元 确定位置应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用方向+距离描述多段行走路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_58921941_002",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "佩佩放学回家，先从学校出发，向正东方向走200m，再向南偏东30°方向走300m后，向正东方向走400m，最后向北偏东45°方向走100m回到家里。请你根据描述画出佩佩放学回家的行走路线图。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58921941.html",
+      "site": "学科网",
+      "title": "第六单元 确定位置应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路径用方向+距离描述，考查路线描述能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.111020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_58921941_003",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "动物们要开运动会，小羊负责通知每个小动物，它从家出发，最后通知的是小兔，通知完后回到自己家。小羊走过的路线没有重复，它是怎么走的？一共走了多少米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58921941.html",
+      "site": "学科网",
+      "title": "第六单元 确定位置应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "需规划不重复路径并累加各段距离，属多段路线问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.111020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_58921941_004",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一艘军舰，从起点向西偏南60°方向行驶24km，然后向正西方向行驶60km，最后向北偏西40°方向行驶36km到达终点。（1）根据描述，把军舰的行驶路线图画出来。（2）如果从起点到终点共用时3小时，那么这艘军舰平均每小时行驶多少千米？（3）军舰需从终点原路返回到起点，请写出返航路线。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58921941.html",
+      "site": "学科网",
+      "title": "第六单元 确定位置应用题(专项训练)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据多段方向+距离描述，画出军舰行驶路线图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.111020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_54207071_005",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "小明从家到学校，先向东走200米，再向北走100米；从学校回家时，先向南走100米，再向西走200米。（）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54207071.html",
+      "site": "学科网",
+      "title": "第二单元位置与方向(二)(单元测试)-2025-2026学年六年级上册数学人教版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用方向+距离描述多段路径，判断回家路线方向是否正确",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.881768"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_54207071_006",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "小明从家出发，先向东走200米到广场，再向北偏东40°方向走300米到图书馆，最后向西偏北25°方向走400米到学校。请描述小明从学校回家的路线。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54207071.html",
+      "site": "学科网",
+      "title": "第二单元位置与方向(二)(单元测试)-2025-2026学年六年级上册数学人教版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "需将多段路径反向，用方向+距离描述回家路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_54079756_008",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，小刚从家出发，向（　）（　）°方向走（　）m到达广场，然后向（　）（　）°方向走（　）m到达银行。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54079756.html",
+      "site": "学科网",
+      "title": "（单元思维卷）第二单元 位置与方向（二）-2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分突破系列（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u6.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述从家到广场再到银行的多段路线，用方向+距离表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.111020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_zxxk_54079756_009",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "描述路线图时，按行走的路线，确定观测点及行走的方向和路程。（　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54079756.html",
+      "site": "学科网",
+      "title": "（单元思维卷）第二单元 位置与方向（二）-2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分突破系列（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查描述路线时确定观测点、方向和路程的方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_11088645_014",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "已知：学校距图书馆500m，图书馆距乐乐家700m，请根据下图，请描述出一条路线，使乐乐能从学校回到家。",
+    "options": null,
+    "answer": "乐乐从学校向南偏东70°方向走500米，到图书馆，再向北偏东60°方向走700米到家。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用方向和距离描述多段路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_001",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "描述行走路线时，每走到一个新地点，就要把这个地点当作新的（），重新判断方向。",
+    "options": null,
+    "answer": "观测点",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述多段路线需更换观测点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_005",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "小明从家出发，先向东走200米，再向北偏西30°走150米到达学校，这段路线分为（）段描述。",
+    "options": null,
+    "answer": "两",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线分段描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_008",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "描述路线时，全程只用起点作为观测点即可，无需更换。（）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路线描述需更换观测点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.881768"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_011",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一段完整的路线，需要分段清晰、方位准确、距离明确。（）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "完整路线三要素齐全",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_013",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "描述分段路线的关键是（）",
+    "options": [
+      "更换观测点",
+      "只看方向",
+      "只算距离"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分段描述需更换观测点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 更换观测点",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_017",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "路线分段描述的目的是（）",
+    "options": [
+      "书写更长",
+      "精准清晰还原行走路径",
+      "没有作用"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分段描述精准还原路径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 精准清晰还原行走路径",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_018",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "简要说说描述简单路线图的完整步骤。",
+    "options": null,
+    "answer": "先确定起点，看清方向标和比例尺；分段梳理行走路径，每段更换观测点；依次描述每段的方向、角度和距离；全程连贯表述，保证路线准确无误。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述路线图完整步骤",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_019",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小红的上学路线：从家出发，先向北偏东30°方向走200米到达十字路口，再向东偏南15°方向走150米到达学校。请完整描述小红放学原路回家的路线。",
+    "options": null,
+    "answer": "小红从学校出发，先向西偏北15°方向走150米到达十字路口，再向南偏西30°方向走200米回到家。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "反向多段路线分段描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_020",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "游览路线：从大门出发，先正西方向走300米到喷泉，再北偏西45°方向走200米到亭子。请分段写出从大门到亭子的完整行走路线。",
+    "options": null,
+    "answer": "第一段：从大门出发，向正西方向走300米到达喷泉；第二段：从喷泉出发，向北偏西45°方向走200米到达亭子。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线完整分段描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:04.132737"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_10533455_006",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "小明周日从家出发向西偏北30°方向行走400m到商场，再向西行走600m到书店。（1）根据上面的描述，把小明行走的路线图画出来。（2）根据路线图，写出小明沿原路返回时所行走的方向和路线。",
+    "options": null,
+    "answer": "（2）从书店，先向东走600米到书店，再向东偏南30°到家。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "方向+距离描述多段路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_10533455_033",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "早上，欢欢从家出发，先向北偏东30°方向行走了180m到达邮局；再从邮局出发，向东偏南45°方向行走240m到达商场；最后从商场出发，向正北方向行走120m来到学校。（1）请根据上面的描述，画出欢欢上学的路线及邮局、商场和学校的位置。（2）如果学校规定学生在8:00前到校，那么欢欢至少什么时候从家出发不迟到？",
+    "options": null,
+    "answer": "（2）7:51",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线描述与计算时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_51jiaoxi_12043731_056",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某小学有六名乒乓球选手进行单打循环赛.比赛在三个台上同时进行,比赛时间是每星期六的下午,每人每周只能而且必须参加一场比赛,因而比赛需要进行五周.已知在第一周的星期六A和B对垒;第二周C与D对垒;第三周E和F对垒;第四周A和D对垒.当然,在上述这些对垒的同时,另外还有两台比赛,但这两台比赛是谁和谁对垒,我们不清楚.问:上面未提到过名字的C在第五周同谁进行了比赛?请说明理由.",
+    "options": null,
+    "answer": "见解析",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "循环赛对阵安排推理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_51jiaoxi_15302301_020",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "（1）邮局在地铁站的南偏东30°方向600m处，在图中标出邮局的位置。（2）小明的爸爸每天从家出发，先沿      偏      45°方向步行         m到达共享单车停靠点，再从共享单车停靠点沿      偏      30°方向骑行          m到达地铁站。",
+    "options": null,
+    "answer": "（1）图略；（2）东；南；400；东；北；1000",
+    "explanation": "图上1厘米代表实际距离200米，邮局与地铁站图上距离3厘米；地铁站到共享单车停靠点1000米，共享单车停靠点到小明家400米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "方向距离描述多段路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_021",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图是思源学校学生秋游的路线图。从学校出发，先向(　　)偏(　　)(　　)°方向走(　　)m到达银行，再向(　　)走(　　)m到达体育馆，最后向(　　)偏(　　)(　　)°方向走(　　)m 到达滨江公园。",
+    "options": null,
+    "answer": "东、南、45、600、正东、500、东、南、20、400",
+    "explanation": "根据\"上北下南，左西右东\"确定方向，根据图上1个单位长度代表200 m 确定距离。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线用方向+距离描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:58.009656"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_022",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "看图填表：根据上面的路线图完成下表。",
+    "options": null,
+    "answer": "华华家→博物馆：东偏北25°，600m，9分钟；博物馆→游乐园：东偏南35°，900m，14分钟；游乐园→博物馆：西偏北35°，900m，15分钟；博物馆→华华家：西偏南25°，600m，12分钟；全程：50分钟，3000m",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据路线图填表，方向距离表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:58.009656"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_023",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "华华往返的平均速度是多少？",
+    "options": null,
+    "answer": "3000÷50＝60(米/分)，答：华华往返的平均速度是60米/分。",
+    "explanation": "根据\"平均速度＝总路程÷总时间\"解答即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路线总路程求平均速度",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:58.009656"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_10948107_011",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "根据要求填一填。（1）王老师每天骑共享单车从幸福小区出发，向（ ）偏（ ）（ ）°行（ ）米到少年宫，再向（ ）偏（ ）（ ）°方向行（ ）米到第一中学，接着向（ ）偏（ ）（ ）°行（ ）米到百货商场，最后向（ ）方向行（ ）米到实验小学上班。（2）学校上午8∶00上课，他7∶45从家出发，如果骑车速度为18千米/时，他会迟到吗？①你的判断是（ ）（填\"会\"或\"不会\"）②说一说你判断的理由。",
+    "options": null,
+    "answer": "（1）北，东，40，1200，南，东，50，1500，北，东，60，1500，正东，1800（2）①会",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "方向+距离描述多段路线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_51jiaoxi_18640289_021",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "已知起点坐标A(3,2)，行走步骤：先向右平移 4 格，再向上平移 3 格，最后向西偏北直行抵达终点。（1）经过两次平移后，该点的数对是多少？（2）说一说描述分段路线时，必须不断更换观测点的原因。",
+    "options": null,
+    "answer": "（1）(7,5)（2）答：每一段行走的起点都发生变化，观测点随之改变，参照方位也会改变，因此描述路线要逐段更换观测点。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18640289.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册（2024）整理和复习练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线描述需不断更换观测点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:47:22.043696"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26427122_002",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "描述路线的三要素：（　　　　）、（　　　　）、（　　　　），三者缺一不可。",
+    "options": null,
+    "answer": "方向、角度、距离",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26427122",
+      "site": "21世纪教育网",
+      "title": "1.5 描述简单的路线图（课件）(共26张PPT)--2026-2027学年人教版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路线三要素：方向、距离、观测点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.779284"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u6.k2_21cnjy_26427122_002"
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_21882296_026",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据下图填一填：小玲从家出发往( )偏( )( )°方向走600m到达书店，再往( )偏( )45°方向走( )m到达电影院。小明从公园出发，往( )偏( )( )°方向走( )m到达电影院。",
+    "options": null,
+    "answer": "西 北 20   南 西  400   东 南 30  800",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21882296",
+      "site": "21世纪教育网",
+      "title": "doc 21882296",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线用方向+距离描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:23.493974"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u6.k3_21cnjy_26256591_023",
+    "subject": "数学",
+    "kp_id": "u6.k3",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面是小明从家到学校的路线图。根据路线图，回答问题。(1)小明要从家步行到学校，先要向东步行到银行，再向(      )走到电影院，再向(      )偏(      )70°方向走(      )米到达公园，接着向(      )偏(      )(      )方向走(      )米到达学校。(2)如果小明步行的速度是50米/分钟，那么小明从家到学校需要多少分钟？",
+    "options": null,
+    "answer": "(1)北 北 东 200 南 东 40° 250 (2)13分钟",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26256591",
+      "site": "21世纪教育网",
+      "title": "doc 26256591",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多段路线用方向和距离描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:07.545872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

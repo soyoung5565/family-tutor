@@ -1,0 +1,611 @@
+[
+  {
+    "qid": "英语_u1.k6_zxxk_59616090_001",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词汇运用-适当形式填空",
+    "stem": "She wants ________ (paste) some pictures on her poster.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59616090.html",
+      "site": "学科网",
+      "title": "Unit 2 Getting together (单元自测练习卷)-2026-2027学年人教PEP版英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查want to do不定式结构，语境为制作海报，与u1.k6项目吻合。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.299699"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u1.k6_zxxk_59616090_002",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "英汉互译",
+    "stem": "粘贴图片",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59616090.html",
+      "site": "学科网",
+      "title": "Unit 2 Getting together (单元自测练习卷)-2026-2027学年人教PEP版英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "粘贴图片是制作成长海报项目中的操作步骤，属项目活动。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.299699"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_21500718_032",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Long long ago, there was a k . He liked clothes very much.",
+    "options": null,
+    "answer": "king",
+    "explanation": "句意：很久很久以前，有一个国王。他非常喜欢衣服。本题考查名词辨析。根据句意和所给字母可知考查单词king国王，故答案为king。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "king名词，故事话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.081622"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_21500718_035",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Yugong and his family w very hard. They were but happy.",
+    "options": null,
+    "answer": "worked; tired",
+    "explanation": "句意：愚公和他的家人工作非常努力。他们是累的但是快乐的。本题考查动词的形式和形容词的用法。根据首字母和句意可知本题考查单词work和tired，work hard是工作努力，由were可知，时态是一般过去时态，work的过去式是worked。tired累的，形容词作were的表语。故答案为worked；tired。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "worked过去式，故事话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.081622"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_51jiaoxi_16435400_078",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "提纲作文",
+    "stem": "用不少于35个单词写一下你所在地方的生活。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435400.html",
+      "site": "教习网",
+      "title": "Module 2(基础卷)六年级英语上册单元培优进阶训练（广州教科版用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写所在地方生活，综合运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:14.086102"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_21284408_014",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "适当形式填空",
+    "stem": "Keeping English ________ (diary) is a good way to improve English.",
+    "options": null,
+    "answer": "diaries",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/21284408",
+      "site": "21世纪教育网",
+      "title": "doc 21284408",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "keep diaries 名词复数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:47.890686"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_26566391_014",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "________ (make) friends with others is fun.",
+    "options": null,
+    "answer": "Making",
+    "explanation": "动名词作句子主语，make变动名词making，句首大写。句意：和别人交朋友是一件快乐的事。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查动名词作主语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_26566391_025",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "________ (introduce) yourself is important when meeting new people.",
+    "options": null,
+    "answer": "Introducing",
+    "explanation": "动名词作主语；introduce变动名词introducing，句首大写。句意：初次见面时介绍自己很重要。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "introduce变名词introduction，自我介绍话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_26566391_036",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "________ (stay) active can bring you lots of energy.",
+    "options": null,
+    "answer": "Staying",
+    "explanation": "动名词作主语；stay变动名词staying，句首大写。句意：保持积极可以带给你充沛的精力。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "stay变动名词staying，动名词作主语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_21cnjy_26355151_022",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "When does Paul go back to school every week?",
+    "options": [
+      "On Sunday morning.",
+      "On Sunday afternoon.",
+      "On Monday morning.",
+      "On Saturday morning."
+    ],
+    "answer": "2",
+    "explanation": "由",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，提取时间信息",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. On Monday morning.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u1.k6_51jiaoxi_16566291_011",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "书面表达(10分)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16566291.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书面表达综合描述过去现在未来",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:15:15.544521"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u1.k6_51jiaoxi_18512983_033",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用文写作",
+    "stem": "假定你是李华，外教Kate计划将你们班的英语作文汇编成册。请给Kate写封邮件，内容包括：(1)建议配图。(2)自荐承担画图工作。注意：(1)写作词数应为80个左右。(2)请按如下格式在答题卡的相应位置作答。Dear Kate, It's a great idea t make a cllectin f ur English essays. _____ Yurs, Li Hua",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18512983.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "应用文写作综合运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:19:52.367734"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u1.k6_51jiaoxi_16829394_048",
+    "subject": "英语",
+    "kp_id": "u1.k6",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书面表达",
+    "stem": "你校英语报社组织同学们分享自己在社区进行志愿活动的经历，请你根据以下提示写一篇短文投稿。内容包括：1．简要描述;2．体验和感受。注意：1．词数为80左右；2．可适当增加细节，以使行文连贯；3．文中不能出现真实姓名及学校名称；4．短文的题目和开头已给出，不计入总词数。",
+    "options": null,
+    "answer": "Vlunteer Wrk in Hngxing Cmmunity\nLast Sunday I wrked in Hngxing Cmmunity as a vlunteer.\nBefre the event began, we gathered at the entrance f Hngxing Park at 9 'clck. We vlunteers were then divided int grups. Sme made ec-friendly prducts. Others gave ut reusable water bttles and the bags we made. I went all ut t wrk at the learning stalls, teaching neighbrs hw t prperly recycle and hw t reduce trash here in twn.\nI shared what I knw with thers thrugh the activity. Sharing is caring. Wish everyne culd care abut ur cmmunity and earth.",
+    "explanation": "这是一篇提纲作文。要求按照所给的提示内容，写一篇关于社区志愿者活动经历的文章投稿给英语报社。这篇短文详细、全面地阐述了作者上周六去红星社区做一些志愿者工作的情况，并包含了文中所要求的全部信息。内容切题，意思连贯，表达清楚。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合写作，描述过去经历与感受",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.129957"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

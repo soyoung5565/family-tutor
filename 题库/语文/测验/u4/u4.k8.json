@@ -1,0 +1,624 @@
+[
+  {
+    "qid": "语文_u4.k8_zxxk_59640475_001",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "小文发言：祖父是我心中的\"光\"，他年轻的时候为践使命赴远方，在\"____\"(填《送元二使安西》中的诗句)的孤勇里，藏着对祖国事业的赤诚；在\"渭城朝雨浥轻尘，____\"的异国他乡，以坚守为炬，奉献一生。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59640475.html",
+      "site": "学科网",
+      "title": "第四单元自测练习卷-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k7"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《送元二使安西》诗句默写与理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.219653"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_7754479_008",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "默写《回乡偶书》。",
+    "options": null,
+    "answer": "少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗《送元二使安西》相邻篇目默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.995030"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_7463209_006",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选择题。(1)下列不属于边塞诗的是( )(2)下列爱国诗不属于陆游的诗的一项是( )(3)下列属于王维写的送别诗句的一项是( )",
+    "options": [
+      "莫愁前路无知己，天下谁人不识君。",
+      "劝君更尽一杯酒，西出阳关无故人。",
+      "孤帆远影碧空尽，唯见长江天际流。"
+    ],
+    "answer": "(1)B (2)A (3)B",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7463209.html",
+      "site": "21世纪教育网",
+      "title": "2020部编版五下第四单元检测卷含答案.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "送别诗与边塞诗、爱国诗辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:04.966804"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_51jiaoxi_17346502_006",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "远行，是一次次告别。阅读有关材料，完成以下题目。\n①告别时，有依依不舍。王维在《送元二使安西》中，写下\"______，______。\"（唐代）\n②告别时还有美好的祝福：______。（宋代）\n③唱着《送别》中\"晚风拂柳笛声残\"，我想起许多关于\"柳\"的诗句，我猜它的寓意与______相关。（现代）\n④即将与好友告别，我会勉励他凡事要有所坚持：\"______，任尔东西南北风\"。（今天）",
+    "options": [
+      "若到江南赶上春，千万和春住。",
+      "春风又绿江南岸，明月何时照我还。"
+    ],
+    "answer": "①渭城朝雨浥轻尘 客舍青青柳色新；②A；③A；④千磨万击还坚劲",
+    "explanation": "①出自唐代王维《送元二使安西》。②\"若到江南赶上春，千万和春住\"出自宋代王观《卜算子•送鲍浩然之浙东》。③\"柳\"与\"留\"谐音，表达挽留之意。④出自清代郑燮《竹石》。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《送元二使安西》默写与送别主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_23110730_013",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "诗词以精练的语言,展现最丰富的画面与情怀:《寒食》中有\"____,寒食东风御柳斜\"的春景;《迢迢牵牛星》中有\"盈盈一水间,____\"的含情脉脉;《十五夜望月》中有\"____,不知秋思落谁家\"的思念之情;《长歌行》中有\"少壮不努力,____!\"的劝诫。",
+    "options": null,
+    "answer": "春城无处不飞花；脉脉不得语；今夜月明人尽望；老大徒伤悲",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗词名句理解性默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_23110730_017",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的诗句中,描写的季节与其他三项不同的一项是( )",
+    "options": [
+      "中庭地白树栖鸦,冷露无声湿桂花。",
+      "晓看红湿处,花重锦官城。",
+      "天街小雨润如酥,草色遥看近却无。",
+      "春风又绿江南岸,明月何时照我还。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "诗句季节判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 中庭地白树栖鸦,冷露无声湿桂花。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k4_21cnjy_23110730_021"
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_23110730_018",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面诗句中,与中国传统节日有关的一项是( )",
+    "options": [
+      "青青园中葵,朝露待日晞。",
+      "最是一年春好处,绝胜烟柳满皇都。",
+      "日出江花红胜火,春来江水绿如蓝。",
+      "日暮汉宫传蜡烛,轻烟散人五侯家。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "寒食节诗句辨别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k4_21cnjy_23110730_022",
+    "answer_text": "D. 日暮汉宫传蜡烛,轻烟散人五侯家。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_23110730_019",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "就要小学毕业了,同学们即将告别校园,告别老师和同学。临别之际,同学们纷纷用古诗表达自己的难舍之情,其中不恰当的一项是( )",
+    "options": [
+      "莫愁前路无知己,天下谁人不识君",
+      "海内存知己,天涯若比邻。",
+      "此地一为别,孤蓬万里征。",
+      "谁言寸草心,报得三春晖。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "送别诗情境运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 谁言寸草心,报得三春晖。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k4_21cnjy_23110730_023"
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_10863474_004",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文学常识",
+    "stem": "\"冬天到了，春天还会远吗？\"这句话是下列哪位诗人说的？（ ）",
+    "options": [
+      "徐志摩",
+      "席勒",
+      "舒婷",
+      "雪莱"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查诗句作者文学常识（雪莱）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.995030"
+    },
+    "answer_text": "D. 雪莱",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_10863474_006",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "诗歌鉴赏",
+    "stem": "第一节用了哪些意象？这些各自独立的跳跃着的意象与\"思念\"有何联系？",
+    "options": null,
+    "answer": "①用了挂图、代数、独弦琴、檐雨和桨橹等意象。②挂图可感美难触形，代数能晓情而无觅解，弦有音而独响，雨如珠而无线，桨橹靠近岸却不能抵岸。它们都是可以感受却不能明确、无法实现，正好传达了思念的深沉难消，缠绵不了了的特点。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "诗歌意象鉴赏，属古诗学习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_10863474_007",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "诗歌鉴赏",
+    "stem": "第二节\"蓓蕾\"、\"夕阳\"两个用了什么修辞方法？它们的含义如何理解？",
+    "options": null,
+    "answer": "两个用了比喻的修辞方法。①\"蓓蕾\"充满希望等待开放，\"默默\"使等待略显孤独，思念就是团聚的等待，\"蓓蕾\"形象地表现了包含着热切等待和深切希望的思念。②\"夕阳\"是一天的终了，希望的落空，\"遥遥的注目\"更突出了等待的悲哀和思念的痛苦。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "诗歌修辞鉴赏",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_10863474_008",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "诗歌鉴赏",
+    "stem": "第三节表达了什么意思？其诗意表达形式与一、二节有何区别？",
+    "options": null,
+    "answer": "①第三节表达了深沉缠绵辽远悠长的思念深藏在人们的内心的意思。②这一节表达形式是直抒胸臆，让人产生心灵上的共鸣。而一、二节通过意象描写，营造了浓浓的思念氛围，形象生动又含蓄委婉地传达情感。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "诗歌内容与形式鉴赏",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k8_21cnjy_23110730_015",
+    "subject": "语文",
+    "kp_id": "u4.k8",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "______ 牵牛星,______ 。纤纤擢素手,______ 。",
+    "options": null,
+    "answer": "迢迢；皎皎河汉女；札札弄机杼",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《迢迢牵牛星》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

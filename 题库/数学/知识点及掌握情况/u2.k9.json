@@ -1,0 +1,26 @@
+{
+ "id": "u2.k9",
+ "name": "组合图形（跑道/草地）面积",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "分割为已学图形（长方形+半圆、长方形+1/4圆等），分别算再相加减",
+ "example": "跑道：长方形 + 2 个半圆 = 1 个整圆",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "see_also": [
+  {
+   "id": "u2.k7",
+   "reason": "跑道问题本质是圆环面积的应用"
+  }
+ ],
+ "depends_on": [
+  {
+   "id": "u2.k6",
+   "reason": "组合图形面积常包含圆或扇形，需先掌握圆的面积公式"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "u8.k2",
+ "name": "三视图",
+ "unit": "u8",
+ "unit_name": "观察物体（二）",
+ "definition": "主视图（正面）、俯视图（上面）、左视图（左面）",
+ "example": "圆柱: 主长长方形, 俯圆, 左长长方形",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 91,
+ "slide_range": "slide_091-095",
+ "depends_on": [
+  {
+   "id": "u8.k1",
+   "reason": "三视图（主/俯/左视图）是在从不同位置观察立体图形基础上的规范名称"
+  }
+ ],
+ "see_also": [
+  {
+   "id": "u8.k3",
+   "reason": "根据三视图反推立体结构是逆向运用"
+  }
+ ]
+}

@@ -1,0 +1,3896 @@
+[
+  {
+    "qid": "语文_u2.k8_zxxk_59576529_001",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "抄写题",
+    "stem": "请用正楷工整抄写文段划线句，行款整齐、卷面美观。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "抄写题考查硬笔书写规范，对应语文园地书写提示要求。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.970515"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55959574_002",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "请你在演讲稿的横线处补全名句。以邱少云为代表的革命战士，用满腔热血诠释着\"①____________，视死忽如归\"的精神；祁发宝坚定着\"祖宗疆土，当以死守，②____________\"的信念；张桂梅践行着\"位卑③____________\"的理念。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55959574.html",
+      "site": "学科网",
+      "title": "第二单元(单元测试)-2025-2026学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查革命题材爱国名言的积累与应用，匹配单元园地日积月累。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59486341_003",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列对句中分号的用法理解有误的一项是",
+    "options": [
+      "一条通往主力转移的方向，走这条路可以很快追上连队，可是敌人紧跟在身后；另一条通向狼牙山的顶峰棋盘陀，那儿三面都是悬崖绝壁。（分隔并列的两个分句）",
+      "战车师的坦克整齐前进；战士们挺着胸膛站在车上。（隔开意思紧密的并列分句）",
+      "我爱祖国壮丽山河；我爱英勇的革命先烈。（分号不能换成逗号）",
+      "有的同学看书；有的同学写字。（此句分号使用错误，应该改为逗号）"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486341.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级上册语文",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查分号用法，第二单元语文园地明确包含此知识点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.194149"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59486341_004",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "'捐躯赴国难，视死忽如归'是______的名句，表现了______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486341.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级上册语文",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查爱国名言积累，理解诗句中为国献身的精神",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T15:52:35.404569"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59502107_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗文默写",
+    "stem": "六年级（1）班准备举办有关革命烈士诗歌的硬笔书法展览，请你抄写下面这首革命烈士写的诗，表达对先烈的敬意。注意行款整齐，布局合理。\n赵一曼滨江述怀（节选）：未惜头颅新故国，甘将热血沃中华。白山黑水除敌寇，笑看旌旗红似花。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59502107.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级语文上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命题材硬笔书写练习，属语文园地书写提示要求。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.194149"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59502107_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "小报中有一段赞颂战士们英勇的话，请你根据语境和括号里给出的意思填入恰当的四字词语。战场上，战士们________（全副精神高度集中）地盯着敌方阵地并观察敌人动向。不久，敌人开始悄悄进攻。在敌人行进到半途时，班长________（形容说话办事坚决果断，毫不犹豫）地下达冲锋指令，冲锋队伍随即________（形容力量强，声势大）般向敌人突进，哪怕面临粉身碎骨的危险，必胜的信念也让他们无所畏惧。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59502107.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级语文上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查词句段运用中的四字词语积累，结合革命语境选词。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59502107_007",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子中，分号使用不正确的一项是（　　）",
+    "options": [
+      "清早，我同晨风一道将光明欢迎；傍晚，我又与群鸟一起为它送行。",
+      "起初是全场肃静，只听见炮声和乐曲声；只听见国旗和其他许多旗帜飘拂的声音。",
+      "丁字形一横的北面是一道河，河上并排架着五座白石桥；再北面是城墙，城墙中央高高耸起天安门的城楼。",
+      "你可以变得很小，如一只蚂蚁，一棵草，一粒石子；也可以变得很大，如一头大象，一辆卡车，甚至是一个星球。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59502107.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级语文上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查分号使用规则，属二单元园地‘体会分号用法’训练点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "answer_text": "B. 起初是全场肃静，只听见炮声和乐曲声；只听见国旗和其他许多旗帜飘拂的声音。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59502107_008",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "依次填入下面语段横线处的句子，最恰当的一项是（　　）\n春去秋来，令人难以忘怀的是那一位位抛头颅洒热血，为拯救民族危亡而奋斗的革命先烈。他们是在武昌冲锋陷阵，驱散专制迷雾的先驱；________；________；________；他们是在抗日战争中舍生忘死，前仆后继，对抗帝国主义的无数志士……\n①他们是在长征中坚贞不屈的革命火种\n②他们是在嘉兴南湖红船上崇论宏议，为追求真理矢志不渝的觉醒力量\n③他们是在井冈山扎根隐蔽，可以燎原的星星之火",
+    "options": [
+      "①②③",
+      "②③①",
+      "②①③",
+      "③①②"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59502107.html",
+      "site": "学科网",
+      "title": "第二单元自测练习卷-2026-2027学年统编版六年级语文上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命题材语段排序题，属语文园地词句段运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "answer_text": "B. ②③①",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_54166240_009",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面句子中破折号的作用是表示()。2022年北京冬奥会和冬残奥会的颁奖花——'永不凋谢的绒线花'于1月1日正式揭晓。",
+    "options": [
+      "强调被引出的下文",
+      "分项列举",
+      "意思转换",
+      "解释说明"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地涉及标点符号用法，考查破折号解释说明作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.194149"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55094783_010",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "选择上面的成语填空。（1）红军战士在长征途中（　　），克服了无数困难。（2）他说话办事（　　），从不拖泥带水。（3）革命先辈用鲜血和生命谱写了（　　）的英雄史诗。（4）面对挫折，我们要保持（　　）的心态，勇敢面对。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55094783.html",
+      "site": "学科网",
+      "title": "5.《七律·长征》课后同步练-2025-2026学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查革命题材单元日积月累成语的理解与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55094783_011",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "用\"百折不挠\"写一句话，赞美红军的精神。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55094783.html",
+      "site": "学科网",
+      "title": "5.《七律·长征》课后同步练-2025-2026学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用中成语造句练习，赞美红军精神属革命单元主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55094783_012",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "照样子，写句子。例：长征是一首惊天动地的英雄赞歌。　　________是一首________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55094783.html",
+      "site": "学科网",
+      "title": "5.《七律·长征》课后同步练-2025-2026学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地词句段运用中的句子仿写，例句引用本单元长征内容。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55094783_013",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "照样子，写句子。例：正是因为红军有着坚定的信念，所以他们能战胜一切困难。正是因为________，所以________。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55094783.html",
+      "site": "学科网",
+      "title": "5.《七律·长征》课后同步练-2025-2026学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用中因果关联句式仿写，例句含红军内容，属本园地。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.194149"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_58685700_014",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列词语中，没有错别字的一项是（　　）",
+    "options": [
+      "山涯 壮烈 冲锋",
+      "豪迈 转移 奋战",
+      "雹子 叽械 沉着",
+      "狠命 悬涯 掩护"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第二单元字词辨析，词语多与革命战争相关，如冲锋、奋战、转移、掩护等。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "B. 豪迈 转移 奋战",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_58685700_015",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "仿写比喻句（结合战场景物，句式工整，修辞贴切）例句：石头像雹子一样飞向敌人。仿写：________________________________________________",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58685700.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用中仿写比喻句，迁移革命题材语境的修辞运用。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55281035_016",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "（2024秋•朝天区期末）下列加点成语运用不正确的一项是（）阅读革命故事，书中的人物栩栩如生，让人爱不释手；聆听红色歌曲，那歌声有余音绕梁之妙，使人陶醉；欣赏绘画作品，画家笔下的画作妙笔生花，给人身临其境之感；观看人物雕塑，雕塑家的作品巧夺天工，令人赞叹不已。",
+    "options": [
+      "栩栩如生",
+      "余音绕梁",
+      "妙笔生花",
+      "巧夺天工"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55281035.html",
+      "site": "学科网",
+      "title": "专题03 词语的理解与运用（期末真题汇编）六年级语文上学期（四川 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查成语理解与运用，属语文园地词句段运用考点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55507262_017",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列各项中，标点符号使用错误的一项是（）。",
+    "options": [
+      "我在原野上摇曳，使原野风光更加旖旎。我在清风中呼吸，使清风芬芳馥郁。",
+      "太阳晒着地面，有些地区吸收的热量多，那里的空气就比较热；有些地区吸收的热量少，那里的空气就比较冷。",
+      "人们认为天体上若有生命存在，至少应有这样几个条件：一是适合生物生存的温度；二是必要的水分；三是适当成分的大气；四是要有足够的光和热。",
+      "他把地板踩得吱吱响，手不停地挥动……一刻钟过去了，半小时过去了，罗丹越干越有劲儿，情绪更加激动了。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55507262.html",
+      "site": "学科网",
+      "title": "2024-2025学年江苏省扬州市广陵区育才集团统编版六年级上册期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查分号在并列分句/条目中的正确使用，与园地\"体会分号用法\"对应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55507262_018",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "按要求填空。爱国之情，赤子之心。陆游说：\"_____________________________。\"鲁迅说：\"我们自古以来，就有埋头苦干的人……这就是_________________。\"而李纲那句\"祖宗疆土，_______________，_______________更是振聋发聩，言犹在耳。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55507262.html",
+      "site": "学科网",
+      "title": "2024-2025学年江苏省扬州市广陵区育才集团统编版六年级上册期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u8.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累考查爱国名言名句积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.194149"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_55454272_019",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "下列标点符号使用正确的一项是（　　）如果你捧起一本书□可以在文字里散步□可以在书桌上探险□可能会结识几位知交好友□可能会跟着哪位作家去探索一个全新的世界□",
+    "options": [
+      "，，，，。",
+      "，，；，。",
+      "，；；；。",
+      "，；，；。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55454272.html",
+      "site": "学科网",
+      "title": "浙江省温州市期末真题精编重组卷-2025-2026学年六年级语文上册（统编版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查并列分号及逗号用法，对应语文园地'体会分号用法'知识点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "answer_text": "A. ，，，，。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_59136629_020",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "班长马宝玉激动地说：\"我们的任务胜利完成了！\"（改为转述句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59136629.html",
+      "site": "学科网",
+      "title": "5.狼牙山五壮士（同步练习）-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "转述句改写属于语文园地词句段运用语法训练。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_58686042_021",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "汉字书写规范：请工整、规范地抄写以下句子，注意笔顺、间架结构，保持卷面整洁。\"打倒日本帝国主义！\"\"中国共产党万岁！\"",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "属于革命单元语文园地的书写提示与硬笔练习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_zxxk_58686042_022",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "仿写比喻句：石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。仿写：秋风像__________，带着__________，带着__________，",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58686042.html",
+      "site": "学科网",
+      "title": "5《狼牙山五壮士》同步练习-2026-2027学年语文六年级上册统编版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用板块练习比喻与排比仿写。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_17542869_012",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "格言默写",
+    "stem": "为了保卫祖国边疆，边防战士们十年如一日用心守护，无怨无悔，因为他们知道：\"祖宗疆土，____，不可以____。\"",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17542869.html",
+      "site": "21世纪教育网",
+      "title": "江苏省沭阳县部分学校2023-2024学年六年级上学期10月学情调研 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国名言日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:44:20.006332"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_25915744_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子没有语病的一项是( )",
+    "options": [
+      "端午节吃粽子、赛龙舟的习俗，不仅表达了人们对美好生活的向往，还传承着文化基因。",
+      "通过开展\"书香校园\"活动，同学们的阅读兴趣和阅读能力得到了显著提高。",
+      "周末，班级组织志愿者服务活动，大家积极响应，没有人否认这不是一件有意义的事。",
+      "随着5G技术的广泛应用，让智能设备在日常生活中的作用变得越来越重要。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理交流，考查病句辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:54.222949"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 端午节吃粽子、赛龙舟的习俗，不仅表达了人们对美好生活的向往，还传承着文化基因。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k1_21cnjy_26537814_009"
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_25915744_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "用修改符号修改下面语段。(提示：共三处错误)春节期间，通过逛庙会，使我触摸到了中华优秀传统文化的魅力，增强了我的传统文化保护。",
+    "options": null,
+    "answer": "示例：(每处修改1分，第一处删除\"通过\"或\"使\"都可得分)",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理交流板块，考查病句修改",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:54.222949"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_25915744_013",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "下列填入语段横线处的名言，最合适的一项是( )。李时珍耗费二十七年时间，走遍名山大川采集药材、验证药方，即便遭遇重重困难也从未停歇。最终，他编撰出《本草纲目》这部中医学巨著,为后世留下了宝贵财富。这正印证了",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累类，名言理解填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:54.222949"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_23110730_022",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面诗句中,与中国传统节日有关的一项是( )",
+    "options": [
+      "青青园中葵,朝露待日晞。",
+      "最是一年春好处,绝胜烟柳满皇都。",
+      "日出江花红胜火,春来江水绿如蓝。",
+      "日暮汉宫传蜡烛,轻烟散人五侯家。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "传统节日与古诗积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:36.040068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 日暮汉宫传蜡烛,轻烟散人五侯家。",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k4_21cnjy_23110730_022"
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_23110730_024",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "看到下面主题,你想起了哪些诗词?珍惜时间:____,____。送别友人:____,____。人才发展:____,____。慈母情深:____,____。",
+    "options": null,
+    "answer": "示例:盛年不重来,一日难再晨;孤帆远影碧空尽,唯见长江天际流;我劝天公重抖擞,不拘一格降人材;慈母手中线,游子身上衣",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "主题分类古诗积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:36.040068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_22245406_003",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "将句中画线部分换成一个四字词语，写在括号里。(1)只有大公无私，才能因理由充分，说话做事有气势，无所畏惧。(2)每每提起她的学生，李老师总是非常喜悦、得意的样子，如数家珍。(3)铁道游击队神出鬼没，打得鬼子头脑昏乱，辨不清方向。(4)中华民族是一个大家庭，遇到困难更应该共同度过困难。",
+    "options": null,
+    "answer": "(1)理直气壮 (2)眉飞色舞 (3)晕头转向 (4)风雨同舟",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，四字词语替换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26536921_003",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "【词句段运用——分号】读句子，体会分号的用法，再完成练习。句子A：面前有两条路：一条通往主力转移的方向，走这条路可以很快追上连队，可是敌人紧跟在身后；另一条是通向狼牙山的顶峰棋盘陀，那儿三面都是悬崖绝壁。（1）这句话中，分号的作用是：____________________________。（2）请仿照句子，用分号写一句话，描写两种不同的活动场景。",
+    "options": null,
+    "answer": "（1）用于分隔并列的分句，使层次清晰。（2）示例：操场上，同学们有的在跑步，有的在跳远；教室里，同学们有的在读书，有的在写字。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用·体会分号用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26536921_004",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句段运用",
+    "stem": "【词句段运用——反复】读句子，体会反复的修辞手法，再完成练习。句子B：这庄严的宣告，这雄伟的声音，使全场三十万人一齐欢呼起来。这庄严的宣告，这雄伟的声音，经过无线电广播，传到长城内外，传到大江南北，使全中国人民的心一齐欢跃起来。（1）\"这庄严的宣告，这雄伟的声音\"连续出现了两次，这是__________的修辞手法，作用是：__________________________________。（2）请运用反复的修辞手法，把下面的句子补充完整。这美丽的校园，这可爱的校园，____________________。这美丽的校园，这可爱的校园，____________________________________。",
+    "options": null,
+    "answer": "（1）反复；强调和突出，增强语言的节奏感和感染力，表达强烈的情感。（2）示例：让我感到无比自豪；让我感到无比温暖。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用·体会反复修辞",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26536921_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "书写提示",
+    "stem": "【书写提示】根据教材\"书写提示\"，完成练习。（1）教材提示我们，书写时要注意：① 注意行款整齐，布局合理。② 书写要正确，不出现错别字和不规范的字。③ 养成自我检视的习惯，不断提高书写水平。（2）请用行楷抄写下面的名言，注意行款整齐、布局合理。位卑未敢忘忧国。——陆游",
+    "options": null,
+    "answer": "（1）略 （2）书写提示略，重点看行款和工整程度。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "书写提示·抄写爱国名言",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26536921_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言默写",
+    "stem": "【日积月累】将下列爱国名言补充完整，并按要求填空。（1）志士仁人，无求生以害仁，____________________。——《论语》（2）____________________，视死忽如归。——曹植（3）祖宗疆土，当以死守，____________________。——李纲（4）____________________，位卑未敢忘忧国。——陆游 情境运用：在《祖国，我为你自豪》的演讲稿中，当讲到革命先烈为了国家独立和民族解放而英勇牺牲时，你可以引用\"____________________，____________________\"来增强感染力；当讲到我们要守卫祖国领土完整时，可以引用\"____________________，____________________\"来表达决心。",
+    "options": null,
+    "answer": "（1）有杀身以成仁 （2）捐躯赴国难 （3）不可以尺寸与人 （4）位卑未敢忘忧国 情境运用：捐躯赴国难，视死忽如归；祖宗疆土，当以死守，不可以尺寸与人。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累·补充爱国名言",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:02.669150"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.970515"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_007",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据课文、日积月累填空\n（1）《灯光》一课中，郝副营长憧憬着________________________。\n（2）_________________，视死忽如归。——曹植\n（3）祖宗疆土，_________________，不可以尺寸与人。",
+    "options": null,
+    "answer": "（1）孩子们能在明亮灯光下读书 （2）捐躯赴国难 （3）当以死守",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文填空含日积月累爱国名言",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_012",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面哪一句，不是描写爱国情怀的诗句（ ）",
+    "options": [
+      "捐躯赴国难，视死忽如归",
+      "故人西辞黄鹤楼，烟花三月下扬州",
+      "祖宗疆土，当以死守，不可以尺寸与人",
+      "人生自古谁无死，留取丹心照汗青"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国诗句辨析属日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k2_21cnjy_26563138_015",
+    "answer_text": "B. 故人西辞黄鹤楼，烟花三月下扬州",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_013",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "对\"鞠躬尽瘁，死而后已\"理解正确的一项是（ ）",
+    "options": [
+      "勤勤恳恳，竭尽心力，到死为止",
+      "身体劳累，直到生命结束",
+      "为国战斗，不惧死亡",
+      "小心谨慎，奉献一生"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解爱国名言出自日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:58.939871"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 勤勤恳恳，竭尽心力，到死为止",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_25068996_003",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "下面句子中的分号用得不正确的一项是（　　）",
+    "options": [
+      "钟楼上的钟不是活的，有时却洪亮地响起来，那是有一个老人在敲；街心有时响着三弦的声音，那是一个盲人在弹。",
+      "它坚硬的表盖里还会发出清脆的声音：嘀嗒；嘀嗒……",
+      "我有蟋蟀在钵子里，蝈蝈儿在葫芦里，鸟儿在笼子里；父亲却有一个小蝎子在表里。",
+      "有的人为了工作的及时、方便，将铺盖搬到了工厂车间；有的人积劳成疾，几次住进了医院……"
+    ],
+    "answer": "1",
+    "explanation": "A、C、D 正确。B选项有误，这里的\"嘀嗒\"表示句子中间的停顿，应用逗号。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25068996.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册《表里的生物》一课一练（含答案解析）.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分号用法，第二单元语文园地",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:05.216876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 它坚硬的表盖里还会发出清脆的声音：嘀嗒；嘀嗒……",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26289907_017",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "“是……还是……”和“之所以”分别出自课文哪里？请填空。",
+    "options": null,
+    "answer": "是……还是……；之所以",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，课文出处",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_21576209_004",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "中华民族是有着深厚爱国情怀的民族，先贤们都留下了不少表达爱国情怀的豪言壮语。曹植曾慷慨豪言_____；诸葛亮曾立誓为国_____；南宋诗人陆游曾深情地告白_____",
+    "options": null,
+    "answer": "捐躯赴国难，视死忽如归；鞠躬尽瘁，死而后已；位卑未敢忘忧国",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国名言属二单元日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_21576209_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "中国领土主权不容侵犯，我们要坚决维护国家主权和领土完整，正如李纲所说:_____",
+    "options": null,
+    "answer": "祖宗疆土，当以死守，不可以尺寸与人",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "李纲爱国名句属单元积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563146_001",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语 xuān shì（ ） jiān dí（ ） qīn pèi（ ） qì gài hóng hóng（ ） bào fēng（ ） shān jiàn（ ） chóu hèn（ ） yǒng wǎng zhí qián（ ）",
+    "options": null,
+    "answer": "宣誓 歼敌 钦佩 气概恢宏 暴风 山涧 仇恨 勇往直前",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词基础与单元词语积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563146_002",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "情景选词，将序号填进括号内 ①斩钉截铁 ②热血沸腾 ③居高临下 ④粉身碎骨 情景1：升旗仪式上，听着革命先辈的故事，同学们（ ）。 情景2：面对敌人的威逼利诱，战士（ ）地拒绝，绝不投降。 情景3：五壮士站在山顶，（ ），向着山下的敌人射击。 情景4：为了守护家国，哪怕（ ），英雄们也毫不畏惧。",
+    "options": null,
+    "answer": "②；①；③；④",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合革命语境运用四字词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563146_004",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补充词语，并完成练习 坚（ ）不屈 大义（ ）然 惊（ ）动地 全神（ ）注 横七（ ）八 热血（ ）腾 气（ ）山河 昂（ ）挺胸 （1）如果你在纪念馆，为英雄写一句简短的献词，可以选用上面哪两个词语：（ ）、（ ） （2）创设一个简短情景，选用其中一个词语写一句话：__________________________________",
+    "options": null,
+    "answer": "贞；凛；天；贯；竖；沸；壮；首；（1）示例：气壮山河、大义凛然 （2）示例：战士们大义凛然，直面敌人的威逼。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "革命主题词语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563146_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据课文、日积月累填空 （1）面对国土，古人告诉我们：祖宗疆土，________________________，不可以尺寸与人。 （2）________________________，视死忽如归。——曹植 （3）诸葛亮用\"________________________，死而后已\"表达为国奉献终生的志向。",
+    "options": null,
+    "answer": "（1）当以死守 （2）捐躯赴国难 （3）鞠躬尽瘁",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国名言日积月累填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563146_011",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列诗句，不能体现爱国情怀的一句是（ ） A. 捐躯赴国难，视死忽如归 B. 故人具鸡黍，邀我至田家 C. 祖宗疆土，当以死守",
+    "options": [
+      "捐躯赴国难，视死忽如归",
+      "故人具鸡黍，邀我至田家",
+      "祖宗疆土，当以死守"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563146.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（五）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗句理解与爱国主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:23.301404"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 故人具鸡黍，邀我至田家",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26408869_011",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名句默写",
+    "stem": "勿以恶小而为之，________________________。",
+    "options": null,
+    "answer": "勿以善小而不为",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累爱国名言默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_018",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "下列句子标点符号使用正确的一项是（　　）",
+    "options": [
+      "我最爱读日本作家黑柳彻子写的\"窗边的小豆豆\"这本书。",
+      "有的人见到了颗粒饱满的麦穗，就不失时机地摘下它；有的人则东张西望，一再的错失良机。",
+      "镇上的人排着队来到撒切尔法官家，搂着两个获救的孩子又亲又吻，——泪水如雨，洒了一地。",
+      "\"你在干什么？\"他恶狠狠地说：\"赶紧把东西交出来！\""
+    ],
+    "answer": "1",
+    "explanation": "A项\"窗边的小豆豆\"应用书名号；C项破折号应改为省略号；D项冒号应改为逗号。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "标点符号属语文园地训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 有的人见到了颗粒饱满的麦穗，就不失时机地摘下它；有的人则东张西望，一再的错失良机。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_019",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句运用",
+    "stem": "下列句子中，名言警句运用不恰当的一句是（　　）",
+    "options": [
+      "路桥黄礁岛本是一个无人问津的海岛，经过路桥人民不断努力，现在变成了旅游胜地，正所谓\"穷则变，变则通，通则久\"。",
+      "哥哥一心想当一名医生，没想到最后成了一位教师，这真是\"有意栽花花不发，无心插柳柳成荫\"。",
+      "同桌在学习上怕吃苦，我想用\"听君一席话，胜读十年书\"来勉励他珍惜时间，勤奋学习。",
+      "小华午休时一直讲笑话，同学多次提醒都不起作用，我想告诉他\"人有耻，则能有所不为\"。"
+    ],
+    "answer": "2",
+    "explanation": "\"听君一席话，胜读十年书\"是指与对方交谈时间虽短但受益很大，与语境不符。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名言警句属日积月累运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 同桌在学习上怕吃苦，我想用\"听君一席话，胜读十年书\"来勉励他珍惜时间，勤奋学习。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_021",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "根据拼音写词语。探索太空①lǐng yù　　，是航天人的梦想；②dǐ yù　　敌人来犯，是军人的天职；实现民族复兴，是我们的③zé rèn　　。迎接未来挑战，我们无需④pái huái　　，不必⑤kǒng jù　　，众志成城，共谱时代华章。",
+    "options": null,
+    "answer": "①领域 ②抵御 ③责任 ④徘徊 ⑤恐惧",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词基础，属语文园地字词积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_023",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "读拼音，写字词。tōng xiāo　　cǎi huì　　pāo qì　　sī kōng jiàn guàn　　jué chá　　bō xuē　　qīng fù　　jiàn wēi zhī zhù",
+    "options": null,
+    "answer": "通宵 彩绘 抛弃 司空见惯 觉察 剥削 倾覆 见微知著",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词拼写，属基础字词积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_024",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列每道小题中都有一个字的字形是错的，请找出并填涂。（1）A.晃然大悟 B.悬崖 C.屹立 D.疙瘩　　（2）A.沙哑 B.甘蔗 C.斗篷 D.干躁　　（3）A.谱写 B.烂用 C.拜访 D.货摊　　（4）A.蒸融 B.惊惶 C.寂莫 D.出版",
+    "options": null,
+    "answer": "（1）A；（2）D；（3）B；（4）C",
+    "explanation": "（1）恍然大悟；（2）干燥；（3）滥用；（4）寂寞。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析错别字，属字形基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_025",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句运用",
+    "stem": "选择恰当的答案填入句子横线中。对于别人的批评我们一定要认真听取，因为　　；孝敬父母要从现在做起，不要等到　　；做学生时，一定要多读书、多实践，不要等到　　；我们要做一个节约的人，不能浪费，要做到　　。①树欲静而风不止，子欲养而亲不待 ②良药苦口利于病，忠言逆耳利于行 ③常将有日思无日，莫把无时当有时 ④书到用时方恨少，事非经过不知难",
+    "options": null,
+    "answer": "②①④③",
+    "explanation": "根据语境依次填入。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "运用名言，需理解句意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_027",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "辨字组词。煌　　版　　暑　　惶　　板　　署",
+    "options": null,
+    "answer": "辉煌 排版 暑假 / 惊惶 木板 签署",
+    "explanation": "板与版音不同、部首不同、义不同。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨字组词，属字形辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_028",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语运用",
+    "stem": "将成语补充完整，并按要求完成练习。良药　　口 聚　　会神　　言逆耳 全神　　注 无独有　　　　心　　欲（1）形容随着自己的意愿，想干什么就干什么的词语是　　。（2）人们都知道　　利于病，　　利于行。（选词填空）",
+    "options": null,
+    "answer": "苦 精 忠 贯 偶 随 所 （1）随心所欲 （2）良药苦口 忠言逆耳",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_029",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "给划横线的词语选择合适的解释。A.风光景物 B.境况：状况：情景 C.表示大约的时间或数量（1）里面的几个小孩子，大都只有五六岁光景。　　（2）他家的光景还不错。　　（3）好一派草原光景。　　A.自然界 B.表示理所当然 C.不勉强：不局促；不呆板（4）他的表演很自然。　　（5）你努力了，自然会有收获。　　（6）大自然给予我们很多。",
+    "options": null,
+    "answer": "（1）C；（2）B；（3）A；（4）C；（5）B；（6）A",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语理解辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_15377092_010",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "查字典",
+    "stem": "查字典。 \"鼎\"字按音序查字法应先查大写字母____，再查音节____。按部首查字法应先查____部，再查____画。\"鼎\"的第六画是____。\"鼎\"字的解释有：①古代烹煮用的器物，一般是三足两耳；②大；③锅；④正当，正在。\"一言九鼎\"的\"鼎\"应选第____种解释。请再写两个带\"鼎\"字的成语：________、________。",
+    "options": null,
+    "answer": "D ding 目 7 竖 ① 人声鼎沸 三足鼎立",
+    "explanation": "\"鼎\"读音dǐng；部首目；除去部首笔画7画；一言九鼎中\"鼎\"指古代烹煮用的器物，比喻分量重。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地字典与日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26411727_008",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下列加点字选择正确的读音。（填序号）①fènɡ ②fénɡ 1.我从门缝（　　）里望进去，看见妈妈在缝（　　）补衣服。 ①dǒu ②dòu 2.战士们来不及扔掉斗（　　）篷，就立即投入到激烈的战斗（　　）之中了。",
+    "options": null,
+    "answer": "1.① ② 2.① ②",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411727.html",
+      "site": "21世纪教育网",
+      "title": "任务式】统编版语文六上第五单元大单元教学设计.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案,教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多音字辨析练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:17.038363"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_51jiaoxi_14856497_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "先把词语补充完整，再解释所填的字的意思。临危不(     )、手不(     )卷、(     )而不舍、(     )壁借光、悬梁刺(     )、一丝不(     )。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14856497.html",
+      "site": "教习网",
+      "title": "语文六年级上册灯光同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累爱国名言成语积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:00.164954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_51jiaoxi_12173806_003",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "辨字组词",
+    "stem": "辨字组词。（后两列先写出形近字，再组词）（8分）瀑（      ）   唇（      ）  篷（      ）  疯（      ）爆（      ）   晨（      ）    （      ）     （       ）",
+    "options": null,
+    "answer": "瀑布  爆炸  嘴唇  早晨  斗篷  蓬  蓬勃  疯狂  枫  枫叶",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12173806.html",
+      "site": "教习网",
+      "title": "小学语文人教部编版六年级上册第五单元单元综合与测试课后练习题 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨字组词，属字形基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:54.564277"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_51jiaoxi_18480068_006",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下面三句话中，划线俗语的使用与语境相符的一项是",
+    "options": [
+      "学习贵在坚持，正所谓'书到用时方恨少，事非经过不知难'，临时抱佛脚终究行不通。",
+      "弟弟接连两次打碎花瓶，妈妈批评他，他依旧不改，真是'路遥知马力，日久见人心'。",
+      "遇到难题不要钻牛角尖，多向他人请教，记住'穷则变，变则通，通则久'。"
+    ],
+    "answer": "0",
+    "explanation": "A项告诫平日勤学积累，与语境相符；B项俗语与'屡教不改'无关；C项俗语不适合'虚心请教'语境。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累俗语运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 学习贵在坚持，正所谓'书到用时方恨少，事非经过不知难'，临时抱佛脚终究行不通。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_51jiaoxi_18480068_008",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下面标点使用不完全正确的一项是",
+    "options": [
+      "超市里的水果种类繁多，苹果、橙子、荔枝、芒果，样样齐全。",
+      "\"你怎么又迟到了？\"老师皱着眉头说道：\"下次一定要早点出门。\"",
+      "品读《十六年前的回忆》，我们能感受到李大钊同志坚定的革命信念。"
+    ],
+    "answer": "1",
+    "explanation": "提示语在两句话中间，'说道'后面应使用逗号，原句误用冒号。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地标点符号",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. \"你怎么又迟到了？\"老师皱着眉头说道：\"下次一定要早点出门。\"",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_011",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗理解",
+    "stem": "下面哪一句，不是描写爱国情怀的诗句（  ）",
+    "options": [
+      "捐躯赴国难，视死忽如归",
+      "故人西辞黄鹤楼，烟花三月下扬州",
+      "祖宗疆土，当以死守，不可以尺寸与人"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国诗句日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:10.858994"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k2_21cnjy_26563138_015",
+    "answer_text": "B. 故人西辞黄鹤楼，烟花三月下扬州",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_51jiaoxi_6048344_007",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语运用",
+    "stem": "(二)下面的名字都是取自一些有寓意的成语，把其中隐含的成语写出来。赵文武( )　陈子龙( )　王华茂( )　李鹏程( )　张一帆( )　李富荣( )",
+    "options": null,
+    "answer": "文武双全、望子成龙、风华正茂、鹏程万里、一帆风顺、富贵荣华",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-6048344.html",
+      "site": "教习网",
+      "title": "2021年 统编版六年级语文期中精选卷（1）（附参考答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成语积累，语文园地相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.413335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_23110730_023",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "名言警句填空",
+    "stem": "\"一粥一饭,当思来处不易\",我们在生活中要节俭,需\"常将有日思无日,____\";要及时行孝,因为我们不想有\"树欲静而风不止,____\"的遗憾。",
+    "options": null,
+    "answer": "莫把无时当有时；子欲养而亲不待",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累名言警句填空考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_12091063_021",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "根据语境，仿照下面的句子续写，构成语意连贯的一段话。 (3分)\n献身科学、追求真理的道路并不平坦。钱学森告诉我们，这需要执着的信念和坚韧的品格支撑； ， 。",
+    "options": null,
+    "answer": "示例:居里夫人告诉我们 这需要明确的目标和正确的方向作指引",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "仿写排比句，属词句段运用积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_18267567_013",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用现代汉语写出下列句子的意思。六月六,看谷秀。(6分)",
+    "options": null,
+    "answer": "农历六月初六,就到处可见齐腰高、秀出穗的农作物。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "俗语翻译，属日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_010",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文默写",
+    "stem": "祖宗疆土，_________________，不可以尺寸与人。",
+    "options": null,
+    "answer": "当以死守",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累爱国名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_016",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "对\"鞠躬尽瘁，死而后已\"理解正确的一项是（ ）",
+    "options": [
+      "勤勤恳恳，竭尽心力，到死为止",
+      "身体劳累，直到生命结束",
+      "为国战斗，不惧死亡"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累爱国名言理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k8_21cnjy_26563138_013",
+    "answer_text": "A. 勤勤恳恳，竭尽心力，到死为止",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26563138_021",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课外阅读",
+    "stem": "联系短文，理解词语。恼羞成怒：",
+    "options": null,
+    "answer": "因为羞愧恼火而大发脾气。文中指敌人被王璞拒绝之后十分愤怒。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26563138.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册语文第二单元检测卷（三）（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解词语，属于词句段运用基础能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:18.465839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_15109679_014",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "捐躯赴国难,　　　　     　　。",
+    "options": null,
+    "answer": "视死忽如归",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "默写日积月累爱国名言",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_17921665_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "填字成词。心( )神( ) ( )色( )流 ( )飘带( ) ( )芳自( ) ( )山( )海 ( )( )一发 ( )精( )神 ( )面( )方 ( )七( )八",
+    "options": null,
+    "answer": "驰 往 翠 欲 襟 舞 孤 赏 排 倒 千 钧 聚 会 四 八 横 竖",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_17921665_009",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "捐躯赴国难，____。",
+    "options": null,
+    "answer": "视死忽如归",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "爱国名言日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_17921665_011",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修改病句",
+    "stem": "通过老师的反复教育，使我认识了错误。(用修改符号在原句上修改病句)",
+    "options": null,
+    "answer": "把\"通过\"或\"使\"删掉",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改语文基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k7_21cnjy_17921665_011"
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_17921665_015",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "续写句子。关爱是一句问候，给人春天般的温暖；关爱是____，____；关爱是____，____。",
+    "options": null,
+    "answer": "一汪清泉，给人以真诚的希望；一句鼓励，给人以无穷的力量",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "排比句式仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_19424068_013",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "按句子表达的主题划分，下列句子与其他三个句子不同类的一句是（  ）",
+    "options": [
+      "苟日新，日日新，又日新。",
+      "捐躯赴国难，视死忽如归。",
+      "鞠躬尽瘁，死而后已。",
+      "位卑未敢忘忧国。"
+    ],
+    "answer": "0",
+    "explanation": "A项强调不断改进和学习的重要性，B、C、D项都表现爱国精神。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查爱国名句主题分类",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 苟日新，日日新，又日新。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_16427384_026",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "日积月累。（1）过去的日子如轻烟，　　，如薄雾，　　。（2）中国古时候有个文学家叫做司马迁的说过\"　　\"为人民利益而死，就比泰山还重；替法西斯卖力，　　，就比鸿毛还轻。（3）近水知鱼性，　　。（4）迢迢牵牛星，　　。纤纤擢素手，　　。（5）《周易》中说\"穷则变，　　\"，没有改革开放，就没有中国今天的成就，懂得变革，国家才能发展得更好。（6）诗人常借具体事物表达自己的志向。于谦以石灰自喻，\"　　，要留清白在人间\"表达了自己坚贞不屈的品格；《竹石》中，\"　　，任尔东西南北风\"两句描写了竹子不屈不挠的品格，这也是诗人郑燮高尚人格的写照。",
+    "options": null,
+    "answer": "（1）被微风吹散了 被初阳蒸融了 （2）人固有一死，或重于泰山，或轻于鸿毛 替剥削人民和压迫人民的人去死 （3）近山识鸟音 （4）皎皎河汉女 札札弄机杼 （5）变则通，通则久 （6）粉骨碎身浑不怕 千磨万击还坚劲",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "日积月累古诗文名句填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "竹石"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_15377092_018",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文段⑤中，哪些语句体现了叶欣抢救工作的\"高强度，高效率\"？用\" \"画下来。",
+    "options": null,
+    "answer": "叶欣迅速赶来，娴熟地将病床摇高，让患者呈半坐卧位，同时给予面罩吸氧，静脉注射强心药，监测心率、血压、呼吸……两小时过去了，患者终于脱离了危险。叶欣顾不上休息，又拖着疲惫的身躯投入到对另一个患者的抢救中去。",
+    "explanation": "这些语句具体描写了叶欣抢救病人的动作及连续工作，体现了高强度、高效率。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_15377092_019",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "批注",
+    "stem": "在文段⑥中的提示处做批注。",
+    "options": null,
+    "answer": "这句话是对叶欣的语言描写和神态描写。更突出了叶欣不怕危险，勇往直前的精神。",
+    "explanation": "\"斩钉截铁的话语\"属于语言描写，突出了叶欣甘于奉献的精神。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15377092.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第4单元期中复习卷-（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语文园地批注方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:50.514094"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26536921_002",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "根据教材\"梳理与交流\"，判断下列说法的对错，对的打\"√\"，错的打\"×\"。（1）《开国大典》写阅兵式时，既从整体上写了受阅部队经过天安门广场时那种整齐威武的情景，又注意通过细节展现各方阵的风采。（ ）（2）《狼牙山五壮士》在描写激烈战斗时，只写了五位壮士的整体表现，没有写具体个人的动作。（ ）（3）写场面时运用\"点面结合\"的方法，既能全面展现整体风貌，又能突出个别典型人物的表现。（ ）",
+    "options": null,
+    "answer": "（1）√ （2）× （3）√",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26536921.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文园地二分层练习（含答案）.docx - 试卷- 小学语文- 21 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理与交流，体会点面结合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:18.571844"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k1_21cnjy_26536921_002"
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_7897198_036",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "文中省略号的作用是（　　）",
+    "options": [
+      "省略没有说完的内容。",
+      "省略同类词语。",
+      "表示意在言外的省略。",
+      "表示事物或道理的多项列举。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "省略号用法标点考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 省略没有说完的内容。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_18127030_028",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "下列对\"儿无成，不食肉\"理解有误的一项是( )",
+    "options": [
+      "做父亲的发誓儿子没有干成事业，就一定不吃肉。",
+      "这句誓言是父亲发自内心地对儿子的一种希冀。",
+      "这句誓言饱含着一位父亲对儿子深深的爱，以及望子成龙的夙愿。",
+      "这是\"我\"家乡的风俗习惯，只有儿子成家后，方能吃肉。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用——结合语境理解难句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 这是\"我\"家乡的风俗习惯，只有儿子成家后，方能吃肉。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_18127030_029",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中两次出现父亲看着\"我\"笑的细节描写，它们分别表达了父亲怎样的情感？",
+    "options": null,
+    "answer": "①看到\"我\"吃肉吃得那么欢快，父亲很高兴。②看到儿子事业有成，终于成才，父亲非常欣慰，心中充满骄傲。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会细节描写表达的情感",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_18127030_030",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读短文最后一个自然段，\"我\"",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解结尾段表达的情感",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26540171_001",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音写词语，书写端正美观。jiǎn yuè；zhì dù；lóng zhòng；cì xù；qīng miè；fèn zhàn；yǎn zòu；xuán yá",
+    "options": null,
+    "answer": "检阅 制度 隆重 次序 轻蔑 奋战 演奏 悬崖",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540171",
+      "site": "21世纪教育网",
+      "title": "doc 26540171",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词书写，涉及革命单元生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:36.220394"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26540171_002",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "给加点字选择正确的读音，打\"√\"。（1）倚靠（yǐ yī）（2）歼敌（qiān jiān）（3）璀璨（cuǐ càn chuǐ càn）（4）逶迤（wēi yí wěi yí）",
+    "options": null,
+    "answer": "yǐ√ jiān√ cuǐ càn√ wēi yí√",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540171",
+      "site": "21世纪教育网",
+      "title": "doc 26540171",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音辨析，革命题材易读错字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:36.220394"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26540166_004",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补充词语，并选词填空。（　）霄（　）外、（　）钉（　）铁、热（　）澎（　）、惊（　）动（　）、满（　）红（　）、粉（　）碎（　）。(1)他说话做事干脆利落、毫不犹豫，真是________。(2)同学们________，高唱国歌，心中充满爱国情怀。",
+    "options": null,
+    "answer": "九霄云外、斩钉截铁、热血澎湃、惊天动地、满脸通红、粉身碎骨。(1)斩钉截铁 (2)热血澎湃",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，词语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u2.k8_21cnjy_26540166_005",
+    "subject": "语文",
+    "kp_id": "u2.k8",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列词语全部褒义词的一项是",
+    "options": [
+      "英勇无畏 临危不惧",
+      "趾高气扬 奋不顾身",
+      "诡计多端 顶天立地"
+    ],
+    "answer": "0",
+    "explanation": "B项\"趾高气扬\"含贬义，C项\"诡计多端\"含贬义。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26540166",
+      "site": "21世纪教育网",
+      "title": "doc 26540166",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词句段运用，辨析褒义词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:56.596241"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 英勇无畏 临危不惧",
+    "has_answer": true
+  }
+]

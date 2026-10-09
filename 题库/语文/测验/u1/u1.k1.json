@@ -1,0 +1,5396 @@
+[
+  {
+    "qid": "语文_u1.k1_zxxk_59576529_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "仿写句子",
+    "stem": "从「清凉、静谧、辽阔、芬芳」任选一词，仿照例句写景，发挥想象。例句：那些铺展在天地间的山野湖泽，藏着四季最温柔的诗意。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围绕自然主题，发挥想象写景，契合第一单元语文要素。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_59576529_002",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子赏析",
+    "stem": "赏析句子：湖面平静得如同打磨过的碧玉，只有微风拂过，才漾开一圈圈细碎的涟漪。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "赏析自然景物句子，运用比喻修辞，属第一单元自然主题阅读。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.152571"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_59576529_003",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "理解句子",
+    "stem": "\"山河之美，不止是眼睛看见的风景，更是心灵收获的宁静。\"结合短文，说说你对这句话的理解。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解句子含义，属单元语文要素'想开去'的阅读理解方法。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.152571"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_59576529_004",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "写话",
+    "stem": "假如你身处这片湖畔山野，你的心情会是怎样？简单写一写。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合自然情境展开想象写心情，对应单元语文要素'想开去'与习作要求。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.152571"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_48949414_005",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读下面的文字，完成题目。（一）夏 ①夏天到了。②好像炉子上的一锅水在逐渐泛泡、冒气而终于沸腾一样，山坡上的竿芋细草长成了一片密密的厚发，林带上的淡淡绿烟也凝成了一堵黛色长墙。轻飞曼舞的蜂蝶不见了，却换来了烦人的蝉儿，潜在树叶间一声声地长鸣。火红的太阳烘烤着一片金黄的大地，麦浪翻滚着，扑打着远处的山、天上的云，扑打着公路上的汽车，像海浪涌着一艘艘的舰船。金色主宰了世界上的一切，热风浮动着，飘过田野，吹送着已熟透了的麦子的香味。那春天的灵秀之气经过半年的积蓄，这时已酿成一种磅礴之势，在田野上浪动，在天地间升腾。③夏天的色彩是金黄的。按绘画的观点，这大约有其中的道理。春之色为冷的绿，如碧波，如嫩竹，贮满希望之情；秋之色为热的赤，如夕阳，如红叶，标志着事物的终极。夏正当春华秋实之间，自然应了这中性的黄色——收获之已有而希望还未尽，正是一个承前启后、生命交替的旺季。你看，麦子刚刚割过，田间那挑着七八片绿叶的棉苗，那朝天举着喇叭筒的高梁、玉米和那在地上匍匐前进的瓜秧，无不迸发出旺盛的活力。这时它们已不是在春风微雨中细滋慢长，而是在暑气的蒸腾下，蓬蓬勃发，向秋的终点做着最后的冲刺。④夏天的旋律是紧张的，人们的每一根神经都被绷紧。你看田间那些挥镰的农民，弯着腰，流着汗，只是想着快割，快割；麦子上场了，又想着快打，快打。他们早起晚睡……",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48949414.html",
+      "site": "学科网",
+      "title": "第五单元形成性自主评价-2024-2025学年统编版语文六年级上册 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "自然主题阅读，以比喻写夏天景象，考查自然主题与形象表达。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_54166240_006",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "选词填空。（填序号）___，壶口瀑布激起的水雾在寒风中顷刻结冰，变成了粗细各异的冰挂，晶莹剔透，在阳光照耀下呈现出五光十色的异彩。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54166240.html",
+      "site": "学科网",
+      "title": "第三单元检测卷-2025-2026学年语文六年级上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查描述自然景观的选词运用，属第一单元自然主题基础训练。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_53998403_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "《花之歌》中，花既是自然的使者，又藏着深刻的哲理，尽显生命的shēnà（　　）。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《花之歌》属第一单元略读课文，归入单元主题KP",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_53998403_008",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "口语交际",
+    "stem": "本单元的课文都展现了自然之美和生活之思。如果让你向同学推荐本单元的一篇课文，你会推荐哪篇？请说明推荐理由，至少两点。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "口语交际需围绕单元主题推荐课文并阐述理由，考查对单元主题与语文要素的理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.152571"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_59047848_012",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "提到语文，你最先想到什么？（影视剧台词、口语交际、写字、默写、阅读理解、汉语拼音、对联、演讲稿、文言文、书信、成语、日记、作文、古诗）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59047848.html",
+      "site": "学科网",
+      "title": "六年级语文秋季开学第一课：以世界杯精神，开启初中新阶段（新 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "入学引导题，激活学生语文学习经验，属单元导语类诊断性提问",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_54085508_013",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "",
+    "options": null,
+    "answer": "B",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54085508.html",
+      "site": "学科网",
+      "title": "13 桥同步练-2025-2026学年语文六年级上册统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目无题干无选项，无法判断具体知识点，暂归为单元导语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "suspect_short": true,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_zxxk_55454272_014",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "采风结束后，小组同学写下了自己的所见所悟，请根据拼音补写词语。漫步奇秀的雁荡山，山峰林立，pùbù（　　）飞泻，耳畔传来白垩纪的回响；泛舟chéngbì（　　）的楠溪江，水波dàngyàng（　　），青山绵绵，静心qīngtīng（　　）诗画山水的低吟；畅游洞头列岛，上半屏山，登仙叠岩，海天一线，壮美无边，不禁让人心潮péngpài（　　）……",
+    "options": null,
+    "answer": "瀑布、乘碧、荡漾、倾听、澎湃",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55454272.html",
+      "site": "学科网",
+      "title": "浙江省温州市期末真题精编重组卷-2025-2026学年六年级语文上册（统编版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "题目内容为雁荡山瀑布、碧水等自然景物，考查自然主题字词认读与书写。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.926783"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_23692833_021",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "说说下面两句话中加点的字能否改为括号内的字，为什么？①肥胖的黄蜂伏（停）在菜花上。",
+    "options": null,
+    "answer": "不能。\"伏\"字形象地写出了黄蜂趴在菜花上的情态，富有动感；若改为\"停\"则显得呆板，缺少生动性。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23692833.html",
+      "site": "21世纪教育网",
+      "title": "统编版小学语文六年级上册课堂练习题五（第7、8单元）（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "自然文本中字词品味与阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:48:31.312805"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_23692833_022",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "说说下面两句话中加点的字能否改为括号内的字，为什么？②轻捷的叫天子（云雀）忽然从草间直窜（飞）向云霄里去了。",
+    "options": null,
+    "answer": "不能。\"窜\"字写出叫天子飞得又快又直，直冲云霄的特点，更能表现其轻捷；若改为\"飞\"则显得平淡，缺少冲击力。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23692833.html",
+      "site": "21世纪教育网",
+      "title": "统编版小学语文六年级上册课堂练习题五（第7、8单元）（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "自然文本中字词品味与阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T05:48:31.312805"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18216651_005",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词填空（丰富/丰收/丰满）。①草长，树木长，山是一天一天的变( )。",
+    "options": null,
+    "answer": "丰满",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》辨析丰富/丰满",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:41.851721"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18216651_013",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语",
+    "stem": "根据意思写成语。③形容摩擦等轻微细小的声音。",
+    "options": null,
+    "answer": "寒寒窣窣",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "自然单元形容声响成语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:41.851721"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_24033448_006",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列文章拟题的方法与其他三项不同的是（ ）",
+    "options": [
+      "草船借箭",
+      "爬天都峰",
+      "蟋蟀的住宅",
+      "“诺曼底号”遇难记"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文章拟题方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 蟋蟀的住宅",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18127030_024",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "我\"在南极之行中体验到了\"不可言状的美\"，分别是（多选）( ) A.美丽的自然春色。 B.南极富有蓬勃生命力的动物。 C.自然万物的和谐共处。 D.船长对航海事业的执着与坚持。",
+    "options": [
+      "美丽的自然春色。",
+      "南极富有蓬勃生命力的动物。",
+      "自然万物的和谐共处。",
+      "船长对航海事业的执着与坚持。"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "亲近自然主题阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.926783"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。yōu yǎ　　biān cè　　jìng mì　　qín miǎn　　chún shuí\n( ) ( ) ( ) ( ) ( )\nmò shēng　 táo zuì　　jiàn shǎng　 dǐ yù　　　zī yuán\n( ) ( ) ( ) ( ) ( )",
+    "options": null,
+    "answer": "优雅、鞭策、静谧、勤勉、纯熟、陌生、陶醉、鉴赏、抵御、资源",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元基础字词听写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_002",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形组词",
+    "stem": "形近字组词。\n躁（　 　）　扰（　 　）　梁（　 　）　博（　 　）　籍（　 　）\n燥（　　 ）　优（　 　）　粱（　 　）　搏（　 　）　藉（　　 ）",
+    "options": null,
+    "answer": "躁（急躁）　扰（打扰）　梁（桥梁）　博（博览）　籍（书籍）／燥（干燥）　优（优秀）　粱（高粱）　搏（搏斗）　藉（慰藉）",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字组词，单元基础字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_003",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句辨析",
+    "stem": "下列句子没有语病的是（　　）",
+    "options": [
+      "公园里开满了五颜六色的红花。",
+      "我估计他今天一定会来参加比赛。",
+      "我们要养成善于观察和思考的好习惯。",
+      "经过这次实践活动，受到了很大的教育。"
+    ],
+    "answer": "2",
+    "explanation": "A项\"五颜六色\"与\"红花\"语义重复；B项\"估计\"与\"一定\"矛盾；D项缺主语。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句辨析，单元语言运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 我们要养成善于观察和思考的好习惯。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_004",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "错别字辨析",
+    "stem": "找出下列每组词语中的错别字，用\"____\"画出来。\n1.慢不经心　聚精会神　面面相觑　意味深长\n2.鞠躬尽粹　罪魁祸首　悬梁刺股　竭泽而渔\n3.张冠李带　恍然大悟　饱经风霜　汹涌澎湃\n4.可见一般　大摇大摆　自作自受　流连忘返",
+    "options": null,
+    "answer": "1.慢→漫；2.粹→瘁；3.带→戴；4.般→斑",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "错别字辨析，单元字词基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_005",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语运用",
+    "stem": "补充词语，并选择词语填空。\n余音绕（　）　画龙点（　）　妙笔生（　）\n独（　）匠心　惹人（　）笑　张（　）李（　）\n1.小明说话总是（　　　　　　），常常把别人的名字张冠李戴，闹了不少笑话。\n2.这幅画的构思（　　　　　　），深受大家的喜爱。\n3.他的歌声（　　　　　　），久久回荡在观众心中。",
+    "options": null,
+    "answer": "梁、睛、花、具、讥、冠、戴；1.张冠李戴 2.独具匠心 3.余音绕梁",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成语填空运用，单元日积月累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_006",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "我们要不断地改进学习方法，增强学习效率。（修改病句）",
+    "options": null,
+    "answer": "我们要不断地改进学习方法，提高学习效率。",
+    "explanation": "增强\"与\"效率\"搭配不当，应改为\"提高\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改，单元语言训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "春风一吹，柳树姑娘甩起了长长的辫子。（仿写拟人句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "仿写拟人句，答案不唯一，如：春风一吹，桃花姑娘露出了粉红的笑脸。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拟人句仿写，单元句式练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26408869_008",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "爸爸对我说：\"我不能带你去公园了，因为今天我要加班。\"（改为转述句）",
+    "options": null,
+    "answer": "爸爸对我说，他不能带我去公园了，因为他今天要加班。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26408869.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册语文开学摸底模拟试卷（一）（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "转述句转换，单元句式训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:49.263626"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25537598_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "从文中找出描写\"我\"情感变化的词语，按顺序填写在横线上。 渴望→____→____→____→喜悦",
+    "options": null,
+    "answer": "兴奋 失落 看到了希望",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25537598.html",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册期中质量综合检测卷三（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理情感变化属阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:57.654946"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26047889_002",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "同一个词语在不同的语境中意思不同。安安发现词语\"回味\"的意思与其他三句不同的一项是（ ）。A. 张爷爷坐在摇椅上，幸福地回味着那段激情燃烧的岁月。 B. 这道菜色香味俱全，口感嫩滑，入口即化，让人回味无穷。 C. 骏马和大牛都有时静立不动，好像回味着草原的无限乐趣。 D. 宁宁看完电影，回来路上回味着影片精彩片段，激动不已。",
+    "options": [
+      "张爷爷坐在摇椅上，幸福地回味着那段激情燃烧的岁月。",
+      "这道菜色香味俱全，口感嫩滑，入口即化，让人回味无穷。",
+      "骏马和大牛都有时静立不动，好像回味着草原的无限乐趣。",
+      "宁宁看完电影，回来路上回味着影片精彩片段，激动不已。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合语境辨析词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 这道菜色香味俱全，口感嫩滑，入口即化，让人回味无穷。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_18590220_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "《草原给我的启示》",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18590220.html",
+      "site": "教习网",
+      "title": "初中人教部编版(五四制) 2024草原/老舍同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "亲近自然主题及联想启示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:21.360353"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_12091063_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。(7分)\n1.huā pǔ( )里开满了五颜六色的花儿，些蜜蜂在huā ruǐ( )上辛勤地采蜜。\n2.他虽然是一个máng rén( )， 却能用口琴吹奏出qīng cuì( )的音乐，好像夏天的夜晚，xī shuài( )唱着动听的歌。\n3.这个令人感到kǒng bù( )的现象被zhèng shí( )是一个恶作剧。",
+    "options": null,
+    "answer": "花圃 花蕊 盲人 清脆 蟋蟀 恐怖 证实",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:19.828389"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子中，加点词语使用恰当的一项是（  ）",
+    "options": [
+      "草原景色优美，让人顾此失彼。",
+      "雨后青山如洗，景色心旷神怡。",
+      "春天百花齐放，孤芳自赏，十分美丽。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元课文词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 雨后青山如洗，景色心旷神怡。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_009",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子没有语病的一项是（  ）",
+    "options": [
+      "我们要善于观察、感受、发现生活中的美。",
+      "通过学习第一单元，让我学会了联想与想象。",
+      "大自然的美景，深深打动了我的心。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元语病辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 大自然的美景，深深打动了我的心。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_021",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "短文第二自然段主要写了晨雾的什么特点？",
+    "options": null,
+    "answer": "轻柔朦胧、梦幻静谧，笼罩万物，模糊柔和。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元导语：抓景物特点，从所读想开去",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_022",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "雾散去之后，大地呈现出怎样的状态？",
+    "options": null,
+    "answer": "浓雾散去，景物清晰明朗，万物焕然一新、充满生机。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元导语：阅读理解自然主题段意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读完短文，你得到了什么启发？",
+    "options": null,
+    "answer": "生活从不缺少美，无论热闹繁华还是安静平凡的时刻，只要我们用心观察、用心感受，就能发现身边处处藏着诗意与美好。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单元导语：阅读想开去，领悟启发",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15109679_016",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读选文第5自然段,理解填空。作者将\"岩石、树叶、绿草\"联想成\"　　　　　　　　\",将\"飘飘洒洒的雨丝\"想象成\"　　　　　　　　\",将此时的雨声联想成\"　　　　　　　　\",形象生动地写出了山雨的　　　　　　　　美。",
+    "options": null,
+    "answer": "奇妙无比的琴键；无数轻捷柔软的手指；一首又一首优雅的小曲；声音",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读联想与想象理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15109679_017",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文是按照什么样的顺序来写的",
+    "options": null,
+    "answer": "雨前—雨中—雨后",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写景顺序，单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26560562_013",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者认为生活中的诗意藏在哪里？（4分）",
+    "options": null,
+    "answer": "诗意藏在身边的寻常风物之中，一草一木、风雨晚霞、四季景致、平凡日常里皆有诗意。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "生活诗意主题理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26560562_014",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "怎样才能让平凡的生活拥有诗意？（4分）",
+    "options": null,
+    "answer": "拥有善于发现美的眼睛，用心观察生活、品读寻常景致，怀揣热爱与从容对待日常，就能拥有生活的诗意。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "领悟自然诗意方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26560562_015",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合生活，说说你发现过哪些身边的诗意风景？（4分）",
+    "options": null,
+    "answer": "示例：清晨带着露珠的花草、傍晚漫天的晚霞、雨后清新的空气、秋日飘落的黄叶，这些平凡的景物，安静美好，藏着独属于生活的诗意。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系生活谈自然感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25915744_015",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语言运用",
+    "stem": "下面是《鲁滨逊漂流记》两个译本中的句子，说说你更喜欢哪个译者的 为什么 (3分)\nA.总的说来，这是世界上少有的叫人受尽折磨的处境，但是其中也有一些值得宽慰的东西。——译者：鹿金\nB.总的来说，事实证明，我当前的不幸处境，是世界上很少有的，可是，即使在这样的处境中，也有一些消极的东西或积极的东西值得感谢。——译者：徐霞村\n我更喜欢 (填译者)的。\n我的理由：",
+    "options": null,
+    "answer": "示例一：鹿金 语言简洁流畅，表述通俗易懂，能直观地传达出原著的情感和意思，读起来自然亲切。示例二：徐霞村 逻辑清晰，\"事实证明\"等表述更具理性分析的色彩，对处境的描述和其中可感谢之处的表达更为具体，能让读者更清晰地感受到主人公在困境中冷静理性、积极乐观的精神。",
+    "explanation": "选择1分，理由2分",
+    "source": {
+      "url": "https://zy.21cnjy.com/25915744",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册小升初复习专项检测二（含答案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读时想开去·比较鉴赏",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.154775"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "鲁滨逊漂流记"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_013",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "短文第二自然段主要写了晨雾的什么特点？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描写自然景物特点（晨雾）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k1_21cnjy_26537814_021",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_014",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "雾散去之后，大地呈现出怎样的状态？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解自然景物描写内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k1_21cnjy_26537814_022",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26537814_015",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读完短文，你得到了什么启发？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "亲近自然、热爱生活感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k1_21cnjy_26537814_023",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18267567_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音,写词语。(7分) 初春的一天,我们全家去郊外游玩。天空 wǎ lán wǎ lán(          )的,路边的花儿有的含欲放,有的开出了鲜艳的花朵。我们躺在ruǎn mián mián(         )的cǎo píng(    )上,仰望着蓝天白云。远处的pù bù(    )从山上直泻而下,溅起无数jīng yíng( )的水花。傍晚,我们在一块空地上搭起了 zhàng peng(     )，支起了铁锅,提着lán zi(     )挖来野菜,边吃着带来的各种食品,边喝着野菜汤……这一天真有意思啊!",
+    "options": null,
+    "answer": "瓦蓝瓦蓝 软绵绵 草坪 瀑布 晶莹 帐篷 篮子",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "基础字词拼音，对应自然单元积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_14230577_009",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列没有展开联想和想象的句子是（    ）A.皮鞋匠静静地听着。他好像面对着大海，月亮正从水天相接的地方升起来。微波粼粼的海面上，霎时间洒满了银光。B.牵牛花开放了，好像叭叭叭吹着的喇叭，正在向你诉说心事呢！C.夜幕降临，幽蓝幽蓝的天空中点缀着无数的小星星，一眨一眨地，仿佛在邀请人们到广阔的太空中去遨游。D.贝多芬听到断断续续的钢琴声从一所茅屋里传出来。",
+    "options": [
+      "皮鞋匠静静地听着。他好像面对着大海，月亮正从水天相接的地方升起来。微波粼粼的海面上，霎时间洒满了银光。",
+      "牵牛花开放了，好像叭叭叭吹着的喇叭，正在向你诉说心事呢！",
+      "夜幕降临，幽蓝幽蓝的天空中点缀着无数的小星星，一眨一眨地，仿佛在邀请人们到广阔的太空中去遨游。",
+      "贝多芬听到断断续续的钢琴声从一所茅屋里传出来。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联想想象阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 贝多芬听到断断续续的钢琴声从一所茅屋里传出来。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_14230577_016",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "片段写作",
+    "stem": "读下面的词语，你想到了什么？任意选一个，写一段话。温暖的双手 温暖的话语 温暖的阳光",
+    "options": null,
+    "answer": "示例：一个寒冷的冬夜，我和爸爸在车站等车。天气实在是太冷了，我从椅子上站起来，不停地跺着脚。爸爸觉察到了，赶紧把自己的外套脱下来裹在我的身上，然后用他那温暖的双手轻轻地搓着我冻得冰冷的手，还不停地给我哈气。我一下子就不觉得冷了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联想想象写片段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15109679_025",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文是按照什么样的顺序来写的",
+    "options": null,
+    "answer": "雨前—雨中—雨后",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写景文章写作顺序理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k1_21cnjy_15109679_017",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15109679_026",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文表达了作者什么样的思想感情",
+    "options": null,
+    "answer": "对山雨、对大自然那份浓浓的爱和深深的眷恋,体现出作者清雅脱俗的审美情趣。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写景抒情文章思想感情",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15109679_029",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "你游览过哪些自然景观呢 写一篇习作,可以是身边的景物,也可以是一处著名的旅游景点。要按照一定的顺序,突出它的特点。不少于400字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元写景习作要求",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25537598_022",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "根据短文和阅读链接的内容判断，下列说法有误的一项是",
+    "options": [
+      "故事中闪现的人性之美，\"我\"身上有，营业员身上也有。",
+      "故事发生在老师让\"我们\"自由活动的时间。",
+      "营业员刚开始不肯卖《汉语成语小词典》给\"我\",并不是故意刁难\"我\"。",
+      "故事发生在有少数民族居住的地区，所以第⑦自然段中加点的\"藏\"读\"zàng\"。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25537598.html",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册期中质量综合检测卷三（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "短文阅读理解综合判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:57.654946"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 故事发生在有少数民族居住的地区，所以第⑦自然段中加点的\"藏\"读\"zàng\"。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25537598_024",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读第⑤自然段画",
+    "options": null,
+    "answer": "营业员没有真的变漂亮。这句话中的\"漂亮\"反映了\"我\"当时的感受，\"我\"在营业员的脸上看到怜悯、希望，因此对她产生好感，所以\"我\"觉得她变漂亮了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25537598.html",
+      "site": "21世纪教育网",
+      "title": "2026年春统编版语文六年级下册期中质量综合检测卷三（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子理解属阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:57.654946"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_17908149_017",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读下面的短文，完成后面的练习。万花溪绕着我们的村子，流着，流着。它是点苍山的一条溪流。它的溪水里，永远漂载着好看的花瓣。溪水是香的、甜的、冰凉的。当点苍山的冰雪刚开始融化，它的溪畔，已经开满了鲜花。 这时候，我喜欢提着小花篮，来到溪畔。闻闻这朵花，闻闻那朵花，我和花们说悄悄话。 你好，山茶花!你说，你的小脸，是在那个下霜的夜里冻红的吗 还是你早起迎接太阳，早霞亲了亲你，你害羞了 山茶花，别只顾笑，你倒是把你的秘密告诉我呀! 你好，马樱花! 你好，含笑花! 哦，杜鹃花、叶上花、金银花、龙胆花、刺苞花、太阳花、地丁花、猫脸花、蝴蝶花……你们都好呀，万花溪畔的花朵们! 你们有什么喜事 你们为什么这么喜气洋洋 哟，你们已经寄出了芬芳的彩色的邀请信。你们的客人，蜜蜂和蝴蝶，就要来了。难怪你们这么忙，难怪你们这么喜气洋洋! 告诉我，万花溪的花朵们，你们为什么有这么多的色彩 蓝色、红色、黄色、白色、紫色……你们打扮了飘香溢彩的溪流，你们给我们的村子镶了一道花边。看你们笑得前仰后合，你们的家族多么快乐。你们喜欢多种多样的色彩，你们喜欢开出多种多样的花朵。 哟，万花溪的花朵们，告诉我，你们是大地妈妈的儿女吗 正像我们小娃娃，是妈妈的儿女，妈妈的花。我想，你们一定是大地妈妈的儿女。只有大地妈妈，才有这么多、这么美丽的儿女呀!1.请你给这篇优美的短文拟一个题目，填在横线上。2.用",
+    "options": null,
+    "answer": "1.万花溪畔的悄悄话 2.略 3.花儿种类多，颜色多。4.就花是红色的来对话。表达了对山茶花的喜爱之情。5.不一样。\"万花溪畔的花朵们\"指的是地面上的各种花，因为\"溪畔\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写景抒情散文阅读，单元主题自然",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:27.435894"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26560562_016",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "藏在身边的诗意\n写作要求：\n1. 取材生活，描写身边的自然小景、日常美景，贴合单元写景悟情主题；\n2. 抓住景物细节，运用比喻、拟人等修辞，动静结合，画面生动；\n3. 条理清晰，层层递进，写出自己的观察感悟与真情实感；\n4. 450字左右，书写工整，语句通顺，不出现真实校名、人名。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "习作贴近第一单元写景悟情主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:43.326091"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_24126519_004",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中加点词语运用不恰当的一项是（2分）",
+    "options": [
+      "在山阴道上行走，一路的美景令人应接不暇。",
+      "弟弟的胃口特别好，尤其喜欢吃水果，经常囫囵吞枣。",
+      "爷爷脸上的皱纹，记录了他饱经风霜的岁月。",
+      "经过老师指点，我才恍然大悟，这道题原来是我做错了。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语运用，考查四字词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 弟弟的胃口特别好，尤其喜欢吃水果，经常囫囵吞枣。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_24126519_011",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "下列句子中，没有语病的一项是（2分）",
+    "options": [
+      "冬天，寒风呼啸着拂面而来，吹得人瑟瑟发抖。",
+      "在语文老师的指导和帮助下，使她的作文水平大大提高。",
+      "同学们把门窗擦得干干净净，整整齐齐。",
+      "同学们用敬佩的目光注视着这位见义勇为的英雄。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改，基础语言运用能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 同学们用敬佩的目光注视着这位见义勇为的英雄。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25008919_016",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "文章围绕外婆的竹篮，写了哪几件事？请简要概括（4分）",
+    "options": null,
+    "answer": "①外婆提着竹篮带\"我\"去田间装果蔬；②竹篮成为\"我\"的玩具箱，装零食和小物件；③外婆提着竹篮来城里给\"我\"送土特产；④竹篮提手损坏，外婆连夜修补并重新缠布条；⑤外婆去世后，\"我\"珍藏竹篮，寄托思念。",
+    "explanation": "答出四件，意思对即可",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/25008919.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册期末巩固与练习试卷（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "叙事类概括事件",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:17.589230"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25008919_017",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "赏析文中加点词语的表达效果（3分）（加点词：\"慢慢\"吃零食；\"温柔\"地看着我）",
+    "options": null,
+    "answer": "\"慢慢\"写出了\"我\"吃零食时的惬意自在，也体现了时光的温馨；\"温柔\"刻画了外婆看\"我\"时的眼神，直白流露了外婆对\"我\"的疼爱之情，两个词共同营造了祖孙情深的温暖氛围。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/25008919.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册期末巩固与练习试卷（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语表达效果",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:17.589230"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25008919_018",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "文中的竹篮具有怎样的含义？（3分）",
+    "options": null,
+    "answer": "表层含义：外婆亲手编织的、用来装东西的旧竹篮；深层含义：外婆对\"我\"的疼爱与牵挂的见证，是\"我\"怀念外婆、寄托亲情的载体。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/25008919.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册期末巩固与练习试卷（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "物品含义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:17.589230"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_25008919_019",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "现代文阅读",
+    "stem": "结合全文，谈谈你对文章第⑤段画线句子的理解（3分）（画线句：竹篮上的竹篾虽已有些陈旧，却依然紧实，就像外婆对我的爱，从未褪色，永远温暖着我的心。）",
+    "options": null,
+    "answer": "这句话运用比喻的修辞手法，将外婆对\"我\"的爱比作紧实的竹篾，即使时光流逝、竹篮陈旧，这份爱依然真挚浓厚，表达了\"我\"对外婆深深的思念与感恩之情。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/25008919.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册期末巩固与练习试卷（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "主旨句深层理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:17.589230"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_17262632_005",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "片段写作",
+    "stem": "根据下面的短语写一段话。饱经风霜的老屋",
+    "options": null,
+    "answer": "略",
+    "explanation": "示例：村口那间饱经风霜的老屋已在这片土地上伫立了近百年。灰黑的瓦片上长满了青苔，木质的门扉被岁月侵蚀得斑驳不堪，门环上锈迹斑斑。墙壁上布满了纵横交错的裂纹，像是一位老人脸上深刻的皱纹。屋顶的茅草在风雨的摧残下稀疏凌乱，但老屋依然倔强地挺立着，仿佛在向人们诉说着这里曾经的热闹与沧桑。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发挥想象把重点写详，属于单元语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_17262632_011",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "片段写作",
+    "stem": "看词来写话。（要求：先补全思维导图，再选择其中一个方面，仿照示例写一段话。）示例：饱经风霜的脸：躺在病床上的外公头发稀疏花白，额头皱纹纵横，像是被一刀一刀刻上去的……",
+    "options": null,
+    "answer": "略",
+    "explanation": "示例参考：饱经风霜的老屋——村口那间老屋已伫立近百年，灰黑的瓦片长满青苔，木质门扉斑驳不堪，墙壁裂纹纵横，像老人脸上的皱纹，但依然倔强挺立，诉说着曾经的热闹与沧桑。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17262632.html",
+      "site": "教习网",
+      "title": "小学语文统编版（2024）六年级上册语文园地达标测试-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发挥想象把重点部分写具体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:28.131038"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读时要从所读的内容想开去，下面是阅读短文时可能想到的。读一读，并完成练习。①看到题目\"月亮\"我想到了关于月亮的科普小知识。②读了文中作者观察到的月光下的云朵，我想起了我观察到的月光下的景物的样子。③阅读这篇文章时，我想到了关于月亮的四字词语和古诗词。选择一项你最有共鸣的，把想到的具体内容写下来。（也可以写上面没有提到的）",
+    "options": null,
+    "answer": "读到短文的最后一句，我想到了月光照耀下的小河泛着粼粼的波光。",
+    "explanation": "本题考查考查学生创意运用的能力。完成本题要明确两点：一是从文中找到共鸣点；二是从生活中挖掘与文中主题、内容、情感相似的共鸣点。找到共鸣点以后，还要用恰当的语言表达出来。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查阅读时想开去的单元语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_002",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读时，对于文中描写的内容，可以结合生活经验想开去。读文中画\"﹏﹏﹏\"的部分，我还能想到天上的白云给月光照得有的像______，有的像______。",
+    "options": null,
+    "answer": "朵朵蓬松的棉花糖     汹涌澎湃的海浪",
+    "explanation": "本题考查学生仿写句子的能力。作答时，仔细阅读短文，明确画波浪线的部分用了比喻的修辞手法，然后发挥想象，写一写被月光照耀的白云还像什么即可。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合生活经验想开去，单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_003",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "李华在阅读画",
+    "options": null,
+    "answer": "",
+    "explanation": "本题考查学生评价鉴赏的能力。作答时，可以从中心、内容、语言风格、写作手法、结构特色等角度分析。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读时想开去的策略运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_004",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读了本文，再联想生活中你漫步月光之下的情景，发挥想象，写几句话表达自己的所见、所感。",
+    "options": null,
+    "answer": "漫步在月光之下，我发现身边的银杏树被月光照着，宛如披着婚纱的新娘；大杨树上，喜鹊被月光惊醒，飞离树梢，在月光中展翼。我沉浸在月光宁静柔和的氛围中。",
+    "explanation": "本题是一道开放性题目，作答时我们可以结合文中内容，再从实际生活出发，联想生活中漫步月光之下的情景，发挥想象，写几句话表达自己的所见、所感即可。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联想生活，发挥想象，单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_005",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "思考选文主要描写了哪些内容，完成下表。（语文要素分解1：阅读时应这样想开去——一想\"文章所写的具体内容是什么\"）",
+    "options": null,
+    "answer": "姿态各异     精妙美丽     在窗上凝结成小水珠     凝固在玻璃上",
+    "explanation": "本题考查对选文内容的理解与概括。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理所读内容，单元阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_006",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者看到大自然创造的冰霜花时，他想到了______、______；他认为冰霜花是______、______。（语文要素分解2：阅读时应这样想开去——二想\"作者面对此事此景，他的感受及思考是什么\"）",
+    "options": null,
+    "answer": "天女的花篮     海底的水晶宫     一朵朵有生命的花     一首首无比精妙的诗",
+    "explanation": "本题考查对选文内容的理解和关键信息的提取。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "想开去想作者感受，单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读下面两个句子，说说其中蕴含了作者怎样的感情。句子1：仿佛有一个身怀绝技的雕刻大师，每天晚上，都在窗上精心雕刻出新鲜的花样，使我一睁开眼睛，就得到一种美的享受，就感受到大自然和生活的多姿多彩……句子2：柔弱而纯洁的小生命，面对强大的寒流，顽强地坚守着自己的营地，勇敢地抗争着。",
+    "options": null,
+    "answer": "蕴含了作者对冰霜花的喜爱、赞美与敬佩之情。",
+    "explanation": "本题考查对句子的理解。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会作者感情，单元阅读目标",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_008",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "你从冰霜花身上悟出了怎样的道理？结合生活实际谈一谈。（语文要素分解3：阅读时应这样想开去——三想\"是否能从文章内容联系到自己的生活经验，由此想到一些人、事或人生思考\"）",
+    "options": null,
+    "answer": "美，常常是在艰难和搏斗中形成的。生命之美，总是要历经艰难和搏斗才得以展现。正如冰霜花，不经严寒的洗礼，便不能成就那美丽的姿态。我们的学习生活也是如此，唯有不断刻苦努力，才能换来成长和进步，唯有经历一番苦楚，才能实现自我的蜕变。",
+    "explanation": "本题考查对选文主旨的分析和学生的语言表达能力。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系生活经验想开去，单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_013",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "在\"同读一本书\"活动中，同学们都认为\"阅读时，能从所读的内容想开去\"是一种很好的阅读方法，请选择其中一个任务，交流你的读书心得。（语文要素：阅读时能从所读的内容想开去） 任务一：阅读《汤姆·索亚历险记》后，在汤姆·索亚身上，你能找到自己或身边伙伴的影子吗？围绕你想到的人物，做一个即兴发言。任务二：阅读《鲁滨逊漂流记》《骑鹅旅行记》《汤姆·索亚历险记》三本书后，你还能想到哪本与历险有关的书籍？请为这本书写一则推荐词。",
+    "options": null,
+    "answer": "任务二：我想到的类似的书籍有《手斧男孩》。推荐词：一个13岁的男孩，一次飞机失事被抛弃到杳无人烟的原始大森林里，没有食物，没有火，狂风暴雨，野兽出没。他哭过，害怕过，但他却用自己的经历告诉你什么是力量，什么是勇敢！",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读时想开去的口语交际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "鲁滨逊漂流记",
+      "骑鹅旅行记"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_017",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "此题为思路拓展题，要结合文章内容进行分析，答案不唯一，写出自己的体会即可，但要言之有据，不能偏离文章所表达的文章主旨中心。\n任务二：我想到的类似的书籍有《小熊维尼历险记》。推荐词：讲述的是小男孩的玩具布熊摇身一变成为森林里的淘气熊，因贪吃蜂蜜而招惹了蜜蜂追杀之祸，在\"百亩森林\"发生的系列故事。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读想开去拓展延伸",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_018",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请依据选文内容，在下面横线上填写合适的语句。（语文要素：阅读时能从所读的内容想开去）\n                   ，              →想象柳树生长，发出惊叹→              ，",
+    "options": null,
+    "answer": "高原柳树初现     感到惊讶     对比家乡柳树     心生敬畏",
+    "explanation": "本题考查对短文内容的掌握。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读想开去补写情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_021",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中的\"高原一株柳\"给你怎样的启示？请写出两条。",
+    "options": null,
+    "answer": "示例：不向命运屈服，顽强抗争，不断生长。",
+    "explanation": "本题考查文章的主旨。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由内容想开去，第一单元语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_022",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中\"踽踽\"的意思是（  ）\nA．形容一个人走路孤零零的样子。\nB．形容一个人走路很慢的样子。\nC．形容一个人走路不稳的样子。",
+    "options": null,
+    "answer": "A",
+    "explanation": "考查对词语的辨析。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解词语，属于基础阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我\"沮丧万分的原因是（  ）\nA．沿着小路踽踽而行。\nB．连续数月东奔西跑。\nC．没有找到一个接收单位。",
+    "options": null,
+    "answer": "C",
+    "explanation": "考查对文章内容的分析，要注意结合上下文。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解文意，属于基础阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_024",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中老人把瓦罐全部打碎的原因是（  ）\nA．瓦罐都有一点儿小毛病。\nB．瓦罐的样子不好看。\nC．花费了许多心血。",
+    "options": null,
+    "answer": "A",
+    "explanation": "考查对文章内容的理解分析。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解文章内容，把握主旨",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_025",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第①自然段中的\"在那个阴雨连绵的早晨\"一句可有可无吗？为什么？",
+    "options": null,
+    "answer": "不是可有可无。①它交代了人物活动的背景，烘托了人物低落的情绪；②它为刻画人物做铺垫，推动故事情节的发展。",
+    "explanation": "本题考查对句子作用的理解，所给句子是环境描写，可以联系环境描写的作用进行分析。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解句子作用，属于阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_026",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读时要能从所读的内容想开去，读到文中\"默默地，我朝老人深鞠一躬……\"这句话时，你心里想到了：                                                                                              \n                                                                                              \n                                                                                             （语文要素：阅读时能从所读的内容想开去）",
+    "options": null,
+    "answer": "老人说得太对了，老人的做法更让人钦佩，一时的失败和挫折并不能说明什么，只要坚定信心，沿着既定的目标走下去，路一定能越走越宽",
+    "explanation": "考查对文章内容的分析和理解，本题答案不唯一，但要言之有理，可围绕老人说的话对\"我\"的影响进行叙述。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读时想开去，第一单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_027",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章为什么以\"只要信心不被打碎\"为题？",
+    "options": null,
+    "answer": "①\"只要信心不被打碎\"点明了文章的中心。②\"只要信心不被打碎\"是贯穿全文的线索。③\"只要信心不被打碎\"设置悬念，引发读者的阅读兴趣。",
+    "explanation": "考查对文章题目的理解。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解题目含义，体会主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_028",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "谈谈你对短文最后一句话的理解。",
+    "options": null,
+    "answer": "人的一生难免遭受挫折和失败，但是只要坚定信心，脚踏实地地努力奋斗，就一定能做出一番令自己引以为荣的事业。",
+    "explanation": "本题考查对短文内容的理解。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解重点句子含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_029",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者是从哪些方面来写雾的？(     )（多选）\nA．雾带来的朦胧之美             B．古今文人咏雾的诗词。\nC． 赏雾那种只可意会的妙处。    D．雾形成的原因。\nE. 雾所蕴含的希望和哲理",
+    "options": null,
+    "answer": "ABCE",
+    "explanation": "本题考查文章主要内容的概括。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "把握文章内容，梳理结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_030",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "品读文中画横线的①②两句，回答问题。\n（1）品读画横线的①句，说说这种说法\"有趣味\"在哪里。\n（2）品读画横线的②句，我仿佛听到了                                                         ，我还能感受到作者的                                                之情。",
+    "options": null,
+    "answer": "运用比喻的修辞，把常见的天气写的玄妙、陌生。     潺潺的流水声     喜悦",
+    "explanation": "本题考查句子的理解与分析。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "品读句子，想开去，属语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_031",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "由有关雾的诗句想开去。（语文要素：阅读时能从所读的内容想开去） \n（1）读到\"雾失楼台，月迷津渡\"这八个字，我脑海里出现了这样一幅画面：                                                                                                           \n                                                                                              \n（2）\"雾来了，附在小猫的足上。\"雾来了，还会怎样？写一写。\n雾来了，",
+    "options": null,
+    "answer": "暮霭沉沉，楼台消失在浓雾中，月色朦胧，渡口也隐匿不见了。     他给万物披上了一层轻纱。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由诗句想开去，明确语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16422090_032",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章最后说：\"浓雾微阴之后，必能看到更灿美的阳光。\"联系生活实际想开去，说说这句话蕴含着什么人生哲理？（语文要素：阅读时能从所读的内容想开去）",
+    "options": null,
+    "answer": "这句话表明人生不可能都是晴天，会有一些阴霾的日子，但要对生活充满信心，阳光终会驱散阴霾。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系实际想开去，体会哲理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18267567_022",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中写了作者在夏天所做的哪些事 (4分)",
+    "options": null,
+    "answer": "抓龙虾;在街上闲逛;学打篮球;吃麻辣烫;用拳头砸西瓜;蛋糕奶油抹遍全身;暴雨天不打伞;看化学老师做实验。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理课文中作者夏天所做的事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:37.034279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_19424068_014",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "过年的时候吃鱼，这个习俗的寓意是（     ）。",
+    "options": [
+      "如鱼得水",
+      "年年有余",
+      "食物充足",
+      "游刃有余"
+    ],
+    "answer": "1",
+    "explanation": "鱼和\"余\"同音，过年吃鱼意味着年年有余。故选B。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "传统节日与习俗寓意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:16.782495"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 年年有余",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_15393503_003",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列加点字词注音全部正确的组是( )",
+    "options": [
+      "学弈(yì) 凹凸(āo tū) 俄裔(lì) 憎恶(zènɡ)",
+      "纬度(wěi) 鸿鹄(hú) 蝎子(xiē) 琼斯(qióng)",
+      "钵子(bō) 蝈蝈(ɡuō) 石蕊(lěi) 沧凉(cānɡ)",
+      "酸碱(jiǎn) 盘盂(yū) 海蜇( zhē) 鄙夷(bǐ)"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形综合考查基础知识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_23110730_003",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "因为我们是______的,所以,我们如果有缺点,就不怕别人______ 。不管是什么人,谁向我们指出都行______ 。你说的办法______ ,我们就照你的办。",
+    "options": null,
+    "answer": "为人民服务；批评指出；只要你说得对，我们就改正；对人民有好处",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "出自课文《为人民服务》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_7897198_035",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义词义",
+    "stem": "下列加点字理解有误的一组是（　　）",
+    "options": [
+      "敝同乡（自己）",
+      "踯躅（在一个地方来回走）",
+      "营巢（建造）",
+      "任其咎（责备）"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字义理解综合考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 营巢（建造）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_7897198_042",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读了这篇文章之后，你还喜欢杜鹃这种鸟吗？为什么？",
+    "options": null,
+    "answer": "不喜欢。因为它专横而残忍。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈看法属于阅读想开去策略",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18127030_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语：天空wà lán wǎ lán( )，路边的花儿有的含苞欲放，有的开出了鲜艳的花朵。路上经过一处pù bù( )，只见水流从山上直泻而下，溅起无数jīng yīng( )的水花。傍晚，我们在一块空地上搭起了zhàng peng( ),支起了铁钢，提着lán zi( )控来大自然kāng kǎi( )赠予的野菜，一边吃着带来的各种食品，一边喝着野菜汤……",
+    "options": null,
+    "answer": "瓦蓝瓦蓝 瀑布 晶莹 帐篷 篮子 慷慨",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元自然主题字词基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_18127030_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者初到南极被一路的景色震撼，引发了对自然的思考。用\"——\"画出表达作者观点的语句，并联系上下文写写你的理解。",
+    "options": null,
+    "answer": "自然是什么？就是写在大地上的自由和平等……只有按照自然法则生存。示例：大自然的万物是自由的，我们要与大自然和谐共处；大自然的万物是平等的，我们要尊重自然万物。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元——阅读时想开去",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:20.096876"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26607551_017",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "习作",
+    "stem": "(4)短文用生动的语言描绘了热闹的课间。请你选择一种课间活动，用一两句话写一写。注意用上有新鲜感的词句。(5分)",
+    "options": null,
+    "answer": "示例：课间，几个同学来到操场上踢毽子。只见他们时而用脚面挑，时而提膝侧脚踢，时而又跳起来接住再将毽子踢出去。五彩的毽子像翻飞的小鸟似的，随着他们的动作起起落落。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26607551",
+      "site": "21世纪教育网",
+      "title": "doc 26607551",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用新鲜感词句写活动，呼应单元阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:47.164101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26528452_001",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音写词语，书写工整。（8分）xuàn rǎn　gōu lè　bèn zhuō　yōu yǎ （　　　） （　　　） （　　　） （　　　）mǎ tí　diǎn zhuì　huǎng rán　chóu yuàn （　　　）（　　　）（　　　） （　　　）",
+    "options": null,
+    "answer": "渲染；勾勒；笨拙；幽雅；马蹄；点缀；恍然；愁怨",
+    "explanation": "重点易错字：渲染、勾勒、笨拙、愁怨，注意不要写成 \"幽雅\" 误写 \"优雅\"（课文原文为幽雅）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "第一单元字词基础，涵盖多篇课文生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26528452_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合实践",
+    "stem": "综合性学习（7分）本单元学习 \"阅读的时候从内容想开去\"。请结合《丁香结》，完成下面思考。（1）读了丁香结，由丁香花苞的形状，你可以联想到什么？（2分）（2）由丁香结的含义，联系生活想开去，说说你生活里遇到过什么样的 \"丁香结\"，你如何看待？（5分）",
+    "options": null,
+    "answer": "（1）示例：丁香花苞鼓鼓的盘花扣，让我联想到衣服上的盘扣、小小的绳结。（2）示例：生活里考试失利、和朋友闹矛盾，就是我的 \"丁香结\"。人生总有难题，不必一味烦恼，正是这些难题，让生活不平淡，经历之后我们才能成长。",
+    "explanation": "紧扣单元要素 \"从内容想开去\"，既要联系课文，还要联系自身生活。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "落实\"从内容想开去\"的单元语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26528452_011",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读时从内容想开去：读到这段草原美景，你会联想到哪些画面或者诗句？（3分）",
+    "options": null,
+    "answer": "示例：读到一望无际的碧草，联想到诗句 \"天苍苍，野茫茫，风吹草低见牛羊\"；仿佛看见蓝天白云下无边草原，牛羊悠闲漫步的画面。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "落实单元要素\"阅读时从内容想开去\"",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26528452_014",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系单元语文要素 \"从阅读内容想开去\"，谈谈你读完全文，联想到生活中的什么现象？（4分）",
+    "options": null,
+    "answer": "示例：联想到人的成长，成长路上会有挫折与失去，就像树叶凋零；但挫折不是终点，经历过后，我们会获得新的成长。就像法桐，落叶之后，来年长出更茂盛的新叶。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "落实单元\"想开去\"要素的综合拓展",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26582207_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子填空",
+    "stem": "请在文中横线处补写恰当的语句，使整段文字语意完整连贯，内容贴切，逻辑严密，每处不超过12个字。",
+    "options": null,
+    "answer": "①呼吸的空气都有标准；②一流企业卖标准；③相关研究却呈现出两点不足。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "语句补写连贯题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26582207_021",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "校报《花蹊报》设有\"山水游踪\"",
+    "options": null,
+    "answer": "选择\"人生感悟\"栏目。本文通过记叙\"我\"在娄村遇到姜师傅，姜师傅惦念乡干部、惦念\"我\"，这让\"我\"后来也常惦念姜师傅，表达了\"人与人之间是需要互相惦念的，被惦念会让我们觉得幸福，觉得温暖，惦念会让我们内心丰富\"的主题。这是\"我\"这次经历的感悟，所以选择\"人生感悟\"栏目。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "校报栏目贴合第一单元自然主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26582207_023",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章第②段写道：\"河水潺潺，流入东平湖平静的水域后，稍作停留便继续一路向西北，过陈山口，扑入黄河的怀抱——经过239公里的奔赴，百转千回后觅得归宿。\"请从用词的角度，赏析这段话的妙处。",
+    "options": null,
+    "answer": "流入",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "赏析用词写景，贴近自然单元要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26582207_024",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者在第⑦段中描写牧羊人与羊群过桥的情景时写道：\"他们仿佛自远古而来，从鲁国到齐国串门。\"这样写有什么用意？请结合上下文简要分析。",
+    "options": null,
+    "answer": "将现实的牧羊场景与古代的齐鲁两国相联系，打破时空界限，使读者仿佛看见历史在现实中延续，增强文本的层次与厚重感；牧羊人怡然自得，羊群陶醉嚼草，展现出一幅宁静安详的当代生活图景，并与古老的土地、河流、古桥自然融合，突出大汶口处处弥漫着古意的特点；引导读者思考这片土地上生命与文明的绵延不绝，深化文章的历史文化主题。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合上下文体会句子用意，属阅读方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_21cnjy_26582207_026",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "阅读下面的材料，根据要求写作。在繁忙的生活中，我们或许容易忽略身边的风景。然而，那些看似平凡无奇的景色，往往承载着许多美好的青春记忆，蕴含着很多独特的生命哲理。请根据材料写一篇文章，体现你的感受与思考。要求：选准角度，自定立意，自选文体（诗歌除外），自拟标题；不要套作，不得抄袭，不得泄露个人信息；不少于750字。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写自然感悟与生命哲理，对应单元主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16236814_007",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列选项中，运用的修辞手法与例句完全相同的一项是(     )。例句：花从春走过，留下缕缕花香；叶从夏走过，留下片片阴凉；风从秋走过，留下阵阵金浪；雪从冬走过，留下种种希望。",
+    "options": [
+      "我饮着朝露酿成的琼浆，听着小鸟的鸣啭、歌唱；我婆娑起舞，芳草为我鼓掌。",
+      "结，是解不完的；人生中的问题也是解不完的，不然，岂不太平淡无味了吗？",
+      "花开了，就像睡醒了似的。鸟飞了，就像在天上逛似的。虫子叫了，就像在说话似的。",
+      "羊群一会儿上了小丘，一会儿又下来，走在哪里都像给无边的绿毯绣上了白色的大花。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "修辞辨析，单元语文要素重点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 花开了，就像睡醒了似的。鸟飞了，就像在天上逛似的。虫子叫了，就像在说话似的。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16236814_011",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "你对下层弱者显得和蔼可亲，对倨傲的强者则威风凛凛。(改为比喻句)",
+    "options": null,
+    "answer": "示例：你犹如一位尊贵而仁义的国王，对下层弱者显得和蔼可亲，对倨傲的强者则威风凛凛。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比喻句改写，单元习作要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16236814_024",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "本文不仅语言优美，而且充满了联想和想象，阅读第六自然段，把含有作者联想和想象的句子画上\"——\"，并简单写一写这样表达的好处。",
+    "options": null,
+    "answer": "恍惚之中，我似乎也成了花丛中的一朵，草丛中的一株，群鸟中的一只，阳光中的一缕，我的灵魂飘起，似旷野的鸟儿在蓝天中翱翔，拍打着翅膀，在更深远的空中自由飞翔。作者运用联想和想象的方法，把\"庄严圣洁的感觉\"具体化了，写出了作者陶醉其中的情景，表达了作者对大自然的喜爱及赞美之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查\"阅读时想开去\"语文要素",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16236814_026",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"此时此刻，在这静寂的山林之中，我感慨不已。我想高歌，我想欢呼。\"作者想说些什么？请你展开想象，写一写。",
+    "options": null,
+    "answer": "示例：在这如梦如幻的仙境中，我陶醉了，我就是一位仙人，我就是这里的主人，我爱你，山林之晨。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "展开想象，体会自然之美",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_16210461_027",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "你还知道哪些神话故事呢？请你写出两个。",
+    "options": null,
+    "answer": "《夸父逐日》《女娲补天》",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16210461.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查神话故事积累，属单元主题拓展",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:12:18.268034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_041",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者说\"但那时却是我的乐园\"，请简要回答百草园之\"乐\"表现在哪三个方面？（1）__________________（2）__________________（3）雪地捕鸟",
+    "options": null,
+    "answer": "（1）自然景物（百草园的自然景物）　（2）传说故事（长妈妈讲故事）",
+    "explanation": "选段首段总领全文，点明了百草园是自己儿时的乐园。其余各段分写百草园给自己带来的快乐。第二段介绍了春、夏、秋三季百草园的自然景物带给自己的快乐。第三段到第六段讲述了美女蛇的传说，为百草园增添了神秘的色彩，虽然作者觉得有些神秘恐惧，但仍然给自己带来了别样的快乐。第七八段写冬天下雪后，在百草园用闰土父亲传授的方法捕鸟。据此理解作答。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "亲近自然主题，百草园乐园分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_042",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第（1）段中的加点词语\"似乎\"与\"确凿\"连用，有没有矛盾？为什么？",
+    "options": null,
+    "answer": "没有矛盾，用\"似乎\"是因为连最末次的相见也已经隔了七八年，所以用不肯定的语气：用\"确凿\"是指\"我\"对儿时在百草园中的有趣生活至今记忆犹新，所以又用肯定的语气。两个词语表述不矛盾。",
+    "explanation": "联系\"连那最末次的相见也已经隔了七八年\"可知，作者已经有七八年没有到过百草园了，所以对于\"只有一些野草\"的记忆比较模糊，不太确定，因此用\"似乎\"一词；\"确凿\"强调的是虽然我对百草园里有什么记忆比较模糊，但我却确定那里就是儿时的乐园，现在回想起百草园都历历在目，作者对百草园带给自己的快乐记忆深刻无比。所以这两个看似矛盾的词语在表意上并不矛盾。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "品味关键词语，体会表达效果",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_044",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "说说下面两句话中的加点字不能改为括号内用字的原因。①肥胖的黄蜂伏（停）在菜花上。②轻捷的叫天子（云雀）忽然从草间直窜（飞）向云霄里去了。",
+    "options": null,
+    "answer": "①\"伏\"字准确地表现出黄蜂因肥胖而趴在菜花上的情态：\"停\"字就无法表现这种情态。②\"窜\"字显示速度快，又来得突然，用\"飞\"字则无法表达这种效果。",
+    "explanation": "①\"伏\"的意思是身体向前趴在物体上，这就准确形象地写出了黄蜂因肥胖而趴在莱花上的情态；而\"停\"仅仅写出了黄蜂落在菜花上，却不能写出它趴在菜花上的情态。②\"窜\"的意思是慌乱奔跑，表明叫天子动作和速度不仅快且突然，写出了叫天子的轻捷；而\"飞\"只是表明叫天子飞动的动作，不能写出叫天子的动作速度快、又来得突然，不能体现出叫天子的轻捷。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "品味动词精准，体会作者用词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_045",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "分析文段①中划横线动词的作用。",
+    "options": null,
+    "answer": "作用：一系列动词的运用，准确、生动地描绘出捕鸟的全过程，也从捕鸟的活动中写出了儿童捕鸟时的兴奋、惊喜之情。",
+    "explanation": "扫",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析动词表达作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_046",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "体会选文②中\"我将不能常到百草园了\"和\"Ade，我的蟋蟀们！Ade，我的覆盆子们和木莲们\"所流露出作者怎样的心情和情感。",
+    "options": null,
+    "answer": "我将不能常到百草园了\"表现了我的遗憾心情。\"Ade，我的蟋蟀们！Ade，我的覆盆子们和木莲们\"真切地表达了\"我\"对百草园的恋恋不舍和依依惜别的深情。",
+    "explanation": "我将不能常到百草园了\"表现出作者将要离开百草园去到三味书屋时的不舍和遗憾之情。\"Ade，我的蟋蟀们！Ade，我的覆盆子们和木莲们\"这句话写的是\"我\"与百草园中的蟋蟀、覆盆子、木莲等告别，但是在这些事物后面都加上了\"们\"，可知在作者眼中，这些事物都是作者的朋友，而两个\"Ade\"连用加强了作者不舍之情，\"Ade\"在德语中是再见的意思，表达了作者对百草园的留恋不舍。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会告别百草园的惋惜之情",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_047",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "通读选文，完成下面表格的填空。",
+    "options": null,
+    "answer": "（1）拜见先生 （2）问\"怪哉\"虫一事 （3）三味书屋后花园 （4）做戏画画",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理课文内容填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_048",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文②中画线句属于人物的哪种描写方法？从中看出老先生是怎样的人？",
+    "options": null,
+    "answer": "外貌描写。老先生是一个和蔼、极方正、质朴、博学的人。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人物描写方法分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_049",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "寿镜吾先生是如何对待学生、对待教学的？请从选文中找出老先生对学生的言行、及能体现教学方面的语句，并作简要分析。",
+    "options": null,
+    "answer": "\"戒尺\"\"不常用\"，\"罚跪的规则\"\"不常用\"，\"普通总不过瞪几眼\"，说明先生比较开明，他对学生严而不厉，甚至是严而可亲。先生读书入神时\"微笑\"，\"将头仰起，摇着，向后面拗过去\"等描写，表现了作者对先生的赞赏、尊敬，即使批评也是寓于幽默之中。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析人物言行与品格",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_050",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对于三味书屋的读书生活，有人认为在作者看来是枯燥乏味的，有人认为也不乏情趣？你同意什么看法，试从文中找出能证明你观点的句子，略作分析。",
+    "options": null,
+    "answer": "言之有理即可。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多元理解课文主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_051",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "依据原文，在第②自然段中括号中填入正确的词语，将词语按原文顺序写在下面的横线上。",
+    "options": null,
+    "answer": "长吟、低唱、弹琴、缠络",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "依据原文填写词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_052",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第①段在文中的作用是__________________________________；第②段的描写顺序是___________顺序，描写的季节包括______________；第④自然段\"明明\"一词表现了\"我\"的____________。",
+    "options": null,
+    "answer": "总领下文中写百草园的内容；逻辑顺序；春、夏、秋三季；性急（心急）。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "段落作用与写景顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_053",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图所示的昆虫，在本文中未曾出现的一项是（   ）",
+    "options": [
+      "蝉",
+      "待定",
+      "待定",
+      "待定"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨识课文中出现的昆虫",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 待定",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_054",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第②自然段\"不必说……也不必说……单是……\"中，哪个内容是强调的重点？前两个\"不必说\"在表达上有什么效果？",
+    "options": null,
+    "answer": "强调的重点是\"单是\"一句的内容；突出了百草园自然景物的丰富多彩，让人感到百草园充满无穷的乐趣。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会详略与强调重点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_055",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读第③自然段，然后回答。（1）段中先写百草园冬天的\"无味\"，然后写下雪带来的乐趣，这是什么写法？其作用是什么？（2）作者运用了哪些动词来描写雪地捕鸟？这些动词具有怎样的表达效果？",
+    "options": null,
+    "answer": "（1）这是先抑后扬的写法，以没有下雪时的无味反衬下雪带来的乐趣。（2）运用的动词有\"扫、支、撒、系、牵、看、拉、罩\"，这些动词准确生动地写出了捕鸟的全过程，表现冬天的百草园给我带来的无穷乐趣。体现了儿童的兴奋、惊喜之情，也流露出了作者回忆时的愉快心情。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "欲扬先抑与动词赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_056",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中描写百草园的动植物和冬天雪地捕鸟在文中的作用是什么？",
+    "options": null,
+    "answer": "写百草园的动植物和冬天在百草园捕鸟，①不仅表现了百草园给\"我\"带来的无穷乐趣。②而且与后面三味书屋的枯燥形成对比，表现了儿童对自然的热爱，对自由快乐生活的喜欢和对束缚儿童身心发展的封建教育表示不满。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解景物描写的衬托作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_057",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选段描写的主要内容是______；在全文中的作用是______。",
+    "options": null,
+    "answer": "百草园春、夏、秋三季的景色；突出百草园是\"我\"的乐园",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "概括内容与结构作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_058",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "按要求赏析下面的语句。（1）单是周围的短短的泥墙根一带，就有无限的趣味。（加点的词语有何表达效果？）（2）油蛉在这里低唱，蟋蟀们在这里弹琴。（本句运用了什么修辞？有何作用？）",
+    "options": null,
+    "answer": "（1）\"泥墙根一带\"，地方不大，何况又\"短短的\"，\"单是\"它就有\"无限趣味\"，表明百草园中的趣味到处都是。（2）拟人。从听觉的角度，生动形象地写出了油蛉、蟋蟀叫声的悦耳动听，流露出作者的喜爱之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语与修辞手法赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_059",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我\"在泥墙根一带动手做了哪四件趣事？",
+    "options": null,
+    "answer": "翻砖找蜈蚣，按斑蝥，拔何首乌根，摘覆盆子。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理泥墙根趣事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k1_51jiaoxi_13225086_060",
+    "subject": "语文",
+    "kp_id": "u1.k1",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面对本段的分析，有误的一项是（    ）",
+    "options": [
+      "作者写景调动了视觉、听觉、味觉、触觉等多种感觉器官，如\"光滑\"就是从触觉角度来写的。",
+      "作者写景注重详略，略写了整个百草园之景，详写了泥墙根一带。",
+      "作者写景注重顺序，前一个\"不必说\"写静物由高到低，后一个\"也不必说\"写动物由低到高。",
+      "作者在景物描写中融入了童心童趣：拔何首乌一事体现了儿童天真的好奇心，\"又酸又甜\"则表明作者亲自品尝过覆盆子。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13225086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合分析写景特点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:25:53.308062"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 作者写景注重顺序，前一个\"不必说\"写静物由高到低，后一个\"也不必说\"写动物由低到高。",
+    "has_answer": true
+  }
+]

@@ -1,0 +1,1861 @@
+[
+  {
+    "qid": "英语_u4.k4_zxxk_58908374_001",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给单词的适当形式填空",
+    "stem": "I want ______ (make) a thank-you card for my grandpa.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58908374.html",
+      "site": "学科网",
+      "title": "Unit 4 Getting together 单元自测卷(含听力)-2026-2027学年上学期英语六年级上册(译林版三起·新教材)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查want to do不定式结构，表达未来计划与愿望，与单元理想计划话题吻合。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.352705"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k4_zxxk_58365027_002",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听录音选单词",
+    "stem": "听录音，选出你听到的句子中包含的单词或短语",
+    "options": [
+      "help others",
+      "help each other",
+      "each other"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58365027.html",
+      "site": "学科网",
+      "title": "六年级英语下学期期末模拟卷(深圳市罗湖区)-2025-2026学年小学英语六年级下册期末测试卷(沪教牛津版深圳用)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "help others/each other属如何向伟大学习、具备优秀品质的讨论范畴。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.352705"
+    },
+    "suspect_no_audio": true,
+    "duplicate_of": "英语_u1.k1_zxxk_58365027_028",
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k4_zxxk_58600516_003",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "We should learn ______ these great people.",
+    "options": [
+      "from",
+      "with",
+      "for"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58600516.html",
+      "site": "学科网",
+      "title": "Unit3 Great people(综合训练)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查 learn from 短语，谈论如何向伟人学习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.352705"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k4_zxxk_58720030_004",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Many young people want to study ______ him.",
+    "options": [
+      "like",
+      "as",
+      "to"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58720030.html",
+      "site": "学科网",
+      "title": "Unit 3 Great people (单元自测练习卷)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "like/as 辨析，搭配 study like sb 表达向伟人学习，符合 u4.k4 学习如何向伟人学习。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.352705"
+    },
+    "answer_text": "A. like",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_24033724_027",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I hope parents can ________(相信) us and protect our privacy.",
+    "options": null,
+    "answer": "trust",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单词拼写，相信trust，基础动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.136055"
+    },
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_24033724_027"
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_24033724_048",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I asked her to be more ________(认真的) in the future.",
+    "options": null,
+    "answer": "careful",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "careful 形容词,in the future",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.136055"
+    },
+    "has_answer": true,
+    "duplicate_of": "英语_u3.k1_21cnjy_24033724_048"
+  },
+  {
+    "qid": "英语_u4.k4zxxk_36455673_020",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择题",
+    "stem": "Sorry, Sir. I promise ________ again.",
+    "options": [
+      "to not be late",
+      "don't be late",
+      "be not late",
+      "not to be late"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/36455673.html",
+      "site": "学科网",
+      "title": "精品解析：上海市实验学校2022-2023学年六年级上学期期中英语试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "promise not to do不定式否定结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:26.745520"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_13987383_038",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "The students in Grade Six will face _______.",
+    "options": [
+      "the biggest exam",
+      "the biggest school trip",
+      "a big farewell party"
+    ],
+    "answer": "0",
+    "explanation": "句意：六年级的学生将要面对______。根据The students in Grade Six are going to face (面临) the biggest exam (考试).，可知六年的学生将要面临最大的考试，A最大的考试，B最大的学校旅行，C大型告别会，故选A。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般将来时 will face 理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. the biggest exam",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_24033724_014",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "You'd better not ________ (花费) too much time on TV.",
+    "options": null,
+    "answer": "spend",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/24033724",
+      "site": "21世纪教育网",
+      "title": "doc 24033724",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论如何更好，话题词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:37:57.884443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_17701221_019",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "...and I'm sure I will _____ run faster",
+    "options": [
+      "be glad to",
+      "be sorry to",
+      "be able to",
+      "be sure to"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/17701221",
+      "site": "21世纪教育网",
+      "title": "doc 17701221",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be able to表将来能力",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:36.406638"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. be able to",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_17701221_020",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Everyone hopes Su Bingtian will have a better _____ . Good luck to him!",
+    "options": [
+      "race",
+      "record",
+      "dream",
+      "future"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/17701221",
+      "site": "21世纪教育网",
+      "title": "doc 17701221",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论未来与理想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:36.406638"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. future",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_14892253_031",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Many people choose ____ their towns and villages to search for work in the city.",
+    "options": [
+      "to leave",
+      "leave",
+      "leaving",
+      "left"
+    ],
+    "answer": "0",
+    "explanation": "choose to do sth.选择做某事，用不定式。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14892253",
+      "site": "21世纪教育网",
+      "title": "doc 14892253",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "choose to do 结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:55.454567"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. to leave",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_001",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ is your brother going to save money? -He is going to put money into his piggy bank every week.",
+    "options": [
+      "What",
+      "How",
+      "Where"
+    ],
+    "answer": "1",
+    "explanation": "询问方式用How",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般将来时how提问",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. How",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_002",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-How are you going to spend your lucky money? -I ______ buy a microscope.",
+    "options": [
+      "am going to",
+      "are going to",
+      "is going to"
+    ],
+    "answer": "0",
+    "explanation": "主语是I，用am going to",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to主语搭配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. am going to",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_003",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-How are your mum and sister going to the supermarket? -They ______ take the bus.",
+    "options": [
+      "is going to",
+      "are going to",
+      "am going to"
+    ],
+    "answer": "1",
+    "explanation": "主语they用are going to",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to复数主语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. are going to",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_004",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ pocket money do you have every week? -I have fifty yuan.",
+    "options": [
+      "How much",
+      "How many",
+      "What"
+    ],
+    "answer": "0",
+    "explanation": "询问金额用How much",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "how much提问不可数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. How much",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_005",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-How much pocket money does Tom have? -He ______ one hundred and forty-six yuan.",
+    "options": [
+      "have",
+      "has",
+      "having"
+    ],
+    "answer": "1",
+    "explanation": "主语Tom是第三人称单数，谓语用has",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般现在时has",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. has",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_006",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-How much pocket money ______ Lily ______ every day? -She has five yuan.",
+    "options": [
+      "does; have",
+      "do; have",
+      "does; has"
+    ],
+    "answer": "0",
+    "explanation": "助动词does后接动词原形have",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般现在时助动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. does; have",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_007",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "-______? -I have three hundred and fifty-seven yuan.",
+    "options": null,
+    "answer": "How much (pocket/lucky) money do you have",
+    "explanation": "根据答句写问句",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "how much提问金额",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_008",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ are you going to do this weekend? -I'm going to the cinema with my friends.",
+    "options": [
+      "Where",
+      "What",
+      "How"
+    ],
+    "answer": "1",
+    "explanation": "句中有do，需用What",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "what提问未来计划",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. What",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_009",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "-______? (this weekend) -I am going to do my homework.",
+    "options": null,
+    "answer": "What are you going to do this weekend",
+    "explanation": "根据答句写问句",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "疑问词what引导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_010",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Amy and her mum ______ (be) going to buy food and drink in the supermarket.",
+    "options": null,
+    "answer": "are",
+    "explanation": "主语Amy and her mum是复数，be动词用are",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to复数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_011",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "My brother ______ (buy) a gift for Grandpa this Sunday.",
+    "options": null,
+    "answer": "is going to buy / will buy",
+    "explanation": "this Sunday表明是一般将来时",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般将来时buy",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_012",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-What are you going to do next month? -I ______ ride bikes with my friends.",
+    "options": [
+      "went to",
+      "am going to",
+      "is going to"
+    ],
+    "answer": "1",
+    "explanation": "主语I用am going to",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to第一人称",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. am going to",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_013",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Mike is going to ______ (buy/buying) a new schoolbag next week.",
+    "options": null,
+    "answer": "buy",
+    "explanation": "be going to后接动词原形",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_014",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ (Am/Are) you going to read books tomorrow? -Yes, I am.",
+    "options": null,
+    "answer": "Are",
+    "explanation": "主语you用are",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to一般疑问",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_015",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "-Is Jack going to buy a microscope? -No, he ______ (isn't/doesn't).",
+    "options": null,
+    "answer": "isn't",
+    "explanation": "否定回答用isn't",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般疑问句简答",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_016",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ (What/How) is Lily going to do this Saturday? -She is going to read a book about space.",
+    "options": null,
+    "answer": "What",
+    "explanation": "句中有do，用What",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "what提问周末计划",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26244357_017",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "-______ (How/When) is your sister going to travel to Beijing? -Next month.",
+    "options": null,
+    "answer": "When",
+    "explanation": "答句Next month表明问时间，用When",
+    "source": {
+      "url": "https://zy.21cnjy.com/26244357",
+      "site": "21世纪教育网",
+      "title": "doc 26244357",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "when提问时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:28:53.709757"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_13459084_022",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "但是之后，风力会逐渐减弱。",
+    "options": null,
+    "answer": "But the wind will die down later on.",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/13459084",
+      "site": "21世纪教育网",
+      "title": "doc 13459084",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般将来时will描述未来变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:44.521441"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_17954789_071",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "长对话",
+    "stem": "如果男士找不到工作，他打算怎么办？",
+    "options": [
+      "A. 去纽约",
+      "B. 回波士顿",
+      "C. 攻读硕士学位",
+      "D. 找一份临时工作"
+    ],
+    "answer": "2",
+    "explanation": "根据\"In that case, I'll begin working on a master's degree in the fall.\"可知。",
+    "source": {
+      "url": "https://zy.21cnjy.com/17954789",
+      "site": "21世纪教育网",
+      "title": "doc 17954789",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论未来计划，涉及一般将来时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:44:55.677808"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. C. 攻读硕士学位",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_26545559_023",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "She decides ________（learn） to play the guitar because she loves music so much.",
+    "options": null,
+    "answer": "to learn",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "decide to do句型与未来计划相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_21cnjy_23239399_037",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "匹配题",
+    "stem": "读句子，选图片。The Sydney Opera House is the most famous building in Australia.",
+    "options": null,
+    "answer": "C",
+    "explanation": "句意：悉尼歌剧院是澳大利亚最著名的建筑。选项C是悉尼歌剧院，与句子匹配，故选C。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "建筑物最高级表达",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_18668057_031",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "can, everyone, great, be",
+    "options": null,
+    "answer": "Everyone can be great.",
+    "explanation": "情态动词can后接动词原形。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "成为伟人谈未来理想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_14037261_037",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "Tell me the way to the cinema, ____ you?",
+    "options": [
+      "will",
+      "need",
+      "shall",
+      "may"
+    ],
+    "answer": "0",
+    "explanation": "考查祈使句的反意疑问句。祈使句的反意疑问句除了以let's开头的,都可运用will you?故选A。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "shall I用于委婉请求",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. will",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_18512983_034",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "读后续写",
+    "stem": "阅读下面材料，根据其内容和所给段落开头语续写两段，使之构成一篇完整的短文。注意：(1)续写词数应为150个左右。Paragraph 1: Struck by the dctr’s warning, I knew I had t make a change. _____ Paragraph 2: Slwly but surely, my effrts t adjust t the new rutine paid ff. _____",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18512983.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "续写表达理想与改变计划",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:19:52.367734"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_15539665_003",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "Hurry up, ________ you will miss the beginning of the concert.",
+    "options": [
+      "so",
+      "or",
+      "and",
+      "but"
+    ],
+    "answer": "1",
+    "explanation": "考查连词辨析。so所以；or否则；and和；but但是。根据\"Hurry up...will miss\"可知要快点，否则就会错过音乐会的开场。故选B。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句型 or 表否则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. or",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_15539665_052",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "a great day, a picnic, it's, for",
+    "options": null,
+    "answer": "It's a great day for a picnic",
+    "explanation": "根据所给词以及标点可知，句子是陈述句，主语是It，系动词是is，表语是a great day；介词短语for a picnic作定语。故填It's a great day for a picnic\"今天是野餐的好日子\"。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "It's for...句型，谈未来打算。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_15539665_053",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "go to, we, the beach, shall",
+    "options": null,
+    "answer": "Shall we go to the beach",
+    "explanation": "根据标点提示可知，本句是疑问句，分析所给单词可知，shall放句首，we作主语，go to the beach去海滩。故填Shall we go to the beach\"我们去海滩好吗\"。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "Shall we...将来时提议句型。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u4.k4_51jiaoxi_15539665_054",
+    "subject": "英语",
+    "kp_id": "u4.k4",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连词成句",
+    "stem": "food, I'll, some, take",
+    "options": null,
+    "answer": "I'll take some food",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15539665.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "will表将来，计划野餐食物。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:22:27.924792"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

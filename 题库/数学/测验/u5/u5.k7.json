@@ -1,0 +1,3079 @@
+[
+  {
+    "qid": "数学_u6.k1_szns_004",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "这张照片右下角有个污点，现将照片中的污点部分裁剪掉，这时照片的'宽高比'变为4∶3（横的边为宽，竖的边为高）。符合要求的是照片（    ）。",
+    "options": [
+      "原图",
+      "裁剪后选项A",
+      "裁剪后选项B",
+      "裁剪后选项C"
+    ],
+    "answer": "1",
+    "explanation": "原图为宽大于高的横向照片，裁掉右下角污点后，需要保持宽高比为4∶3。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u5.k1",
+        "u5.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:33:47",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "考查宽高比等于4:3即两比相等成比例"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "难",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.104020"
+    },
+    "duplicate_of": "数学_u6.k1_szns_004",
+    "answer_text": "B. 裁剪后选项A",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_zxxk_59619700_002",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "夜晚，一个人走向路灯，影子会越来越（ ），若这个人远离路灯，影子会越来越（ ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59619700.html",
+      "site": "学科网",
+      "title": "精品解析:辽宁省沈阳市法库县2025-2026学年北师大版六年级上学期阶段测试(二)数学试题",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "影子长短与距离成比例关系，体现比例的实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.104020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_zxxk_57523937_003",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "我国的国旗有不同规格，它们的长和宽各不相同，可形状完全一样。其中一种规格的国旗长是144厘米，宽是96厘米；另一种规格的国旗长是96厘米，宽是（    ）厘米。请你把它们组成比例写出来：（    ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形状相同即对应边比相等，考查比例的意义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.104020"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_001",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "我国资源总量一定，人均资源占有量和我国人口总数（   ）。",
+    "options": [
+      "成正比例",
+      "成反比例",
+      "不成比例"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断总量一定时两量比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 成反比例",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_002",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果8A＝9B（A≠0），那么下列说法错误的是（   ）。",
+    "options": [
+      "A一定大于B",
+      "A是B的8/9",
+      "B：A＝8：9",
+      "9B＝8A"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由等式判断比例关系和大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. A是B的8/9",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_003",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一段铁丝截成同样长的小段，每段的长度和段数。（   ）",
+    "options": [
+      "成正比例",
+      "成反比例",
+      "不成比例"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两种量是否成反比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 成反比例",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_004",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面成正比例的量是（   ）。",
+    "options": [
+      "差一定，被减数和减数",
+      "单价一定，总价和数量",
+      "互为倒数的两个数"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断哪组量成正比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 单价一定，总价和数量",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_005",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "正方体的棱长和它的体积（   ）。",
+    "options": [
+      "成正比例",
+      "成反比例",
+      "不成比例"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断棱长与体积的比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 不成比例",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_006",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "天数一定，每天烧煤量和烧煤总量成反比例。（   ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断每天烧煤量与总量反比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_007",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "全班人数一定，缺勤的人数和出勤的人数成反比例。（   ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断出勤缺勤人数的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_008",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在一个比例中，两个内项互为倒数，两个外项也应互为倒数。（   ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用比例内项积等于外项积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_009",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比的前项一定，后项和比值成反比例。（   ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断前项一定时后项与比值关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_010",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "7∶4和∶可以组成比例。（   ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两个比能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_011",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "有四个数，分别是2、5、8和a，正好可以组成一个比例，a最小是________，a最大是________。",
+    "options": null,
+    "answer": "1.25；80",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用四个数组成比例求a取值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_013",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "总价÷数量=单价(一定)________和________是两种相关联的量,________变化,________也随着变化。而总价和数量相对应的比值一定,也就是________一定,我们说总价和数量成________比例。",
+    "options": null,
+    "answer": "总价；数量；总价；数量；单价；正",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解正比例含义填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_015",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果y=5x，那么x和y成________比例；如果xy=5，那么x和y成________比例。",
+    "options": null,
+    "answer": "正；反",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断正反比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_016",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "求未知数x。",
+    "options": null,
+    "answer": "略",
+    "explanation": "原卷含四小题，答案为x=7.8；x=20；x=25；x=10",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "解比例方程求未知数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_6042285_017",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "解比例。",
+    "options": null,
+    "answer": "略",
+    "explanation": "原卷含四小题，答案为：略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-6042285.html",
+      "site": "教习网",
+      "title": "小学数学正比例练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "解比例练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:09.470719"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676537_003",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把长 12 cm、宽 8 cm 的长方形照片按比缩小，得到的长是 6 cm。(1) 缩小后长方形的宽是多少厘米？(2) 你能根据数据写出不同的比例吗？(3) 判断 6 : 4 和 12 : 8 能否组成比例。",
+    "options": null,
+    "answer": "(1) 缩小前后对应边成比：长从 12 cm 缩到 6 cm，缩小比是 12 : 6 = 2 : 1，即缩小到原来的 1/2。宽：8 ÷ 2 = 4（cm）。(2) 对应边的比相等，可以写出比例：12 : 6 = 8 : 4（比值都是 2）；12 : 8 = 6 : 4（比值都是 3/2）。(3) 6 : 4 的比值：6 ÷ 4 = 3/2；12 : 8 的比值：12 ÷ 8 = 3/2。比值相等，能组成比例：6 : 4 = 12 : 8（或 12 : 8 = 6 : 4）。",
+    "explanation": "图形按比放大或缩小，对应边的比相等；判断两个比能否组成比例，就看比值是否相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按比缩放并判断能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676537_010",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "因为 2 : 3 和 4 : 6 的比值都是 2/3，所以 2 : 3 = 4 : 6 能组成比例。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "对：2:3 的比值是 2/3，4:6 的比值也是 2/3，比值相等，能组成比例；表示两个比相等的式子就是比例。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例的认识判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676537_015",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列哪组中的两个比能组成比例？（________） A. 2 : 3 和 3 : 2  B. 1.2 : 2.4 和 5 : 10  C. 1/2:1/4 和 4 : 8  D. 0.5 : 1.5 和 6 : 3",
+    "options": [
+      "2 : 3 和 3 : 2",
+      "1.2 : 2.4 和 5 : 10",
+      "1/2:1/4 和 4 : 8",
+      "0.5 : 1.5 和 6 : 3"
+    ],
+    "answer": "1",
+    "explanation": "1.2 : 2.4 的比值是 0.5，5 : 10 的比值也是 0.5，比值相等，能组成比例 1.2 : 2.4 = 5 : 10。A 两个比的比值分别是 2/3 和 3/2；C 分别是 2 和 1/2；D 分别是 1/3 和 2，都不相等。判断比例要看比值是否相等，不能只看数字表面。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两个比能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 1.2 : 2.4 和 5 : 10",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676537_018",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把长 10 cm、宽 6 cm 的相片按比放大，得到的长是 15 cm。(1) 放大后的宽是多少厘米？(2) 写出两组不同的比例。",
+    "options": null,
+    "answer": "(1) 放大后的宽是 9 cm。放大比是 15 : 10 = 3 : 2，宽也按同样比放大：6 × 3/2 = 9（cm）。(2) 10 : 15 = 6 : 9（对应边成比例）；10 : 6 = 15 : 9。",
+    "explanation": "放大前后对应边成比例：长从 10 cm 到 15 cm，放大比是 15 : 10 = 3 : 2；宽 6 cm 也乘 3/2 得 9 cm。写比例时注意对应关系：原长:新长 = 原宽:新宽，即 10 : 15 = 6 : 9；也可以写 10 : 6 = 15 : 9（原长:原宽 = 新长:新宽）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按比放大并写比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676537_020",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "用 2、4、6、12 这四个数组成不同的比例，你能写出几个？（至少写出 4 个）",
+    "options": null,
+    "answer": "先找比值相等的两组比：2 : 4 和 6 : 12 的比值都是 1/2；2 : 6 和 4 : 12 的比值都是 1/3。可写出 8 个：2 : 4 = 6 : 12、6 : 12 = 2 : 4、4 : 2 = 12 : 6、12 : 6 = 4 : 2、2 : 6 = 4 : 12、4 : 12 = 2 : 6、6 : 2 = 12 : 4、12 : 4 = 6 : 2。写出 4 个以上即可。",
+    "explanation": "组成比例的关键是两组比比值相等。先配对：2 : 4 与 6 : 12（比值 1/2），2 : 6 与 4 : 12（比值 1/3）。每一组相等的比可以交换左右位置、交换内外项，得到 4 种写法，两组共 8 个。检验：2 × 12 = 4 × 6，交叉相乘的积相等，说明 2 : 4 = 6 : 12 成立。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676537.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）第四单元分数的应用 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用四数组成多个比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:49.918743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_13742095_016",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某医院用浓度为95%的酒精和50%的酒精，配制出浓度为75%的酒精进行消毒，五次配制中两种酒精的用量统计如下：50%的酒精质量400克、500克、800克、1000克、1600克；95%的酒精质量500克、625克、1000克、1250克、（　　）。（1）要配比一定数量75%的酒精，使用50%的酒精质量和95%的酒精质量成 　   　比例．（2）用1600克50%的酒精需要搭配多少克95%的酒精，才能正好配出75%的酒精．（3）如果要配制3150克75%的酒精，需要50%的酒精和95%的酒精各多少克？（4）使用酒精消毒时需要注意什么问题？",
+    "options": null,
+    "answer": "（1）正比例；（2）2000克；（3）50%酒精1400克，95%酒精1750克；（4）使用酒精不要靠近火源、热源；不要采用喷洒式消毒方式；不要往身上喷洒酒精；家中不宜大量囤积酒精。",
+    "explanation": "（1）400：500＝500：625＝800：1000＝1000：1250＝，比值一定，成正比例。（2）设需要搭配x克95%的酒精，1600：x＝4：5，解得x＝2000。（3）400：500＝4：5，4+5＝9，3150×4/9＝1400（克），3150×5/9＝1750（克）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13742095.html",
+      "site": "教习网",
+      "title": "浓度问题奥数思维拓展-小学数学六年级上册人教版（含答案） - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "配制比例成正比规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:43.333952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_001",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "像 6:4=3:2、4:16=1:4 这样，表示（________）的式子叫作比例。",
+    "options": null,
+    "answer": "两个比相等",
+    "explanation": "这是比例的定义：表示两个比相等的式子叫作比例。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例的定义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_002",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把比例 6:4=3:2 写成分数形式是（________）。",
+    "options": null,
+    "answer": "6/4=3/2",
+    "explanation": "分数形式中，分子、分母分别是原比的前项、后项：6:4 写成 6/4，3:2 写成 3/2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例的分数形式写法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_004",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "表示两个比相等的式子叫作比例。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "这是比例的定义，说法正确。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例的定义判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_005",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "6:4 是比例。（  ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "6:4 只是两个数的比；比例是表示两个比相等的式子，必须写成 6:4=3:2 这样的等式。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例需两个比相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "MiniMax-M3"
+      ],
+      "difficulties": [
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.873758"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_006",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "两个比，只要比值相等，就能组成比例。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "比值相等是两个比能否组成比例的判断标准，说法正确。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比值相等即可组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_007",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在蜂蜜水问题中，4:14=6:21，说明这两种配法调出的蜂蜜水甜度一样。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "两种配法的蜂蜜与水体积比相等：4:14=2/7，6:21=6÷21=2/7，比值相等，甜度一样。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用比例判断配比甜度相同",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_008",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "汽车2时行160千米，3时行240千米。路程和时间的比是（________）和（________），比值都是（________），所以这两个比（能/不能）组成比例。",
+    "options": null,
+    "answer": "160:2；240:3；80；能",
+    "explanation": "160:2=160÷2=80，240:3=240÷3=80，比值相等，能组成比例 160:2=240:3，速度不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正比例判断组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_010",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面哪组中的两个比能组成比例？",
+    "options": [
+      "3:4 和 4:3",
+      "10:15 和 8:12",
+      "1:2 和 3:4",
+      "5:6 和 6:5"
+    ],
+    "answer": "1",
+    "explanation": "分别求比值：A中3:4=3/4、4:3=4/3，不相等；B中10:15=2/3、8:12=2/3，相等，能组成比例10:15=8:12；C中1:2=1/2、3:4=3/4，不相等；D中5:6=5/6、6:5=6/5，不相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选比值相等的两个比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 10:15 和 8:12",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_011",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "调制同样甜度的蜂蜜水（蜂蜜与水的体积比相同），下面哪种配法与 2:7 甜度相同？",
+    "options": [
+      "蜂蜜4杯、水12杯",
+      "蜂蜜6杯、水21杯",
+      "蜂蜜3杯、水9杯",
+      "蜂蜜10杯、水30杯"
+    ],
+    "answer": "1",
+    "explanation": "甜度相同就是蜂蜜与水的体积比相等，比值都应是 2/7。A中4:12=1/3，B中6:21=6÷21=2/7，C中3:9=1/3，D中10:30=1/3，只有B的比值与2:7相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用比例判断相同甜度配比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.873758"
+    },
+    "answer_text": "B. 蜂蜜6杯、水21杯",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_012",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "正方形甲和乙的边长分别是5厘米和10厘米。(1) 写出两个正方形的边长比和周长比，判断这两个比能否组成比例。(2) 写出两个正方形的面积比，判断它能否与边长比组成比例。",
+    "options": null,
+    "answer": "(1) 边长比：5:10，比值是5÷10=1/2。甲的周长是5×4=20厘米，乙的周长是10×4=40厘米，周长比是20:40，比值是20÷40=1/2。两个比值相等，所以边长比和周长比能组成比例：5:10=20:40。(2) 甲的面积是5×5=25平方厘米，乙的面积是10×10=100平方厘米，面积比是25:100，比值是25÷100=1/4。它与边长比的比值 1/2 不相等，所以面积比不能与边长比组成比例。",
+    "explanation": "周长是边长的4倍，所以周长比等于边长比；面积是边长的平方倍，面积比是边长比的'自乘'，比值不相等。判断的关键仍是分别求比值再比较。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "边长周长面积比判断比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_013",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "声音在空气中每秒传播340米，2秒传播680米，3秒传播1020米。写出路程和时间的比，判断它们能否组成比例，并说明理由。",
+    "options": null,
+    "answer": "比值都是340。路程和时间的比分别是340:1、680:2、1020:3，340:1=340，680:2=340，1020:3=340，比值相等，能组成比例：340:1=680:2=1020:3。理由：比值340表示声音每秒传播340米，即传播速度不变，所以路程和时间的比相等。",
+    "explanation": "路程与时间对应的比相等，说明速度（每秒传播的路程）不变。写比例时可以让三个相等的比连写，也可以两两组成比例。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "路程时间比判断比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676536_014",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一台打印机每分钟打印的页数不变，打印2分得6页，3分得9页，5分得15页，情况如下表。(1) 写出两组时间与页数的比，判断能否组成比例，把组成的比例写出来。(2) 根据表中的数据写出三个不同的比例。(3) 你有什么发现？",
+    "options": null,
+    "answer": "比值都是3：6:2=3，9:3=3，比值相等，能组成比例，如 6:2=9:3。三个不同的比例：6:2=9:3，6:2=15:5，9:3=15:5。发现：页数与对应时间的比相等，比值都是3，说明这台打印机每分钟打印3页，打印速度不变。",
+    "explanation": "从数据表找比例：先写相对应的两个量的比，再求比值比较。比值都相等，就可以两两组合写出多个比例。发现的重点是说出'比值3表示每分钟打印的页数不变'。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676536.html",
+      "site": "教习网",
+      "title": "北师大版（2024）六年级上册（2024）比例的认识精品第4课时课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "时间页数比写比例找规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:57.085055"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_6646908_053",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某天中午时刻，小明身高与影长比是1：3，如果这时小明旁边有一高8米的树，这棵树的影长是多少米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "物高与影长成正比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u5.k4_21cnjy_6646908_049",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_51jiaoxi_18676507_012",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "因为 0.25:1 与 1:4 的比值相等，所以这两个比可以组成比例。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676507.html",
+      "site": "教习网",
+      "title": "小学数学北师大版（2024）六年级上册（2024）数与代数精品第1课时同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比值相等组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:54:25.334852"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_001",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果8a=7b，那么a：b=　     　，如果a=14，则b=　     　。",
+    "options": null,
+    "answer": "7：8；16",
+    "explanation": "根据比例的基本性质，两内项之积等于两外项之积即可解得a：b；根据比的基本性质，比的前项和后项同时乘以2可求得b的值。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用比例基本性质求比值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_002",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果m：3.6=2.5：n，那么m 和 n 成　     　比例关系。",
+    "options": null,
+    "answer": "反",
+    "explanation": "先利用比例的基本性质，把比例式转化为m和n的乘积形式，m×n=9（乘积为定值），根据乘积为定值，即可判断它们成反比例关系。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两个量是否成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_004",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "千米，把这个线段比例尺改写成数值比例尺是　           　。",
+    "options": null,
+    "answer": "1：4000000",
+    "explanation": "线段比例尺中，图上1厘米代表实际距离40千米，先把实际距离换算成厘米，再根据数值比例尺=图上距离：实际距离改写。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "线段比例尺与数值比例尺互化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_005",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如果 (x、y都不为0)，那么x、y成　     　比例；如果 (x、y都不为0)，那么x、y成　     　比例。",
+    "options": null,
+    "answer": "正；反",
+    "explanation": "根据比例的基本性质以及正反比例的定义判断。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断x、y成正或反比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_006",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个相互啮合的齿轮，它们在同一时间内转动时，大齿轮与小齿轮转过的总齿数是相同的。大齿轮有34个齿，小齿轮有24个齿。当大齿轮每分转60圈时，小齿轮每分转　     　圈。",
+    "options": null,
+    "answer": "85",
+    "explanation": "设小齿轮每分转x圈，齿轮的齿数与转动圈数成反比例，两者的乘积一定，建立方程24x=34×60，解得x=85。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "齿轮啮合用反比例求转速",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_007",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "动车每时行驶250km，在比例尺是1：5000000的地图上动车每时行驶的路程应画　     　cm长。",
+    "options": null,
+    "answer": "5",
+    "explanation": "250km=25000000cm，根据图上距离=实际距离×比例尺，25000000×1/5000000=5cm。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用比例尺求图上距离",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u5.k3_21cnjy_26031023_030"
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_008",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个比例的两个内项互为倒数，一个外项是2.5，另一个外项是　     　。",
+    "options": null,
+    "answer": "0.4",
+    "explanation": "两个互为倒数的数的乘积是1，所以内项积为1，根据内项积=外项积，另一个外项=1/2.5=0.4。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例内项互为倒数求外项",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_009",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "同一时间地点，一根6米高的电线杆，影长1.2米。一棵树影子长0.3米，这棵树的高是　     　米。",
+    "options": null,
+    "answer": "1.5",
+    "explanation": "同一时间同一地点，物体高度和影长成正比例，比值一定，用比例关系求解。6÷1.2=5，5×0.3=1.5（米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "物高与影长成正比例求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_010",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "六年级同学总人数一定，出勤人数与缺勤人数　         　；六年级同学排队做操，每行人数和排成的行数　         　。(在横线上填\"成正比例\"",
+    "options": null,
+    "answer": "不成比例；成反比例",
+    "explanation": "总人数=出勤人数+缺勤人数，所以出勤人数与缺勤人数不成比例；总人数=每行人数×排成的行数，乘积一定，所以成反比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两种相关量的比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_011",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "表示两个比　     　的式子叫做比例，组成比例的四个数叫做比例的　     　，两端的两项叫做比例的　     　，中间的两项叫做比例的　     　。",
+    "options": null,
+    "answer": "相等；项；外项；内项",
+    "explanation": "根据比例的定义和各部分名称直接填空：表示两个比相等的式子叫做比例，组成比例的四个数叫做比例的项，两端的两项叫做比例的外项，中间的两项叫做比例的内项。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例的概念与项的名称",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_012",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "某校园内长240米，宽180米，而画校园平面图的纸长3分米，宽2分米，选择比例尺（　　）画图最合适。",
+    "options": [
+      "1：1000",
+      "1：100",
+      "1：150000",
+      "1：20000"
+    ],
+    "answer": "0",
+    "explanation": "先将单位统一为厘米，再用实际距离×比例尺=图上距离，与纸张大小进行比较，A选项比例尺最合适。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据实际范围选择合适比例尺",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1：1000",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_013",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "下表中，如果x和y成反比例，那么",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "反比例关系填表求x",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_014",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面(　　)组中的两个比可以组成比例。",
+    "options": [
+      "：和3∶4",
+      "8∶3和0.6∶0.3",
+      "7∶8和14∶16",
+      "：6和 ：18"
+    ],
+    "answer": "2",
+    "explanation": "满足两个外项之积等于两个内项之积就能组成比例，A、B、D均不满足，只有C（7×16=8×14）能组成比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两个比能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 7∶8和14∶16",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_015",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "笑笑在临摹一本有1200字的字帖，每天按计划字数临摹，已完成了一部分。下面说法正确的是(　　)。",
+    "options": [
+      "平均每天临摹的字数和需要的天数成反比例",
+      "剩余的字数和已临摹的字数成反比例",
+      "平均每天临摹的字数和需要的天数成正比例",
+      "剩余的字数和已临摹的字数成正比例"
+    ],
+    "answer": "0",
+    "explanation": "总字数=平均每天临摹的字数×需要的天数，乘积一定，所以平均每天临摹的字数和需要的天数成反比例；总字数=剩余的字数+已临摹的字数，剩余的字数和已临摹的字数不成比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断变量间正反比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 平均每天临摹的字数和需要的天数成反比例",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_016",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面的图(　　)表示的是成正比例的图象。",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "2",
+    "explanation": "正比例关系的图象是一条经过原点的直线。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "识别正比例图象特征",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. C",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_017",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在一个比例中，两个外项的积除以两个内项的积，商是1。（　　）",
+    "options": null,
+    "answer": "正确",
+    "explanation": "比例的基本性质：在比例里，两个内项积等于两个外项积，所以两个外项的积除以两个内项的积，商是1。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例基本性质的判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_018",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "比例5：3=15：9的内项3增加6，要使比例成立，外项9应该增加6。（　　）",
+    "options": null,
+    "answer": "错误",
+    "explanation": "内项3+6=9，根据比例的基本性质，两内项的积等于两外项的积，外项=9×15÷5=27，27-9=16，所以外项应该增加16。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "内项变化后求外项变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_019",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "除数一定，被除数和商成正比例。（　　）",
+    "options": null,
+    "answer": "正确",
+    "explanation": "被除数÷商=除数（一定），被除数和商的比值一定，所以成正比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断被除数与商的比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26031023_031",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "下图中，如果x和y成反比例，那么",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26031023",
+      "site": "21世纪教育网",
+      "title": "doc 26031023",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断xy成反比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:20.092415"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26256591_025",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，已知甲城到乙城的图上距离是4cm，实际距离是80km，乙城到丙城的图上距离是2cm。看图填一填。(1)这幅图的比例尺是(        )。(2)丙城在乙城(        )65°方向，实际距离(        )km处。(3)丁城在甲城北偏西50°方向，实际距离30km处，在上图中标出丁城的位置。",
+    "options": null,
+    "answer": "(1)1:2000000 (2)南偏西 40 (3)图略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26256591",
+      "site": "21世纪教育网",
+      "title": "doc 26256591",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例尺及方向距离确定位置",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:07.545872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26431975_009",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "两个正方形边长的比是3：5，周长的比是　，面积比是　。",
+    "options": null,
+    "answer": "3：5；9：25",
+    "explanation": "根据正方形周长和面积公式可知，正方形的周长比与边长比相同，正方形面积比是边长平方的比。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26431975",
+      "site": "21世纪教育网",
+      "title": "doc 26431975",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形边长比与周长面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:38.560309"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_001",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在5∶＝6∶0.5这个比例中，两个外项是　　和　　，两个内项是　　和　　，把它们写成积相等的形式是　　　。",
+    "options": null,
+    "answer": "5；0.5；；6；",
+    "explanation": "外项是和，内项是和。根据比例基本性质，外项积=内项积，即：。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例内项外项基本概念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_002",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用 6、2、15再配上一个数组成比例，这个数是　　，写出组成的一个比例：　　　。",
+    "options": null,
+    "answer": "45；2：6=15：45(答案均不唯一)",
+    "explanation": "根据比例的基本性质（两内项积=两外项积）分三种情况计算，设所求数为，若，则；若，则；若，则。取，可组成比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据比例关系求第四个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_003",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如果2，5，8，a这四个数可以组成一个比例，那么a不可能是(　　)。",
+    "options": [
+      "",
+      "1.25",
+      "3.2",
+      "20"
+    ],
+    "answer": "0",
+    "explanation": "根据比例的基本性质：两内项积=两外项积，分三种情况求a：2a=5×8得a=20（D）；5a=2×8得a=3.2（C）；8a=2×5得a=1.25（B）。所以a不可能是A选项。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断能否组成比例求a",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_004",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面各组中的比能组成比例的是(　　)。",
+    "options": [
+      "10：12 和25：30",
+      "2：8和0.9：2.7",
+      "： 和：",
+      "4：9和3：12"
+    ],
+    "answer": "0",
+    "explanation": "判断两个比能不能组成比例，只要算出它们的比值是否相等。A选项比值相等，能组成比例。B、C、D选项的两个比比值都不相等，不能组成比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断两组比能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 10：12 和25：30",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_005",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "鹏鹏家的院子里有一个放花盆的架子。他测量得到这个架子侧面的相关数据(如图)，可以组成哪些比例？(写出4个)",
+    "options": null,
+    "answer": "3：4=6：8，5：10=4：8，4：3=8：6，6：3=10：5。",
+    "explanation": "比例是表示两个比相等的式子。根据图中数据写出比，只要比值相等的两个比都能组成比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用测量数据找比例关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_006",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用3，4，9，12组成一个比值最大的比例是　　　。",
+    "options": null,
+    "answer": "12：4=9：3(或9：3=12：4)",
+    "explanation": "要使比值最大，比的前项最大，比的后项最小，这样的比组成的比例即可符合要求。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选数组成比值最大的比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_007",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "有三个数0.2，3，0.6，若再用一个数与这三个数组成比例，则这个数可能是　　，　　或　　　。",
+    "options": null,
+    "answer": "1；9；0.04(顺序可互换)",
+    "explanation": "0.2×3÷0.6=1；0.6×3÷0.2=9；0.2×0.6÷3=0.04。根据比例的基本性质：在比例里，两个内项的积等于两个外项的积。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多解求组成比例的第四个数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_008",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各组比中，能组成比例的是（　　）",
+    "options": [
+      "2∶3和4∶5",
+      "∶和4∶3",
+      "0.5∶0.2和2∶5",
+      "5∶10和10∶5"
+    ],
+    "answer": "1",
+    "explanation": "A：2∶3=，4∶5=，比值不相等；B：∶=，4∶3=，比值相等，可以组成比例；C：比值不相等；D：比值不相等。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断比能否组成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ∶和4∶3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_009",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在比例中，它的两个外项不可能是(　　)。",
+    "options": [
+      "0.2和5",
+      "和0.75",
+      "2和"
+    ],
+    "answer": "2",
+    "explanation": "4×=1，A.0.2×5=1；B.×0.75=1；C.2×=，符合题意；D.9×=1。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比例中外项不可能为零",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2和",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_26464837_010",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图是学校操场和牧室前悬挂的国旗尺寸。（1）分别写出两面国旗长与宽的比，并求出比值。（2）这两个比能组成比例吗？如果能，写出组成的比例。",
+    "options": null,
+    "answer": "（1）144：96=144÷96=；96：64=96÷64=。（2）这两个比能组成比例，144：96=96：64。",
+    "explanation": "（1）先根据长：宽分别写出两面国旗的长与宽的比，再根据前项÷后项分别计算出两个比的比值即可；（2）根据比例的含义：表示两个比相等的式子叫做比例。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26464837",
+      "site": "21世纪教育网",
+      "title": "doc 26464837",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求长宽比值并判断成比例",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:05.215457"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u5.k7_21cnjy_23126114_016",
+    "subject": "数学",
+    "kp_id": "u5.k7",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列各比中，能与2：3组成比例的是（　　）。",
+    "options": [
+      "6：15",
+      "2：0.3",
+      "1：1.5",
+      "2/3：1"
+    ],
+    "answer": "3",
+    "explanation": "2：3=2/3：1。根据比例的基本性质，在比例里，两个内项积等于两个外项积。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "判断能与2:3组成比例的比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 2/3：1",
+    "has_answer": true
+  }
+]

@@ -1,0 +1,28 @@
+{
+ "id": "u1.k6",
+ "name": "列方程解分数除法",
+ "unit": "u1",
+ "unit_name": "分数除法",
+ "definition": "设未知数x，把分率关系转为方程（部分量 = 单位1 × 分率）",
+ "example": "一个数的2/3是8，求这个数：2/3 x = 8, x = 12",
+ "key_formulas": [],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 7,
+ "slide_range": "slide_007-015",
+ "see_also": [
+  {
+   "id": "u4.k2",
+   "reason": "都是求单位1的量，分数除法方程与分率除法本质相同"
+  },
+  {
+   "id": "u3.k1",
+   "reason": "列方程核心是用字母x设未知数"
+  },
+  {
+   "id": "u3.k4",
+   "reason": "解出x后代回原式检验需要代入求值"
+  }
+ ]
+}

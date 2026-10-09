@@ -1,0 +1,154 @@
+[
+  {
+    "qid": "数学_u7.k1_szns_001",
+    "subject": "数学",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "货车超重存在严重的交通安全隐患，法律规定：货运机动车的车货总重超过限值未达30%，记1分；超过30%未达50%，记3分；超过50%，记6分。经称重，一辆三轴货车的车货总重为35吨，超过限值达10吨，司机将面临扣（    ）分的处罚。",
+    "options": [
+      "6",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "1",
+    "explanation": "三轴货车限值为35-10=25吨，超载百分比=10÷25=40%，记3分。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u7.k1_szns_001",
+    "answer_text": "B. 3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u7.k1_szns_002",
+    "subject": "数学",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "填空题",
+    "stem": "要表示近年来我国新能源电动车年产量的变化情况，选用（    ）统计图比较合适；要统计目前各品牌新能源汽车市场占有率，选用（    ）统计图。",
+    "options": null,
+    "answer": "折线统计图；扇形统计图",
+    "explanation": "产量随时间变化用折线统计图；各部分占总体的百分比用扇形统计图。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.151066"
+    },
+    "duplicate_of": "数学_u7.k1_szns_002",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u7.k1_szns_003",
+    "subject": "数学",
+    "kp_id": "u7.k1",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "南山丰富的文化、艺术和商业活动吸引了大量游客，成为人们'微度假'的首选地。2024年国庆期间，南山区接待游客总数约126万人次，其中，过夜游客约24万人次，一日游游客约102万人次，一日游游客比过夜游客多百分之几？",
+    "options": null,
+    "answer": "325%",
+    "explanation": "(102-24)÷24 = 78÷24 = 3.25 = 325%",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用"
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "vision_analyze + 简化 KP 归属",
+      "reviewed_at": "2026-09-12T03:34:03",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u7.k1_szns_003",
+    "has_answer": true
+  }
+]

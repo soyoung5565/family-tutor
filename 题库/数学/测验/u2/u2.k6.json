@@ -1,0 +1,7008 @@
+[
+  {
+    "qid": "数学_u1.k1_szns_001",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "选择题",
+    "stem": "有同学发现，把一个圆平均分成16份，能拼成一个近似的三角形。如果圆的半径为r，以下说法正确的是（    ）。",
+    "options": [
+      "转化的过程中，周长不变",
+      "三角形的底可近似看成πr",
+      "三角形的高可近似看成4r",
+      "转化的过程中，面积变了"
+    ],
+    "answer": "1",
+    "explanation": "把圆平均分成16份拼成近似三角形，三角形的底≈圆周长的一半=πr，高≈半径r，面积不变，周长变长。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "圆切分拼三角形，底≈πr，面积不变考推导"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_001",
+    "answer_text": "B. 三角形的底可近似看成πr",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u1.k1_szns_005",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "应用题",
+    "stem": "杨万里《荷草倚栏》：'水面圆纹乱相入，玻璃盆旋玉连环'。在长9m、宽6m的长方形小池中，形成一个最大的圆形波纹，这个圆形波纹的面积是多少m²？",
+    "options": null,
+    "answer": "28.26",
+    "explanation": "长方形内最大圆直径=长方形宽=6m，半径=3m。S=πr²=3.14×9=28.26（m²）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "长方形内最大圆直径为宽6m，用S=πr²求面积"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_005",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "Muse 1.3 KP 归属判定",
+    "type": "选择题",
+    "stem": "下面关于圆的说法中，有错误的一项是（　　）。",
+    "options": [
+      "圆是曲线图形。",
+      "圆的周长越长，圆的面积就越大。",
+      "圆的面积是圆的半径的4倍。",
+      "圆的面积越大，圆的周长就越长。"
+    ],
+    "answer": "2",
+    "explanation": "圆的面积公式为S=πr²，是半径的平方的π倍，而不是4倍，故C项错误。",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6787.html",
+      "site": "深圳城市学校网",
+      "title": "深圳宝安区2025六上数学期末",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-12",
+      "extract_code": "u35d"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳本地真题",
+      "also_covers": [
+        "u2.k1",
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析圆概念与周长面积关系，关键用面积公式判定C错",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "ingest-exam.py (MiniMax vision + Muse KP 归属)",
+      "reviewed_at": "2026-09-12T19:28:35"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "answer_text": "C. 圆的面积是圆的半径的4倍。",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_004",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆形花坛，根据以下信息不能计算出它的面积的是（）。",
+    "options": [
+      "半径",
+      "周长",
+      "直径",
+      "圆周率"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆面积公式S=πr²所需条件，仅知π无法求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_005",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面面积最大的圆是（）。",
+    "options": [
+      "半径是5厘米的圆。",
+      "周长是18.84厘米的圆。",
+      "直径是8厘米的圆。",
+      "在边长是12厘米的正方形里画一个最大的圆。"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较四组圆的面积，需用S=πr²计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_006",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个长方形的周长和一个圆的周长相等。已知长方形的长是7分米，宽是5.56分米，则圆的面积是()平方分米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由周长求半径再用S=πr²求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_007",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "饺子，又称为\"扁食\"、\"饺耳\"、\"角子\"，由\"馄饨\"演变而来，是一种传统的中国美食。在包饺子时，用不同尺寸的模具可以制作不同大小的饺子皮，如图，在一张边长为10厘米的正方形面皮中压出一个最大的圆形饺子皮。压出的这个饺子皮的面积是()平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k9"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求圆形饺子皮面积，涉及圆面积公式 S=πr² 的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如果一个小圆的直径等于大圆的半径，那么大圆面积是小圆面积的2倍。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆的面积公式 S=πr² 及半径与面积的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59610546_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "欢乐谷里的旋转木马，整个场地周长是62.8米，这块场地占地面积是多少平方米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求面积，需先用周长公式求半径，再用面积公式 S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59646189_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，把一个圆等分后拼成一个近似的平行四边形，若平行四边形的底是12.56cm，则圆的周长是( )cm，面积是( )cm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆等分拼平行四边形求面积，属面积公式推导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59646189_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，如果平行四边形的面积是20cm²，那么它的面积是( )cm。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆切割拼成平行四边形，面积相等，圆的面积=20cm²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59646189_012",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用同样长的绳子分别围成正方形、长方形和圆，( )的面积最大。",
+    "options": [
+      "正方形",
+      "长方形",
+      "圆",
+      "无法确定"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "r1.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等周长下圆的面积最大，需用S=πr²比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.024725"
+    },
+    "answer_text": "C. 圆",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59646189_013",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "在图中正方形内画一个最大的圆，用字母O标出圆心，并求出这个圆的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内画最大圆（直径=边长），再用 S=πr² 求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59409420_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图所示，把一个草绳编织的圆形杯垫沿半径剪开，展开后得到一个三角形。拼成的三角形的底相当于圆的周长，三角形的高相当于圆的 。如果拼成的三角形的底为37.68cm，则这个圆形杯垫的面积是 cm2。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆面积公式推导：拼成三角形的高等于圆的半径。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59409420_015",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小亮用圆规画圆，他所画的圆的面积是()cm2。",
+    "options": [
+      "6π",
+      "8π",
+      "9π",
+      "16π"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆的面积公式 S=πr² 的直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.793701"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59409420_016",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是一个\"外圆内方\"的设计。每个涂色小正方形的面积是1dm2，这个圆的面积是()dm2。",
+    "options": [
+      "8π",
+      "10π",
+      "12π",
+      "16π"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形对角线=圆直径，求半径后用S=πr²求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59568243_017",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆形鱼池，周长是251.2米，这个鱼池占地面积是（　　）m²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "先由周长求半径，再用S=πr²求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59568243_018",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用三根同样长的细铁丝分别围成一个最大的长方形，正方形和圆，面积最大的是（　　）。",
+    "options": [
+      "长方形",
+      "长方形",
+      "圆",
+      "不确定"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等周长图形中圆面积最大，需理解圆的面积公式 S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.024725"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_59568243_019",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "大小两个圆，大圆的半径和小圆的直径相等，则小圆的面积是大圆的（　　）。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "利用圆的面积公式S=πr²求两圆面积比，核心是面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.024725"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_41340545_020",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "把一个半圆平均分成8份，然后剪开拼成一个近似的长方形，这个转化过程中，（）。",
+    "options": [
+      "周长和面积都变了",
+      "周长不变，面积变了",
+      "周长变了，面积没变",
+      "周长和面积都没变"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/41340545.html",
+      "site": "学科网",
+      "title": "5.2《圆的周长》（同步练习）人教版六年级上册数学-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查剪拼转化中面积守恒、周长变化的推导思想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48470809_021",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "在推导圆的面积时，把圆的面积转化成了长方形的面积。长方形的长近似于圆的（    ），长方形的宽近似于圆的（    ），所以圆的面积公式就是（    ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48470809.html",
+      "site": "学科网",
+      "title": "圆的周长和面积练习题（专项练习）-2024-2025学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆面积公式推导过程中长方形长宽与圆的对应关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48470809_022",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "在推导圆的面积时，所拼成的长方形的周长为24.84cm，则这个cm（题目不完整）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48470809.html",
+      "site": "学科网",
+      "title": "圆的周长和面积练习题（专项练习）-2024-2025学年六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼成长方形推面积，长=πr宽=r，由周长求r再算面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_54041134_023",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "妈妈新买了一个挂钟，时针长5厘米，经过一昼夜，时针扫过的面积是多少平方厘米？时针针尖走过的路程是多少厘米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "时针一周扫过整圆面积，考查 S=πr² 实际应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_54041134_024",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "2023年12月26日，我们迎来伟人毛泽东诞辰130周年。某校在宣传栏张贴了一张圆形的致敬毛主席的手抄报，这张手抄报的直径是16分米，那么这张手抄报的面积是多少平方分米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知直径求半径，直接套用圆的面积公式 S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48705654_025",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图所示，以圆的半径为边长的正方形的周长是8分米，圆的面积是______。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由正方形周长求半径，再用S=πr²求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.024725"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48705654_026",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "一个圆的直径扩大到原来的4倍，那么它的周长扩大到原来的4倍，面积扩大到原来的8倍。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查直径/半径变化对周长和面积的影响，面积应为16倍",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48705654_027",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "同学们在一块直径为8米的圆形花圃里种花，种月季花的面积占花圃的______，种月季花的面积是______平方米。",
+    "options": [
+      "18.84",
+      "25.12",
+      "28.26",
+      "31.4"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式 S=πr² 实际应用，求 1/2 圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48705654_028",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "在一个边长为10厘米的正方形中画一个最大的圆，圆的面积占正方形面积的______。",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u7.k3"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆，用S=πr²求圆面积再求占比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_48705654_029",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "周末科科一家去尊宝披萨店，披萨店有三款厚度相同而尺寸不同的披萨供顾客选择。（1）这家店12寸披萨的正面面积是多少平方寸？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "12寸披萨即直径12寸，用圆面积公式 S=πr² 计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_38871386_030",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "圆的半径扩大3倍，它的直径和周长都扩大3倍，面积扩大6倍。（　　）",
+    "options": null,
+    "answer": "对",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/38871386.html",
+      "site": "学科网",
+      "title": "5.2圆的周长 （同步练习）-六年级上册数学人教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查半径扩大后直径、周长、面积的变化倍数关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_031",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "把一个圆形硬纸片剪拼成一个近似的长方形后，周长比原来增加了8dm，这个圆的半径是()dm，近似长方形的面积是()dm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆剪拼近似长方形的推导过程，利用周长差求半径并求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_032",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "一个圆的半径扩大4倍，周长扩大()倍，面积扩大()倍。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查半径变化对面积S=πr²的平方关系影响（扩16倍）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_033",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "在一张长8厘米，宽6厘米的长方形纸上剪一个最大的圆，圆的面积是()平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "在长方形中剪最大圆求面积，核心是圆面积公式S=πr²的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_034",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "圆的直径越长，它的面积就越大．()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆的面积公式 S=πr²，直径越长→半径越大→面积越大",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_035",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "一个圆的面积和一个正方形的面积相等，它们的周长也相等。()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较等面积圆与正方形周长，需用 S=πr² 与 C=2πr 综合推导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_34904029_036",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "一个圆的周长是12.56米，它的面积是12.56平方米．()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由周长求半径再用S=πr²验证面积是否等于12.56",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_57523937_037",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "外方内圆\"与\"外圆内方\"是我国古代建筑中最常见的设计。如下图，是一种\"外方内圆\"的建筑图案，外面正方形的边长是12分米，则内圆的面积是（    ）平方分米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/57523937.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年河北省邢台市桥东区人教版六年级上册 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "外方内圆求内圆面积，内圆直径=正方形边长，套S=πr²即可",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_54320424_038",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "如图，将一个圆剪拼成一个近似的长方形。在这个转化的过程中，（　　）。",
+    "options": [
+      "周长和面积都没有变",
+      "周长和面积都变了",
+      "周长没变，面积变了",
+      "周长变了，面积没变"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54320424.html",
+      "site": "学科网",
+      "title": "2025-2026学年浙江省杭州市西湖区人教版六年级上册期末测试数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆切拼成长方形推导面积公式，考查转化中周长与面积的变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55623663_039",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "【推理意识】下图中，把圆沿着直径分成若干等份，然后拼成一个近似长方形，周长增加了10cm，这个圆的半径是()cm，面积是()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形推导面积公式，周长增加量等于2r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_46494069_040",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图：把一个半径是____厘米的圆分成若干等份，然后拼成一个长方形，拼成的长方形周长比原来圆的周长增加了______厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆切拼长方形是面积公式推导方法，需理解周长增加2r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_46494069_041",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "根据条件计算下面各圆的面积．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接应用圆的面积公式 S=πr² 进行计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.024725"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_46494069_042",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "有一张圆桌，直径是____，现在要给这张圆桌配上一块圆形桌布，圆桌铺上桌布后，四周要均匀地下垂____，这块桌布的面积是多少平方分米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求桌布面积，需先求桌布半径(圆桌半径+下垂量)，再用S=πr²计算圆面积。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55471663_043",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，如果正方形的面积是15平方厘米，那么圆的面积是( )平方厘米；如果圆的面积是25.12平方厘米，那么正方形的面积是( )厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k9"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形对角线=圆的直径，应用圆面积公式S=πr²求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55471663_044",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，一个小圆的直径与一个大圆的半径相等。已知大圆的面积是50.24平方厘米，那么小圆的面积是______平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知大圆面积求小圆面积，核心是 S=πr² 的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55471663_045",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "将一个圆沿半径剪开，拼成一个近似的平行四边形（如图）。圆的面积是( )平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55471663.html",
+      "site": "学科网",
+      "title": "期末专题：圆（试题汇编） -2025-2026学年六年级上册数学北京版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆面积公式的推导过程及S=πr²的应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:00:50.463687"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55465861_046",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "《九章算术》中《方田》章记载：\"今有圆田，周三十步，径十步。问为田几何？\"意思是：今有一块圆形田地，沿周长要走30步，沿直径要走10步，这块田地的面积是多少？从文中\"周三十步，径十步\"可以推测出，圆周率的数值是按（）计算的。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55465861.html",
+      "site": "学科网",
+      "title": "2024-2025学年北京市丰台区北京版六年级上册期末测试数学试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由周长和直径求圆的面积，需用 S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_zxxk_55465861_047",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "四名同学观察了下面这两幅图，你认为表达错误的是（）。",
+    "options": [
+      "正六边形、正十二边形对角线（图中虚线）的长都等于圆的直径",
+      "正十二边形的周长比正六边形的周长更接近圆的周长",
+      "正十二边形的面积比正六边形的面积更接近圆的面积",
+      "照这样继续分，正二十四边形中三角形的高与圆的半径相等"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55465861.html",
+      "site": "学科网",
+      "title": "2024-2025学年北京市丰台区北京版六年级上册期末测试数学试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查圆面积公式推导中多边形逼近圆的过程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11088645_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（1）在下图所示边长3厘米的正方形内画一个最大的圆。（2）这个圆的面积是多少平方厘米？（3）正方形和圆面积的比是（ ）（用表示）。",
+    "options": null,
+    "answer": "（1）见详解；（2）7.065平方厘米；（3）4∶",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆面积及比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_001",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "在边长8cm的正方形中，剪一个最大的圆，圆的面积是多少？周长是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆，套用面积周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.793701"
+    },
+    "duplicate_of": "数学_u2.k5_21cnjy_6646908_001",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "圆形水缸的直径1m，现在需要做一个比缸口宽1分米的木板盖住水缸，至少需要多少木板？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "盖板直径加大求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k5_21cnjy_6646908_009",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_012",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆和一个长方形面积相等，圆的直径是20cm，长方形的长20cm，长方形的宽多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等面积圆与长方形互求",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_017",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把一个圆分割后拼一个长方形，长方形周长是16.56m，求圆的面积？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形周长反推面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_018",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把一个圆分割后拼成一个长方形，长方形的周长比圆的周长长6cm，求圆的面积？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拼成长方形周长差为2r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10533455_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "有一个直径为3分米的半圆形钢板，它的面积是多少平方分米？",
+    "options": null,
+    "answer": "3.5325平方分米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知直径求半圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10533455_027",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "圆的半径为5厘米，求图中红色部分的面积？",
+    "options": null,
+    "answer": "78.5平方厘米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10533455_038",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形茶几面的直径是2m，要在桌面上配一块圆形玻璃，每平方米6元，配一块玻璃要多少钱？",
+    "options": null,
+    "answer": "18.84元",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_15920805_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把一个半径是10cm的圆拼成接成一个近似的长方形后，长方形的周长是（ ），面积是（ ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_15920805_023",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "直径相等的两个圆，面积不一定相等。 （ ）",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15920805.html",
+      "site": "21世纪教育网",
+      "title": "六年级数学上册易错题和知识点（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径相等则半径相等，面积相等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:19.302396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610351_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在一个边长为6cm的正方形中剪一个最大的圆，圆的面积是（    ）cm2。",
+    "options": [
+      "28.26",
+      "12.56",
+      "50.24"
+    ],
+    "answer": "0",
+    "explanation": "正方形中剪一个最大的圆，那么边长等于直径，用公式：S＝（d÷2）²π，（6÷2）²×3.14＝9×3.14＝28.26（cm²）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆的面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 28.26",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610351_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把半径6厘米的圆平均分成24份，拼成的图形近似于长方形（如图）。这个长方形的长是(        )厘米，宽是(        )厘米。",
+    "options": null,
+    "answer": "18.84；6",
+    "explanation": "近似长方形的长是圆周长的一半，近似长方形的宽是圆的半径。圆周长＝2πr，2×3.14×6÷2＝18.84（厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形推导周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610351_012",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的直径扩大10倍，面积也扩大10倍。",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆的面积公式为S＝π(d/2)²，当直径d扩大10倍时，面积S＝π(10d/2)²＝25πd²，与原来相比应该是扩大了100倍。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径扩大倍数与面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610351_017",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "一棵老槐树粗28.26分米，它的横截面的面积是多少平方分米？",
+    "options": null,
+    "answer": "63.585平方分米",
+    "explanation": "28.26÷3.14÷2＝4.5（分米）；3.14×4.5²＝63.585（平方分米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，用三张边长都是8厘米的正方形铁皮，分别剪下甲、乙、丙三种不同规格的圆片，剩下的铁皮(  )。",
+    "options": [
+      "甲最多",
+      "乙最多",
+      "丙最多",
+      "同样多"
+    ],
+    "answer": "3",
+    "explanation": "正方形边长8厘米，面积64平方厘米。图甲减去4个半径2cm的小圆，图乙减去1个半径4cm的大圆，图丙减去16个半径1cm的小圆，剩余面积均为13.76平方厘米，同样多。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形剪圆，比较剩余面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 同样多",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_006",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在推导圆的面积公式时有这样一种方法：把圆形茶杯垫片沿半径剪开，得到一个近似的三角形。如果三角形的底AB长25.12厘米，那么圆的面积是(  )平方厘米。",
+    "options": [
+      "50.24",
+      "31.4",
+      "25.12",
+      "12.56"
+    ],
+    "answer": "0",
+    "explanation": "三角形的底相当于圆的周长，半径=25.12÷3.14÷2=4厘米，面积=3.14×4²=50.24平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导，近似三角形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 50.24",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_016",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，已知正方形的面积是28平方厘米，求阴影部分的面积。解决问题的关键是求出圆的面积。此时，我们求不出圆的半径，但能把正方形分成四个相等的小正方形，求出一个小正方形的面积是______平方厘米，它恰好是圆半径的平方，从而可求出圆的面积是______平方厘米，进而可求出阴影部分的面积是______平方厘米。",
+    "options": null,
+    "answer": "7；21.98；6.02",
+    "explanation": "小正方形面积=28÷4=7平方厘米，圆面积=3.14×7=21.98平方厘米，阴影面积=28-21.98=6.02平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形与圆面积关系推导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_018",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用三根同样长的铁丝分别围成一个长方形(长、宽不相等)、一个正方形和一个圆，其中面积最小的是______，面积最大的是______。(图形接头处不重叠)",
+    "options": null,
+    "answer": "长方形；圆",
+    "explanation": "周长相等的图形中，圆面积最大，长方形(长宽不等时)面积最小。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长相同比较面积大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_022",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "半圆形的面积等于半圆形所在的这个圆面积的一半。(  )",
+    "options": null,
+    "answer": "正确",
+    "explanation": "半圆形的面积=πr²÷2，确实等于圆面积的一半。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式的简单理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_17702696_037",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "如下图，妮妮和妍妍在圆形广场同时、同地出发，相背而行，4分后相遇。妮妮每分走81 m，妍妍每分走76m，这个圆形广场的面积是多少平方米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "相遇求周长再求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610467_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个半径是r的圆，沿半径分成若干等分，拼成一个近似的长方形（如图），如果用面积是1cm²的小正方形摆拼在长边上，最多可以摆(        )个。",
+    "options": null,
+    "answer": "3.14r",
+    "explanation": "长方形的长是圆周长的一半πr，小正方形的边长为1cm，最多可以摆πr÷1＝πr个。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积推导长方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610467_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如下图：在一个直径为2cm的圆内剪一个最大的正方形，这个正方形的面积是(          )cm²，剪后剩余的面积是(          )cm²。",
+    "options": null,
+    "answer": "2；1.14",
+    "explanation": "正方形的面积＝直径×直径÷2＝2×2÷2＝2（cm²）；剩余的面积＝π×1²－2＝3.14－2＝1.14（cm²）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆内剪正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610467_016",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把一个圆等分成12份，拼成一个近似长方形，长方形的长是31.4cm，圆的面积是(      )cm²。",
+    "options": null,
+    "answer": "314",
+    "explanation": "圆的半径：31.4÷3.14＝10（cm），圆的面积：3.14×10²＝3.14×100＝314（cm²）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拼长方形求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16610467_020",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "如果小圆的直径是大圆直径的1/3，那么大圆的面积是小圆面积的9倍。",
+    "options": null,
+    "answer": "√",
+    "explanation": "大圆直径是小圆直径的3倍，设大圆与小圆的直径分别是3a、a；π(3a÷2)²÷π(a÷2)²＝9",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径比求面积倍数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_12168290_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "将直角三角形各边缩小为原来的 12 。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "按比例缩放画图，属图形变换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_12767548_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "当我们利用两种不同的方法计算同一图形的面积时，可以得到一个等式。（1）由图2可得等式：________；（2）利用（1）中所得到的结论，已知且，求值。",
+    "options": null,
+    "answer": "（1）（a+b）^2 = a^2+2ab+b^2；（2）2",
+    "explanation": "（1）将图形分割为四部分，面积之和等于整体面积；（2）利用完全平方公式和（1）的结论求解。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12767548.html",
+      "site": "教习网",
+      "title": "初中数学第八章整式乘法综合与测试练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "图形面积推导公式，圆面积相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:13.196434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_15302301_024",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小芳家的客厅里挂了一幅正方形的十字绣作品（如图）圆形绣花部分的直径是1米，这幅十字绣空白部分的面积是多少平方米？",
+    "options": null,
+    "answer": "0.215平方米",
+    "explanation": "1×1-3.14×(1÷2)²=1-0.785=0.215（平方米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15302301.html",
+      "site": "教习网",
+      "title": "北京市东城区2023-2024学年六年级上学期期末数学试卷 - 教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形中圆形面积，组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:33.268058"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6zxxk_54956536_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，用剪拼的方法把一个平行四边形转化成长方形时，原平行四边形与转化后的长方形相比，（）。",
+    "options": [
+      "周长不变，面积不变",
+      "周长增加，面积不变",
+      "周长不变，面积增加",
+      "周长减少，面积不变"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "平行四边形转化长方形的面积周长变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 周长增加，面积不变",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622427_006",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "正方形边长12 dm，从中切割出1个最大的圆（π取3），废料面积是（________）dm²。",
+    "options": null,
+    "answer": "36",
+    "explanation": "正方形面积 = 12×12 = 144 dm²，最大圆半径 = 12÷2 = 6 dm，圆面积 = 3×6² = 108 dm²，废料 = 144 - 108 = 36 dm²。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内切圆面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622427_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "正方形中最大圆的面积占正方形面积的（________）。（π取3）",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "设正方形边长为a，最大圆半径为a/2。圆面积 = π×(a/2)² = πa²/4，正方形面积 = a²，比值 = π/4 = 3/4。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆面积占比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622427_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "正方形边长12 dm，从中切割出4个同样大小的最大圆（π取3），废料面积是多少？与切割1个最大圆的废料面积比较，你发现了什么？",
+    "options": null,
+    "answer": "切4个最大圆废料面积是36 dm²，与切割1个最大圆的废料面积相同。规律：无论切割1个、4个还是9个最大圆，废料面积都相等，都是36 dm²。这是因为所有最大圆的面积之和始终等于π×(12/2)² = 108 dm²。",
+    "explanation": "切4个圆时，每个圆的直径是正方形边长的一半，4个圆面积之和 = 4×π×(a/4)² = πa²/4，与切1个最大圆的面积π×(a/2)² = πa²/4相等。所以废料面积不变。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622427.html",
+      "site": "教习网",
+      "title": "数学探索规律第4课时课时训练-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "切割4个最大圆废料面积比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:15.454755"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18711615_007",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把一个圆等分成若干偶数份后，可以拼成一个近似的长方形，拼成的长方形的周长比圆的周长长10厘米，圆的周长是　　厘米，面积是　　平方厘米。",
+    "options": null,
+    "answer": "10π；25π",
+    "explanation": "10÷2=5（厘米）；3.14×（5×2）=31.4（厘米）；3.14×5²=78.5（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导，长方形周长比圆周长多2r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18711615_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "小明把一个半径是3cm的圆形纸片平均分成16份，剪开后，拼成两个近似的平行四边形，如图。这两个平行四边形的周长相差　　cm。",
+    "options": null,
+    "answer": "9.42",
+    "explanation": "2×3.14×3×3/4−2×3.14×3×1/4＝18.84×1/2＝9.42（cm）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼平行四边形，周长差分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18711615_012",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，将一个半径为r的圆剪拼成一个近似的长方形，那么周长增加了（　　）。",
+    "options": [
+      "π＋r",
+      "2π",
+      "2r",
+      "πr"
+    ],
+    "answer": "2",
+    "explanation": "把半径为r的圆剪拼为近似长方形后，长方形的两条宽是新增的长度，每条宽长度等于圆的半径r，总共增加了2条半径的长度，也就是2r。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆剪拼长方形，周长增加2r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 2r",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18711615_023",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的半径由3厘米增加到6厘米，面积就增加28.26平方厘米。(　　)",
+    "options": null,
+    "answer": "错误",
+    "explanation": "3.14×(6²-3²)=3.14×27=84.78（平方厘米），84.78≠28.26。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径变化求面积差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18711615_031",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "公安部门要在一个十字路口安装红外线摄像头，摄像头的地面监控范围是周长为251.2米的圆(如图)。这个摄像头的监控范围的占地面积是多少平方米?",
+    "options": null,
+    "answer": "5024平方米",
+    "explanation": "半径：251.2÷3.14÷2=40(米)；圆的面积：3.14×40²=5024(平方米)。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由周长求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_013",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根绳长125.6米，正好在一株树上绕10圈，这棵树横截面的面积是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "绳长求周长再求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k5_21cnjy_6646908_013",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一根木桩上有两根绳，分别拴着两只羊，绳分别长5m和3m，这两只羊吃到草的面积差最大是多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两绳围圆面积差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_6646908_025",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆的半径增加10%，面积增加百分之几？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式推导应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10544096_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆形茶几面的直径是2m，要在桌面上配一块圆形玻璃，每平方米6元，配一块玻璃要多少钱？",
+    "options": null,
+    "answer": "18.84元",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_038",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10544096_029",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "有一个直径为3分米的半圆形钢板，它的面积是多少平方分米？",
+    "options": null,
+    "answer": "3.5325平方分米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知直径求半圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_003",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_10544096_037",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "甜甜沿文化广场的圆形喷水池外沿走一圈，共走了157步，甜甜每步的长度约是0.6m。这个喷水池的周长约是多少米？喷水池的占地面积约是多少平方米？",
+    "options": null,
+    "answer": "94.2米；706.5平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径再求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26378141_034",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（25-26七年级下·江苏无锡·期中）如图，两个正方形的边长分别为 a 和 b．(1)求阴影部分的面积 S（用含a和b的代数式表示）；(2)若 a=3，b=2，求阴影部分面积 S 的值．",
+    "options": null,
+    "answer": "(1)S=a²-b²；(2)5",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阴影面积代数式表示，涉及πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:01.607549"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21611281_004",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "推算圆的面积的过程是：将左边的圆分割成很小很小的部分，拼摆在一起，就成为右边的长方形。当长方形的长是31.4cm时，圆的面积是（    ）。",
+    "options": [
+      "78.5cm²",
+      "157cm²",
+      "314cm²",
+      "628cm²"
+    ],
+    "answer": "2",
+    "explanation": "长方形的长是圆周长的一半，则圆周长＝31.4×2＝62.8cm，半径＝10cm，面积＝3.14×10²＝314cm²。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积推导，长方形长=πr=31.4",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 314cm²",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21611281_025",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "王叔叔家有一个圆形的餐桌，桌面的周长是3.768米，如果要给这个桌子铺上一块圆形的桌布，桌布的面积最少是多少平方米？",
+    "options": null,
+    "answer": "1.1304平方米",
+    "explanation": "半径＝3.768÷3.14÷2＝0.6米，面积＝3.14×0.6²＝1.1304平方米。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径再算圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21611281_026",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "草地上有一个木桩，把一头牛用绳拴在木桩上，若绳子长4米，这头牛最多可以吃到多少平方米的草？",
+    "options": null,
+    "answer": "50.24平方米",
+    "explanation": "3.14×4²＝3.14×16＝50.24平方米。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "绳子为半径求牛吃草面积=圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622429_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "把圆等分拼成的近似长方形的长等于圆周长的一半。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积推导拼长方形关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622429_015",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆的半径扩大到原来的3倍，它的面积扩大到原来的（________）倍。",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径扩大倍数与面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 9",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18622429_023",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "\"中国天眼\"FAST射电望远镜的反射面是圆形，直径为500m。它的反射面面积是多少平方米？（π取3.14）",
+    "options": null,
+    "answer": "196250m²",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知直径求圆面积，S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18609596_006",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把圆形纸片切拼转化为近似长方形，长方形的长对应圆的（________），宽对应圆的（________）。",
+    "options": null,
+    "answer": "周长的一半；半径",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导的拼剪过程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18609596_019",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "家中圆形餐桌半径0.9米，需要搭配一块同等大小的防滑桌布，桌布的面积是多少平方米？",
+    "options": null,
+    "answer": "2.5434平方米",
+    "explanation": "桌布面积：3.14×0.9²=2.5434（平方米）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知半径求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18609596_020",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "校园圆形花坛周长50.24米，为保护花草，需要在花坛外围加装一圈护栏，求花坛的占地面积。",
+    "options": null,
+    "answer": "200.96平方米",
+    "explanation": "花坛半径：50.24÷3.14÷2=8（米） 占地面积：3.14×8²=200.96（平方米）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径再求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_18609596_022",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "手工课上，从边长20cm的正方形彩纸中剪下一个最大的圆形纸片，求圆形纸片的面积和剩余彩纸的面积。",
+    "options": null,
+    "answer": "圆面积314平方厘米，剩余彩纸面积86平方厘米",
+    "explanation": "最大圆直径=正方形边长=20cm，半径10cm 圆面积：3.14×10²=314（cm²） 剩余面积：20×20−314=86（cm²）",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18609596.html",
+      "site": "教习网",
+      "title": "人教版（2024）六年级上册数学第四单元《圆》分层基础过关自测卷-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆，d=边长，求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:08.685006"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_13693005_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在圆的面积公式推导中，通过切开和拼拢把圆转化成近似长方形，圆的周长的一半相当于长方形的（        ），圆的（        ）相当于长方形的宽。",
+    "options": null,
+    "answer": "长；半径",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导过程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_13693005_022",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如下图所示，关于甲、乙两个图形的周长和面积下面说法正确的是（        ）。",
+    "options": [
+      "甲、乙的周长相等，面积也相等。",
+      "甲、乙的周长相等，面积不相等。",
+      "甲、乙的周长不相等，面积相等。",
+      "甲、乙的周长不相等，面积也不相等。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两图形周长和面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 甲、乙的周长相等，面积不相等。",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16107002_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知下图中正方形的面积是，则圆的面积是（　　）。",
+    "options": [
+      "15.7",
+      "31.4",
+      "78.5",
+      "无法计算"
+    ],
+    "answer": "0",
+    "explanation": "正方形的边长等于圆的半径，则圆的半径的平方等于5，圆的面积：3.14×5=15.7（cm²）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形面积→边长→圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 15.7",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_14914156_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一块长5分米、宽4分米的长方形铁板上剪一个最大的圆，这个圆的面积是(        )平方分米。",
+    "options": null,
+    "answer": "12.56",
+    "explanation": "圆的直径＝长方形的宽＝4分米，圆的面积＝3.14×（4÷2）²＝12.56（平方分米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内最大圆求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_14914156_015",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如下图，把一个圆分成32等份后，可以拼成一个近似的平行四边形。量得图中a的长度约是6.28cm，圆的半径是(        )cm。",
+    "options": null,
+    "answer": "2",
+    "explanation": "平行四边形的底等于圆周长的一半，即a＝πr，6.28÷3.14＝2（厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拼平行四边形推半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_14914156_020",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的直径缩小到它的1/2，面积也缩小到它的1/2。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "圆的直径缩小到它的1/2，面积会缩小到它的1/4，原题说法错误。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径缩半面积缩为1/4",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_14914156_025",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "公园里有一个圆形儿童游乐场，周长是75.36米，后来扩建时将它的半径增加了3米，扩建后这个游乐游乐场的面积是多少平方米？",
+    "options": null,
+    "answer": "706.5平方米",
+    "explanation": "75.36÷3.14÷2＋3＝15（米），扩建后面积＝3.14×15²＝706.5（平方米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "先求周长再求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_12685605_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，点D为边长是4的等边△ABC边AB左侧一动点，不与点A，B重合的动点D在运动过程中始终保持∠ADB=120°不变，则四边形ADBC的面积S的最大值是____．",
+    "options": null,
+    "answer": "",
+    "explanation": "根据题意作等边三角形的外接圆，当点D运动到弧AB的中点时，四边形ADBC的面积S最大，分别求出两个三角形的面积，相加即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12685605.html",
+      "site": "教习网",
+      "title": "初中数学第24章 圆综合与测试课后作业题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动点轨迹与圆面积最值",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:57:13.032565"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16504365_029",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，点O是边长为4的正六边形ABCDEF的中心，对角线CE，DF相交于点G，则△OGE的面积为（    ）",
+    "options": [
+      "√3",
+      "2√3",
+      "3√3",
+      "4√3"
+    ],
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形对角线交点面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16504365_038",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，已知点G是正六边形对角线BE上的一点，满足AG=1，联结，如果△ABG的面积为1，那么△AGF的面积等于_______．",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形对角线面积分割",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k6_51jiaoxi_16647628_021",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在一张长10厘米，宽8厘米的纸上，剪下一个最大的圆，这个圆的面积是多少平方厘米？",
+    "options": null,
+    "answer": "最大圆以宽为直径，r=8÷2=4cm；S=πr²=3.14×4²=50.24平方厘米",
+    "explanation": "剪下的最大的圆的直径=长方形的宽=8cm",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16647628.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册整理和复习同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内最大圆，r取宽一半，再算面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:01:31.261314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把一个圆形硬纸片剪拼成一个近似的长方形后，周长比原来增加了8dm，这个圆的半径是(        )dm，近似长方形的面积是(        )dm²。",
+    "options": null,
+    "answer": "4；50.24",
+    "explanation": "圆的半径：8÷2＝4（dm），近似长方形的面积：3.14×4²＝50.24（dm²）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆剪拼长方形的推导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k6_zxxk_34904029_031"
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一个半径5cm的圆分成若干等份，拼成一个近似的长方形（如图），这个长方形的周长是（    ）cm。",
+    "options": [
+      "15.7",
+      "31.4",
+      "36.4",
+      "41.4"
+    ],
+    "answer": "3",
+    "explanation": "2×3.14×5＋5×2＝31.4＋10＝41.4（厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形周长推导",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 41.4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "圆的面积与长方形的面积相等。长方形的宽是5分米，长是15.7分米，圆的半径是（    ）分米。",
+    "options": [
+      "10",
+      "25",
+      "5",
+      "15.7"
+    ],
+    "answer": "2",
+    "explanation": "15.7×5÷3.14＝78.5÷3.14＝25（平方分米），因为5×5＝25，所以半径为5分米。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆与长方形面积相等关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 5",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在图中，圆的面积与长方形的面积相等。长方形的长是12.56厘米，圆的半径是（   ）厘米。",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "0",
+    "explanation": "πR²=R×12.56，πR=12.56，R=4（厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积等于长方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 4",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_018",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "通过转化的方法，探索出了分数除法和圆面积的计算方法。",
+    "options": null,
+    "answer": "√",
+    "explanation": "在学习倒数之后，探索分数除法的计算方法是通过转化；探索圆面积的计算方法是通过把圆转化成近似的长方形得来的。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "转化法推导圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_020",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "将一个圆等分成若干份，再拼成一个近似的长方形，已知这个长方形的周长是41.4厘米，那么，这个圆的周长和面积各是多少？",
+    "options": null,
+    "answer": "周长：31.4厘米；面积：78.5平方厘米",
+    "explanation": "设圆的半径为r厘米，2×3.14×r＋2r＝41.4，8.28r＝41.4，r＝5。周长：3.14×5×2＝31.4（厘米），面积：3.14×5×5＝78.5（平方厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "拼长方形周长反求圆周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_021",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "手工课上，小明用一张直径是20厘米的圆形纸片剪出如下图所示的风车图形（图中空白部分），请你算算这张纸的使用率。（这里\"使用率\"是指实际用到的纸占所有的纸的百分比）",
+    "options": null,
+    "answer": "50%",
+    "explanation": "20÷2÷2＝5（厘米），3.14×5×5÷2＝39.25（平方厘米），39.25×4＝157（平方厘米），20÷2＝10（平方厘米），3.14×10×10＝314（平方厘米），157÷314×100%＝50%。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求圆的面积及使用率，涉及圆面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆的半径是10厘米，这个圆的面积是(        )平方厘米。",
+    "options": null,
+    "answer": "314",
+    "explanation": "3.14×10×10＝31.4×10＝314（平方厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21030908",
+      "site": "21世纪教育网",
+      "title": "doc 21030908",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接用S=πr²求圆的面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:57.505013"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k5_21cnjy_21030908_008"
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21030908_015",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "圆的半径由2厘米增加到3厘米，这个圆的面积增加了3.14平方厘米。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "3.14×2²＝12.56（平方厘米），3.14×3²＝28.26（平方厘米），28.26－12.56＝15.7（平方厘米），面积增加了15.7平方厘米。原题干说法错误。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21030908",
+      "site": "21世纪教育网",
+      "title": "doc 21030908",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半径变化后计算面积增减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:57.505013"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k5_21cnjy_21030908_015"
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_001",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图中的杯子能不能装下2袋这样的牛奶？（数据是从杯子里面测量得到的。）",
+    "options": null,
+    "answer": "杯子的底面积：3.14×(8÷2)²＝3.14×4²＝3.14×16＝50.24(cm²)\n杯子的容积：50.24×10＝502.4(cm³)＝502.4(mL)\n牛奶的体积：240×2=480(mL)\n502.4＞480\n答：杯子能装下2袋这样的牛奶。",
+    "explanation": "要先计算出杯子的容积。容积的计算方法与体积的计算方法相同。",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱容积比较，需算体积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小明和妈妈出去游玩，带了一个圆柱形保温壶，从里面量底面直径是8cm，高是15cm。如果两人游玩期间要喝1L水，带这壶水够喝吗？",
+    "options": null,
+    "answer": "保温杯的底面积：3.14×(8÷2)²＝50.24(cm²)\n保温杯的容积：50.24×15＝753.6(cm³)＝0.7536(L)\n答：因为0.7536 L小于1 L，所以带这壶水不够喝。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱容积与升换算比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆柱形的水池，从里面量底面半径是5m，深是3.2m。这个水池能蓄水多少吨 (1m³的水重1t。)",
+    "options": null,
+    "answer": "3.14×5²×3.2＝251.2(m³)\n答：这个水池能蓄水251.2吨。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱体积公式算蓄水量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_004",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是一根钢管，求它所用钢材的体积。（单位：cm）",
+    "options": null,
+    "answer": "大圆柱的体积：3.14×(10÷2)²×80=6280(cm³)\n小圆柱的体积：3.14×(8÷2)²×80=4019.2(cm³)\n钢材的体积：6280－4019.2＝2260.8(cm³)\n答：所用钢材的体积是2260.8cm³。",
+    "explanation": "所用钢材的体积就是用大圆柱的体积减去中空的小圆柱的体积。",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环体（钢管）体积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_005",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "两个底面积相等的圆柱，一个高为4.5dm，体积为81dm³。另一个高为3dm，它的体积是多少？",
+    "options": null,
+    "answer": "81÷4.5×3=54(dm³)\n答：它的体积是54dm³。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底圆柱体积与高成正比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_006",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个装水的圆柱形容器的底面内直径是10cm，一个铁块完全浸没在这个容器的水中，将铁块取出后，水面下降2cm。这个铁块的体积是多少？",
+    "options": null,
+    "answer": "3.14×(10÷2)²×2=157(cm³)\n答：这个铁块的体积是157cm³。",
+    "explanation": "铁块的体积=它完全浸没水中后所排开水的体积",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "下降水体积等于铁块体积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_007",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一种内直径是1.2cm的水龙头，打开后水的流速是20厘米/秒。用一个容积为1L的保温壶接水，50秒能接满吗？",
+    "options": null,
+    "answer": "方法一：3.14×(1.2÷2)²×20=22.608(cm³)\n22.608×50=1130.4(cm³)\n1L=1000cm³\n1130.4cm³＞1000cm³\n答：50秒能接满水。\n方法二：3.14×(1.2÷2)²×(20×50)＝1130.4(cm³)\n1L=1000cm³\n1130.4cm³＞1000cm³\n答：50秒能接满水。",
+    "explanation": "想象一下1秒流出的水是什么形状的。求50秒流出的水的体积就是求什么？",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "水流体积=底面积×流速×时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "小雨家有6个从里面量得底面积是30cm²、高是10cm的圆柱形水杯，沏一壶茶水正好能倒满4杯。有一天来了6位客人，小雨沏了一壶茶水，将这壶茶水倒入6个杯中，平均每杯倒多少毫升？",
+    "options": null,
+    "answer": "方法一：30×10×4÷6=200(cm³)\n200cm³=200mL\n答：平均每杯倒200毫升。\n方法二：把4个满杯的水摞起来，把这个圆柱在高的方向上平均分成6份。200cm³=200mL\n答：平均每杯倒200毫升。",
+    "explanation": "先求出4满杯水的体积，也就是一壶茶水的体积，再平均分成6份。",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱杯容积，平均分配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某公园要修一道围墙，原计划用土石35m³。后来多开了一个厚度为25cm的月亮门（见右图），减少了土石的用量。现在用了多少立方米土石?",
+    "options": null,
+    "answer": "35－3.14×(2÷2)²×(25÷100)＝35－0.785＝34.215(立方米)\n答：现在用了34.215立方米土石。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "围墙体积减去月亮门圆柱体积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "明明家里来了两位小客人，妈妈榨了1L果汁。如果用右图中的玻璃杯喝果汁，够明明和客人们每人一杯吗 （数据是从杯子内部测量得到的。）",
+    "options": null,
+    "answer": "方法一：3.14×(6÷2)²×11=310.86(cm³)=310.86(mL)\n1L=1000mL\n310.86×3=932.58(mL)\n1000＞932.58\n答：够明明和客人们每人一杯。\n方法二：3.14×(6÷2)²×11=310.86(cm³)=310.86(mL)\n1L=1000mL\n1000÷310.86≈3.22(杯)\n3.22＞3\n答：够明明和客人们每人一杯。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱杯容积与1L比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆柱形保温茶桶，从里面量，底面半径是3dm，高是5dm，如果每升水重1kg，这个保温茶桶的容积是多少升？能盛150kg水吗？",
+    "options": null,
+    "answer": "3.14×3²×5＝141.3(dm³)\n141.3 dm³=141.3 L\n141.3 ×1=141.3(kg)\n答：保温茶桶的容积是141.3升，能盛150kg水。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱容积及盛水重量判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_012",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个圆柱形油桶，底面直径是2m，高是3m，这个油桶装满汽油后，最多能为多少辆相同的大货车的油箱加满油？(每辆大货车油箱容积为350L)",
+    "options": null,
+    "answer": "2÷2=1(m)\n3.14×1²×3＝9.42(m³)\n9.42 m³=9420 dm³=9420L\n9420 ÷350≈26(辆)\n答：最多能为26辆相同的大货车的油箱加满油。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱油桶容积除以350L",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25381792_013",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个水龙头的内直径是1.6cm，打开水龙头后水的流速是30厘米/秒，一个容积是5L的水桶，80秒能装满水吗？",
+    "options": null,
+    "answer": "3.14×(1.6÷2)²×30×80=4823.04(cm³)\n5 L=5000 mL\n4823.04 cm³ = 4823.04 mL\n答：80秒不能装满水。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25381792",
+      "site": "21世纪教育网",
+      "title": "doc 25381792",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "水流体积与5L桶比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:18.806786"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_14115544_014",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一张圆形纸片沿半径平均分成若干份，拼成一个近似长方形，其周长（　　）。",
+    "options": [
+      "等于圆周长",
+      "大于圆周长",
+      "小于圆周长",
+      "无法比较"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导拼成长方形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 大于圆周长",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_14115544_037",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "（1）画一个直径是4厘米的圆并标出圆心和直径。（2）如果把这个圆沿半径平均分成若干份，可以拼成一个近似的（　　）形。请你求出所拼成的这个图形的周长，把计算过程写在下面。",
+    "options": null,
+    "answer": "近似长方形；周长是16.56厘米",
+    "explanation": "（1）如图所示；（2）可以拼成一个近似的长方形；长：3.14×4÷2=12.56÷2=6.28（厘米），宽：4÷2=2（厘米），周长：（6.28＋2）×2=8.28×2=16.56（厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "画圆+圆面积推导拼平行四边形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "要画一个面积是50.24平方分米的圆，圆规两脚之间的距离应是（    ）。",
+    "options": [
+      "16分米",
+      "4米",
+      "4分米"
+    ],
+    "answer": "2",
+    "explanation": "圆规两脚之间的距离是所画圆的半径。50.24÷3.14=16（平方分米），4×4=16（平方分米），所以圆规两脚之间的距离是4分米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由圆的面积求半径",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 4分米",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_005",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一个圆的半径由2cm增加到3cm，面积增加了（    ）cm2。",
+    "options": [
+      "",
+      "",
+      ""
+    ],
+    "answer": "2",
+    "explanation": "π×3²-π×2²=9π-4π=5π（cm²）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式求面积差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "把一个圆平均分成2018份完全相同的小扇形，割拼成近似的长方形的周长比原来圆的周长长10厘米，这个长方形的周长是(      )，面积是(      )。",
+    "options": null,
+    "answer": "41.4厘米；78.5平方厘米",
+    "explanation": "圆的半径：10÷2=5（厘米）；圆周长31.4厘米；长方形周长41.4厘米；面积78.5平方厘米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆剪拼长方形推导周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_023",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "从一张长11分米、宽10分米的纸上剪下一个最大的圆，剪下的圆的直径是(      )分米，面积是(      )平方分米。",
+    "options": null,
+    "answer": "10；78.5",
+    "explanation": "直径等于宽10分米，面积=3.14×5²=78.5（平方分米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中最大圆，求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_025",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "长春农博会上一家科技公司向农户演示了智能喷灌装置，每分钟灌溉范围是半径为15米的圆形，这个智能喷灌装置每分钟灌溉面积为(      )平方米。（π取3.14）",
+    "options": null,
+    "answer": "706.5",
+    "explanation": "3.14×15²=706.5（平方米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式直接应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_028",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在一块正方形纸板上剪下一个最大的圆，这个圆的面积是28.26cm2，剩余纸板的面积是7.74cm2。(      )",
+    "options": null,
+    "answer": "√",
+    "explanation": "圆的半径3cm，正方形边长6cm，面积36cm²，剩余36-28.26=7.74（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_029",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "半径是2厘米的圆的面积跟它的周长相等。(        )",
+    "options": null,
+    "answer": "×",
+    "explanation": "面积12.56平方厘米，周长12.56厘米，单位不同，不能比较。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长与面积的数值比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_030",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "在长方形、正方形、三角形、圆中，周长相等的情况下，圆的面积最大。(      )",
+    "options": null,
+    "answer": "√",
+    "explanation": "周长相等的平面图形，形状越接近圆，面积越大。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等周长圆面积最大",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_036",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "小狐狸有两个4寸的圆形蛋糕（直径约为10厘米），长颈鹿有一个8寸同款圆形蛋糕（直径约为20厘米），小狐狸想用自己的两个4寸蛋糕换长颈鹿的一个8寸蛋糕，如果你是长颈鹿，你愿意换吗？请通过计算说明。",
+    "options": null,
+    "answer": "两个4寸蛋糕总面积≈157平方厘米，8寸蛋糕面积≈314平方厘米，不愿意换",
+    "explanation": "两个4寸：2×3.14×5²=157（cm²）；8寸：3.14×10²=314（cm²）。314>157，不换。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两个小圆与大圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_037",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "王爷爷用9.42米长的篱笆依墙建了一个半圆形鸡舍（如下图所示）。为进一步扩大养鸡规模，计划将鸡舍的直径增加2米。扩建后鸡舍的面积增加了多少平方米？",
+    "options": null,
+    "answer": "扩建后鸡舍的面积增加了10.68平方米",
+    "explanation": "原半径=9.42÷3.14=3（米），新半径=3+1=4（米）；增加面积=3.14×(4²-3²)=21.98（m²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积增加量计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_048",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个4寸蛋糕的面积大约是（  ）平方厘米，一个8寸蛋糕的面积大约是（  ）平方厘米。两个4寸蛋糕的总面积与一个8寸蛋糕的面积相比，你愿意换吗？为什么？",
+    "options": null,
+    "answer": "不愿意换；两个4寸蛋糕的总面积（约157平方厘米）小于一个8寸蛋糕的面积（约314平方厘米）",
+    "explanation": "判断是否愿意换，需比较两个4寸蛋糕的总面积与一个8寸蛋糕的面积大小，利用圆的面积公式分别计算后比较即可。两个4寸蛋糕的总面积小于一个8寸蛋糕的面积，所以不愿意换。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆的面积公式S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_26559779_049",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，一个半圆形鸡舍，原来的直径是6米，现在直径增加了2米。扩建后鸡舍的面积增加了多少平方米？",
+    "options": null,
+    "answer": "10.99平方米",
+    "explanation": "9.42×2÷3.14＝6（米）；3.14×6²÷2＝14.13（平方米）；6＋2＝8（米）；3.14×8²÷2＝25.12（平方米）；25.12－14.13＝10.99（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆面积差计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21353165_002",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "根据下面的条件，求各圆的面积。(1)d＝4dm; (2) r＝4 cm。",
+    "options": null,
+    "answer": "(1)12.56dm²；(2)50.24cm²",
+    "explanation": "面积公式S=πr²，先求半径再求面积。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21353165",
+      "site": "21世纪教育网",
+      "title": "doc 21353165",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用S=πr²求圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:25:27.551053"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21353165_003",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "圆的面积公式推导：把圆转化成长方形后，长方形的底是（  ），高是（  ），面积=（  ）×（  ）。",
+    "options": null,
+    "answer": "长方形的底=圆周长的一半；高=圆的半径；面积=底×高",
+    "explanation": "圆剪拼成长方形后，长=πr，宽=r。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21353165",
+      "site": "21世纪教育网",
+      "title": "doc 21353165",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导，底≈πr高=r",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:25:27.551053"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_21353165_011",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "周日，淘气到披萨店买最爱吃的直径为10厘米的披萨。老板告诉淘气：'10厘米的卖完了，给你一个直径4厘米和一个直径6厘米的，厚度一样，价格不变的披萨，行吗？'请同学们帮帮淘气，他应该答应老板吗？",
+    "options": null,
+    "answer": "不应该答应。大圆面积78.5cm²，小圆面积之和40.82cm²，大圆更大。",
+    "explanation": "大圆面积：3.14×5²=78.5cm²；小圆4cm面积：3.14×2²=12.56cm²；小圆6cm面积：3.14×3²=28.26cm²；两小圆之和12.56+28.26=40.82cm²；78.5>40.82。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21353165",
+      "site": "21世纪教育网",
+      "title": "doc 21353165",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较不同直径圆的面积大小",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:25:27.551053"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_18277690_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "用边长8厘米的正方形纸板，制成一副七巧板，将它拼成\"小船\"图案（如图），其中阴影部分的面积为(        )平方厘米。",
+    "options": null,
+    "answer": "24",
+    "explanation": "8×8×（3/8）＝64×3/8＝24（平方厘米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/18277690",
+      "site": "21世纪教育网",
+      "title": "doc 18277690",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "七巧板拼图求阴影面积，用正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:47.672074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11969015_005",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "师师在计算一道求圆的面积的题时，错把直径的长度当成半径的长度计算，这时只要把计算的结果乘（    ）就能求出正确答案。",
+    "options": [
+      "圆周率",
+      "",
+      "2",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "根据圆的计算公式，把直径的长度当作半径的长度计算，圆的面积会放大为原来的4倍，所以只要将计算结果直接乘就可以求出正确答案。",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直径当半径算圆的面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11969015_009",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "将圆分成若干等份，拼成一个平行四边形（如下图），从图中可以看出，圆的半径是r，那么平行四边形的底相当于（________），高相当于（________），因为S平行四边形＝（________）×（________），所以S圆＝（________）×（________）＝（________）。",
+    "options": null,
+    "answer": "圆周长的一半；圆的半径；底；高；圆周长的一半；半径；πr2",
+    "explanation": "将圆分成若干等份，拼成一个近似平行四边形，观察图形发现，平行四边形的底是圆周长的一半，平行四边形的高和圆的半径相等，平行四边形的面积＝圆周长的一半×半径＝πr×r＝πr2。",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆面积公式推导过程填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11969015_010",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个正方形的面积是20平方厘米，在这个正方形里面画一个最大的圆，圆的面积是（________）平方厘米。",
+    "options": null,
+    "answer": "15.7",
+    "explanation": "设圆的半径为r厘米，则正方形的面积：（2r）2＝20，4r2＝20，r2＝5，圆的面积：3.14×5＝15.7（平方厘米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内画最大圆求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11969015_026",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，绕圆形花坛走一圈是31.4米，花坛的占地面积是多少平方米？",
+    "options": null,
+    "answer": "78.5平方米",
+    "explanation": "3.14×（31.4÷3.14÷2）2＝3.14×52＝3.14×25＝78.5（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "已知周长求半径再用S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_11969015_028",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个100平方米的正方形空地，划出最大的圆形建造一个花坛，这个花坛的面积占正方形面积的几分之几？其余部分的面积是多少平方米？",
+    "options": null,
+    "answer": "；21.5平方米",
+    "explanation": "正方形空地的边长等于10米；圆形花坛的面积：3.14×（10÷2）2＝3.14×25＝78.5（平方米）；78.5÷100＝0.785＝；100－78.5＝21.5（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内最大圆，S=πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25068757_008",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图中平行四边形的面积是24cm²，圆的面积是（    ）cm²。",
+    "options": [
+      "50.24",
+      "28.26",
+      "12.56",
+      "37.68"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由平行四边形面积推圆面积πr²",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 37.68",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_25068757_015",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下图中，思思在探索圆的面积计算公式时，把圆平均分成32等份，将每份剪下后进行拼接，得到一个近似的长方形。圆的面积是(        )，长方形的周长是(        )cm。",
+    "options": null,
+    "answer": "50.24；33.12",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆拼长方形推导面积公式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_23126114_004",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图是一个长方形，想象一下，以AB边为轴旋转一周，可以形成一个 　     　，它的体积是 　               　。",
+    "options": null,
+    "answer": "圆柱；100.48立方厘米",
+    "explanation": "以AB边为轴旋转一周，可以形成一个圆柱，它的体积是：3.14×4×4×2=100.48（立方厘米）。圆柱的底面半径是4厘米，高是2厘米，圆柱的体积=π×底面半径的平方×高。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形绕轴旋转得圆柱求体积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k6_21cnjy_23126114_024",
+    "subject": "数学",
+    "kp_id": "u2.k6",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "探索与发现。为了探究圆柱的体积，课堂上陈宣和本组同学一起进行了以下操作活动。（1）建立联系：拼成的长方体与原来的圆柱有什么联系？（至少写出两条）（2）归纳结论：整个推导过程运用了　     　的思想方法。通过以上操作，你得出的结论是：圆柱的体积＝　           　。（3）巧妙应用：下图是一根圆木沿一平面截去一部分后的剩余部分，请你计算剩余部分的体积。（单位：cm）",
+    "options": null,
+    "answer": "（1）拼成的长方体的底面积等于圆柱的底面积；长方体的高等于圆柱的高；（2）转化；底面积×高；（3）395.64立方厘米",
+    "explanation": "（1）拼成的长方体的底面积等于圆柱的底面积，长方体的高等于圆柱的高；（2）整个推导过程运用了转化的思想方法；圆柱的体积＝底面积×高；（3）剩余部分的体积=底面积×高×13+底面积×(15-13)÷2=395.64（cm³）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆柱体积公式推导（圆面积类比）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

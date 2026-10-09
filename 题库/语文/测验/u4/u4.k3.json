@@ -1,0 +1,3953 @@
+[
+  {
+    "qid": "语文_u4.k3_zxxk_54627442_001",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "桑娜听着波涛的轰鸣和狂风的怒吼，感到心惊肉跳。（改为反问句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54627442.html",
+      "site": "学科网",
+      "title": "第四单元(单元测试)-2025-2026学年六年级上册语文统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《穷人》，考查陈述句改反问句的句式变换。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.211650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_zxxk_54627442_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "《穷人》的作者是国的。他的作品深受世界人民喜爱，代表作有《》《》《》等。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54627442.html",
+      "site": "学科网",
+      "title": "第四单元(单元测试)-2025-2026学年六年级上册语文统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》作者国别及代表作，属作者文学常识。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.211650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_zxxk_54627442_003",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选段中细致描写了渔夫的、、个的人。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54627442.html",
+      "site": "学科网",
+      "title": "第四单元(单元测试)-2025-2026学年六年级上册语文统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》渔夫形象分析，属小说人物描写方法。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.211650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_zxxk_54627442_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "展开想象，当渔夫看到帐子里的孩子时，会说些什么呢？写一写。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54627442.html",
+      "site": "学科网",
+      "title": "第四单元(单元测试)-2025-2026学年六年级上册语文统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》课后想象写话，考查对渔夫人物形象的理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.211650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_zxxk_59640475_005",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "文段运用____描写和____描写，将桑娜的心理表现得淋漓尽致。请你梳理桑娜心理变化的过程，选一选，补充导图。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59640475.html",
+      "site": "学科网",
+      "title": "第四单元自测练习卷-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》中心理描写手法及桑娜心理变化过程。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.988031"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_zxxk_59640475_006",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "《穷人》刻画了____的桑娜和渔夫形象。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59640475.html",
+      "site": "学科网",
+      "title": "第四单元自测练习卷-2026-2027学年六年级上册语文统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《穷人》桑娜和渔夫的人物形象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.211650"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_003",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下列词语中加点的字注音。狞笑、搀扶、嗤笑、祭奠、魁梧、保佑、寡妇、忐忑",
+    "options": null,
+    "answer": "níng,chān,chī,jì,kuí,yòu,guǎ,tǎn tè",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》生字注音识记",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "读拼音，写词语。páo xiào、xī fèi、tǎng、shēn péng pài、sǎng zāo、yǎ zhòu",
+    "options": null,
+    "answer": "咆哮、熄废、淌、呻吟、澎湃、嗓糟糕、哑皱",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》词语拼音书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_005",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "选字填空组词。（　　）到、（　　）糕、（　　）遇；（　　）水、浪（　　）、（　　）物",
+    "options": null,
+    "answer": "遭,糟,遭,废,费,废",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》选字组词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_006",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "根据课文内容判断下列说法，对的打\"√\"，错的打\"×\"。1.《在柏林》故事发生的背景是第一次世界大战。2.列夫·托尔斯泰是俄国文学家、思想家，代表作有《战争与和平》《安娜·卡列尼娜》《复活》等。3.《穷人》中桑娜夫妇虽然过着贫穷的生活，但是他们的精神世界却是富有的。4.\"关云长温酒斩华雄\"是我国古典四大名著之一《水浒传》中的一个经典情节。",
+    "options": null,
+    "answer": "×,√,√,×",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》《柏林》及作家作品常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_007",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列句子中的省略号起什么作用？把正确答案的序号填入括号内。①表明心理活动的时断时续；②表示省略递增的次数；③表示语意的跳跃；④表示说话结巴，欲言又止。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》省略号用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_009",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求写句子。1.桑娜觉得非这样做不可。（改为肯定句）2.他会揍我的，那也活该，我自作自受……（用加点的词语写一句话）3.通过讨论，同学们提高了学习目的和锻炼身体的积极性。（修改病句）4.桑娜对渔夫说：\"你知道吗？咱们的邻居西蒙死了。\"（改为转述句）",
+    "options": null,
+    "answer": "1.桑娜觉得必须这样做。2.爸爸贪小便宜，结果买了假冒伪劣产品，被妈妈训了一顿，真是自作自受。3.通过讨论，同学们明确了学习目的，提高了锻炼身体的积极性。4.桑娜问渔夫知不知道，他们的邻居西蒙死了。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》句式改写、病句修改综合训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_011",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读课文片段《穷人》（节选），回答问题。1.\"这间渔家的小屋里却温暖而舒适。\"\"温暖\"\"舒适\"表现在___________________________________________________________。从这里可以看出桑娜是个____________________的人。2.文中哪句话有承上启下的作用？3.作者为什么要在文章的开头描写海浪和风暴？4.文中画横线的句子的含义是什么？",
+    "options": null,
+    "answer": "1.炉子里的火还没有熄；地扫得干干净净，食具在搁板上闪闪发亮。勤劳、能干。2.古老的钟发哑地敲了十下，十一下……始终不见丈夫回来。3.屋外寒风呼啸和屋内温暖而舒适形成对比，衬托出渔夫在海上打鱼的艰辛和桑娜的勤劳。4.桑娜为出海打鱼的丈夫可能有生命危险而提心吊胆。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "精读《穷人》体会人物品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_012",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用\"√\"选出文中括号里正确的读音。",
+    "options": [
+      "√"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》多音字读音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_013",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "联系上下文理解下列词语的意思。(1)不动声色：(2)嗫嚅：",
+    "options": null,
+    "answer": "(1)在紧急情况下，说话、神态仍跟平时一样没有变化。(2)说话犹豫，支支吾吾。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系上下文理解《穷人》词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:44.882325"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_001",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "渔夫皱起眉，他的脸变得严肃、忧虑。这是___对渔夫___的描写。由此我们想象到当时渔夫的内心世界：___。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过外貌神态描写体会人物内心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:23.495782"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "文中三个语气词，表达了人物不同的内心，请对它们的理解写下来。嗯①：___嗯②：___哦③：___",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "通过语气词体会人物心理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:23.495782"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_003",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给文中加点字选择正确的读音。皱（ ）、后脑勺shuó（ ）、得dé（ ）、待dāi（ ）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》生字词读音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:23.495782"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "给下面的句子换个说法。同死人待在一起怎么行！",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》句子改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:23.495782"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_005",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "《穷人》是___国作家___写的一篇___。文章记叙了___的故事，真实反映了___统治下渔民的悲惨生活，赞美了桑娜和渔夫___的美好品质。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教学设计"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》作者背景填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:23.495782"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "根据课文内容，选择正确的答案。（1）《穷人》的作者是（　　）",
+    "options": [
+      "俄国作家列夫·托尔斯泰",
+      "法国作家雨果",
+      "中国作家谈歌"
+    ],
+    "answer": "0",
+    "explanation": "本题考查对课文内容的理解。《穷人》是俄国作家列夫·托尔斯泰的作品。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》作者",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 俄国作家列夫·托尔斯泰",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_005",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "桑娜一家共有（　　）个孩子。",
+    "options": [
+      "三个",
+      "五个",
+      "七个"
+    ],
+    "answer": "1",
+    "explanation": "本题考查对课文内容的理解。桑娜一家有五个孩子。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 五个",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_006",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "渔夫在（　　）的夜晚出海打鱼。",
+    "options": [
+      "风和日丽",
+      "寒风呼啸",
+      "细雨绵绵"
+    ],
+    "answer": "1",
+    "explanation": "本题考查对课文内容的理解。渔夫在寒风呼啸的夜晚出海打鱼。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》环境描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 寒风呼啸",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_007",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "邻居西蒙是（　　）",
+    "options": [
+      "一个人生活",
+      "带着两个孩子",
+      "和丈夫一起生活"
+    ],
+    "answer": "1",
+    "explanation": "本题考查对课文内容的理解。邻居西蒙是带着两个孩子的寡妇。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》人物情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 带着两个孩子",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_008",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "课文最后，桑娜和渔夫（　　）",
+    "options": [
+      "不谋而合，决定收养西蒙的两个孩子",
+      "因经济困难而犹豫不决",
+      "决定将孩子送去福利院"
+    ],
+    "answer": "0",
+    "explanation": "本题考查对课文内容的理解。最后桑娜和渔夫不谋而合，决定收养西蒙的两个孩子。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》主题情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 不谋而合，决定收养西蒙的两个孩子",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_009",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据课文内容，把下面的内容按顺序排列。\nA. 渔夫归来，得知西蒙死了，主动提出收养孩子。\nB. 桑娜焦急地等待出海打鱼的丈夫归来。\nC. 桑娜发现西蒙死了，把她的两个孩子抱回家。\nD. 桑娜内心忐忑不安，担心丈夫责怪自己。\n正确的顺序：（　　）→（　　）→（　　）→（　　）",
+    "options": null,
+    "answer": "B→C→D→A",
+    "explanation": "本题考查对故事情节顺序的梳理。故事先写桑娜焦急地等待丈夫归来（B），然后发现西蒙死了，把两个孩子抱回家（C），接着桑娜内心忐忑不安、担心丈夫责怪（D），最后渔夫归来得知实情后主动提出收养孩子（A）。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》情节顺序",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_010",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "判断下列说法是否正确，正确的打\"√\"，错误的打\"×\"。（1）桑娜把西蒙的孩子抱回家，是因为她家生活条件好，养得起更多孩子。",
+    "options": null,
+    "answer": "×",
+    "explanation": "桑娜抱回孩子不是因为她家生活好，恰恰是在自己家极其贫困的情况下仍然选择帮助他人。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》人物理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_011",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "判断下列说法是否正确，正确的打\"√\"，错误的打\"×\"。（2）渔夫得知西蒙死后，表示\"我们总能熬过去的\"，体现了他的善良和担当。",
+    "options": null,
+    "answer": "√",
+    "explanation": "渔夫\"我们总能熬过去的\"体现了他善良和担当的品质。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》人物品质",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_012",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "判断下列说法是否正确，正确的打\"√\"，错误的打\"×\"。（3）课文通过屋外寒风呼啸与屋内温暖舒适的对比，突出了桑娜的勤劳能干。",
+    "options": null,
+    "answer": "√",
+    "explanation": "课文中屋外恶劣与屋内温暖的对比确实突出了桑娜的勤劳能干。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》环境对比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_013",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "判断下列说法是否正确，正确的打\"√\"，错误的打\"×\"。（4）课文题目\"穷人\"，实际上是从反面告诉我们，他们虽然贫穷，但精神上是富有的。",
+    "options": null,
+    "answer": "√",
+    "explanation": "\"穷人\"这个题目确实蕴含着\"物质贫穷但精神富有\"的深意。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》题目含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_014",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读片段，完成练习。\n她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得非这样做不可。她把这两个熟睡的孩子放在床上，让他们同自己的孩子睡在一起，又连忙把帐子拉好。\n（1）\"但是觉得非这样做不可\"中，\"这样做\"指的是什么？",
+    "options": null,
+    "answer": "\"这样做\"指的是把西蒙的两个孩子抱回自己家，收留他们、抚养他们。",
+    "explanation": "意思相近即可。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_015",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读片段，完成练习。\n渔夫皱起眉，他的脸变得严肃、忧虑。\"嗯，是个问题！\"他搔搔后脑勺说，\"嗯，你看怎么办？得把他们抱来，同死人待在一起怎么行！哦，我们，我们总能熬过去的！快去！别等他们醒来。\"\n（1）从\"皱起眉\"\"脸变得严肃、忧虑\"\"搔搔后脑勺\"这些神态和动作描写中，你体会到了什么？",
+    "options": null,
+    "answer": "从这些神态和动作描写中，我体会到渔夫听到西蒙去世的消息后，内心感到沉重和忧虑。他在认真思考这个棘手的问题，既为西蒙的悲惨遭遇感到痛心，也在为今后更加艰难的生活而担忧。",
+    "explanation": "意思相近即可。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》人物描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_016",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课文的题目是\"穷人\"，可是读完后我们却觉得他们并不贫穷。请结合课文内容，谈谈你对\"穷\"与\"富\"的理解。",
+    "options": null,
+    "answer": "课文的题目是\"穷人\"，指的是桑娜和渔夫一家在物质生活上极其贫穷——他们只有五个孩子要养活，靠渔夫冒着生命危险出海打鱼为生，只能勉强填饱肚子，孩子们没有鞋穿，吃的是黑面包，菜只有鱼。但读完全文，我们却觉得他们在精神上无比富有：桑娜心地善良、勤劳能干，把简陋的小屋收拾得温暖而舒适；渔夫坚强勇敢、有担当，宁可自己受苦也要帮助别人。他们虽然\"穷\"在物质上，却\"富\"在精神上。这篇课文告诉我们：真正的贫穷不是物质的匮乏，而是心灵的贫瘠；真正的富足不是金钱的多少，而是善良的品格。",
+    "explanation": "意思相近即可。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》主题深悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_017",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "课文中，桑娜抱回西蒙的两个孩子后，内心经历了\"忐忑不安\"的挣扎。请发挥想象，写一写桑娜当时的心理活动。",
+    "options": null,
+    "answer": "桑娜想：天哪，我把西蒙的孩子抱回来了，可是丈夫会怎么说呢？他一定会很生气吧？我们已经有五个孩子了，日子过得这么艰难，现在又多了两个……渔夫还没回来，他是不是出事了？风浪这么大，他真的能平安回来吗？如果他回来看到家里多了两个孩子，会怎么想呢？可是，西蒙姐姐那么可怜，一个人带着两个孩子，现在她死了，这两个孩子该怎么办啊？他们那么小，一个还不会说话，另一个刚会爬……我怎么能眼睁睁看着他们不管呢？就算丈夫骂我、打我，我也认了。我一定要把这两个孩子好好养大！",
+    "explanation": "心理描写合理、能体现桑娜善良与矛盾即可。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》心理想象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_018",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "桑娜和渔夫虽然生活十分贫穷，却宁可自己吃苦也要帮助别人，展现了善良淳朴的美好品质。在我们的生活中，也有许多这样默默付出、乐于助人的人。请你结合课文内容，联系自己的生活，写一写你对\"真正的富有\"的理解，不少于80字。",
+    "options": null,
+    "answer": "学习了《穷人》这篇课文，我深深感受到桑娜和渔夫虽然物质上非常贫穷，但他们的精神世界却是无比富有的。他们宁可自己吃苦、省吃俭用，也要收养邻居西蒙的两个孤儿，这种善良淳朴、乐于助人的品质，比任何财富都更加珍贵。在我们的生活中，也有许多这样的人——小区里默默帮助孤寡老人的志愿者，学校里主动帮助学习困难同学的好伙伴，马路上搀扶摔倒老人的好心人……他们虽然不一定富有，但他们的心灵却是富足的。我想，\"真正的富有\"不在于拥有多少金钱和物质，而在于拥有一颗善良、真诚、乐于助人的心。只要人人都献出一点爱，这个世界就会变得更加美好。",
+    "explanation": "写清楚自己对\"真正的富有\"的理解（8分）；结合课文内容进行阐述（5分）；语句通顺、字数达标（5分）。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》主题迁移",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:23.536841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_21576209_029",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列对句中省略号作用的分析不正确的项是",
+    "options": [
+      "还好，总算活着回来啦。……我不在，你在家里做些什么呢 (表示语意未尽)",
+      "古老的钟发哑地敲了十下，十一下……始终不见丈夫回来。(表示数目的递增)",
+      "\"不，没有人!天啊,我为什么要这样做 ……如今叫我怎么对他说呢 ……桑娜沉思着。(表示心理活动的时断时续)",
+      "\"我\"桑娜脸色发白,说，\"我嘛……缝缝补补……风吼得这么凶，真叫人害怕。\"(表示说话结结巴巴，欲言又止)"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》省略号作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 还好，总算活着回来啦。……我不在，你在家里做些什么呢 (表示语意未尽)",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_21576209_030",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列对句子运用的描写方法判断不正确的一项是",
+    "options": [
+      "老汉冷冷地说:\"可以退党，到我这儿报名。\"(语言描写)",
+      "桑娜沉思:丈夫不顾惜身体，冒着寒冷和风暴出去打鱼，她自己也从早到晚地干活……（环境描写）",
+      "渔夫说着，把网拖进屋里，坐在炉子旁边。(动作描写)",
+      "桑娜脸色苍白，神情激动。(神态描写)"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》描写方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 桑娜沉思:丈夫不顾惜身体，冒着寒冷和风暴出去打鱼，她自己也从早到晚地干活……（环境描写）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_001",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "《如果国宝会说话》将一个个\"____\"浓缩在了五分钟的视频里，着重讲述国宝背后____的传奇故事和曲折经历。",
+    "options": null,
+    "answer": "大国重器；鲜为人知",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》内容填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断下列说法是否正确，对的打\"√\"，错的打\"×\"。（1）《如果国宝会说话》是由中央电视台纪录片频道制作的百集纪录片。（2）《如果国宝会说话》共有100集，每集是10分钟。（3）《如果国宝会说话》短小精悍，让更多繁忙的现代人\"快速充电\"，了解文物背后的文化意义。",
+    "options": null,
+    "answer": "√、×、√",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》相关课外拓展判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_010",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "他会揍我的，那也活该，我自作自受……（用加点的词语\"自作自受\"写一句话）",
+    "options": null,
+    "answer": "爸爸贪小便宜，结果买了假冒伪劣产品，被妈妈训了一顿，真是自作自受。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》词语运用造句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_014",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这间渔家的小屋里却温暖而舒适。",
+    "options": null,
+    "answer": "炉子里的火还没有熄；地扫得干干净净，食具在搁板上闪闪发亮。勤劳、能干。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》环境描写句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.988031"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_015",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中哪句话有承上启下的作用？",
+    "options": null,
+    "answer": "古老的钟发哑地敲了十下，十一下……始终不见丈夫回来。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》结构过渡句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_016",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么要在文章的开头描写海浪和风暴？",
+    "options": null,
+    "answer": "屋外寒风呼啸和屋内温暖而舒适形成对比，衬托出渔夫在海上打鱼的艰辛和桑娜的勤劳。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》开篇环境描写作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_017",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中画横线的句子\"桑娜听着波涛的轰鸣和狂风的怒吼，感到心惊肉跳\"的含义是什么？",
+    "options": null,
+    "answer": "桑娜为出海打鱼的丈夫可能有生命危险而提心吊胆。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》重点句含义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_018",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "用\"√\"选出文中（　）里正确的读音。",
+    "options": [
+      "piǎo",
+      "piáo",
+      "dǎo",
+      "shòu"
+    ],
+    "answer": "A、C",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_019",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "联系上下文理解下列词语的意思。(1)不动声色：(2)嗫嚅：",
+    "options": null,
+    "answer": "(1)在紧急情况下，说话、神态仍跟平时一样没有变化。(2)说话犹豫，支支吾吾。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u4.k3_21cnjy_7754479_013",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_020",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "故事发生的时间是：____，人物有____、____，文中的\"谎言\"是指____。",
+    "options": null,
+    "answer": "一个寒冷的夜晚；鲁兹太太、年轻人；鲁兹太太装病考验了年轻人并帮助年轻人。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》故事要素梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:35.651748"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_001",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "用\"√\"给加点字选择正确的读音。汹涌（xiōng xōng）澎湃（péng pēn）勉强（qiáng qiǎng）蜷缩（quán juǎn）魁梧（wú wǔ）忐忑（tǎn tǎng）",
+    "options": null,
+    "answer": "xiōng、péng、qiǎng、quán、wú、tǎn",
+    "explanation": "本题考查字音辨析。\"汹\"读xiōng（注意声母是x），\"湃\"读pài（本空考查的是\"澎湃\"的\"澎\"读péng），\"勉强\"中\"强\"读qiǎng（不读qiáng），\"蜷\"读quán（不读juǎn），\"梧\"读wú（不读wǔ），\"忐\"读tǎn。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音字形考查《穷人》词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:43.563561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。xiōng yǒng（　　）péng pài（　　）tǎn tè（　　　　）kuí wú（　　）bào yuàn（　　）zāo gāo（　　　　）lí hēi（　　　　）xīn jīng ròu tiào（　　　　　）",
+    "options": null,
+    "answer": "汹涌、澎湃、忐忑、魁梧、抱怨、糟糕、黧黑、心惊肉跳",
+    "explanation": "本题考查重点词语的书写，注意\"汹\"\"澎\"\"湃\"\"忐\"\"忑\"\"魁\"\"梧\"\"怨\"\"糟\"\"糕\"\"黧\"等字的正确写法。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "看拼音写《穷人》词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:43.563561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26540041_003",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "比一比，再组词。【汹 凶】（1）（　　）涌　（2）（　　）狠　（3）（　　）恶　【蜷 卷】（4）（　　）缩　（5）试（　　）　（6）（　　）曲",
+    "options": null,
+    "answer": "（1）汹（2）凶（3）凶（4）蜷（5）卷（6）蜷",
+    "explanation": "本题考查形近字辨析。\"汹\"氵字旁，与水有关，如\"汹涌\"；\"凶\"指凶恶、凶狠。\"蜷\"虫字旁，指身体弯曲如虫，如\"蜷缩\"；\"卷\"与手部动作有关，如\"试卷\"\"卷起\"。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26540041.html",
+      "site": "21世纪教育网",
+      "title": "六年级上册第12课《穷人》课堂练习题（含答案）.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨字组词出自《穷人》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:43.563561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k5_21cnjy_26540041_003",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_23110730_025",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "《三国演义》中的诸葛亮倾其一生辅佐刘备父子。下面赞誉诸葛亮的名言,最恰当的是( )",
+    "options": [
+      "知者不惑,仁者不忧,勇者不惧。",
+      "君子之修身也,内正其心,外正其容。",
+      "君子喻于义,小人喻于利。",
+      "鞠躬尽瘁,死而后已。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名著人物诸葛亮属课外延伸，但贴近课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 鞠躬尽瘁,死而后已。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_7754479_008",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "根据课文内容判断下列说法，对的打\"√\"，错的打\"×\"。3.《穷人》中桑娜夫妇虽然过着贫穷的生活，但是他们的精神世界却是富有的。",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/7754479.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册语文第四单元综合能力测试课件（共23张PPT ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》主题思想理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:51.111074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18267567_022",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中写了作者在夏天所做的哪些事 (4分)",
+    "options": null,
+    "answer": "抓龙虾;在街上闲逛;学打篮球;吃麻辣烫;用拳头砸西瓜;蛋糕奶油抹遍全身;暴雨天不打伞;看化学老师做实验。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理概括课文内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k1_21cnjy_18267567_022"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18267567_026",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词义理解",
+    "stem": "根据意思写出文中的词语。(2分) (1)指没有邀请而自己来的客人。（   ） (2)形容情绪低落、失望懊丧的神情。（   ）",
+    "options": null,
+    "answer": "(1)不速之客 (2)垂头丧气",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "据意找词，词义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18216651_001",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "读拼音，写词语。xiù zǐ　shuǎi shǒu　zuǐ chún　tiān yá　jīnɡ yínɡ　ɡònɡ xiàn　jī běn　mù dǔ",
+    "options": null,
+    "answer": "袖子 甩手 嘴唇 天涯 晶莹 贡献 基本 目睹",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词基础，与课文关联不大",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18216651_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "综合",
+    "stem": "字音或者词语题",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音词语基础题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18216651_021",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "小乞丐用来买花的\"每一枚硬币都磨得亮晶晶的\"表明了什么？",
+    "options": null,
+    "answer": "小乞丐很珍惜乞讨来的钱",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》外貌细节理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18216651_022",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "对小乞丐的外貌描写，突出了什么特点？可以看出他怎样的生活处境？",
+    "options": null,
+    "answer": "外貌描写突出了小乞丐很脏的特点，说明了小乞丐生活的艰难。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》外貌描写作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_18216651_023",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章最后说\"多尔先生的胸膛中感到一次又一次强烈冲击，他的眼前模糊了\"。是什么强烈冲击着多尔先生？\"模糊\"说明了什么？",
+    "options": null,
+    "answer": "是孩子的孝心冲击着多尔先生，多尔先生感动地哭了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文《穷人》结尾情感理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_25373647_008",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "病句修改",
+    "stem": "下列句子中有没有语病的一项是（　　）",
+    "options": [
+      "我的理智现在已经逐渐能够控诉我的沮丧心情。",
+      "他爬到了长满荆棘和黑莓藤蔓攀缘的厚石头围墙上，坐在那里环顾着自己的家。",
+      "有一天，鲁滨逊忽然马上发现海边沙滩上出现了人的脚印。",
+      "片刻之间，街道上就挤满了衣衫不整却欣喜若狂。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "病句修改综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:06.003386"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 他爬到了长满荆棘和黑莓藤蔓攀缘的厚石头围墙上，坐在那里环顾着自己的家。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_006",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "给下面的句子换个说法。同死人待在一起怎么行！",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》反问句改陈述句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u4.k3_21cnjy_26411725_004",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_007",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "“渔夫皱起眉，他的脸变得严肃、忧虑。”这是对渔夫 的描写。由此我们想象到当时渔夫的内心世界： 。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》神态描写及心理想象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_008",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中三个语气词，表达了人物不同的内心，请对它们的理解写下来。嗯①： 嗯②： 哦③：",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》语气词理解人物心理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_009",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下面带点的字选择正确的读音。皱起眉，他的脸变得（de děi）严肃、忧虑。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》\"得\"多音字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_010",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下面带点的字选择正确的读音。搔搔后脑勺（shuó sháo）说",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》\"勺\"读音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_011",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "给下面带点的字选择正确的读音。得（dé děi）把他们抱来，同死人待（dāi dǎi）在一起怎么行",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》\"得\"",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26411725_012",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "“渔夫皱起眉，他的脸变得严肃、忧虑。”这是对渔夫的描写。由此我们想象到当时渔夫的内心世界：",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26411725.html",
+      "site": "21世纪教育网",
+      "title": "【大单元·任务式】统编版语文六上第四单元大单元教学设计.docx ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》神态描写与心理想象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:51.883015"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_15109679_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "她的心跳得很厉害,自己也不知道为什么要这样做,但是觉得非这样做不可。（1）改肯定句:（2）改反问句:",
+    "options": null,
+    "answer": "（1）她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得必须这样做。（2）她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得不这样做怎么可以呢？",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式训练出自《穷人》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_15109679_010",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《穷人》这篇课文主要讲述的是渔夫夫妇的生活是如何的艰辛和贫困。(　　)",
+    "options": null,
+    "answer": "×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《穷人》主旨理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_15109679_021",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"这战斗的声音\"指的是什么",
+    "options": null,
+    "answer": "中华人民共和国国歌——《义勇军进行曲》",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》课文内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_21409818_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章最后一句在文中有何作用？说说你的理解。",
+    "options": null,
+    "answer": "点明了文章的中心，勾勒出作者一行人与蒙古族人民分别的情景，表达出了蒙汉两族人民亲如兄弟的深情。以此结尾，也让读者回味无穷，从而提升了文章的感染力。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "末句作用，穷人主题理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k5_21cnjy_21409818_004",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_21409818_016",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "说说你对划线句子的理解。",
+    "options": null,
+    "answer": "充分表达了群众对领袖的无限热爱。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解关键句，穷人主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k4_21cnjy_21409818_016",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_21409818_017",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读了选文，你有什么话想对自己说吗？",
+    "options": null,
+    "answer": "文中这句话\"中国人民从此站起来了。\"中的\"站起来\"的意思是指人民翻身做主人，不再受压迫，从此过上幸福生活。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系自身，穷人品德感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u2.k4_21cnjy_21409818_017",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_17921665_022",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "标点符号",
+    "stem": "给第⑤自然段没有标点的地方加上标点。\"男主角继续讲□突然□一声轻响从屋顶传来□昏昏欲睡的丹吉(妹妹)又一次惊醒好像察觉到异样□仰视屋顶□喉咙里发出呜呜的低吼□太逼真了，妹妹一定费尽了心思。\"",
+    "options": null,
+    "answer": "：\" ，…… \"， ， ， 。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "给《穷人》片段加标点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_17921665_023",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我赶紧往座椅里缩了缩\"是因为：____。",
+    "options": null,
+    "answer": "我觉得有一个演狗的妹妹，不是件很有面子的事",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解《穷人》中人物动作心理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k4_21cnjy_17921665_023"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_17921665_024",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "妹妹表演时，\"我\"和其他观众有什么反应请用\"\"把相关语句画出来。",
+    "options": null,
+    "answer": "(1)很多观众也注意到了，四周传来轻轻的笑声。(2)我用手掩着嘴，强忍住笑。(3)很明显，这时候的观众已不再注意主角们的对白，几百只眼睛全盯着妹妹。(4)台下的笑声更是此起彼伏。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "从《穷人》找侧面描写句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_17921665_026",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "你认为妹妹演出成功的原因是____。",
+    "options": null,
+    "answer": "听从父亲的教导，用演主角的态度去演一只狗，积极训练，演出得惟妙惟肖。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析桑娜人物形象特点",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k4_21cnjy_17921665_026"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_17921665_027",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "请用\"\"把点明中心的句子画出来，谈谈你的理解。",
+    "options": null,
+    "answer": "命运赐予我们不同的角色，与其怨天尤人，不如全力以赴。 不管怎样，我们都要积极努力实现自己的人生价值，不抱怨命运和生活对自己的不公，获得他人和社会的认可。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17921665.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第一次月考素养测评卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "找中心句并理解主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:00.498764"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k4_21cnjy_17921665_027"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_19424068_004",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面作品，作者对应有误的一项是（    ）",
+    "options": [
+      "《匆匆》朱自清",
+      "《北京的春节》老舍",
+      "《腊八粥》沈从文",
+      "《十六年前的回忆》李大钊"
+    ],
+    "answer": "3",
+    "explanation": "《十六年前的回忆》是革命先驱李大钊的女儿李星华于1943年创作的散文。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查作家作品及课文出处",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 《十六年前的回忆》李大钊",
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k1_21cnjy_19424068_004"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_19424068_010",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "《匆匆》是现代著名作家（    ）写的一篇（    ）",
+    "options": [
+      "鲁迅  散文",
+      "朱自清  散文",
+      "朱自清  诗歌",
+      "鲁迅  诗歌"
+    ],
+    "answer": "0",
+    "explanation": "《匆匆》是现代散文家朱自清写的一篇散文。（注：原解析认为选B，但根据《匆匆》原文为散文，作者朱自清，答案应为B。题目选项C\"朱自清 诗歌\"虽作者正确但体裁错；选项A作者错。）",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《匆匆》作者及文体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "匆匆"
+    ],
+    "answer_text": "A. 鲁迅  散文",
+    "has_answer": true,
+    "duplicate_of": "语文_u2.k1_21cnjy_19424068_010"
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_19424068_016",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "判断下面说法，正确的一组是（    ）",
+    "options": [
+      "《穷人》一文的作者是英国作家列夫·托尔斯泰。",
+      "\"漂流，漂白，漂亮\"中的\"漂\"的读音各不相同。",
+      "《两小儿辩日》选自《孟子·告子》。",
+      "《北京的春节》写了腊月二十三到正月十九这段时间的情形。"
+    ],
+    "answer": "1",
+    "explanation": "A.《穷人》作者是俄国作家列夫·托尔斯泰；C.《两小儿辩日》选自《列子·汤问》；D.《北京的春节》主要写腊八到正月十九。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合考查文学常识及课文内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. \"漂流，漂白，漂亮\"中的\"漂\"的读音各不相同。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_51jiaoxi_12258094_002",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "谁知            ，粒粒            。",
+    "options": null,
+    "answer": "盘中餐，粒粒皆辛苦",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》引古诗填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_25883233_008",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列句子中，加点词语运用不恰当的一项是（ ）",
+    "options": [
+      "滴水之所以能穿石，除了它能锲而不舍之外，还在于它有一个明确的目标。",
+      "我之所以长篇大论地去追根求源，是因为想让各位更加深切地认识到这个问题。",
+      "计算机尽管是高科技工具，但拥有它并不意味着任何工作都可以事半功倍。",
+      "同学们经常向老师请教，这种不耻下问的精神值得提倡。"
+    ],
+    "answer": "3",
+    "explanation": "A．意思是坚持不懈，用来形容滴水穿石的特质，使用正确；B．指追寻问题的根源，符合句子语境，使用正确；C．指费力小、收获大，符合句子表达的语义，使用正确；D．指学问/地位更高的人，不以向学问、地位比自己低的人请教为羞耻。句中是学生向学问更高的老师请教，该词语用错了对象，因此运用不恰当。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "加点词运用，穷人课文语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 同学们经常向老师请教，这种不耻下问的精神值得提倡。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26534043_005",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "结合语境选词填空。\n严厉　 严峻　 严肃\n（1）望着他那十分（　　）的脸，我一句话也说不上来。\n（2）渔夫皱起眉，他的脸变得（　　）、忧虑。\n（3）\"怎么了，吃不下？要是不吃，咱们就走不出这草地。\"最后这句话是（　　）的，意思只有我知道。",
+    "options": null,
+    "answer": "（1）严峻 （2）严肃 （3）严厉",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26534043",
+      "site": "21世纪教育网",
+      "title": "doc 26534043",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "近义词辨析，语境运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:23.710517"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26405961_012",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "想象要\"出乎意料\"又\"合乎情理\"：如《女娲造人》中女娲＿＿＿＿（合乎情理之处）。",
+    "options": null,
+    "answer": "示例：女娲是按人的样子抟土造人，造出的人会说话、会喊妈妈，女娲从孤独出发想要陪伴——把造人写得像母亲创造生命，符合人们渴望亲情、害怕孤独的心理，所以既神奇又合乎情理。",
+    "explanation": "言之成理即可",
+    "source": {
+      "url": "https://zy.21cnjy.com/26405961",
+      "site": "21世纪教育网",
+      "title": "doc 26405961",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合《女娲造人》谈想象合理性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:34:11.487372"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_21cnjy_26582207_020",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章第5段和第14段都提到了\"手枪\"，请分析作者前后两次提到手枪的用意。",
+    "options": null,
+    "answer": "文章第5段写\"手枪\"，表现出\"我\"初次在娄村过夜的恐惧；第14段再次提到\"手枪\"，写\"我\"已经不再害怕，表现了娄村人的纯朴、姜师傅的温暖让\"我\"放下了戒备。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《穷人》道具重复用意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_51jiaoxi_12602888_015",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列对原文的理解，不正确的一项是（    ）",
+    "options": [
+      "母亲本来喜欢花木，\"但当时心思全在别处\"。这\"别处\"指的是为儿子治病和找工作。",
+      "母亲以为合欢树第三年的复生\"是个好兆头\"。作者写这一点是暗示母亲因为操心儿子的病以致有点迷信了。",
+      "在质朴的老街坊眼中，生活、健康与工作显然比文章获奖更重要。",
+      "\"悲伤也成享受\"是说人在独自静静地怀念逝去的亲人时，即使悲伤，也会有某种温馨的感觉。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12602888.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《合欢树》深层含义辨析。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:09:42.053684"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 母亲以为合欢树第三年的复生\"是个好兆头\"。作者写这一点是暗示母亲因为操心儿子的病以致有点迷信了。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_51jiaoxi_12602888_016",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "本文一开头就写了\"我\"小时候与母亲的一场小冲突，对此理解错误的一项是（    ）",
+    "options": [
+      "\"我\"作文比赛得了第一，母亲却说她小时候作文写得还要好。她这样说是为了激励孩子成为作家。",
+      "突出母亲年轻时争强好胜、不免孩子气的性格，使母亲的形象一开始就显得很率真可爱，这与后文中母亲因操劳而早逝的可敬形象形成对比。",
+      "展现母子俩曾经有过一段轻松快乐、无忧无虑的生活，这种快乐的生活气氛与后来的生活困境及后文压抑的气氛形成对照。",
+      "这样一篇回忆母亲的文章如此开头，非常别致，增强了文章的生活情趣和艺术吸引力。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12602888.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《合欢树》开头段落作用分析。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:09:42.053684"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. \"我\"作文比赛得了第一，母亲却说她小时候作文写得还要好。她这样说是为了激励孩子成为作家。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u4.k3_51jiaoxi_12602888_017",
+    "subject": "语文",
+    "kp_id": "u4.k3",
+    "unit_id": "u4",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "句子\"母亲从来喜欢那些东西，但当时心思全在别处\"有什么含意？",
+    "options": null,
+    "answer": "母亲本来很喜欢种些花花草草，但是当时母亲的心思全在\"我\"的腿上和给\"我\"找工作上面，所以没有心思照顾这些花花草草，表现了母亲对\"我\"深厚、专注的爱。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12602888.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "关键句含意理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:09:42.053684"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>加载测验</title>
+<script>
+// 重定向到 quiz-pending.html
+localStorage.setItem('current-quiz', JSON.stringify({
+  title: '示例测验',
+  questions: [
+    {
+      type: 'choice',
+      topic: '生字拼音',
+      text: '「渚」的正确读音是？',
+      options: ['zhǔ', 'zhù', 'xǔ', 'zhū'],
+      answer: 0
+    }
+  ]
+}));
+window.location.href = 'quiz-pending.html';
+</script>
+</head>
+<body>
+加载中...
+</body>
+</html>

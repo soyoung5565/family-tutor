@@ -1,0 +1,4648 @@
+[
+  {
+    "qid": "语文_u6.k5_zxxk_53998403_001",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "给加点字选择正确读音：如今直上银河去，同到牵牛织女家。这句诗出自刘禹锡的《浪淘（　　）沙》。",
+    "options": [
+      "táo",
+      "tāo"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查浪淘沙中\"淘\"字读音，属第六单元古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.241658"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "九曲黄河万里沙,浪淘风簸自天涯。①\"九曲\"的意思是 ?; \"白天涯\"的意思是 ?。②这两句诗作者运用 的修辞手法,写出了黄河的雄伟气势。诗句的意思是: 。",
+    "options": null,
+    "answer": "①\"九曲\"形容黄河弯弯曲曲;\"自天涯\"指来自天边。②夸张、对偶",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首《浪淘沙》理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_010",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "如今直上银河去,同到牵牛织女家。①\"牵牛\"指 ;\"织女\"指 。②诗句的意思是: 。",
+    "options": null,
+    "answer": "①牵牛星、织女星",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首《浪淘沙》典故",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_011",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "千里莺啼绿映红,水村山郭酒旗风。①用",
+    "options": null,
+    "answer": "水村山郭酒旗风",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首《江南春》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "书湖阴先生壁:茅檐长扫净无苔, , ,两山排闼送青来。在横线上补全诗句。",
+    "options": null,
+    "answer": "花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "本诗的作者是 代的 ,这是他写在 家 (哪里)的一首诗。",
+    "options": null,
+    "answer": "宋 王安石 邻居 湖阴先生",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》作者常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "诗的前两句是写庭院的,第一句中",
+    "options": null,
+    "answer": "长 净 畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》诗句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18115854_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "诗的后两句写的是庭院周围的自然环境,运用了对偶和 的修辞手法,写出自然山水如此有情,也表现了主人 的情趣。",
+    "options": null,
+    "answer": "拟人 热爱自然",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18115854.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文上册第十周测评卷(无答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》修辞手法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:12.600002"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "对下列句子所运用的修辞手法的判断，不正确的一项是",
+    "options": [
+      "路边的小杨树忽然沙啦啦地喧闹起来，就像在嘻嘻地笑。(比喻)",
+      "自己种的荞麦已经开花，白霎霎的像一片雪。(比喻)",
+      "一水护田将绿绕，两山排闼送青来。(对偶)",
+      "从巍峨峻拔的高原走来，我是冰山上的一朵雪莲；从碧波环抱的宝岛走来，我是海风中的一只乳燕；从苍苍茫茫的草原走来，我是蓝天下翱翔的雄鹰。(排比)"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》对偶修辞",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 路边的小杨树忽然沙啦啦地喧闹起来，就像在嘻嘻地笑。(比喻)",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_010",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "千里莺啼绿映红，____。",
+    "options": null,
+    "answer": "水村山郭酒旗风",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "杜牧《江南春》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_011",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《江南春》中描写江南建筑的景致的诗句是：____，____。",
+    "options": null,
+    "answer": "南朝四百八十寺，多少楼台烟雨中",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《江南春》名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_012",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《书湖阴先生壁》中通过对景致的描写，烘托了庭院主人的勤劳和高雅的诗句是：____，____。",
+    "options": null,
+    "answer": "茅檐长扫净无苔，花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "王安石《书湖阴先生壁》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:16:53.402194"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_021",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "根据课文内容答题。(1)昨天我们去了爷爷家，看到了爷爷在自己后院儿种的菜田。让我想起了王安石写的诗句：\" ， 。\"",
+    "options": null,
+    "answer": "一水护田将绿绕，两山排闼送青来。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查王安石《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:41.851721"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_022",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "根据课文内容答题。(2)上个星期我们一家去了黄河，黄河九曲连环，仿佛是从天上降下来的。让我想起了刘禹锡写的\" ， 。\"",
+    "options": null,
+    "answer": "九曲黄河万里沙，浪淘风簸自天涯。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查刘禹锡《浪淘沙》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:41.851721"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选出加点字注音全部正确的一项。( )",
+    "options": [
+      "威胁(xié) 恩赐(cì) 耙地(pá)",
+      "拐杖(zhàng) 肆虐(xuè) 波光粼粼(lín)",
+      "咸味(xián) 遨游(áo) 高擎(jìng)",
+      "山郭(guō) 排闼(dá) 铁锹(qiū)"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首字音综合考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:09.489238"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 威胁(xié) 恩赐(cì) 耙地(pá)",
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k2_21cnjy_22044145_014"
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "\"茅檐长扫净无苔\"句子中加点字的正确解释是( )",
+    "options": [
+      "长度",
+      "做得特别好",
+      "长处",
+      "常常"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》词义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:09.489238"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 常常",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_017",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "根据课文内容答题。(1)九曲黄河万里沙， 。南朝四百八十寺， 。茅檐长扫净无苔， 。",
+    "options": null,
+    "answer": "浪淘风簸自天涯 多少楼台烟雨中 花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首默写填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:18:09.489238"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_006",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "谚语理解",
+    "stem": "对\"处暑不出头，割谷喂老牛\"这句谚语理解正确的一项是（ ）",
+    "options": [
+      "火热的夏天即将过去，谷子如果还不出穗，就没收成的希望了，就像无用的荒草一样，只能割掉喂牛了。",
+      "处暑的时候，谷子还没有长出谷穗，这时最适合来喂老牛了。",
+      "天气渐渐热了，谷子如果还不长出谷穗，就没收成的希望了，就像无用的荒草一样，只能割掉喂牛了。",
+      "处暑时已经不热了，这时候谷子长出谷穗，可以割了喂老牛。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谚语理解，属古诗三首相关农谚积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 火热的夏天即将过去，谷子如果还不出穗，就没收成的希望了，就像无用的荒草一样，只能割掉喂牛了。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "谚语理解",
+    "stem": "在白露那个时候种麦太早，寒露那个时候种麦太晚，秋分这个时候种麦子正好。如果用一句谚语来形容这样的现象，最恰当的是（ ）",
+    "options": [
+      "白露早，寒露迟，秋分种麦正当时",
+      "六月六，看谷秀",
+      "夏天不热，五谷不结",
+      "人怕老来穷，禾怕寒露风"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "农谚理解，属古诗三首农事常识积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 白露早，寒露迟，秋分种麦正当时",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_020",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "观雄伟壮阔的黄河，刘禹锡看到\"______,浪淘风簸自天涯\"的景象；赏江南春景，杜牧发出\"南朝四百八十寺，______\"的感慨；看山水美景，王安石吟出\"______,两山排闼送青来\"的佳句。",
+    "options": null,
+    "answer": "九曲黄河万里沙 多少楼台烟雨中 一水护田将绿绕",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗名句默写，对应第六单元古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_023",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义",
+    "stem": "\"书\"是______的意思。",
+    "options": null,
+    "answer": "写",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解古诗中\"书\"字含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_024",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "\"一水护田将绿绕\"一句运用了什么修辞手法 这样写有什么表达效果",
+    "options": null,
+    "answer": "拟人 化无情为有情，赋予水以灵性，生动写出田园风光的盎然生机",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "赏析《书湖阴先生壁》修辞手法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_025",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗鉴赏",
+    "stem": "这首诗表达了作者怎样的感情",
+    "options": null,
+    "answer": "表现了诗人对田园生活的喜爱之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "把握古诗作者表达的思想感情",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:20:29.027207"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18127030_004",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义",
+    "stem": "下列加点字词的解释有误的一项是( ) A.水村山郭酒旗风（山腰） B.一尘不染（感染，沾染） C.浪淘风簸自天涯（颠簸） D.一丝不苟（马虎，随便）",
+    "options": [
+      "水村山郭酒旗风（山腰）",
+      "一尘不染（感染，沾染）",
+      "浪淘风簸自天涯（颠簸）",
+      "一丝不苟（马虎，随便）"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗字词理解，涉及《江南春》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 水村山郭酒旗风（山腰）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18127030_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《书湖阴先生壁》是 代诗人 写的，其中的",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗默写与作家作品常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_16427384_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗理解",
+    "stem": "下列关于诗句的理解，有误的一项是（　　）",
+    "options": [
+      "\"咬定青山不放松\"中\"咬\"字，写出了竹子的无畏无惧、慷慨潇洒、积极乐观的精神。",
+      "\"今夜月明人尽望，不知秋思落谁家\"用一种反问式的语气从正面写人物思亲之愁。",
+      "\"粉骨碎身浑不怕，要留清白在人间\"是作者以石灰作比，立志要做纯洁清白的人。",
+      "\"少壮不努力，老大徒伤悲\"提醒我们应该珍惜时间，不应浪费时间。"
+    ],
+    "answer": "1",
+    "explanation": "\"今夜月明人尽望，不知秋思落谁家\"用一种疑问式的委婉语气从侧面写人物思亲之愁。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗理解涉及咏物诗",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. \"今夜月明人尽望，不知秋思落谁家\"用一种反问式的语气从正面写人物思亲之愁。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_16427384_020",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "与\"水是眼波横，山是眉峰聚\"所用修辞手法不相同的一项是（　　）",
+    "options": [
+      "大漠沙如雪，燕山月似钩。",
+      "一水护田将绿绕，两山排闼送青来。",
+      "遥望洞庭山水翠，白银盘里一青螺。",
+      "可怜九月初三夜，露似真珠月似弓。"
+    ],
+    "answer": "1",
+    "explanation": "\"水是眼波横，山是眉峰聚\"运用了比喻。A、C、D都运用了比喻；B项运用了拟人。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗修辞手法比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 一水护田将绿绕，两山排闼送青来。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_26047889_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "安安特别想去近距离欣赏黄河美景，因为她被刘禹锡《浪淘沙》（其一）古诗中：\" ， 。\" 描写的黄河磅礴气势所吸引。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "刘禹锡浪淘沙诗句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_001",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "用\"√\"给加点字选择正确的读音。石灰吟（yín yíng） 燕山（yān yàn） 千锤万凿(zuò záo) 烈火焚烧(fén féng) 粉骨碎身(cuì suì) 坚劲（jìn jing）",
+    "options": null,
+    "answer": "yín、yān、záo、fén、suì、jìng",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首字音字形考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "石灰吟"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_002",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "照样子，写词语。例：千 锤 万 凿　千（ ）万（ ） 千（ ）万（ ） 千（ ）万（ ） 千（ ）万（ ） 例：粉骨碎身 、",
+    "options": null,
+    "answer": "千言万语、千辛万苦、千山万水、千家万户；精雕细琢、深思熟虑",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗词语积累与仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_003",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列诗句朗读节奏划分不正确的一项是（ ）。A.粉骨∕碎身∕浑不怕，要留∕清白∕在人间。B.青∕箬笠，绿∕蓑衣，斜风∕细雨∕不须归。C.千锤∕万凿出∕深山，烈火∕焚烧若∕等闲。D.西塞山前∕白鹭飞，桃花∕流水∕鳜鱼肥。",
+    "options": [
+      "粉骨∕碎身∕浑不怕，要留∕清白∕在人间。",
+      "青∕箬笠，绿∕蓑衣，斜风∕细雨∕不须归。",
+      "千锤∕万凿出∕深山，烈火∕焚烧若∕等闲。",
+      "西塞山前∕白鹭飞，桃花∕流水∕鳜鱼肥。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗朗读节奏划分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 千锤∕万凿出∕深山，烈火∕焚烧若∕等闲。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_004",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法有错的一项是（ ）。A.\"粉骨碎身浑不怕，要留清白在人间。\"中的\"粉\"的意思是粉末。B.《石灰吟》这首诗运用了托物言志的方法。C.\"千锤万击出深山，烈火焚烧若等闲。\"中的\"锤\"的意思是用锤子敲打。D.《石灰吟》的作者是明代的于谦。",
+    "options": [
+      "\"粉骨碎身浑不怕，要留清白在人间。\"中的\"粉\"的意思是粉末。",
+      "《石灰吟》这首诗运用了托物言志的方法。",
+      "\"千锤万击出深山，烈火焚烧若等闲。\"中的\"锤\"的意思是用锤子敲打。",
+      "《石灰吟》的作者是明代的于谦。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《石灰吟》字词与作者",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "石灰吟"
+    ],
+    "answer_text": "A. \"粉骨碎身浑不怕，要留清白在人间。\"中的\"粉\"的意思是粉末。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "填空。1.《石灰吟》这首诗中作者借物言志的诗句是： ， 。诗中运用了以物喻人的手法，很多词语有双重含义。请写出下列词语对于石灰和作者的不同意思。①千锤万凿、烈火焚烧 石灰： 。作者： 。②清白 石灰： 。作者： 。2.《马诗》中\" ， 。\"一句抒发了诗人因热切期望为国建立功业，却又不被赏识所发出的感慨。",
+    "options": null,
+    "answer": "1.粉骨碎身全不怕，要留清白在人间。①石灰：所经受的磨难；作者：恶势力的打击。②石灰：清清白白的颜色；作者：高尚的情操。2.何当金络脑，快走踏清秋。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《石灰吟》《马诗》理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "马诗",
+      "石灰吟"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_006",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "填空。本课三首古诗都是 诗，我们还学过这样的古诗有《 》，请默写这首诗： ， 。 ， 。",
+    "options": null,
+    "answer": "咏物诗；《墨梅》；我家洗砚池头树，朵朵花开淡墨痕。不要人夸好颜色，只留清气满乾坤。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗体裁及默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901254_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课外阅读。墨梅 吾家洗砚池头树，个个花开淡墨痕。不要人夸好颜色,只留清气满乾坤。1.请用\"∕\"划出这首诗的朗读节奏。2.写出下列词语和诗句的意思。吾： 淡墨痕： 夸： 满乾坤： 不要人夸好颜色,只留清气满乾坤。3.诗中表现诗人王冕高尚情操的诗句是4. 。5.\"岁寒三友\"指的是 、 、 。\"文房四宝\"指的是 、 、 、 。6.历代文人墨客喜欢借梅花来表达自己的节操。请你默写一首课外搜集的描写梅花的古诗。",
+    "options": null,
+    "answer": "1.吾家/洗砚/池头树，个个/花开/淡墨痕。不要/人夸/好颜色，只留/清气/满乾坤。2.吾：我；淡墨痕：淡淡的墨痕；夸：称赞；满乾坤：弥漫在天地之间。诗句的意思：它不需要别人夸奖颜色美好，只要留下充满乾坤的清香之气。3.不要人夸好颜色,只留清气满乾坤。4.\"岁寒三友\"指的是：松、竹、梅；\"文房四宝\"指的是笔、墨、纸、砚。5.《梅花》：墙角数枝梅，凌寒独自开。遥知不是雪，为有暗香来。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901254.html",
+      "site": "教习网",
+      "title": "统编版六年级语文上册-3.古诗三首-分层课时练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《墨梅》古诗阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.516300"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901398_001",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "一、给加点的字选择正确的读音，用“ √”表示。 风簸（bō  bǒ ） 茅檐（yán  zhān ） 莺歌燕舞(yīn  yīng  ) 花木成畦（qī  qí ） 九曲黄河（qǔ  qū  ） 水村山郭（gō  guō ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901398.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册语文-18.《古诗三首》同步练习（无答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查本单元古诗字音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:42.774533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901398_002",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "二、比一比，再组词。 涯（     ） 畦（       ） 掏（      ） 檐（     ） 崖（     ） 洼（      ） 淘（      ） 瞻 (      )",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901398.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册语文-18.《古诗三首》同步练习（无答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字组词，对应古诗生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:42.774533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901398_003",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "三、将下列诗句子补充完整，再解释词语和句子的意思。1、九曲黄河万里沙，                  。簸：                     这句话的意思：                                                2、                  ，水村山郭酒旗风。山郭：                 这句话的意思：                                                    3、一水护田将绿绕，                    。 排闼：                    这句话的意思：__________________________________",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901398.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册语文-18.《古诗三首》同步练习（无答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗默写与释义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:42.774533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901398_004",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "品读课文中三首古诗，完成练习。1.《浪淘沙(其一)》这首诗的作者是______ 代诗人________。《江南春》是 ______代著名诗人______ 的作品，他和 ______并称为\"小李杜\"。《书湖阴先生壁》这首诗的作者是 ______ 代诗人 ____。2.《浪淘沙(其一)》中的\"_____________________，_____________________\"写出了黄河的磅礴气势。3、《江南春》抓住 _____、 ________ 、 ________、_______、________、________、______ 等景物，描绘了一幅江南春天的绮丽画面。4、《书湖阴先生壁》中\"一水护田将绿绕，两山排闼送青\"一句中运用了 ________、_______的修辞手法，我还想到了其他古诗里也有这样的诗句：\"_____________________,_____________________。\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901398.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册语文-18.《古诗三首》同步练习（无答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗作者及诗句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:42.774533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.023057"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_14901398_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "根据情境，在横线上填入合适的诗句。大自然充满了诗情画意。在我的心中,春是\"草长莺飞二月天，                   。\"的烂漫,是\"随风潜入夜，                   \" 的柔和;夏是\"接天莲叶无穷碧，               \" 的壮美，是\"小荷才露尖尖角，                     \"的妙趣；秋是\"停车坐爱枫林晚，                 \"的热烈，是\"落霞与孤鹜齐飞,                   \"的和谐；冬是\"              ，独钓寒江雪\"的酒脱，是\"忽如一夜春风来，                   \"的纯洁。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14901398.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册语文-18.《古诗三首》同步练习（无答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "情境默写古诗句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:25:42.774533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.023057"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_003",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "像\"白霎霎的像一片雪\"中\"白霎霎\"这种结构的表示颜色的词语还有金灿灿、绿油油、　　等。我们可以这样说：金灿灿的像一束光、绿莹莹的像　　的像",
+    "options": null,
+    "answer": "红彤彤（蓝汪汪等）；略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首词语仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_006",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "第2句话运用了　　的修辞手法，这样写的好处是",
+    "options": null,
+    "answer": "比喻；生动形象地写出了农民对土地的渴望和拥有土地后的兴奋",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗修辞手法理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "诗人用",
+    "options": null,
+    "answer": "神奇；赞美",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗意象理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "连线题",
+    "stem": "把下列描写田园生活的诗句连起来。",
+    "options": [
+      "倾家事南亩",
+      "草盛豆苗稀",
+      "临风听暮蝉",
+      "竹溪村路板桥斜"
+    ],
+    "answer": "A-c、B-b、C-a、D-d、E-f、F-e",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗田园诗句连线",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "交流阅读古诗的技巧，将下列选项对号入座。(填序号)",
+    "options": [
+      "通过想象去体会诗歌的意境",
+      "多了解一些传统文化知识",
+      "借助注释理解"
+    ],
+    "answer": "(1)C (2)A (3)B",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗阅读方法梳理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "读到\"一水护田将绿绕，两山排闼送青来\"时，我的脑海中浮现出了　　(填四字词语)的景象。",
+    "options": null,
+    "answer": "青山绿水",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》意象默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_16190336_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "\"如今直上银河去，同到牵牛织女家。\"读这两句诗时，我可以联系《　　》的故事，以便更好地理解整首诗要表达的意思。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16190336.html",
+      "site": "教习网",
+      "title": "小学统编版（2024）三黑和土地优秀同步训练题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《浪淘沙》典故联系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:41.115019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_12173806_010",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "请写出两句关于夏天的古诗。",
+    "options": null,
+    "answer": "示例：接天莲叶无穷碧，映日荷花别样红。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12173806.html",
+      "site": "教习网",
+      "title": "小学语文人教部编版六年级上册第五单元单元综合与测试课后练习题 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "夏景古诗积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:54.565288"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_12173806_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文学常识",
+    "stem": "下面几个句子中，（   ）不属于谚语。",
+    "options": [
+      "六月六，看谷秀。",
+      "处暑不出头，割谷喂老牛。",
+      "三伏不热，五谷不结。",
+      "力尽不知热，但惜夏日长。"
+    ],
+    "answer": "3",
+    "explanation": "D项出自白居易《观刈麦》，是诗句，不是谚语。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12173806.html",
+      "site": "教习网",
+      "title": "小学语文人教部编版六年级上册第五单元单元综合与测试课后练习题 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗与谚语辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:54.565288"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 力尽不知热，但惜夏日长。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5zxxk_47473026_004",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗鉴赏",
+    "stem": "下列对古诗理解与分析有误的一项是",
+    "options": [
+      "诗歌中\"千里\"是虚指，作者用夸张的手法突出江南春景之盛，视野开阔。",
+      "诗歌中\"四百八十\"则是实指，这些错落有致的寺院更增添了春景之绚丽多姿。",
+      "《江南春》以虚实结合的手法，突出了江南细雨朦胧、春意盎然的特征，写得十分传神。",
+      "这首诗是写景抒怀之作，格调清新，充满诗情画意。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47473026.html",
+      "site": "学科网",
+      "title": "六年级语文期中模拟卷（上海专用，上册1~3单元）-学易金卷：2024-2025学年初中上学期期中模拟考试-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《江南春》古诗鉴赏分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:11.737152"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 诗歌中\"四百八十\"则是实指，这些错落有致的寺院更增添了春景之绚丽多姿。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5zxxk_47473026_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文学常识",
+    "stem": "本诗作者是（朝代）的文学家（名），这首诗的体裁是。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47473026.html",
+      "site": "学科网",
+      "title": "六年级语文期中模拟卷（上海专用，上册1~3单元）-学易金卷：2024-2025学年初中上学期期中模拟考试-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗作者朝代及体裁文学常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:11.737152"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5zxxk_50080720_004",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "小新发现民宿前有一条弯弯的河流环绕着葱绿的农田，还有两座青山送来一片青翠。暂住在此的他仿佛置身于《书湖阴先生壁》（其一）'，'一句描绘的美景中。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》名句理解填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.426312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_18480068_020",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合生活实际，谈谈你对\"未出土时先有节，及凌云处尚虚心\"这句话的理解。（5分）",
+    "options": null,
+    "answer": "这句话借竹子比喻做人的道理：做人首先要坚守气节、品行端正，身处困境时要像竹子一样坚韧不屈；取得成绩、身居高处时，也不能骄傲自满，要保持谦虚低调。在生活中也是如此，我们学习取得进步时不能沾沾自喜，遇到挫折时也不要轻言放弃，始终做到有骨气、懂谦逊。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首诗句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_25956295_021",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这首诗描写的是中华传统节日______节的情景，\"望乡台\"指登高回望故乡，你还知道节日的哪些习俗？请写出三个。",
+    "options": null,
+    "answer": "重阳节；赏菊饮菊花酒；佩戴茱萸；敬老爱老；吃重阳糕",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25956295.html",
+      "site": "21世纪教育网",
+      "title": "小学六年级语文（下）3《古诗三首》练习题（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首中传统节日与习俗考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:57:25.589922"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "千里莺啼绿映红，____。",
+    "options": null,
+    "answer": "水村山郭酒旗风",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "杜牧《江南春》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:26.555977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k5_21cnjy_22245406_010",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_008",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《江南春》中描写江南建筑的景致的诗句是：____，____。",
+    "options": null,
+    "answer": "南朝四百八十寺 多少楼台烟雨中",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《江南春》名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:26.555977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k5_21cnjy_22245406_011",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22245406_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《书湖阴先生壁》中通过对景致的描写，烘托了庭院主人的勤劳和高雅的诗句是：____，____。",
+    "options": null,
+    "answer": "茅檐长扫净无苔 花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "王安石《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:26.555977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k5_21cnjy_22245406_012",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_6048344_018",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "5.从你积累的古诗中任选两句描写农家田园生活的诗句，写下来。",
+    "options": null,
+    "answer": "示例：开轩面场圃，把酒话桑麻。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-6048344.html",
+      "site": "教习网",
+      "title": "2021年 统编版六年级语文期中精选卷（1）（附参考答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "田园诗积累，第六单元古诗",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:27.413335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_23110730_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "诗人笔下的春天是唯美的。春雨是令人喜悦的,\"随风潜人夜,____\"。春色会给人惊喜,\"春色满园关不住,____\"。春天是多么令人留恋,\"若有人知春去处,____\"。",
+    "options": null,
+    "answer": "润物细无声；一枝红杏出墙来；唤取归来同住",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "写春古诗名句综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_23110730_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "古诗词里也有一些精妙的人生哲理。\"梅须逊雪三分白,____\"是说人各有所长;\"____,柳暗花明又一村\"提醒我们要积极面对困境:\"欲穷千里目,____\"告诉我们登高才能望远,要不断向上进取:\"____,只缘身在此山中\"提示我们要看清事物的全貌或真相,必须超越狭小的范围,摆脱主观成见。",
+    "options": null,
+    "answer": "雪却输梅一段香；山重水复疑无路；更上一层楼；不识庐山真面目",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "哲理古诗名句综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18267567_002",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义选择",
+    "stem": "给加点字选择正确的解释,在序号上画\"√\"。(4分) 1.书湖阴先生壁 A.成本的著作 B.写,题写 C、字体 2.三番五次 A.遍、次 B.轮流 C.称外国的或外族的 3.和蔼可亲 A.云气 B.和气，和善 C、果实、树木繁茂的样子 4.与山川共存 A.存在，生存 B.储存，保存 C.寄存",
+    "options": null,
+    "answer": "1.B 2.A 3.B 4.A",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查古诗字义，指向古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18267567_008",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列诗句中没有运用对偶的修辞手法的一项是(   )。(3分) A.明月松间照,清泉石上流。 B.等闲识得东风面,万紫千红总是春。 C.绿树村边合,青山郭外斜。 D.无边落木萧萧下,不尽长江滚滚来。",
+    "options": [
+      "明月松间照,清泉石上流。",
+      "等闲识得东风面,万紫千红总是春。",
+      "绿树村边合,青山郭外斜。",
+      "无边落木萧萧下,不尽长江滚滚来。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗修辞，指向古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 等闲识得东风面,万紫千红总是春。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18267567_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用现代汉语写出下列句子的意思。一水护田将绿绕,两山排闼送青来。(6分)",
+    "options": null,
+    "answer": "一条溪流环抱着绿油油的农田,两座青山仿佛推开屋门把翠色送到了眼前。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗句翻译，指向古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18267567_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "\"千里莺啼绿映红，                。               ，                。\"这首诗的作者是     代诗人       ,这首诗表达了诗人对天                   。(16分)",
+    "options": null,
+    "answer": "水村山郭酒旗风。南朝四百八十寺,多少楼台烟雨中。唐 杜牧 江南春景的赞美之情",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗默写，指向《江南春》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18267567_017",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《浪淘沙》(其一)中描写黄河奔流的雄伟气势的句子是:\"               ,               。\"《书湖阴先生壁》中描写杨家庭院之景的句子是:\"                 ,               。\"",
+    "options": null,
+    "answer": "九曲黄河万里沙,浪淘风簸自天涯。茅檐长扫净无苔,花木成畦手自栽。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗默写，指向《浪淘沙》《书湖阴先生壁》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:01:02.086434"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_012",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "昨天我们去了爷爷家，看到了爷爷在自己后院儿种的菜田。让我想起了王安石写的诗句：\" ， 。\"",
+    "options": null,
+    "answer": "一水护田将绿绕，两山排闼送青来。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "王安石《书湖阴先生壁》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "上个星期我们一家去了黄河，黄河九曲连环，仿佛是从天上降下来的。让我想起了刘禹锡写的\" ， 。\"",
+    "options": null,
+    "answer": "九曲黄河万里沙，浪淘风簸自天涯",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "刘禹锡《浪淘沙》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_15109679_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": ",青山郭外斜。",
+    "options": null,
+    "answer": "绿树村边合",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "默写王安石《书湖阴先生壁》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:24.533425"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_19424068_003",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下面古诗与我国传统习俗无关的一项是（    ）",
+    "options": [
+      "《十五夜望月》",
+      "《寒食》",
+      "《九月九日忆山东兄弟》",
+      "《春夜喜雨》"
+    ],
+    "answer": "3",
+    "explanation": "《春夜喜雨》是赞美春雨的诗歌，与传统习俗无关。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查古诗与传统节日习俗关联",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 《春夜喜雨》",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_19424068_006",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列诗句都对应着不同的节日，根据节日的先后顺序排列这些诗句正确的一项是（    ）。①独在异乡为异客，每逢佳节倍思亲。②千门万户曈曈日，总把新桃换旧符。③今夜月明人尽望，不知秋思落谁家。④借问酒家何处有？牧童遥指杏花村。",
+    "options": [
+      "②③①④",
+      "②④③①",
+      "②①③④",
+      "②④①③"
+    ],
+    "answer": "1",
+    "explanation": "①重阳节（九月九日）；②春节（正月初一）；③中秋节（八月十五）；④清明节。按先后顺序为②④③①。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查古诗对应节日及排列",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ②④③①",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_19424068_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列诗文名句与作者作品搭配不正确的一项是（    ）",
+    "options": [
+      "\"今夜月明人尽望，不知秋思落谁家\"——王建《十五夜望月》",
+      "\"何当金络脑，快走踏清秋\"——王维《马诗》",
+      "\"千锤万凿出深山，烈火焚烧若等闲\"——于谦《石灰吟》",
+      "\"千里莺啼绿映红，水村山郭酒旗风\"——杜牧《江南春》"
+    ],
+    "answer": "1",
+    "explanation": "\"何当金络脑，快走踏清秋\"出自唐朝李贺的《马诗二十三首》（其五）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查古诗作者作品名句匹配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. \"何当金络脑，快走踏清秋\"——王维《马诗》",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_19424068_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "过年的时候吃鱼，这个习俗的寓意是（     ）。",
+    "options": [
+      "如鱼得水",
+      "年年有余",
+      "食物充足",
+      "游刃有余"
+    ],
+    "answer": "1",
+    "explanation": "鱼和\"余\"同音，过年吃鱼意味着年年有余。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查传统习俗寓意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 年年有余",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k1_21cnjy_19424068_014"
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_19424068_021",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "\"一水护田将绿绕，两山排闼送青来。\"出自古诗（    ）",
+    "options": [
+      "《春夜喜雨》",
+      "《早春呈水部张十八员外》",
+      "《书湖阴先生壁》",
+      "《泊船瓜洲》"
+    ],
+    "answer": "2",
+    "explanation": "该句出自宋代王安石的《书湖阴先生壁》。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/19424068.html",
+      "site": "21世纪教育网",
+      "title": "六年级语文（秋季）13、文化常识2（含答案）.docx - 试卷- 小学语文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查王安石《书湖阴先生壁》出处",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:13.397399"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 《书湖阴先生壁》",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子仿写",
+    "stem": "过去，这里风吹沙起，能一直埋到城头。(仿写夸张句)",
+    "options": null,
+    "answer": "教室里安静得掉根针都能听得到。",
+    "explanation": "运用夸张手法描写教室的安静。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首夸张句仿写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:03.441321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k3_21cnjy_22044145_006",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义理解",
+    "stem": "茅檐长扫净无苔\"句子中加点字\"长\"的正确解释是",
+    "options": [
+      "长度",
+      "做得特别好",
+      "长处",
+      "常常"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗《书湖阴先生壁》字义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:03.441321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 常常",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_22044145_018",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "九曲黄河万里沙，____。南朝四百八十寺，____。茅檐长扫净无苔，____。",
+    "options": null,
+    "answer": "浪淘风簸自天涯；多少楼台烟雨中；花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22044145.html",
+      "site": "21世纪教育网",
+      "title": "2024-2025学年六年级上册“第二次月考”语文科训练题(第1-6单元)（含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首默写填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:03.441321"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_17908149_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "阅读诗歌《书湖阴先生壁》，完成练习。茅檐长扫净无苔，_____。一水护田将绿绕，两山排闼送青来。1.将诗句补充完整。2.\"书\"是_____的意思。3.\"一水护田将绿绕\"一句运用了什么修辞手法 这样写有什么表达效果 4.这首诗表达了作者怎样的感情",
+    "options": null,
+    "answer": "1.花木成畦手自栽 2.写 3.拟人；化无情为有情，赋予水以灵性，生动写出田园风光的盎然生机 4.表现了诗人对田园生活的喜爱之情",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17908149.html",
+      "site": "21世纪教育网",
+      "title": "2023－2024学年六年级语文上册阶段测试三（5－6单元）（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗《书湖阴先生壁》理解与默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:27.435894"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_16427384_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗理解",
+    "stem": "下列哪一句不是描写梅花的（　　）",
+    "options": [
+      "数萼初含雪，孤标画本难。",
+      "海棠不惜胭脂色，独立蒙蒙细雨中。",
+      "万树寒无色，南枝独有花。"
+    ],
+    "answer": "1",
+    "explanation": "B项描写的是海棠，不是梅花。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗理解涉及咏物诗",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 海棠不惜胭脂色，独立蒙蒙细雨中。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13793690_008",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合诗句理解下列词语的意思。汹涌：__________________________________________________________深沉：__________________________________________________________",
+    "options": null,
+    "answer": "本义是指水猛烈地向上涌或向前翻滚。这里指作者的悲愤向上涌。　本义是指程度深。这里指对祖国的这片热土爱得深。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13793690.html",
+      "site": "教习网",
+      "title": "小学语文人教部编版六年级上册第六单元21* 三黑和土地一课一练-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首词语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:47:04.232954"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_12258094_001",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "绿树村边合，                     。",
+    "options": null,
+    "answer": "青山郭外斜",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《过故人庄》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_12258094_022",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "现在有的同学不好好学习，挑吃讲穿，不珍惜现在的幸福生活，请结合本诗给我们的启示，劝导一下那些同学。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-12258094.html",
+      "site": "教习网",
+      "title": "人教部编版六年级上册第六单元21* 三黑和土地精品当堂检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗《江南春》主题劝导珍惜生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:50:20.860395"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797918_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "根据课文内容填空。",
+    "options": null,
+    "answer": "（1）千里莺啼绿映红；（2）一水护田将绿绕；（3）自然资源有限、目前人类无法移居、珍惜资源，保护地球；（4）老人创造的这片绿洲、老人开辟山林、绿化家园的精神和造福后代的情怀",
+    "explanation": "根据平时的背诵积累以及对课文《只有一个地球》《青山不老》的理解填空。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797918.html",
+      "site": "教习网",
+      "title": "初中语文统编版五四学制六年级上册第六单元测试卷及答案-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗默写，第六单元古诗三首",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:08.604807"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_23110730_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "山下兰芽短浸溪，______ 。",
+    "options": null,
+    "answer": "松间沙路净无泥",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23110730",
+      "site": "21世纪教育网",
+      "title": "doc 23110730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗《浣溪沙》名句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:46.944756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_7897198_002",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "下列词语中，错别字最多的一组是（ ）。",
+    "options": [
+      "明朗 彩虹 半树银装 口干舌躁",
+      "豆腐 芭焦 提心掉胆 鸦鹊无声",
+      "仓穹 微笑 翠色欲流 心弛神往",
+      "摔跤 朦胧 孤芳自赏 一碧千里"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字形辨析含古诗易错字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 豆腐 芭焦 提心掉胆 鸦鹊无声",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k2_21cnjy_7897198_002"
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_010",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "昨天我们去了爷爷家，看到了爷爷在自己后院儿种的菜田。让我想起了王安石写的诗句：\" ， 。\"",
+    "options": null,
+    "answer": "一水护田将绿绕，两山排闼送青来。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "默写王安石《书湖阴先生壁》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:01.311244"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k5_21cnjy_18216651_012"
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_18216651_011",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "上个星期我们一家去了黄河，黄河九曲连环，仿佛是从天上降下来的。让我想起了刘禹锡写的\" ， 。\"",
+    "options": null,
+    "answer": "九曲黄河万里沙，浪淘风簸自天涯。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "默写刘禹锡《浪淘沙》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:01.311244"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k5_21cnjy_18216651_013"
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_26582207_011",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗阅读",
+    "stem": "下列对这首诗的理解和赏析，不正确的一项是（   ）",
+    "options": [
+      "诗人以\"雪\"作为素材，写法独特；作品通篇无\"雪\"字却尽写雪之神韵，成为咏雪诗中的佳作。",
+      "颔联运用比喻修辞，将雪景比作\"云母障\"",
+      "尾联侧重直接描写雪景，吟咏它冰清玉洁的魂魄，唯恐不能尽述，诗人的诗兴仿佛与月光一同升入澄澈的夜空。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗鉴赏修辞理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_26582207_012",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗阅读",
+    "stem": "首联中\"一色\"一词极具表现力，请结合诗句简要赏析。",
+    "options": null,
+    "answer": "一色\"意为变成、成为一种颜色的意思；精准捕捉了大雪过后万物失却本貌、被白雪包裹的视觉特征，写出了大雪笼罩整个天地的壮阔景象；表达了作者晨起之后见到大雪时的惊叹之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗词语赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_21cnjy_26582207_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗阅读",
+    "stem": "这首诗通过描写雪景，表达了诗人怎样的情感与志趣？请简要分析。",
+    "options": null,
+    "answer": "诗歌通过描绘大雪后天地澄澈、清丽灵动的雪景，表达了对冬日雪景极致纯净之美的喜爱与赞叹，以及追求高洁、超脱世俗的精神志趣。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗情感志趣把握",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_005",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断。（3分）\n1.《望天门山》描写了天门山一带秀丽的景色，表现了诗人对大自然的无限热爱之情。(　　)\n2.“两岸/青山/相/对出，孤帆/一片/日/边来。”这种停顿是正确的。(　　)\n3.《饮湖上初晴后雨》中的“湖”指的是西湖，“初晴后雨”是说刚开始是晴天，后来下雨了。(　　)",
+    "options": null,
+    "answer": "1.√ 2.× 3.√",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗三首内容理解判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_012",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "在括号里选择合适的词语打上“√”。（3分）",
+    "options": null,
+    "answer": "极目远望√　掠过√　明净√",
+    "explanation": "点拨：“极目远望”指尽目力之所及望向远方；“掠过”指从上面飞过；“明净”指看起来明亮而洁净。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗词语理解选择",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "理解句子填空。（4分）①西湖，就是镶嵌在这天堂里的一颗明珠。句中的“天堂”指的是______________，把________________比作“天堂里的一颗明珠”。（2分）",
+    "options": null,
+    "answer": "杭州　西湖",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗句子比喻理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "②平静的湖面，犹如一面硕大的银镜。“硕大”的近义词是________，这句话写出了西湖水面________、________的特点。（3分）",
+    "options": null,
+    "answer": "巨大　大　平静",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗句子理解与近义词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "根据文章的内容，判断下列说法的对错，对的打“√”，错的打“×”。（3分）\n①杭州的西湖素有“人间天堂”的美称。（　　　）\n②文章第2段主要介绍了山峦和湖面的美丽景色。（　　　）\n③白堤和苏堤都在孤山的东边，风景都很优美。（　　　）",
+    "options": null,
+    "answer": "①× ②√ ③×",
+    "explanation": "①应说杭州被称为“人间天堂”；③苏堤在孤山的西南方向。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗短文内容判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_13258646_016",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "本文描写了白天和__________的西湖，表达了作者________________________之情。（3分）",
+    "options": null,
+    "answer": "夜晚　对西湖的赞美",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-13258646.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗短文主旨概括",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:05:21.907842"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "____，浪淘风簸自天涯。",
+    "options": null,
+    "answer": "九曲黄河万里沙",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《浪淘沙》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_008",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "如今直上银河去，____。",
+    "options": null,
+    "answer": "同到牵牛织女家",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《浪淘沙》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_009",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "一水护田将绿绕，____。",
+    "options": null,
+    "answer": "两山排闼送青来",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_010",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "____，花木成畦手自栽。",
+    "options": null,
+    "answer": "茅檐长扫净无苔",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_011",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "茅檐长扫净无苔，____。",
+    "options": null,
+    "answer": "花木成畦手自栽",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书湖阴先生壁》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_012",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "____，同到牵牛织女家。",
+    "options": null,
+    "answer": "如今直上银河去",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《浪淘沙》默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_013",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗阅读理解",
+    "stem": "下列对这首诗的理解，不正确的一项是（ ）",
+    "options": [
+      "\"千里莺啼绿映红\"，诗人描绘了江南那花红柳绿的世界。到处莺歌燕舞，绿树红花相互映衬。",
+      "\"水村山郭酒旗风\"，诗人不仅写到了江南的村庄、山峦，还写到了迎风招展的酒旗。",
+      "南朝四百八十寺\"，\"四百八十\"是虚指，形容寺院很多。",
+      "\"多少楼台烟雨中\"，诗人通过描写烟雨中的楼台，表达了对江南美景的赞美之情。"
+    ],
+    "answer": "3",
+    "explanation": "\"多少楼台烟雨中\"，诗人通过描写烟雨中的楼台，不仅表达了对江南美景的赞美，还透露出对南朝覆灭的感慨以及对历史兴亡的思考，不只是单纯的赞美之情。故选 D。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《江南春》理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. \"多少楼台烟雨中\"，诗人通过描写烟雨中的楼台，表达了对江南美景的赞美之情。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_014",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗阅读理解",
+    "stem": "这首诗表达了诗人怎样的思想感情？",
+    "options": null,
+    "answer": "这首诗表达了诗人对江南美景的赞美之情，同时也透露出对南朝覆灭的感慨以及对历史兴亡的思考。",
+    "explanation": "结合诗歌内容，前两句描绘江南美景，后两句由眼前的寺庙联想到南朝的兴衰，从而分析出诗人既赞美江南美景，又有对历史兴亡的感慨。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗思想感情",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797919_015",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗炼字赏析",
+    "stem": "请从炼字的角度赏析\"千里莺啼绿映红\"中\"千里\"一词的妙处。",
+    "options": null,
+    "answer": "\"千里\"一词，从空间上拓展了诗歌的意境，描绘出江南大地的广阔和春天的生机勃勃，给人以宏大、开阔之感，同时也暗示了诗人视野的广阔和对江南美景的全面感受。",
+    "explanation": "从\"千里\"在空间上的作用，以及营造的意境和诗人的感受等方面进行赏析。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797919.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "炼字赏析《江南春》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:07:50.075650"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797934_006",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子理解",
+    "stem": "下列诗句与\"九曲黄河万里沙\"运用的修辞手法相同的一项是（ ）",
+    "options": [
+      "飞流直下三千尺",
+      "二月春风似剪刀",
+      "可怜九月初三夜，露似真珠月似弓",
+      "相看两不厌，只有敬亭山"
+    ],
+    "answer": "0",
+    "explanation": "\"九曲黄河万里沙\"运用了夸张的修辞手法，\"飞流直下三千尺\"也运用了夸张的修辞手法。B、C两项运用了比喻的修辞手法，D项运用了拟人的修辞手法。故选A。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797934.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:10:40.584977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 飞流直下三千尺",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797934_007",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《浪淘沙（其一）》中，表现黄河磅礴气势的诗句是\"__________，__________\"。",
+    "options": null,
+    "answer": "九曲黄河万里沙，浪淘风簸自天涯",
+    "explanation": "根据对古诗的背诵和理解，直接填写即可。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797934.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:10:40.584977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u6.k5_51jiaoxi_17797934_008",
+    "subject": "语文",
+    "kp_id": "u6.k5",
+    "unit_id": "u6",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "《江南春》中，描写江南春天美丽景色的诗句是\"__________，__________\"。",
+    "options": null,
+    "answer": "千里莺啼绿映红，水村山郭酒旗风",
+    "explanation": "依据古诗内容，准确填写诗句。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17797934.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:10:40.584977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

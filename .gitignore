@@ -1,0 +1,19 @@
+# 学生个人数据（不入库）
+学习档案/
+题库/*/错题集/
+文档/学习规划.md
+文档/学习状态.json
+
+# 网站运行时数据
+web/quiz-results/
+web/daily-logs/
+web/__pycache__/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

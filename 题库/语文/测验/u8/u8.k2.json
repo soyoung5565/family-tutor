@@ -1,0 +1,1960 @@
+[
+  {
+    "qid": "语文_u8.k2_zxxk_59487017_001",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这段话表达了\"我\"怎样的情感？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59487017.html",
+      "site": "学科网",
+      "title": "第八单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》为第一人称，体会作者复杂情感是核心考点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.266683"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k2_zxxk_59332293_002",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "下面句子运用了什么修辞手法？请写在括号里。\n（1）花墙边两株紫色的，如同印象派的画，线条模糊了，直向窗前的莹白渗过来。（）\n（2）在这境界里，连骏马和大牛有时候都静立不动，好像回味着草原的无限乐趣。（）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59332293.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷-2026-2027学年六年级上册语文统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两句话均出自鲁迅《好的故事》，考查修辞手法（比喻、拟人）。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.266683"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_23349542_015",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课文理解：(2)《好的故事》的作者是谁？他在梦境中看见什么？这表现出什么？",
+    "options": null,
+    "answer": "作者是鲁迅，他在梦境中看见远方水乡的美丽风景，但这风景刚一出现即消逝，表现出他的怅惘和失望，而课文中对梦境里那\"好的故事\"的描绘，则表现出作者对美好生活的向往。",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/23349542.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元归类复习课件(共19张PPT).pptx - 课件 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文内容主旨，《好的故事》核心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:14:22.510339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26545675_001",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "下列词语书写全部正确的一项是（　　）",
+    "options": [
+      "预告 烟草 烟雾 昏沉",
+      "凌乱 投郑 陡峭 急躁",
+      "解撒 隔和 退缩 徒然",
+      "浮动 搁置 橙碧 火焰"
+    ],
+    "answer": "0",
+    "explanation": "本题考查了学生辨析错别字的能力。根据平时的字词积累，结合具体语境，对每个语句中的字词进行分析完成即可。A正确；B.\"投郑\"应改为\"投掷\"；C.\"解撒\"应改为\"解散\"；\"隔和\"应改为\"隔阂\"；D.\"橙碧\"改为\"澄碧\"。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545675.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版语文六年级上册24.《好的故事》分层练习.zip ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》字词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:56.405863"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 预告 烟草 烟雾 昏沉",
+    "has_answer": true,
+    "duplicate_of": "语文_u6.k2_51jiaoxi_17797918_002"
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26545675_002",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "《好的故事》创作于中国现代文学早期文言文向白话文过渡的时期，我们可以借助注释和联系上下文来理解。下列加点词语的理解不正确的一项是(　　)",
+    "options": [
+      "灯火渐渐地缩小了，在预告石油的已经不多。(煤油)",
+      "大红花一朵朵全被拉长了，这时是泼剌奔迸的红锦带。(泼辣)",
+      "随着每一打桨，各各夹带了闪烁的日光，并水里的萍藻游鱼，一同荡漾。(划桨)(和)"
+    ],
+    "answer": "1",
+    "explanation": "A \"石油\"在文中指煤油，结合当时的语境和生活实际，这种解释是正确的；B \"泼刺\"在这里不是\"泼辣\"的意思，而是形容鱼在水里跳跃的声音，所以该选项对\"泼刺\"的理解是错误的；C\"打桨\"就是划桨的意思，\"并\"在这里是\"和\"的意思，结合语境是正确的。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545675.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版语文六年级上册24.《好的故事》分层练习.zip ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》词句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:56.405863"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.048107"
+    },
+    "answer_text": "B. 大红花一朵朵全被拉长了，这时是泼剌奔迸的红锦带。(泼辣)",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26545675_003",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容理解",
+    "stem": "《好的故事》中，这\"故事\"中的景物有（　　）。",
+    "options": [
+      "鞭爆、烟草、灯火",
+      "乌桕、新禾、野花、鸡、狗、丛树和枯树、茅屋、塔、伽蓝、农夫和村妇、村女、晒着的衣裳、和尚、蓑笠、天、云、竹、一丈红、大红花、班红花、小河……"
+    ],
+    "answer": "1",
+    "explanation": "结合课文中描写，《好的故事》中描述的故事中主要有乌桕、新禾、野花、鸡、狗、丛树和枯树、茅屋、塔、伽蓝、农夫和村妇、村女、晒着的衣裳、和尚、蓑笠、天、云、竹、一丈红、大红花、班红花、小河……等不同的景物，组成了一幅优美的画卷。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545675.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版语文六年级上册24.《好的故事》分层练习.zip ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》景物内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:56.405863"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 乌桕、新禾、野花、鸡、狗、丛树和枯树、茅屋、塔、伽蓝、农夫和村妇、村女、晒着的衣裳、和尚、蓑笠、天、云、竹、一丈红、大红花、班红花、小河……",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26545675_004",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子理解",
+    "stem": "下面是三位同学对这句话的理解，不准确的是（　　）。但我总记得见过这一篇好的故事，在昏沉的夜……。",
+    "options": [
+      "这句话在全文中起到了承上启下的作用。",
+      "这句话中的\"……\"表现了\"我\"还沉浸在那美丽、幽雅、有趣的故事中。",
+      "这句话中\"我总记得见过这一篇好的故事\"，可以看出\"好的故事\"让\"我\"久久不能忘怀，这正是\"我\"希望见到的情景。"
+    ],
+    "answer": "0",
+    "explanation": "句出自现代鲁迅先生的散文《好的故事》。\"但我总记得见过这一篇好的故事，在昏沉的夜…\"这句话的含义是：作为转折复句重点落在\"但\"字上，叫暗喻者，作者对这幅美丽的图画的追忆，珍惜，依恋的感情。A项中的\"承上启下\"是过渡句的作用，这样的句子一般只会出现在文章的中间。",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545675.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版语文六年级上册24.《好的故事》分层练习.zip ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》句子理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:56.405863"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 这句话在全文中起到了承上启下的作用。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26545675_005",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "回忆课文，理解文章主要内容。（1）从文中提取关键词句填空。鲁迅的梦境是____的、____的、____的。梦里，鲁迅看到____。（2）完成课文思维导图。(在方框里选填恰当的序号)①\"好的故事\"破灭 ②总写\"好的故事\"",
+    "options": null,
+    "answer": "（1）美丽；幽雅；有趣；许多美的人和美的事（2）④③②①",
+    "explanation": "《好的故事》是现代文学家鲁迅于1925年创作的一首散文诗。（1）鲁迅的梦境是美丽的、幽雅的、有趣的。梦里，鲁迅看到许多美的人和美的事。（2）《好的故事》中按以下顺序写的：进入梦中；②总写\"好的故事\"",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/26545675.html",
+      "site": "21世纪教育网",
+      "title": "【精品解析】部编版语文六年级上册24.《好的故事》分层练习.zip ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》内容与结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:56.405863"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24033448_004",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义理解",
+    "stem": "下列句子中加点词解释有误的一项是（ ）",
+    "options": [
+      "边缘都参差如夏云头，镶着日光，发出水银色焰。（大约；几乎）",
+      "他活着别人就不能活的人，他的下场可以看到。[人的结局（多指不好的）]",
+      "便是现在也没有知道——只是无端的觉得状如小狗而很凶猛。（没有来由；无缘无故）",
+      "正月里供祖像，供品很多，祭器很讲究，拜的人也很多，祭器也很要防偷去。（追求精美，要求高）"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合《好的故事》等理解词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 边缘都参差如夏云头，镶着日光，发出水银色焰。（大约；几乎）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24033448_011",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "你想，四周黑洞洞的，还不容易碰壁吗？将这句话改为陈述句：___________________________（2分）",
+    "options": null,
+    "answer": "你想，四周黑洞洞的，很容易碰壁。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》句子改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:34.928352"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26567734_008",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "无数优美灵动的画面拼凑成了奇妙梦幻的故事。（缩句）",
+    "options": null,
+    "answer": "画面拼凑成了故事。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567734.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级语文上册第八单元全新原创检测卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "缩句，语境关联《好的故事》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:49:32.820723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_001",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音规范书写本课生字词语：máng rán、dàng yàng、shùn jiān、zhòu rán、gēng duō、cuì ruò、yān cǎo、shuǐ zǎo、zhǎn dīng jié tiě",
+    "options": null,
+    "answer": "茫然、荡漾、瞬间、陡然、更多、脆弱、烟草、水藻、斩钉截铁",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》生字词书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_002",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "形近字辨析组词：漾（ ）样（ ） 瞬（ ）舜（ ） 脆（ ）桅（ ）",
+    "options": null,
+    "answer": "荡漾、样子、瞬间、尧舜、脆弱、桅杆",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》形近字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_003",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "多音字注音组词：似、载、行",
+    "options": null,
+    "answer": "似：sì（似乎）shì（似的）；载：zǎi（记载）zài（承载）；行：xíng（行走）háng（行列）",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》多音字练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_004",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "近反义词填写。近义词：陡然—（ ） 恍惚—（ ） 瘦削—（ ）；反义词：昏暗—（ ） 模糊—（ ） 破碎—（ ）",
+    "options": null,
+    "answer": "近义词：突然、迷蒙、消瘦；反义词：明亮、清晰、完整",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》词语近反义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_005",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "词语释义简答：（1）恍惚；（2）陡然；（3）玲珑剔透",
+    "options": null,
+    "answer": "（1）神志不清、精神迷离，文中指入梦前的朦胧状态。（2）突然、骤然，形容变化急促。（3）形容器物精致通透，也比喻诗文、画面精巧优美、纯净无瑕。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》词义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_006",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "通读全文，梳理课文结构脉络，补全内容：现实昏暗、沉闷孤寂 → ________ → ________ → 梦境破碎、坚守美好",
+    "options": null,
+    "answer": "入梦所见、美景纷呈；沉醉梦境、万般美好",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梳理《好的故事》现实与梦境结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_007",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "文中的“好的故事”并不是具体的故事，而是作者梦中________、________的美好画面。",
+    "options": null,
+    "answer": "优美灵动、纯净和谐",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解梦境画面的象征内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_008",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "用简洁语言概括课文主要内容。",
+    "options": null,
+    "answer": "课文以现实的沉闷昏暗开篇，描写作者在疲惫中入梦，梦中看见了满是花草、流水、倒影的纯净美好画面，宛如无数美好的故事，最后梦境破碎，作者依旧眷恋、坚守心中的美好与光明。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "概括《好的故事》主要内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_009",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "品读环境对比语句“灯火缩小，石油气味浓厚，烟雾弥漫。我闭了眼睛，向后一仰，靠在椅背上。”（1）这句话描写了________的环境，氛围沉闷压抑。（2）此处环境描写的作用是什么？",
+    "options": null,
+    "answer": "（1）夜晚室内沉闷昏暗、压抑冷清；（2）渲染压抑沉闷的氛围，与后文梦境的明亮美好形成鲜明对比，衬托作者对美好事物的向往，为下文入梦、描绘美景做铺垫。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "分析昏沉现实环境描写作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_010",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "赏析梦境优美语句“大红花一朵朵全被拉长了，这时是泼剌奔迸的红锦带。”（1）这句话运用了________的修辞手法。（2）赏析这句话的表达效果。",
+    "options": null,
+    "answer": "（1）比喻、夸张；（2）将拉长的红花比作红锦带，生动形象地写出水中花影灵动艳丽、舒展绚烂的样子，画面唯美诗意，表现梦境景色的极致美好，饱含作者的喜爱与沉醉之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "赏析梦境语句比喻修辞",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_011",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "课文大量描写河水、野花、浮云、倒影等优美景物，有什么作用？",
+    "options": null,
+    "answer": "串联起完整优美的梦境画面，营造纯净、温柔、灵动的诗意氛围；以美好的梦境景物，象征光明、希望与理想，反衬现实的沉闷黑暗，寄托作者对美好未来的执着追求。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解优美景物衬托理想作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_012",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么在沉闷的现实中，极力描绘如此美好、灵动的梦境？",
+    "options": null,
+    "answer": "当时的现实社会沉闷黑暗、压抑冰冷，让人心生迷茫疲惫。作者极力描绘纯净美好的梦境，是为了在黑暗现实中寄托对光明、美好、理想生活的向往，以此慰藉内心，坚守心中的希望。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "探究现实与梦境对比写法意图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_013",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合全文，说说文末“我真爱这一篇好的故事”一句蕴含了作者怎样的情感？",
+    "options": null,
+    "answer": "这句话直抒胸臆，表达作者对纯净美好事物的热爱与眷恋，即便梦境破碎、现实依旧灰暗，依然不愿放弃美好与希望，体现作者热爱光明、坚守理想、不甘沉沦的坚定初心。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会作者对美好生活的向往",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_014",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列对课文内容理解正确的一项是（ ）",
+    "options": [
+      "课文全程描写美好梦境，没有现实场景",
+      "梦境纯净美好，象征着作者向往的光明与理想",
+      "作者因梦境破碎，内心彻底绝望、消极沉沦",
+      "本文语言直白通俗，没有诗意和画面感"
+    ],
+    "answer": "1",
+    "explanation": "A课文分为现实、梦境、梦醒三部分；C作者依旧坚守美好，并未绝望沉沦；D本文语言凝练优美、诗意浓郁、画面感极强。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "整体理解课文内容与象征",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "answer_text": "B. 梦境纯净美好，象征着作者向往的光明与理想",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_015",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "仿写句子（运用修辞，营造诗意画面）。例句：河边的野花随风摇曳，水中的倒影灵动舒展。仿写：天边的流云________，清澈的水波________。",
+    "options": null,
+    "answer": "示例：天边的流云缓缓舒展，清澈的水波轻轻荡漾。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "仿写课文诗意景物句式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_016",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "小练笔：借鉴课文诗意写法，描写一处优美的景物画面，营造静谧美好的氛围（80字左右）。",
+    "options": null,
+    "answer": "示例：晚风轻轻拂过湖面，落日余晖洒在水面，波光粼粼。岸边的草木静静伫立，光影温柔朦胧，世间万物温柔静谧，褪去了喧嚣，只剩澄澈美好的景致，让人心生安宁。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "借鉴课文写法写景小练笔",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26193415_017",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "生活中难免有沉闷失意的时刻，请结合课文谈谈：我们该如何守住心中的“好的故事”？",
+    "options": null,
+    "answer": "示例：心中的“好的故事”就是我们的理想、希望与美好初心。生活遇到困境、失意迷茫时，我们要心怀热爱、坚守理想，善于发现生活中的美好，保持积极向上的心态，不被困境打倒，始终怀揣希望、奔赴美好，用初心与热爱守护自己的“美好梦境”。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26193415",
+      "site": "21世纪教育网",
+      "title": "第24课《好的故事》学习任务单（含答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "联系生活谈坚守美好理想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:35.262343"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_7463209_003",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "填一填。(1)把下列词语补充完整：一声( )( )、从容( )( )、( )( )起敬、情( )自( )、若有( )( )、( )( )见血。(2)在括号里填上合适的修饰词：( )的目光、( )的财产、( )的眷恋、( )的父爱、( )的神情、( )的床单。",
+    "options": null,
+    "answer": "(1)不吭 镇定 肃然 不禁 所思 一针 (2)示例：惊异 唯一 无限 深沉 惊疑 崭新",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7463209.html",
+      "site": "21世纪教育网",
+      "title": "2020部编版五下第四单元检测卷含答案.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语搭配考查本单元人物描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:04.966804"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_22245406_018",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "为什么\"我\"登上月球最强烈的感受是对地球的爱更深了？",
+    "options": null,
+    "answer": "月球一片死寂，没有与地球相比肩的优点，由此与地球形成对比，表现了作者对地球的热爱。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/22245406.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册寒假作业（九）（有答案）.docx - 教案",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "寒假,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》主题感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:26.555977"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26567508_008",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "无数美的人和美的事，组成了幽静又绚烂的画面。（缩句）",
+    "options": null,
+    "answer": "人和事组成了画面。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26567508.html",
+      "site": "21世纪教育网",
+      "title": "2026六年级语文上册第八单元全新综合测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》句段缩句练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:14.487335"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_15109679_010",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "文中破折号的作用是(　　)。",
+    "options": [
+      "解释说明",
+      "声音的延长",
+      "语气的转折",
+      "语意的转变"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "破折号用法，《好的故事》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 解释说明",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24126519_006",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列句子修辞手法判断不正确的一项是",
+    "options": [
+      "这么冷的天，那个拉车的怎么能光着脚拉着车在路上跑呢？(反问)",
+      "我真爱这一篇好的故事，趁碎影还在，我要追回他，完成他，留下他。(排比)",
+      "边缘都参差如夏云头，镶着日光，发出水银色焰。(比喻)",
+      "有的人活着，他已经死了；有的人死了，他还活着。(对偶)"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》修辞辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:59.495805"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 有的人活着，他已经死了；有的人死了，他还活着。(对偶)",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_23110730_001",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "洗手的时候,____;吃饭的时候,____;默默时,便从______ ____。",
+    "options": null,
+    "answer": "日子从水盆里过去；日子从饭碗里过去；凝然的双眼前过去",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选自鲁迅《好的故事》课文原句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24909242_025",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文可以概括为　，从中可知“好的故事”是一个　。",
+    "options": null,
+    "answer": "“我”进入梦境；美梦",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》主旨理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24909242_026",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中画“横线”的句子使用了　的修辞手法，作用是　。",
+    "options": null,
+    "answer": "比喻；将美的人和事比作云锦、奔星，突出了其带来的美的感受，形象地展示了梦境的美好",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24909242_031",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读选文，找出实写的句子和虚写的句子。这样实写和虚写结合有什么好处？",
+    "options": null,
+    "answer": "皮鞋匠静静地听着。皮鞋匠看看妹妹，……照着她睁得大大的眼睛。他好像面对着大海，……一个连一个朝着岸边涌过来……她仿佛也看到了，……波涛汹涌的大海。选文采用虚实结合的手法，将《月光曲》的美妙表现得淋漓尽致，令人产生了丰富的想象，同时也表现了贝多芬琴技的高超。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《好的故事》虚实结合手法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u7.k6_21cnjy_24909242_031"
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24033448_024",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章标题\"永远不能忘记的事情\"在文章中指的是（ ）（2分）",
+    "options": [
+      "鲁迅先生去世了。",
+      "在万国殡仪馆里发生的事。",
+      "鲁迅先生去世时的情景。",
+      "\"我\"的事情。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033448.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第八单元核心能力检测卷（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《好的故事》标题含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:42.532178"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 在万国殡仪馆里发生的事。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24126519_014",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "读了画波浪线的诗句，我想到了鲁迅有一本散文诗集叫　　　　　　　　　　。",
+    "options": null,
+    "answer": "《野草》",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅散文诗集《野草》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_24909242_027",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "用波浪线画出描写现实环境的语句。联系资料，说说这样写的目的是什么。",
+    "options": null,
+    "answer": "灯火渐渐地缩小了，……是昏沉的夜。交代时间、背景，营造一种昏沉、悲凉的氛围，暗含鲁迅对黑暗残酷的现实世界的批判，表达他孤独惆怅的情绪。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "好的故事虚实写法理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:02.180502"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u8.k1_21cnjy_24909242_027"
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26581174_024",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "用简洁的语言概括选段中写了藤野先生的哪两件事。",
+    "options": null,
+    "answer": "①藤野先生为\"我\"添改讲义；②藤野先生纠正\"我\"的解剖图。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "概括藤野先生相关事件",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26581174_025",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选段中\"我拿下来打开看时，很吃了一惊，同时也感到一种不安和感激\"，\"我\"为什么\"吃了一惊\"？又为什么\"不安和感激\"？",
+    "options": null,
+    "answer": "\"吃了一惊\"是因为\"我\"没想到藤野先生竟然会为一个中国留学生如此细致地添改讲义，这超出了\"我\"的预期。\"不安\"是因为\"我\"的讲义错误多、脱漏多，给先生添了麻烦；\"感激\"是因为藤野先生对\"我\"这样一个异国学生毫无民族偏见，给予了热情真诚的关心和帮助。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解鲁迅复杂心理及语句含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26581174_026",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "从人物描写方法的角度，赏析文中画线的句子。\"你看，你将这条血管移了一点位置了。——自然，这样一移，的确比较的好看些，然而解剖图不是美术，实物是那么样的，我们没法改换它。\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "（原题未给参考解析，需从人物描写角度如语言描写、神态描写等进行分析）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "从人物描写角度赏析句子",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26581174_027",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "从选段中可以看出藤野先生是一个怎样的人？请简要概括。",
+    "options": null,
+    "answer": "略",
+    "explanation": "（可答：治学严谨、认真负责、对学生严格要求、关心爱护学生、没有民族偏见等）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26581174",
+      "site": "21世纪教育网",
+      "title": "doc 26581174",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "概括藤野先生人物形象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:19.017582"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u8.k2_21cnjy_26582207_014",
+    "subject": "语文",
+    "kp_id": "u8.k2",
+    "unit_id": "u8",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "划线语句\"终于这流言消灭了\"，\"流言\"是指的什么？",
+    "options": null,
+    "answer": "指\"大略是说上年解剖学试验的题目，是藤野先生在讲义上做了记号，我预先知道的，所以能有这样的成绩。\"爱国青年们说\"我\"得了藤野先生漏泄出来的题目。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "鲁迅《好的故事》文意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

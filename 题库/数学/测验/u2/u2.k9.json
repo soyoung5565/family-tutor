@@ -1,0 +1,5298 @@
+[
+  {
+    "qid": "数学_u1.k1_szns_004",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "vision OCR 后 AI 简化判定（待人工复核）",
+    "type": "动手操作",
+    "stem": "（1）画一画。利用圆规和尺子，在方框里画出左边的'太极图'。（2）阴影部分的面积是多少？（圆的半径 r=2cm）",
+    "options": null,
+    "answer": "（2）6.28平方厘米",
+    "explanation": "阴影部分=大圆面积一半=πr²/2=3.14×4/2=6.28（平方厘米）",
+    "source": {
+      "url": "https://appsj.szxuexiao.com/html/6788.html",
+      "site": "深圳城市学校网",
+      "title": "深圳南山区2024-2025学年度第一学期期末教学质量监测 小学六年级数学试卷（A卷）",
+      "is_real_paper": true,
+      "is_shenzhen_local": true,
+      "original_version": "北师大版（参考）",
+      "fetched_at": "2026-09-12",
+      "extract_code": "b394"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "深圳南山区 2024-2025 期末真题，跨版本可用",
+      "also_covers": [
+        "u2.k3",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "assign-kp.py (muse)",
+      "reviewed_at": "2026-09-12T19:15:38",
+      "bypass_vote": true,
+      "bypass_reason": "今晚凌晨流程：vision 抓题 + KP 简化归属，待人工复核",
+      "kp_match_reason": "阴影旋转平移恰为大圆一半，用组合图形面积法求解"
+    },
+    "enabled": true,
+    "created_at": "2026-09-12",
+    "use_count": 0,
+    "duplicate_of": "数学_u1.k1_szns_004",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_002",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图两个圆同样大，则两个阴影部分的面积相比较（）。",
+    "options": [
+      "甲大",
+      "乙大",
+      "一样大",
+      "无法比较"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两等圆中组合阴影部分面积，需用面积转化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_003",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "从一张长是10cm，宽是8cm的长方形纸上裁下一个最大的圆。剩下部分的面积是（）",
+    "options": [
+      "50.24",
+      "1.5",
+      "17.2",
+      "29.76"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积：长方形面积减去最大圆的面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_004",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，长方形与圆的面积相等，圆的周长是37.68cm，阴影部分的面积是()cm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由周长求半径，算圆和长方形面积，再求阴影部分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_005",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下面图形的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积：分割为基本图形分别计算后相加减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.035955"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_006",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "求涂色部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k7",
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求涂色部分面积常用分割法求组合图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59610546_007",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "芬芬从一张长40厘米、宽30厘米的长方形纸上剪下一个最大的半圆。这个半圆的周长是多少厘米？剩下的面积是多少平方厘米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59610546.html",
+      "site": "学科网",
+      "title": "第2单元圆必考题检测卷(单元自测练习卷)-2026-2027学年数学六年级上册北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形剪最大半圆，求剩余面积属于组合图形分割计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59646189_008",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "过春节贴\"福\"是我国民间习俗。下面两幅贴在门上的\"福\"字中，圆的直径都是12cm，则第一幅图中正方形的面积是( )cm²，第二幅图中正方形的面积是( )cm²。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆与正方形组合：内接/外切时已知圆直径求正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59646189_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "观察如图两个图形中的涂色部分，它们的周长和面积的关系分别是( )。",
+    "options": [
+      "周长相等，面积不相等",
+      "周长和面积都相等",
+      "周长不相等，面积相等",
+      "周长和面积都不相等"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较正方形与半圆组合图形的周长和面积关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "answer_text": "A. 周长相等，面积不相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59646189_010",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算下面各图形中阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59646189.html",
+      "site": "学科网",
+      "title": "第二单元《圆》(单元自测练习卷)-2026-2027学年北师大版六年级上册数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6",
+        "u2.k7"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求阴影面积需分割组合图形，分别算再相加减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.035955"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59409420_011",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如下图：两个组合图形中，正方形的边长都是6厘米，求各图形中阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59409420.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测练习卷)-2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6",
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形与圆组合图形阴影面积，需分割或等积变换求解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_59568243_012",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "求下面图形阴影部分的面积。（正方形边长=4cm）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59568243.html",
+      "site": "学科网",
+      "title": "第二单元 圆(单元自测)2026-2027学年六年级上册数学北师大版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形中含圆（阴影），需分割为已学图形分别计算面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_29868636_013",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "根据下图中的信息，完成以下问题。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/29868636.html",
+      "site": "学科网",
+      "title": "【考点梳理+阶梯训练】 第三单元 观察物体 3.天安门广场-六年级上册数学知识梳理与易错点强化训练(北师大版,含答案) ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道/草地组合图形面积分割计算常见简答题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T19:43:23.793362"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.035955"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_47143456_014",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "下图中，这个图形的周长是（　　）分米，面积是（　　）平方分米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47143456.html",
+      "site": "学科网",
+      "title": "（几何直观+应用意识）第一单元 圆的周长-2024-2025学年六年级数学上册《知识解读+题型专练》（北师大版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求组合图形周长与面积，需分割为已学图形分别计算再相加减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_47143456_015",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "求如图阴影部分的周长和面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47143456.html",
+      "site": "学科网",
+      "title": "（几何直观+应用意识）第一单元 圆的周长-2024-2025学年六年级数学上册《知识解读+题型专练》（北师大版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求阴影部分周长和面积，需分割为已学图形分别计算再组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.035955"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_40664127_016",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "计算下面图形中阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664127.html",
+      "site": "学科网",
+      "title": "（必考计算题）圆的周长和面积（试题）小学数学六年级上册高频易错题专项训练（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k7",
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阴影部分面积多为组合图形，需分割为基本图形分别求面积再相加减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_40664127_017",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "求图中阴影部分的周长和面积．（单位：）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664127.html",
+      "site": "学科网",
+      "title": "（必考计算题）圆的周长和面积（试题）小学数学六年级上册高频易错题专项训练（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求阴影部分周长和面积，需分割为已学图形分别计算再组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_40664127_018",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "如图，已知厘米，求阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664127.html",
+      "site": "学科网",
+      "title": "（必考计算题）圆的周长和面积（试题）小学数学六年级上册高频易错题专项训练（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6",
+        "u2.k5"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "求阴影面积需分割组合图形（圆与长方形），分别计算再相减",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.035955"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_54041134_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "太极图是中华文化的象征，它展现了一种互相转化，相对统一的形式美，后来又发展成中华民族图案所特有的\"美\"的结构。你能根据图中的信息求出阴影部分的面积吗？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "太极图为组合图形，需利用对称性分析阴影部分与整体圆的关系",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_54041134_020",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "如下图是公园中的一个花瓣形状的门洞，这个门洞的四周是4个直径相等的半圆。这个门洞的面积是多少平方米？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "花瓣门洞由4个半圆组成，组合图形面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_54041134_021",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "垃圾分类有利于改善城乡环境，保障人体健康，维护生态安全。阳光小区为宣传垃圾分类，要在小区宣传栏内张贴宣传海报，设计的版面是由长方形和两个半圆组成（如图），这张海报的面积是多大？物业想给这张海报布置一圈灯带，一共需要多长灯带？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54041134.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上册（考点•题型•技巧）精讲与精练高分 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形+两个半圆组成组合图形求面积或周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_48705654_022",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，在一张边长为2厘米的正方形纸片中减去一个半圆，那么剩下部分的周长是______厘米，剩下部分的面积是______平方分米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k5",
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形剪去半圆求周长面积，属长方形+半圆组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_48705654_023",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "看图计算：求图中阴影部分的面积。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48705654.html",
+      "site": "学科网",
+      "title": "（提升卷）第五单元圆核心考点专项评价-2024-2025学年六年级数学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k7",
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阴影部分面积需分割或组合图形计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_39474022_024",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "下图是一个半圆，它的直径是8厘米，在这个半圆内画了2个同样大的半圆，求阴影部分的面积？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39474022.html",
+      "site": "学科网",
+      "title": "第三单元圆的周长与面积（单元测试）-六年级上册数学浙教版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由半圆组合图形，分割求面积差（大半圆减两个小半圆）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_34904029_025",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "如图，一张直径是4厘米的圆形纸片在一个边长为8厘米的正方形内任意移动，这张圆形纸片不可能接触到的部分的面积是()平方厘米。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/34904029.html",
+      "site": "学科网",
+      "title": "第一单元圆测试卷（单元测试）六年级上册数学北师大版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k8"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积：正方形-中心正方形扩展圆面积，用矩形+四个1/4圆求覆盖区",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_55623663_026",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "【易错题】如图，一张可折叠的圆桌，直径是1.2m，折叠后成了一张方桌。折叠部分的面积是()。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55623663.html",
+      "site": "学科网",
+      "title": "2025-2026学年六年级数学上学期期末常考易错模拟卷（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆内接正方形，组合图形面积=圆面积-正方形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_55545068_027",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算",
+    "stem": "正方形的面积是10cm²，求阴影部分的面积。（4分）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55545068.html",
+      "site": "学科网",
+      "title": "期末模拟测试卷（十五）（试题）-2025-2026学年六年级上册数学人 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内含圆，求阴影面积即正方形与圆面积之差，属组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_zxxk_46494069_028",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "如图，一个半圆中有一个直角三角形，直角三角形的顶点与圆心重合．求阴影部分的面积．",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/46494069.html",
+      "site": "学科网",
+      "title": "五 完美的图形——圆（单元测试）-2024-2025学年六年级上册数学青岛版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆与直角三角形组合图形面积的灵活计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_11088645_017",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个运动场如下图，求这个运动场的周长和面积。",
+    "options": null,
+    "answer": "400.96米；9615.36平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11088645.html",
+      "site": "21世纪教育网",
+      "title": "2022年人教版六年级上册数学应用题专题训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形加两半圆组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:34:46.905253"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26378141_031",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，长方形的长为，宽为．现以长方形的四个顶点为圆心，宽的一半为半径在四个角上分别画出四分之一圆．\n(1)用含，的代数式表示图中阴影部分的面积；\n(2)当，时，求图中阴影部分的面积．（取）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形用代数式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26378141_059",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，长方形的长为，宽为．现以长方形的四个顶点为圆心，宽的一半为半径在四个角上分别画出四分之一圆．(1)用含，的代数式表示图中阴影部分的面积；(2)当，时，求图中阴影部分的面积．（取）",
+    "options": null,
+    "answer": "(1) ；(2)",
+    "explanation": "（1）长方形的面积减去四个圆的面积即可求解，四个圆的面积的和是一个整圆的面积；（2）把，的值代入求解即可．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形加四分之一圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:46.835339"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k9_21cnjy_26378141_031",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_6646908_002",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "用一根长6.28分米的铁丝，先可以围成一个正方形，再围成一个圆，谁的面积大，大多少？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等周长正方形与圆面积比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k5_21cnjy_6646908_002",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_6646908_010",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "一个跑道如右图，求这个跑道的周长和面积（单位：m）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-23"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道组合图形周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-23T06:46:03.220019"
+    },
+    "enabled": true,
+    "created_at": "2026-09-23",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10533455_005",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "希望小学有一个运动场（如图），运动场全部铺塑胶，需铺塑胶多少平方米？小兵滑运动场跑了5圈，小兵跑了多少米？",
+    "options": null,
+    "answer": "7962.5平方米；1985米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形跑道面积与周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10533455_039",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "旧城改造，准备修建一个花坛，形状如图，它的边是4个直径相等的半圆。（1）如果给花坛的周围围上栏杆，需要多少米栏杆？（2）这个花坛的面积是多少平方米？",
+    "options": null,
+    "answer": "（1）37.68米（2）92.52平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10533455.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册《解决问题》专项练习题（word版，含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长面积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:25.409943"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16610351_011",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在周长是16厘米的正方形内画一个最大的圆，这个正方形和圆之间部分的面积是(        )平方厘米。",
+    "options": null,
+    "answer": "3.44",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形与圆组合面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16610351_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "图中三角形ABD是一个等腰直角三角形，弧AB为四分之一圆弧，AD的长为4厘米，BC的长为6厘米，阴影部分的面积是多少平方厘米？",
+    "options": null,
+    "answer": "16.56平方厘米",
+    "explanation": "将阴影分为①、②两部分，阴影①的面积=以4厘米为半径的圆的面积﹣三角形ABD的面积，阴影②的面积=三角形ABC的面积；¼×3.14×4²﹣4×4÷2+6×4÷2＝12.56﹣8+12＝4.56+12＝16.56（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610351.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形与三角形组合求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:00.017846"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_001",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "甲、乙两幅图中阴影部分相比较，下面的说法正确的是(  )。",
+    "options": [
+      "面积相等，周长相等",
+      "面积不相等，周长不相等",
+      "面积不相等，周长相等",
+      "面积相等，周长不相等"
+    ],
+    "answer": "3",
+    "explanation": "甲、乙两幅图中阴影部分的面积相等，周长不相等。甲中阴影部分的周长就是圆的周长，而乙中阴影部分的周长是圆的周长加上正方形边长的2倍，所以周长不相等。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较阴影面积与周长，组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 面积相等，周长不相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_003",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在两个一样大的正方形中分别画了两个图形(如图)，图形1和图形2的周长相比较，(  )。",
+    "options": [
+      "同样大",
+      "图1较大",
+      "图2较大",
+      "无法比较"
+    ],
+    "answer": "1",
+    "explanation": "假设正方形的边长是2r，图1的周长=4πr，图2的周长=2πr，所以图1的周长较大。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较两图形周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "MiniMax-M3"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.805715"
+    },
+    "answer_text": "B. 图1较大",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是由3个相同的小半圆形和1个大半圆形组成的图形，空白部分与阴影部分的面积比是(  )。",
+    "options": [
+      "1：2",
+      "1：4",
+      "1：3",
+      "无法确定"
+    ],
+    "answer": "0",
+    "explanation": "设小圆半径r，大圆半径3r。3个小半圆面积=3πr²/2，大半圆面积=9πr²/2，阴影面积=9πr²/2-3πr²/2=3πr²，空白:阴影=1:2。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 1：2",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_011",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图所示，在等腰直角三角形ABC中，AC=4厘米，BC是半圆形的直径，A为扇形ACD的圆心。阴影部分的面积是______平方厘米。",
+    "options": null,
+    "answer": "4.56",
+    "explanation": "阴影部分的面积=半圆的面积+扇形CAD的面积-三角形ACB的面积=3.14×2²÷2-4×4÷2+3.14×4²×45°/360°=6.28-8+6.28=4.56平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形与三角形组合求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_012",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，大等腰直角三角形的直角边长8厘米，则阴影部分的面积是______平方厘米。",
+    "options": null,
+    "answer": "18.24",
+    "explanation": "阴影部分面积=半径为4cm的圆的面积-对角线为8cm的正方形的面积=3.14×4²-8×8÷2=50.24-32=18.24平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等腰直角三角形内阴影面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_015",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "淘气要在一张长23厘米、宽10厘米的长方形纸上剪出两个最大的圆。这两个圆的周长一共是______厘米，这两个圆的面积一共是______平方厘米。",
+    "options": null,
+    "answer": "62.8；157",
+    "explanation": "最大圆直径=10厘米，周长=3.14×10×2=62.8厘米，半径=5厘米，面积=3.14×5²×2=157平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内两圆周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "\"外方内圆\"与\"外圆内方\"是我国古代建筑中常见的设计，也蕴涵了为人处事的朴素道理。如果图1中外面正方形的面积是64dm2，那么里面圆的面积是______dm2；如果图2中外圆的面积是28.26dm2，那么圆内正方形的面积是______dm2。",
+    "options": null,
+    "answer": "50.24；18",
+    "explanation": "图1：正方形边长=8dm，圆的直径=8dm，半径=4dm，面积=3.14×16=50.24dm²。图2：28.26÷3.14=9，r²=9，r=3dm，直径=6dm，正方形面积=6×6÷2=18dm²。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "外方内圆与外圆内方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_020",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，图中空白部分是一个正方形，已知圆的面积为314平方厘米，图中阴影部分的面积是______平方厘米。",
+    "options": null,
+    "answer": "114",
+    "explanation": "r²=314÷3.14=100，r=10cm，正方形对角线=20cm，面积=20×20÷2=200平方厘米，阴影面积=314-200=114平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆内接正方形，阴影面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_027",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "下图是由一个大半圆和两个完全相同的小半圆组成的，求阴影部分的周长和面积。",
+    "options": null,
+    "answer": "周长是25.12cm，面积是12.56cm²",
+    "explanation": "周长=大半圆周长+两个小半圆周长，面积=大半圆面积-两个小半圆面积。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长与面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_028",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "已知两个圆的半径都是10厘米，请求出下面阴影部分的周长和面积。",
+    "options": null,
+    "answer": "周长是102.8厘米，面积是86平方厘米",
+    "explanation": "直径=20厘米，周长=20×2+3.14×20=102.8厘米，面积=20²-3.14×10²=86平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆组合图形周长面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_033",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "下图是圆形环岛示意图，阴影部分为绿地，AB=8米，环岛中互相垂直的两条小路宽均为2米。现在要沿4块绿地的边沿分别围上栅栏，如果每米栅栏的造价为100元，围好这些栅栏至少需要多少钱？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长+栅栏造价",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17702696_036",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解决问题",
+    "stem": "知识公园新建了一块圆形草坪(如图)，草坪的半径是30m，在草坪的外面有一条宽2m的鹅卵石路。现在要在路的最外侧每隔3.14米栽一棵香樟树。一共要栽多少棵香樟树？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17702696.html",
+      "site": "教习网",
+      "title": "六年级上册数学期末复习高频易错培优卷（冀教版）第4单元圆的周长 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环+环形周长综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:30.809956"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16610467_024",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "把一个圆按如图所示的方式放在一个直角梯形上，求图中阴影部分的面积。（单位：厘米）",
+    "options": null,
+    "answer": "11.44平方厘米",
+    "explanation": "梯形的上底和高都等于圆的半径，阴影部分的面积＝梯形面积－圆的面积。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16610467.html",
+      "site": "教习网",
+      "title": "第五单元圆-人教版数学六年级上册期末单元练习试题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形与圆组合图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:30.369519"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.805715"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_12043731_026",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图,是直角梯形.其中=12厘米,=8厘米,=15厘米,且、四边形、的面积相等.(阴影部分)的面积是多少平方厘米?",
+    "options": null,
+    "answer": "30",
+    "explanation": "梯形面积108,分三等份各36平方厘米,计算得阴影部分30平方厘米.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积分割",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_12043731_052",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "直角三角形的两直角边的长都是整厘米数,面积为59.5平方厘米.每次取四个同样的三角形围成(不重叠,不剪裁)含有两个正方形图案的图形(如图),在围成的所有正方形图案中,最小的正方形的面积是_____平方厘米,最大的正方形的面积是_____平方厘米.",
+    "options": null,
+    "answer": "100, 14162",
+    "explanation": "直角三角形的两条直角边相乘等于59.5×2=119,因为119=1×119=7×17,所以,满足题意的直角三角形只有两种.用四个相同的三角形围成的含有两个正方形图案的图形中,左图阴影正方形面积最小,为(17-7)^2=100(平方厘米),右图大正方形面积最大,为119^2+1^2=14162(平方厘米).",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积，直角三角拼正方",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_12043731_054",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图所示,在正方形中,红色、绿色正方形的面积分别是27和12,且红、绿两个正方形有一个顶点重合.黄色正方形的一个顶点位于红色正方形两条对角线的交点,另一个顶点位于绿色正方形两条对角线的交点.求黄色正方形的面积.",
+    "options": null,
+    "answer": "18.75",
+    "explanation": "设红色正方形的边长为a,绿色正方形边长为b,正方形分成四块后,除红色和绿色正方形外,另外两个长方形的面积=a×b=27×12/3=108,则黄色正方形面积=108/4=18.75.",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12043731.html",
+      "site": "教习网",
+      "title": "小升初数学模拟训练题、毕业考题、民校联考题、奥数题等集合及答案-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形面积综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:28:32.363710"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_12168290_001",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把一个正方形边长扩大到原来的4倍，它的面积扩大到原来的（   ）倍。",
+    "options": [
+      "4",
+      "16",
+      "8"
+    ],
+    "answer": "1",
+    "explanation": "正方形面积=边长×边长，边长扩大4倍，面积扩大4×4=16倍。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12168290.html",
+      "site": "教习网",
+      "title": "小学数学浙教版六年级上册二 分数和百分数应用问题综合与测试同步练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形边长扩大倍数对应面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:58.393088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 16",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9zxxk_48256217_008",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "要写出完整的解答过程。公园里有一种供游人休息的凳子，形状如下图，这种凳子座面的面积是多少平方米？",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "略",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48256217.html",
+      "site": "学科网",
+      "title": "专项10：圆的面积应用题（八大考点）-2024-2025学年六年级数学上学期期末备考真题分类汇编（人教版）-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形凳座面面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:46.802239"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9zxxk_54956536_004",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图所示，甲的面积是15平方厘米，乙的面积是48平方厘米，阴影部分的面积是（）平方厘米。",
+    "options": [
+      "24",
+      "63",
+      "33",
+      "30"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形，利用面积差求阴影",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 33",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9zxxk_54956536_005",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，平行线间的三个图形，它们的面积相比，（）。",
+    "options": [
+      "平行四边形的面积大",
+      "三角形的面积大",
+      "梯形的面积大",
+      "面积都相等"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54956536.html",
+      "site": "学科网",
+      "title": "精品解析：2024-2025学年江苏省南通市海门区东洲小学等多校苏教 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底等高平行四边形与三角形面积比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:03.379727"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 面积都相等",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9zxxk_49341188_021",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "已知图中阴影部分的面积是90平方厘米，那么整个图形的面积是()平方厘米。",
+    "options": [
+      "300",
+      "350",
+      "400",
+      "450"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49341188.html",
+      "site": "学科网",
+      "title": "江苏省盐城市射阳县2023-2024学年六年级上学期数学期末试卷-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积，已知部分求整体",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:35:43.581971"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18711615_001",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，一个长方形中有2个一样大的圆，圆的半径是　　cm，长方形的宽是　　cm。",
+    "options": null,
+    "answer": "7；14",
+    "explanation": "由图形可知，长方形的长由3条圆的半径组成，已知长方形长为21cm，因此圆的半径为：21÷3=7 cm；长方形的宽与圆的直径相等，根据圆的直径=半径×2，将半径=7 cm，代入可得：7×2=14 cm。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形，长方形中含两个圆求宽",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18711615_008",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，已知AB=AC=30厘米，那么图中阴影部分的周长和面积分别是　　和　　。(π取3.14)",
+    "options": null,
+    "answer": "141.3厘米；256.5平方厘米",
+    "explanation": "周长：以AB为直径的圆的周长为94.2厘米，以AB为半径的1/4圆周长为47.1厘米，阴影部分总周长：94.2+47.1=141.3(厘米)。面积：3.14×30²÷4−30×30÷2=256.5(平方厘米)。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影部分周长和面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18711615_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图所示，200米赛跑的起点和终点都在直跑道上，中间的弯道是一个半圆。已知每条跑道宽1.22米，那么外道的起点在内道起点前面　　米。(π取3.14，结果精确到0.01米)",
+    "options": null,
+    "answer": "3.83",
+    "explanation": "两条跑道差在两条弧的半径不同，半径相差1.22，两条弧是半圆，根据弧长公式：1.22×3.14≈3.83（米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道问题，外道起点提前 π×d差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18711615_017",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "小龙在手工课上，在一张长12cm、宽6cm的长方形纸片上剪了一个最大的圆，这个圆的面积是（　　）cm²。",
+    "options": [
+      "72",
+      "18.84",
+      "50.24",
+      "28.26"
+    ],
+    "answer": "3",
+    "explanation": "圆的直径最大等于长方形的较短边（宽）6cm，半径=3cm，面积=3.14×3²=28.26（cm²）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内最大圆，半径=宽÷2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 28.26",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18711615_032",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "综合与实践。阅读与理解：课堂上，我们已经学习了在标准的400米跑道上如何确定起跑线，知道了跑道的长度由两条直的跑道和两个半圆跑道组成。如果跑一圈，相邻两条跑道的长度差就是后一跑道起跑线要前移的长度。如下图，在200米环形跑道的操场上开展200米比赛，又如何确定起跑线呢?①将上面表格补充完整。②第二跑道的起跑线需要前移　　米。③若道宽为a米，那么第二跑道的起跑线需要前移　　米。",
+    "options": null,
+    "answer": "①27.5；60.75×2+27.5π；②7.85或2.5π；③2πa",
+    "explanation": "①第2跑道直径=25+1.25×2=27.5米；跑道全长=60.75×2+27.5π米；②长度差=(60.75×2+27.5π)−(60.75×2+25π)=2.5π≈7.85米；③当跑道宽为a米时，直径差为2a米，前移距离=(25+2a)π−25π=2aπ米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18711615.html",
+      "site": "教习网",
+      "title": "2026-2027学年六年级数学上册第二单元圆法单元测试题北师大版 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环形跑道起跑线确定",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:45.528759"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10948107_007",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是学校操场示意图，求出跑道围成的面积。（单位：米）",
+    "options": null,
+    "answer": "5256平方米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道组合图形面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.467391"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10948107_029",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "在一次军训阅兵活动中，有一个正方形方阵，方阵的最外层有28人，那么这个方阵一共有多少人？",
+    "options": null,
+    "answer": "64人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10948107.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册数学总复习解答题综合训练（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "方阵问题求总数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:42.468392"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_r1.k1_21cnjy_10948107_029"
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_6646908_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "街道花园直径6m，在花园周围修了一条1m宽的小路，小路面积是多少？在小路边上涂了一周红油漆，红油漆长多少m？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/6646908.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级上册应用题练习（无答案）.zip - 试卷- 小学数学",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆环小路面积加圆周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:39.140347"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k7_21cnjy_6646908_019",
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10544096_043",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "淘气和笑笑练习竞走，淘气沿长为9米、宽为4米的长方形花坛走，笑笑沿直径为8米的圆形花坛走。他们的速度相同，谁先走完一周？",
+    "options": null,
+    "answer": "笑笑",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较长方形周长与圆形周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:31.890407"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "数学_u2.k5_21cnjy_10544096_043",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_5056829_008",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一张长60厘米，宽40厘米的长方形铁片中，最多能剪（     ）个直径是4厘米的圆。",
+    "options": null,
+    "answer": "150",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/5056829.html",
+      "site": "21世纪教育网",
+      "title": "小学六年级数学（上）《圆的周长》练习题（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形剪最大圆，组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:20.139375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_5056829_010",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一个长10厘米，宽5厘米的长方形里，画一个最大的圆，这个圆的半径是（      ）。",
+    "options": null,
+    "answer": "2.5厘米",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/5056829.html",
+      "site": "21世纪教育网",
+      "title": "小学六年级数学（上）《圆的周长》练习题（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内最大圆r=宽的一半",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:56:20.139375"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21611281_010",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一张长2米宽1米的长方形铁皮上，最多能剪出（    ）个半径为4分米的圆。",
+    "options": null,
+    "answer": "2",
+    "explanation": "2米＝20分米，1米＝10分米；20÷8≈2，10÷8≈1，共2×1＝2个。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21611281.html",
+      "site": "21世纪教育网",
+      "title": "北师大版六年级数学上册期中高频易错题综合检测卷二（含答案）.doc ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内剪圆，组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:00.462561"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18622429_021",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "在一个边长为6cm的正方形内画一个最大的圆，求圆与正方形之间部分的面积。（π取3.14）",
+    "options": null,
+    "answer": "7.74cm²",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内画最大圆，组合图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18622429_025",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "正方形边长8dm，从中切割出最大的圆。（π取3.14）（1）圆的面积是多少平方分米？（2）废料面积是多少平方分米？（3）如果切割4个同样大小的最大圆，废料面积是否变化？请说明理由。",
+    "options": null,
+    "answer": "（1）50.24dm²；（2）13.76dm²；（3）不变",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18622429.html",
+      "site": "教习网",
+      "title": "西师大版小学数学六上第二单元测试卷（含解析）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形切圆组合图形，类比推理",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:46:02.982607"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_13693005_012",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，学校操场两端是半圆形，中间是正方形，程老师绕操场跑了2圈，一共跑了(        )米｡",
+    "options": null,
+    "answer": "514",
+    "explanation": "",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-13693005.html",
+      "site": "教习网",
+      "title": "2022-2023学年六年级数学上册第五单元圆检测卷（基础卷二）（含答案）人教版（A3+A4卷）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "操场跑道组合图形周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:49:49.681061"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16269526_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "有一个直径为1m的圆形洞口，一个身高为1.45m的小女孩不能直身过去．如果这个洞口周长增加1.57m，请你计算小女孩能直身通过吗？",
+    "options": null,
+    "answer": "能",
+    "explanation": "（3.14×1+1.57）÷3.14＝1.5（m），1.5＞1.45，能。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16269526.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册5 圆2 圆的周长随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "周长增加量求新半径综合应用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:51:25.648564"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16107002_018",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "秋季运动会，海尔小学在400米运动场进行200米短跑决赛，小红奇怪地发现8名选手的起跑线不一样．已知最内圈的弯道半径是31.7米，每条跑道宽约1.2米，弯道部分为半圆．为了公平，相邻的两条跑道上的起跑线应相差多少米？（π=3.14）如果是在此运动场进行400米跑决赛，相邻的两条跑道上的起跑线应相差多少米？",
+    "options": null,
+    "answer": "相差3.768米",
+    "explanation": "3.14×1.2×2÷2=7.536÷2=3.768（米），答：相邻的两条跑道上的起跑线应相差3.768米。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16107002.html",
+      "site": "教习网",
+      "title": "第二单元圆基础练习 西师大版数学六年级上册-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道起跑线差=2π×道宽",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:52:06.826773"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17275102_019",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，阴影部分的面积占总面积的   ．",
+    "options": null,
+    "answer": "1/4",
+    "explanation": "观察图形可得，长方形是平均分成了8个小正方形，阴影部分的两个扇形分别向下旋转到涂色处，正组成了2个小正方形，阴影部分的面积占总面积的2÷8=1/4。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影部分占比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17275102_020",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，两个正方形的边长分别是6厘米、4厘米，阴影部分的面积是     平方厘米。",
+    "options": null,
+    "answer": "16.56",
+    "explanation": "×6×4＋×3.14×4²﹣×4×4＝12＋12.56﹣8＝16.56（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形与组合图形阴影面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17275102_027",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "如图，正方形边长为4厘米，求阴影部分的面积。",
+    "options": null,
+    "answer": "8平方厘米",
+    "explanation": "将图中圆①拼补到③，圆②拼补到④，则阴影部分面积是正方形面积的一半，4×4÷2=8（平方厘米）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17275102.html",
+      "site": "教习网",
+      "title": "数学六年级上册扇形同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内阴影是组合图形，用面积差求",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:55:36.663036"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17633205_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "把四张形状大小完全相同的小长方形卡片（如图①）不重叠地放在一个底面为长方形（长  为acm，宽为bcm）的盒子底部（如图②），盒子底面未被卡片覆盖的部分用阴影表示．则图②中两块阴影部分周长和是（    ）",
+    "options": [
+      "4acm",
+      "4bcm",
+      "2（a+b）cm",
+      "4（a-b）cm"
+    ],
+    "answer": "1",
+    "explanation": "设图①中小长方形的长为x，宽为y，由图②得：阴影部分的周长为：（cm）；故选B．",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17633205.html",
+      "site": "教习网",
+      "title": "河南省南阳市内乡县2026届数学七上期末达标测试试题含解析-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形阴影周长组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:38.737594"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 4bcm",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_14914156_006",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下图是一个轴对称图形，长方形的长和宽的比是7∶4，则小圆面积和大圆面积的比是（   ）。",
+    "options": [
+      "3∶4",
+      "3∶7",
+      "4∶7",
+      "9∶16"
+    ],
+    "answer": "3",
+    "explanation": "由分析得，小圆直径∶大圆直径＝3∶4，小圆面积∶大圆面积＝3²∶4²＝9∶16。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中两圆面积比组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 9∶16",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_14914156_016",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，长方形长为10厘米，宽为6厘米，一个直径为2厘米的圆在长方形内部沿长方形四条边滚动一周，它所扫过的面积为______平方厘米。",
+    "options": null,
+    "answer": "47.14",
+    "explanation": "所扫过的面积＝大长方形的面积－中间空白长方形的面积－四个角的空白部分，10×6－（10－2×2）×（6－2×2）－（2×2－3.14×1²）＝47.14（平方厘米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆滚动扫过面积组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_14914156_021",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "图形计算题",
+    "stem": "计算下面涂色部分的面积。（单位：米）",
+    "options": null,
+    "answer": "3.44平方米；15.44平方米",
+    "explanation": "左图面积：4×4－3.14×（4÷2）²＝3.44（平方米）；右图面积：（4＋10）×4÷2－3.14×4²×1/4＝15.44（平方米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形（分割求面积）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_14914156_026",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "如图，有两块半圆形的草坪，草坪中间是一条宽1米的长方形过道，每块草坪的周长是51.4米，草坪和过道的总面积是多少平方米？",
+    "options": null,
+    "answer": "334平方米",
+    "explanation": "设圆形的半径是r米，3.14r＋2r＝51.4，r＝10。草坪面积：3.14×10²＝314（平方米），过道面积：20×1＝20（平方米），一共334平方米。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-14914156.html",
+      "site": "教习网",
+      "title": "人教版六年级数学上册【单元AB卷】六年级上册数学分层训练B卷-第五单元 圆（单元测试） （人教版，含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "半圆+长方形组合面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:56:57.653205"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_17272508_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "从一个周长是8厘米的正方形纸里剪出一个最大的圆，这个圆的面积是(        )平方厘米，剩下部分的面积约占正方形总面积的(        )%。（百分号前保留一位小数）",
+    "options": null,
+    "answer": "3.14；21.5",
+    "explanation": "正方形边长=8÷4=2厘米，圆半径=1厘米，圆面积=3.14平方厘米，正方形面积=4平方厘米，剩下面积=(4-3.14)÷4×100%=21.5%。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17272508.html",
+      "site": "教习网",
+      "title": "2023-2024学年六年级数学上册——第六单元百分数（一）检测基础卷（含答案）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积+百分数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:58:02.858633"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16504365_020",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，是由边长为1的正六边形和六角星镶嵌而成的图案，则图中阴影部分的面积是（    ）",
+    "options": [
+      "√3",
+      "3√3/2",
+      "3√3",
+      "6√3"
+    ],
+    "answer": "2",
+    "explanation": "计算出1个正六边形的面积为3√3/2，利用矩形面积减去未涂色部分面积可得阴影部分面积。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正六边形与六角星组合面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 3√3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16504365_028",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，圆内接正八边形的边长为1，以正八边形的一边AB作正方形ABCD，将正方形ABCD绕点B顺时针旋转，使AB与正八边形的另一边重合，则正方形ABCD与正方形重叠部分的面积为（    ）",
+    "options": [
+      "1/2",
+      "1",
+      "√2/2",
+      "√2"
+    ],
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形旋转重叠面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16504365_030",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图所示，放置正六边形ABCDEF与正六边形EFGHIJ，若五边形EFCKJ的面积为5，则多边形ABCKJIHGF的面积是（    ）",
+    "options": [
+      "12",
+      "15",
+      "17",
+      "20"
+    ],
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合正六边形面积转化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16504365_036",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，由六块相同的含30°角的直角三角尺拼成一个大的正六边形，内部留下一个小的正六边形空隙，如果该直角三角尺的较短直角边的长是1分米，那么这个小的正六边形的面积是_____平方分米．",
+    "options": null,
+    "answer": "3√3",
+    "explanation": "由含30°角直角三角尺的较短直角边为1分米，斜边为2分米，较长直角边为√3分米，小正六边形边长为√3-1，面积为3√3。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "三角板拼正六边形求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16504365_046",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "已知矩形ABCD，AB＝6，AD＝8，将矩形ABCD绕点A顺时针旋转α（0°＜α＜360°），得到矩形AEFG，如图1，M是线段BF的中点，点O是AB的中点，连接OM．（1）将矩形AEFG绕点A顺时针旋转一周，求点M的路径长；（2）旋转过程中，当点M落在AD上时．①求△AMF的面积；② 如图2，连接BE，ED，求证：B，E，D共线；（3）如图3，连接MG，在将矩形AEFG绕点A顺时针旋转一周的过程中，直接写出MG的最大值_____________．",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16504365.html",
+      "site": "教习网",
+      "title": "初中数学24.3 正多边形和圆精品同步训练题-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "矩形旋转中点路径长与综合计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:29.122613"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16402366_066",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "洋洋和爷爷在体育场散步，他们下午7：00从体育场的同一地点出发，相背而行，他们都沿着体育场的边线走，爷爷每分钟走60米，洋洋走的速度是爷爷的5/6，体育场如下图。（1）体育场的周长有多少米？（2）5分钟后他们相遇了吗？",
+    "options": null,
+    "answer": "（1）714米；（2）没有",
+    "explanation": "（1）3.14×100＋200×2＝714（米）；（2）洋洋速度＝60×5/6＝50（米），714÷（60＋50）＝714/110＝6.49（分钟）＞5分钟，没有相遇。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长+相遇问题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.393385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16402366_069",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "假期期间，奇奇和爸爸两人开始在操场（如图）进行跑步锻炼，爸爸沿外圈跑，奇奇沿内圈跑。跑完一圈爸爸比奇奇多跑多少米？（π取3.14）",
+    "options": null,
+    "answer": "31.4米",
+    "explanation": "3.14×25－3.14×15＝3.14×10＝31.4（米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道内外圈周长差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.393385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16402366_070",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（多圈道问题）在学校200米的跑道中，每条跑道宽1.2米。由于有弯道，为了公平，外道和内道选手的起跑线不在同一地点。如：A点处是小明的起跑线，B点处是小强的起跑线（如图）。A，B两点的距离是多少米？",
+    "options": null,
+    "answer": "7.536米",
+    "explanation": "2×3.14×1.2×2＝7.536（米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道起跑线差=弯道差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.393385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16402366_071",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（多圈道问题）学校环形跑道的形状如下图，跑道由两条直的跑道和两个半圆形跑道组成，每条跑道宽1.25米。东东和田田从同一起点出发，分别沿着第一、第二跑道内侧跑一圈。田田要比东东多跑多少米？",
+    "options": null,
+    "answer": "7.85米",
+    "explanation": "3.14×（50＋1.25×2）－3.14×50＝3.14×2.5＝7.85（米）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道内外圈周长差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.393385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16402366_072",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "（多圈道问题）有一个200m环形跑道，它是由两个直道和两个半圆形跑道组成，直道长50m，每条跑道宽为1.25m（如下图）。（1）小军沿着第二道（由内向外数）跑一圈，他跑了多少米？（2）如果在这个跑道上进行200m赛跑，请问第3道的起跑线与第1道相差多少？（3）如果在这个跑道上进行100m赛跑，又该怎样确定起跑线的位置呢？",
+    "options": null,
+    "answer": "（1）207.895米；（2）15.7米；（3）以后每一道起跑线要比前一道提前3.925m",
+    "explanation": "（1）3.14×（31.85＋1.25×2）＋50×2＝207.859（m）；（2）1.25×2×3.14×2＝15.7（m）；（3）1.25×3.14＝3.925（m）。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16402366.html",
+      "site": "教习网",
+      "title": "（篇二）第五单元圆·周长篇【十八大考点】2024-2025学年六年级数学上册典型例题系列（原卷版+解析版）人教版-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道起跑线及周长综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:00:54.393385"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_16647628_022",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "请计算下列图形中阴影部分的面积。\n⑴　⑵",
+    "options": null,
+    "answer": "略",
+    "explanation": "图1阴影部分的面积就是正方形的面积减去圆的面积；图2阴影部分的面积就是梯形面积减去半圆面积。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16647628.html",
+      "site": "教习网",
+      "title": "小学数学人教版（2024）六年级上册整理和复习同步达标检测题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影，需分割圆与已学图形求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T06:01:31.261314"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26378141_034",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "（25-26七年级下·江苏无锡·期中）如图，两个正方形的边长分别为a和b．\n(1)求阴影部分的面积S（用含a和b的代数式表示）；\n(2)若，，求阴影部分面积S的值．",
+    "options": null,
+    "answer": "(1)；(2)",
+    "explanation": "（1）阴影部分的面积；（2）当，时代入计算．",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26378141.html",
+      "site": "21世纪教育网",
+      "title": "3.2 代数式的值（分层作业）-人教版七上数学全套课时同步备课讲义 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影面积代数式表示",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:45:01.738636"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_002",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图，长方形内有两个圆，其中长方形的周长是(        )厘米，每个圆的面积是(        )平方厘米。",
+    "options": null,
+    "answer": "24；12.56",
+    "explanation": "直径：8÷2＝4（厘米），半径：4÷2＝2（厘米），长方形的周长：（8＋4）×2＝24（厘米），每个圆的面积：3.14×2²＝12.56（平方厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内两圆的组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在宽为2厘米、长是10厘米的长方形内，最多能剪(        )个半径是1厘米的圆，剩余部分的面积是(        )平方厘米。",
+    "options": null,
+    "answer": "5；4.3",
+    "explanation": "1×2＝2（厘米），10÷2＝5（个），1×5＝5（个），2×10＝20（平方厘米），3.14×1²＝3.14（平方厘米），3.14×5＝15.7（平方厘米），20－15.7＝4.3（平方厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内剪圆的组合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_013",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "计算如图阴影部分面积，正确的列式是（    ）。",
+    "options": [
+      "62×3.14－()×3.14",
+      "×62×3.14－()²×3.14",
+      "×[62×3.14－()²×3.14]",
+      "×(6×2×3.14－6×3.14)"
+    ],
+    "answer": "2",
+    "explanation": "×[6²×3.14－()²×3.14]＝×27×3.14＝42.39（平方厘米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ×[62×3.14－()²×3.14]",
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k7_21cnjy_21030908_013"
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_022",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "用一张长6分米、宽3分米的长方形铁皮，剪出一个最大的半圆，剩下的铁皮的面积是多少平方分米？",
+    "options": null,
+    "answer": "3.87平方分米",
+    "explanation": "6×3－3.14×3²÷2＝18－14.13＝3.87（平方分米）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中剪最大半圆，组合图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_023",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "已知图中梯形的面积是54平方厘米，求图中阴影部分的面积。",
+    "options": null,
+    "answer": "梯形的高54×2÷(10+8)＝6（厘米），也即大圆的半径为6厘米，阴影面积详见解析",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21030908.html",
+      "site": "21世纪教育网",
+      "title": "1.6圆的面积（一）基础练习北师大版数学六年级上册（含解析）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "梯形与扇形组合，求阴影部分面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:17.748246"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_14663995_015",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用一块长12米、宽8米的长方形铁皮剪成半径是1．5米的小圆（不能剪拼），至多能做（ ）个。",
+    "options": [
+      "11个",
+      "8个",
+      "10个",
+      "13个"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14663995",
+      "site": "21世纪教育网",
+      "title": "doc 14663995",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内剪圆的组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:24:55.691291"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_10533455_027",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "圆的半径为5厘米，求图中红色部分的面积？",
+    "options": null,
+    "answer": "78.5平方厘米",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/10533455",
+      "site": "21世纪教育网",
+      "title": "doc 10533455",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:35:03.901655"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k6_21cnjy_10533455_027"
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_21030908_021",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "手工课上，小明用一张直径是20cm的圆形纸片剪出如下图所示的风车图形（图中空白部分），请你算算这张纸的使用率。（这里\"使用率\"是指实际用到的纸占所有的纸的百分比）",
+    "options": null,
+    "answer": "50%",
+    "explanation": "20÷2÷2＝5（厘米），3.14×5×5÷2＝78.5÷2＝39.25（平方厘米），39.25×4＝157（平方厘米），20÷2＝10（厘米），3.14×10×10＝314（平方厘米），157÷314×100%＝50%。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21030908",
+      "site": "21世纪教育网",
+      "title": "doc 21030908",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积,求使用率",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:57.505013"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_14115544_013",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "用一块长12米，宽7米的长方形铁皮剪半径是1.5米的圆，最多能剪（　　）个.",
+    "options": [
+      "11",
+      "8",
+      "10",
+      "13"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形内剪最大圆数量",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 8",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_14115544_022",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在标准400m跑道上，参加200m跑，每条跑道宽1.25m，相邻跑道中两人之间的起跑位置大约相差　     　m。（π取3.14）",
+    "options": null,
+    "answer": "3.925",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道起跑差=两同心圆周长之差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_14115544_039",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某赛车的左、右轮的距离是2m，转弯时，外侧的轮子比内侧的轮子要多行一些路。当该赛车在下面的赛道上跑一圈时，外轮比内轮多行多少米",
+    "options": null,
+    "answer": "12.56米",
+    "explanation": "3.14×（50+2×2）-3.14×50=3.14×4=12.56（米）。答：外轮比内轮多行12.56米。",
+    "source": {
+      "url": "https://zy.21cnjy.com/14115544",
+      "site": "21世纪教育网",
+      "title": "doc 14115544",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "赛车外内轮差=两圆周长差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:29.316059"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_010",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "一张长方形纸的长是18厘米，宽是12厘米，它最多可以剪下（    ）个半径是3厘米的圆纸片。",
+    "options": [
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": "0",
+    "explanation": "圆的直径6厘米，长方向18÷6=3个，宽方向12÷6=2个，共3×2=6个。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "长方形中剪圆的组合图形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 6",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_017",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "体育馆新修了一条长400米的塑胶跑道，弯道最内圈的半径是20米，每条跑道宽1米，一共有6条跑道，若进行400米赛跑，第五道运动员的起跑线应比第二道运动员的提前(      )米。",
+    "options": null,
+    "answer": "18.84",
+    "explanation": "相邻两条跑道全长相差2π×1=6.28（米）；第五道与第二道相差3个间隔；6.28×3=18.84（米）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跑道起跑线差即圆周差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_031",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "计算阴影部分的周长和面积。（单位：cm）",
+    "options": null,
+    "answer": "左图周长35.42cm，面积45.87cm²；右图周长25.12cm，面积32cm²",
+    "explanation": "左图：周长=3.14×6÷2+10×2+6=35.42（cm）；面积=10×6-3.14×3²÷2=45.87（cm²）。右图：周长=2×3.14×4=25.12（cm）；面积=8×8÷2=32（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长和面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_032",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "计算题",
+    "stem": "求下面阴影部分的面积。",
+    "options": null,
+    "answer": "(1)15.44cm²；(2)1570dm²",
+    "explanation": "(1)(4+10)×4÷2-3.14×4²÷4=15.44（cm²）；(2)3.14×(30²-20²)=1570（dm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形阴影部分面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_038",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "元旦期间，小珂一家人去吃火锅，发现火锅店特制的火锅锅具如图所示，它的外圆周长为314厘米，火锅区的周长为188.4厘米。(1)火锅区的面积为多少？(2)烧烤区的面积为多少？",
+    "options": null,
+    "answer": "(1)2826平方厘米；(2)4710平方厘米",
+    "explanation": "外圆半径=314÷(2×3.14)=50（cm）；火锅区半径=188.4÷(2×3.14)=30（cm）。(1)3.14×30²=2826（cm²）。(2)3.14×(50²-30²)=4710（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形分区域求面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_039",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "春节贴\"福\"字，是中国民间由来已久的风俗，\"福\"字指福气、福运，寄托了人们对幸福生活的向往，下图\"福\"字窗花中，圆的直径是30厘米，\"福\"字所在的圆与正方形之间的部分面积是多少？（正方形的边长等于圆的直径）",
+    "options": null,
+    "answer": "106.5平方厘米",
+    "explanation": "正方形面积=30²=900（cm²）；圆面积=3.14×15²=706.5（cm²）；剩余=900-706.5=193.5（cm²）。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形与圆面积之差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_26559779_051",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图，一个边长30厘米的正方形内有一个最大的圆，“福”字所在的圆与正方形之间的部分面积是多少平方厘米？",
+    "options": null,
+    "answer": "193.5平方厘米",
+    "explanation": "30×30＝900（平方厘米）；30÷2＝15（厘米）；3.14×15²＝706.5（平方厘米）；900－706.5＝193.5（平方厘米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/26559779",
+      "site": "21世纪教育网",
+      "title": "doc 26559779",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "正方形内减圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:06.346738"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_11969015_004",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "计算如图阴影部分面积，正确的列式是（    ）。",
+    "options": [
+      "62×3.14－（）×3.14",
+      "×62×3.14－（）2×3.14",
+      "×[62×3.14－（）2×3.14]",
+      "×（6×2×3.14－6×3.14）"
+    ],
+    "answer": "2",
+    "explanation": "阴影部分的面积＝较大半圆的面积－较小半圆的面积，已知半圆的面积S＝πr2÷2，代入数据计算即可。",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积列式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ×[62×3.14－（）2×3.14]",
+    "has_answer": true,
+    "duplicate_of": "数学_u2.k7_21cnjy_21030908_013"
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_11969015_018",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "一个圆的面积和一个正方形的面积相等，它们的周长也相等。（______）",
+    "options": null,
+    "answer": "×",
+    "explanation": "面积相等的圆和正方形，周长不相等。正方形的周长大。",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆与正方形面积周长比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_11969015_020",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "计算阴影部分面积。（单位：厘米）",
+    "options": null,
+    "answer": "3.14平方厘米；15.4平方厘米",
+    "explanation": "将阴影部分转化后：3.14×22×1/4＝3.14（平方厘米）；3.14×（8÷2）2÷2＋3.14×（4÷2）2÷2－8×4÷2＝31.4－16＝15.4（平方厘米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阴影组合图形面积计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_11969015_024",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "在一个长是20米的长方形空地里建成两个大小相同的圆形花坛，并在花坛以外的地方进行绿化。求绿化面积。",
+    "options": null,
+    "answer": "43平方米",
+    "explanation": "圆的半径：20÷2÷2＝5（米）；绿化面积：20×10－3.14×52×2＝200－157＝43（平方米）",
+    "source": {
+      "url": "https://zy.21cnjy.com/11969015",
+      "site": "21世纪教育网",
+      "title": "doc 11969015",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形：长方形面积-两圆面积",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:41:47.041935"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_23518744_009",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "在一个圆内挖去一个最大的正方形，圆的面积与正方形的面积比是( )，剩下部分的面积是圆的面积的( )。(圆周率用π表示)",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23518744",
+      "site": "21世纪教育网",
+      "title": "doc 23518744",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "圆内接正方形，组合图形面积比",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:26:36.941708"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u2.k9_21cnjy_23126114_007",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "一个圆柱形水桶，里面盛48升水，正好盛满。如果把一块与水桶等底等高的圆锥体完全没入水中，桶内还有　     　升水。",
+    "options": null,
+    "answer": "32",
+    "explanation": "48×2/3=32（升）。等底等高的圆柱的体积是圆锥体积的3倍，桶内还有水的体积=圆柱的容积×2/3。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23126114",
+      "site": "21世纪教育网",
+      "title": "doc 23126114",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "等底等高圆锥体积是圆柱1/3",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:51.300795"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u2.k9_51jiaoxi_18589531_025",
+    "subject": "数学",
+    "kp_id": "u2.k9",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "计算下面组合图形的面积（单位：厘米）：一个长方形长10厘米，宽6厘米，上面叠加一个三角形，三角形底10厘米，高4厘米。",
+    "options": null,
+    "answer": "长方形面积：10×6=60（平方厘米）；三角形面积：10×4÷2=20（平方厘米）；总面积：60+20=80（平方厘米）",
+    "explanation": "组合图形面积=长方形面积+三角形面积=60+20=80平方厘米。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18589531.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形面积，长方形加三角形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:04:38.059961"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

@@ -1,0 +1,4887 @@
+[
+  {
+    "qid": "英语_u5.k3_zxxk_47716626_001",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Let's _____________ and sleep in it. It's very _______________________.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47716626.html",
+      "site": "学科网",
+      "title": "Unit 4-6词汇完成句子(专项训练)-2024-2025学年沪教牛津版(深圳用)英语六年级上册 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用Let's...提出发明设想并用形容词描述其特征，属发明话题。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.364967"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_zxxk_39956726_002",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "I want _____ a postcard.",
+    "options": [
+      "buying",
+      "buys",
+      "to buy"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/39956726.html",
+      "site": "学科网",
+      "title": "U1-U2综合练习（试题）人教PEP版英语六年级上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查want后接to do不定式结构，u5.k3谈论想发明的东西需用此句型。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T02:47:20.765756"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.364967"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_zxxk_59600777_003",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "The students________________(制作机器人) for the science fair.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59600777.html",
+      "site": "学科网",
+      "title": "Unit 2 Getting together(单元自测练习卷)-2026-2027学年人教PEP版英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u5.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "学生制作机器人参加科创赛，属\"我想发明的东西\"话题，考查make的时态运用。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.364967"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_24033724_052",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We ________(发明) cars so that we can move the fastest.",
+    "options": null,
+    "answer": "invented",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24033724.html",
+      "site": "21世纪教育网",
+      "title": "Unit 3 Welcome to our school 单词练习（含答案）2025-2026学年译 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "invent 发明,描述发明物",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:05.115695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.148059"
+    },
+    "has_answer": true,
+    "duplicate_of": "英语_u5.k2_21cnjy_24033724_052"
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_041",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "按要求填空",
+    "stem": "In the big city the traffic is h______.",
+    "options": null,
+    "answer": "heavy",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述想发明解决交通问题的东西",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_042",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "按要求填空",
+    "stem": "The country life is a h______ life.",
+    "options": null,
+    "answer": "healthy",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论向往的乡村生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_043",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "按要求填空",
+    "stem": "The hotel is large and c______.",
+    "options": null,
+    "answer": "clean",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述城市生活的感受",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_044",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "按要求填空",
+    "stem": "I am a ______ to go outside at the weekend, because it is so crowded everywhere.",
+    "options": null,
+    "answer": "afraid",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "表达不愿出门的原因",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_045",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "按要求填空",
+    "stem": "Keep q______! The children are reading.",
+    "options": null,
+    "answer": "quite",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述安静场景",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_050",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词补全对话",
+    "stem": "A: What do you ______ on your farm? B: So many things. A: What are those farmers ______ ? B: They are cutting grass to ______ the cows and sheep. A: Do you have any ______ animals on the farm? B: We have some goats, pigs and geese. A: I see the geese ______ the river. They look lovely.",
+    "options": null,
+    "answer": "doing; doing; feed; other; on",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论农场发明喂动物的方法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_051",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词补全短文",
+    "stem": "Hello, I am Tony. I live ______ a big farm. I am ______ a healthy life. In the morning, I mike the cows to get fresh ______. I have breakfast at half ______ seven. I usually ______ in the field in the morning. In the afternoon, I do some ______ and have some fun. Then I feed all the ______ on the farm. I often ______ TV or ______ to music in the evening. I ______ a busy life. But I think it is a happy ______ too.",
+    "options": null,
+    "answer": "on; having; milk; past; work; gardening; animals; watch; listen; have; life",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述农场健康生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16435399_057",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读续写",
+    "stem": "Sam对在新城市的生活感到沮丧，时常怀念昔日乡村的快乐时光，他想找到能快速适应新环境的方式。请你结合短文中Sam的困扰（至少写出2个），根据广州的实际情况，给出有针对性的建议（至少2个）。要求不少于40个单词，表意正确，时态恰当，语句通顺，书写规范。已给出的句子不纳入计分。Let me tell you the ways of adapting to the new life in Guangzhou. You take a bus to school every day, and the bus is slow. You can go to school by underground.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16435399.html",
+      "site": "教习网",
+      "title": "Module 2(提升卷)六年级英语上册单元培优进阶训练（广州教科版用）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合实际给出适应建议",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:05.138723"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_001",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "My deskmate ________ a wonderful idea to recycle waste paper in our class.",
+    "options": [
+      "came up with",
+      "caught up with",
+      "got on with",
+      "kept up with"
+    ],
+    "answer": "0",
+    "explanation": "句意：我的同桌想出了一个在班里回收废纸的好主意。came up with想出、提出；caught up with赶上、追上；got on with与……相处；kept up with跟上、保持联系。根据后文\"a wonderful idea\"的语境提示，此处表达\"想出一个好主意\"的含义，应填came up with。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论发明创造，与想发明相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. came up with",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_003",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "We should consider the interests of the whole class ________.",
+    "options": [
+      "as a whole",
+      "in general",
+      "at last",
+      "at first"
+    ],
+    "answer": "0",
+    "explanation": "句意：我们应该把整个班级的利益作为一个整体来考虑。as a whole整体上；in general大体上；at last最后；at first起初。句子核心是强调\"班级的整体性\"，不能拆分、要当作统一整体看待。故选A。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "整体利益，与发明创造相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. as a whole",
+    "has_answer": true,
+    "duplicate_of": "英语_u4.k1_21cnjy_26504401_009"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_004",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "After class discussion, she ________ to the lab to finish her small experiment.",
+    "options": [
+      "went straight",
+      "looked straight",
+      "took straight",
+      "got straight"
+    ],
+    "answer": "0",
+    "explanation": "句意：课堂讨论结束后，她径直去实验室完成她的小实验。went straight径直去；looked straight直视；took straight错误搭配；got straight错误搭配。此处表示\"径直去往实验室\"，因此选A。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "实验场景，属于发明创造",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. went straight",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_006",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "He went ________ to the studio to record his creative design without stopping.",
+    "options": [
+      "straight",
+      "straightly",
+      "immediately",
+      "hardly"
+    ],
+    "answer": "0",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "记录创意设计，发明主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. straight",
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_001"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_007",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We need to keep a b________ (均衡的) diet and mood to stay healthy.",
+    "options": null,
+    "answer": "balanced",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "健康生活相关词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_002"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_008",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "It is ________ (fool) of you to waste so much time.",
+    "options": null,
+    "answer": "foolish",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "foolish词形变换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_003"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_009",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Teachers are always s________ (满意的) with students' positive innovation attempts.",
+    "options": null,
+    "answer": "satisfied",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "satisfied词形变换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_004"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_011",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "It is a b________ idea to reuse waste paper to make handcrafts.",
+    "options": null,
+    "answer": "brilliant",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "bright词形变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_006"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_012",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We should look at the problem ________ (作为一个整体).",
+    "options": null,
+    "answer": "as a whole",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "as a whole短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k3_21cnjy_26546730_007"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_013",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "________ (无知) is not an excuse for breaking the law.",
+    "options": null,
+    "answer": "Ignorance",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "ignorance词形变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_008"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_014",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "起初，他对这件事非常满意。At first, he was very ________ with it.",
+    "options": null,
+    "answer": "satisfied",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "satisfied短语搭配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k3_21cnjy_26546730_009"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_015",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "除了我的无知这个事实之外，我什么都不知道。I know nothing except the fact of my ________.",
+    "options": null,
+    "answer": "ignorance",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "ignorance名词形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k3_21cnjy_26546730_010"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_017",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "这种创新的解题思路实在太巧妙了！(How感叹句) ________ ________ the creative problem-solving method is!",
+    "options": null,
+    "answer": "How brilliant",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "How感叹句，发明主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "英语_u1.k4_21cnjy_26546730_012"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_020",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "A group of Grade Nine students once designed a ____ environmental device in their science class.",
+    "options": null,
+    "answer": "brilliant",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "环保装置设计，科技话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_026",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "The students ____ for perfect results and never gave up.",
+    "options": null,
+    "answer": "strove",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述追求完美结果的精神",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:07:28.510802"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_003",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "He went ________ to the studio to record his creative design without stopping.",
+    "options": [
+      "straight",
+      "straightly",
+      "immediately",
+      "hardly"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析，描述创作过程",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "英语_u1.k2_21cnjy_26546730_001",
+    "answer_text": "A. straight",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_006",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "My brother works ________, so he ________ has time for hobbies.",
+    "options": [
+      "hard; hardly",
+      "hardly; hard",
+      "hard; hard",
+      "hardly; hardly"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "hard/hardly副词辨析易混",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. hard; hardly",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k1_21cnjy_26504401_006"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_011",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He was not ________ with his empty draft and almost gave up.",
+    "options": [
+      "satisfied",
+      "strict",
+      "careful",
+      "patient"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词辨析be satisfied with",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. satisfied",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k4_21cnjy_26504401_011"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_012",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "One evening, Leo helped his mom ________ a basin with warm water to take a bath.",
+    "options": [
+      "cover",
+      "fill",
+      "mix",
+      "fix"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词搭配fill a basin with",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. fill",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_013",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "When he stepped into the basin, some water ________ out onto the floor.",
+    "options": [
+      "ran",
+      "took",
+      "put",
+      "got"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词搭配run out溢出",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ran",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_015",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "This small pain in life gave him a ________ new idea.",
+    "options": [
+      "foolish",
+      "fancy",
+      "brilliant",
+      "boring"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词辨析brilliant idea",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. brilliant",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_016",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He did not ________ believe he could make it perfectly at first.",
+    "options": [
+      "completely",
+      "suddenly",
+      "luckily",
+      "quietly"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析completely修饰动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. completely",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k4_21cnjy_26504401_016"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_017",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "To avoid being ________ by his own careless mistakes, he started to brainstorm every possible design.",
+    "options": [
+      "fooled",
+      "beaten",
+      "touched",
+      "praised"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "被动语态be fooled by mistakes",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. fooled",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k4_21cnjy_26504401_017"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_018",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He tried different materials and recorded how much water each material could ________ or let pass slowly.",
+    "options": [
+      "displace",
+      "save",
+      "hold",
+      "waste"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词辨析hold water盛水",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. hold",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_019",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "It looked simple but ________.",
+    "options": [
+      "useless",
+      "practical",
+      "difficult",
+      "expensive"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词辨析practical实用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. practical",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_020",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "On the competition day, Leo walked ________ to the stage and showed his invention.",
+    "options": [
+      "straight",
+      "slowly",
+      "shyly",
+      "nervous"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析walk straight",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:09:19.321635"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. straight",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26546730_016",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "They wanted to _____ that small creative ideas can change our daily life.",
+    "options": null,
+    "answer": "prove",
+    "explanation": "句意：他们想证明小小的创意可以改变我们的日常生活。空处位于wanted to之后，需填动词原形；结合后文\"small creative ideas can change our daily life\"可知，他们想\"证明\"这一点，prove意为\"证明\"，符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26546730.html",
+      "site": "21世纪教育网",
+      "title": "Unit 2 Great ideas 词汇专项训练（原卷版+解析版）沪教版（新教材 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "prove描述发明理念",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:48:14.647953"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u7.k4_21cnjy_26546730_021"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_014",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "he realized that great ideas often come when people ________ and relax, not when they force themselves to think.",
+    "options": [
+      "work",
+      "rest",
+      "argue",
+      "study"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查语境下rest放松一词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. rest",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_021",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Leo explained his design clearly and successfully ________ his ideas across to all the listeners.",
+    "options": [
+      "got",
+      "took",
+      "made",
+      "turned"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论发明设计，需描述想法传播",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. got",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_26504401_021"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_022",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "________, keeping an open mind and taking breaks properly can help us think outside the box.",
+    "options": [
+      "However",
+      "Thus",
+      "Also",
+      "Besides"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "讨论创新思维与发明创造",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. Thus",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_26504401_022"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_024",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "small and thoughtful creations can also ________ our daily life.",
+    "options": [
+      "improve",
+      "change",
+      "damage",
+      "control"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "小发明改善日常生活",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. improve",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_025",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Isn't that ________ amazing",
+    "options": [
+      "a",
+      "an",
+      "/",
+      "the"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "感叹句冠词考查，属基础语法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. /",
+    "has_answer": true,
+    "duplicate_of": "英语_u2.k2_21cnjy_26504401_025"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_061",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "If we keep ______ our creativity, we will find it ______ easy to get new ideas from small daily details.",
+    "options": null,
+    "answer": "developing",
+    "explanation": "keep doing结构，developing意为\"发展（创造力）\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论创造力培养，属发明创造话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_062",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "If we keep developing our creativity, we will find it ______ easy to get new ideas from small daily details.",
+    "options": null,
+    "answer": "really",
+    "explanation": "修饰形容词easy应用副词really，意为\"真正地\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论培养创造力，my inventions话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_063",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "These small creative thoughts can finally help us make great ______ and change our ______ step by step.",
+    "options": null,
+    "answer": "achievements",
+    "explanation": "make great achievements意为\"取得伟大成就\"，achievement应用复数形式。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论发明与改变世界，发明单元话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_064",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "These small creative thoughts can finally help us make great achievements and change our ______ step by step.",
+    "options": null,
+    "answer": "lives",
+    "explanation": "change our lives意为\"改变我们的生活\"，life应用复数形式lives。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明改变生活，发明单元语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_071",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "青少年时期是思维活跃、创意蓬勃的黄金阶段。在人工智能与科技飞速发展的今天，越来越多的青少年正用创造力和新想法改变着世界。假定你是李辉，你们学校正在举办以\"Young Minds,Big Ideas\"为主题的英语演讲比赛，请你用英文写一篇演讲稿，谈谈你对青少年培养创造力的看法，内容包括：(1)青少年培养创造力的方法；(2)拥有创造力对个人成长的意义；(3)呼吁同学们勇于创新，敢于尝试新想法。注意：(1)词数80~100，开头和结尾已给出，不计入总词数；(2)可适当增加细节，以使行文连贯。Hello, everyone! Today, I’d like to share my thoughts on how young minds can develop big ideas._____ Thank you for listening!",
+    "options": null,
+    "answer": "略",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "青少年创造力演讲，发明创造话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_072",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "It is necessary for us ____ good thinking habits from childhood.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": "1",
+    "explanation": "句意：从小培养良好的思维习惯对我们来说是必要的。固定句型It is+adj.+for sb.+to do sth.，当形容词表示事物性质时用介词for，necessary指事情必要，应填for。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论思维习惯与创造力培养",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. for",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_073",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "He was not satisfied ____ his empty draft and almost gave up.",
+    "options": [
+      "with",
+      "by",
+      "of",
+      "in"
+    ],
+    "answer": "0",
+    "explanation": "考查固定短语be satisfied with…，意为'对……感到满意'。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明创造故事语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. with",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_074",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "One night, Leo helped his mother ____ a basin with warm water for a bath.",
+    "options": [
+      "fill",
+      "cover",
+      "mix",
+      "fix"
+    ],
+    "answer": "1",
+    "explanation": "考查短语fill…with…，意为'用……装满……'。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明家故事中的动词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. cover",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_075",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "When he stepped into the basin, some water ____ out onto the floor.",
+    "options": [
+      "took",
+      "ran",
+      "put",
+      "got"
+    ],
+    "answer": "0",
+    "explanation": "run out意为'流出'，符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明故事中的动词短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. took",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_076",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Great ideas often come when people rest and ____ .",
+    "options": [
+      "work",
+      "relax",
+      "argue",
+      "study"
+    ],
+    "answer": "1",
+    "explanation": "and连接并列成分，和relax意义相近的应为rest'休息'。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "伟大创意来源，发明话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. relax",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_077",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Small pain points in life gave him a ____ new idea.",
+    "options": [
+      "foolish",
+      "fancy",
+      "brilliant",
+      "boring"
+    ],
+    "answer": "2",
+    "explanation": "brilliant'绝妙的'符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容创意，发明故事语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. brilliant",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_078",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "He did not ____ believe he could make it perfectly at first.",
+    "options": [
+      "completely",
+      "suddenly",
+      "luckily",
+      "quietly"
+    ],
+    "answer": "0",
+    "explanation": "completely'完全地'符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明家心理活动描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. completely",
+    "has_answer": true,
+    "duplicate_of": "英语_u4.k3_21cnjy_26546730_040"
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_079",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "In order to avoid being ____ by his own careless mistakes, he started brainstorming for every possible design.",
+    "options": [
+      "beaten",
+      "fooled",
+      "touched",
+      "praised"
+    ],
+    "answer": "1",
+    "explanation": "考查常用搭配be beaten by…，意为'被……打败'。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明过程中避免犯错",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. fooled",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_080",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "He tried different materials and recorded how much water each could ____ or let through slowly.",
+    "options": [
+      "displace",
+      "save",
+      "hold",
+      "waste"
+    ],
+    "answer": "2",
+    "explanation": "hold'容纳'符合语境。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "测试材料性能，发明过程描述",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. hold",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_082",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "On the day of the competition, Leo ____ walked to the stage to show his invention.",
+    "options": [
+      "straight",
+      "slowly",
+      "shyly",
+      "nervously"
+    ],
+    "answer": "0",
+    "explanation": "straight'径直地'修饰动词walk，体现坚定自信。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述展示发明时的方式副词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. straight",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_083",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Some students asked tricky questions, but Leo explained his design clearly and managed to get his ideas ____ to all the listeners successfully.",
+    "options": [
+      "took",
+      "made",
+      "got",
+      "turned"
+    ],
+    "answer": "0",
+    "explanation": "考查固定短语get across，意为'传达'。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "get ideas across 让别人理解短语搭配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. took",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_114",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "____ (52) amazing small invention!",
+    "options": null,
+    "answer": "What an",
+    "explanation": "后面是名词短语，amazing以元音音素开头，应填What an。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "感叹句，描述自己发明的东西",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26504401_133",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "假设你是李华，你们学校英文报正在举办以\"How Young Minds Can Develop Big Ideas\"为主题的征文活动。请你写一篇短文投稿，谈谈你自己的看法。内容包括：1. 培养创造力的重要性；2. 你的具体做法或打算；3. 呼吁同学们积极实践。",
+    "options": null,
+    "answer": "One possible version: Hello, everyone! Today, I'd like to share my thoughts on how young minds can develop big ideas.",
+    "explanation": "略",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26504401.html",
+      "site": "21世纪教育网",
+      "title": "（单元培优卷）Unit 2 Great ideas 单元素养达标培优卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述自己的发明想法与创造",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:49:55.922141"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_001",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We will have our ________(one) art show on March 26th this year.",
+    "options": null,
+    "answer": "first",
+    "explanation": "one的序数词为first",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "序数词first，描述未来发明展示时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_002",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I am working on three ________(painting) now.",
+    "options": null,
+    "answer": "paintings",
+    "explanation": "three后接名词复数",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "painting名词复数，描述发明相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_003",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I fall in love ________ art.",
+    "options": null,
+    "answer": "with",
+    "explanation": "固定搭配fall in love with",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "fall in love with 谈论艺术兴趣",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_005",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "A: ________ B: I usually get up at half past six.",
+    "options": [
+      "My favourite subject is maths.",
+      "Our maths teacher is tall.",
+      "Why do you get up so early?",
+      "What's your name?"
+    ],
+    "answer": "G",
+    "explanation": "根据下文回答起床时间，问几点起床",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "询问作息安排，回应起床时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_006",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "A: ________ B: Because I want to make breakfast for my family.",
+    "options": [
+      "My favourite subject is maths.",
+      "Our maths teacher is tall.",
+      "Why do you get up so early?",
+      "What's your name?"
+    ],
+    "answer": "2",
+    "explanation": "根据because回答，问为什么早起",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "询问原因，引出做事理由",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. Why do you get up so early?",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26471164_009",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "假如你是李明，你的英国笔友Alice给你发来邮件，想了解你的初一学习和生活。请你根据提示给Alice回复。要点提示：1.介绍你的日程安排，如起床、上课时间等；2.说一说你在学校有哪些科目，最喜欢的科目和原因；3.你喜欢的社团和原因；4.对初一学习和生活的感受。要求：1.短文应包括提示中所有的写作要点，条理清楚，行文连贯，可适当发挥；2.短文中不能出现真实的人名和地名；3.词数80左右。",
+    "options": null,
+    "answer": "Dear Alice, How's it going? Everything is OK with me. Let me tell you something about my school life. On school days, I get up at 6:30 every day. Then I get dressed and have a quick breakfast. School begins at 8:00. This term, I have a lot of subjects. Of all the subjects, I like maths best, because I think it's interesting and I am good with numbers. There are many clubs in our school, and my favourite is the singing club, because I like singing. Beautiful songs make me happy and relaxed. I think life is busy but interesting. Yours, Li Ming",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26471164",
+      "site": "21世纪教育网",
+      "title": "doc 26471164",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "综合介绍学习生活社团等",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:39:05.569281"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26226209_008",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "My sister is a big fan of literature. She has ____ more than 50 classic books.",
+    "options": [
+      "collected",
+      "sold",
+      "borrowed",
+      "lost"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26226209",
+      "site": "21世纪教育网",
+      "title": "doc 26226209",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "现在完成时描述发明创造",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:12.930730"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. collected",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26566391_056",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "The scientist wants ________ (fix) the machine and take it ________ (part).",
+    "options": null,
+    "answer": "to fix; apart",
+    "explanation": "①`want to do sth.`想要做某事；②固定搭配`take … apart`把……拆开。句意：这位科学家想要修好这台机器并把它拆开。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "want to do及take apart短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26566391_064",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "He wants to be a ________ (design) and ________ (design) beautiful houses.",
+    "options": null,
+    "answer": "designer; design",
+    "explanation": "①a后接职业名词designer设计师；②and并列，to后面共用动词原形design。句意：他想要成为一名设计师，设计漂亮的房子。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "design变designer名词，谈论想发明的东西",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26355151_038",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Emma likes writing ________ (奇幻的) stories.",
+    "options": null,
+    "answer": "fantastic",
+    "explanation": "修饰名词 stories 用形容词 fantastic。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单词拼写，形容词修饰",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_004",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "I ________ the new game app. Let's play it together.",
+    "options": [
+      "downloaded",
+      "have downloaded",
+      "will download",
+      "download"
+    ],
+    "answer": "1",
+    "explanation": "动作已发生并对现在有影响，用现在完成时。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "现在完成时描述已下载的动作",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. have downloaded",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_041",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：——你为什么喜欢网购？——因为它是方便的并且节省了我很多时间。",
+    "options": [
+      "awful",
+      "convenient",
+      "harmful",
+      "difficult"
+    ],
+    "answer": "1",
+    "explanation": "awful糟糕的；convenient方便的；harmful有害的；difficult困难的。根据答语中\"saves me a lot of time\"可知，网购节省时间，推测出它是方便的。应填convenient。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论发明的优点，convenient描述特性",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. convenient",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_042",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：我已经下载了这款新游戏应用。我们一起玩吧。",
+    "options": null,
+    "answer": "B",
+    "explanation": "句中后一句\"Let's play it together.\"说明\"下载游戏\"这个动作已经完成，且现在的结果是游戏可以直接玩了，现在完成时的结构是\"have/has+动词过去分词\"，用来表示过去发生的动作，对现在造成了明确的影响或结果。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述想使用的应用，属于发明话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_043",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：——你已经完成你的在线报告了吗？——是的，我已经把它交给我的老师了。",
+    "options": [
+      "yet; already",
+      "yet; yet",
+      "already; already",
+      "already; yet"
+    ],
+    "answer": "0",
+    "explanation": "yet常用于疑问句或否定句句末，意为\"还\"或\"已经\"；already常用于肯定句句中，意为\"已经\"。第一空位于疑问句句末，应用yet；第二空位于肯定句句中，应用already。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论在线报告，已完成的应用场景",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. yet; already",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_044",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：——你使用这块智能手表多长时间了？——大约两年了。",
+    "options": [
+      "How long",
+      "How often",
+      "How soon",
+      "How many"
+    ],
+    "answer": "0",
+    "explanation": "How often多久一次（询问频率）；How soon多久以后（询问将来时间）；How long多长时间（询问时间长度）；How many多少（询问可数名词数量）。根据答语\"For about two years.\"可知，问句询问时间长度，应用How long。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "询问使用智能手表多久，发明相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. How long",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_045",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：我们可以通过使用微信或Skype与世界各地的朋友保持联系。",
+    "options": [
+      "keep in touch with",
+      "get along with",
+      "catch up with",
+      "come up with"
+    ],
+    "answer": "0",
+    "explanation": "keep in touch with保持联系；get along with与……相处；catch up with赶上；come up with想出。根据句中提到使用微信或Skype等通讯工具，可知是通过这些工具与朋友保持联系，应填keep in touch with。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "用微信Skype联系，发明应用话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. keep in touch with",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_046",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：你可以把你的手机连接到Wi-Fi网络上来上网。",
+    "options": [
+      "connect",
+      "divide",
+      "turn",
+      "take"
+    ],
+    "answer": "0",
+    "explanation": "connect连接；divide分开；turn转动；take拿。根据\"to the Wi-Fi network to get online\"可知，为了上网需要将手机连接到网络，connect…to…意为\"把……连接到……\"，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "手机连WiFi，技术发明使用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. connect",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_047",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "句意：——你从哪里得到关于科学展览的最新消息的？——我今天早上在一个在线新闻平台上找到它了。",
+    "options": [
+      "searched",
+      "found",
+      "looked",
+      "watched"
+    ],
+    "answer": "1",
+    "explanation": "searched搜索；found找到；looked看；watched观看。根据问句\"Where did you get...\"可知是询问消息来源，答语应表示\"找到\"或\"获得\"消息。search常与for连用；look是不及物动词，后不能直接接宾语it；watch通常指观看电视、比赛等视频内容；find意为\"找到\"，符合语境。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "搜索科技新闻，科技与发明",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. found",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_053",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短文还原",
+    "stem": "The Internet has changed the world. People are able to connect and share information. But in fact, the Internet has advantages (优点) and disadvantages (缺点). Some of the advantages are truly wonderful.     46     It helps us get things done more quickly. For example, you can shop online without going to stores, pay bills with your phone, or find recipes (食谱) for cooking in minutes. It opens up the world to us. And if a friend lives far away, the Internet makes it easy to stay in touch.     47     You can learn about any topic—like science, history, or art—just by searching on your computer. 48     Some of the disadvantages can become real problems if we don't take care. Spending too much time online is harmful to people's health. It may even cause them to be less social with family and friends. Another problem is safety.     49     They might attack the web (攻击网站) or use the Internet to steal (盗取) others' personal information, even bank information. The Internet can be a useful tool.     50     Use the Internet reasonably and carefully and it can make your life more colourful.",
+    "options": [
+      "But don't let it take up all of your time.",
+      "However, every coin (硬币) has two sides.",
+      "You can even connect with people far away.",
+      "Some people use the Internet to do bad things."
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "互联网利弊，发明改变生活话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_054",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "A: Hi, Tom! Do you often use your smart phone? B: Yes, I do.             51             A: I use it to study online and communicate with friends. But my mom says using it too much is bad. B:             52            . Spending too much time on games or social media is really harmful. A:             53             B: I think we should keep a balance. We can use it for study, but also do more sports or read books offline. A: That sounds good.             54             B: Yes, I have created some digital paintings with my phone. They won a prize in our school competition. A: Wow, that's amazing!             55            . B: Thank you! Let's use our digital devices wisely together.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "智能手机使用，发明应用话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_059",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读",
+    "stem": "What does the success of DeepSeek-R1 show us",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "想发明的东西，发明话题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_21cnjy_26585513_060",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "任务型阅读",
+    "stem": "What do you think of DeepSeek? What do you want DeepSeek to help you do",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26585513",
+      "site": "21世纪教育网",
+      "title": "doc 26585513",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "评价DeepSeek，想发明帮助",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:54:13.676553"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_001",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "—What are you going to do in the school supermarket after class?—I am going to buy some white paper and a bottle of _______ (胶水)in it.",
+    "options": null,
+    "answer": "glue",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "谈论发明相关词汇胶水",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_002",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I think you will have to read the _______ (说明) carefully before you take the medicine.",
+    "options": null,
+    "answer": "instructions",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明使用说明词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_003",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "If you want to climb the rocks, you should take a long, strong _______ (绳子) with you.",
+    "options": null,
+    "answer": "rope",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "发明DIY相关词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_004",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "It's _______ (精确地) half past five.",
+    "options": null,
+    "answer": "exactly",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "描述发明时间的词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_005",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "We can _______ (build) the house by ourselves.",
+    "options": null,
+    "answer": "build",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "DIY做东西，用情态动词can",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_006",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "You should _______ (read)the instructions first.",
+    "options": null,
+    "answer": "read",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读说明书，should后接动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_007",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Shall we _______ (go)shopping with Millie today?",
+    "options": null,
+    "answer": "go",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "shall we句型，动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_008",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "DIY _______ (stand) for \"do-it-yourself\".",
+    "options": null,
+    "answer": "stands",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "DIY缩略语，主谓一致",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_009",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The boy is going to _______ (paint) his room and fix his _______ (break) desk.",
+    "options": null,
+    "answer": "paint; broken",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be going to+原形，broken用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_010",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "I'm going to ____ them something about our new school.",
+    "options": [
+      "say",
+      "tell",
+      "talk",
+      "speak"
+    ],
+    "answer": "1",
+    "explanation": "考查固定短语tell sb. sth.告诉某人某事。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "tell sb sth用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. tell",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_011",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "It's very cold outside. Why don't you ____ on your coat?",
+    "options": [
+      "puts",
+      "put",
+      "putting",
+      "to put"
+    ],
+    "answer": "1",
+    "explanation": "考查固定句型Why don't you do sth.?故答案为B。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "Why don't you+动词原形",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. put",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_012",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "I bought a book ____ a lot of pictures.",
+    "options": [
+      "has",
+      "with",
+      "and",
+      "about"
+    ],
+    "answer": "1",
+    "explanation": "句意:我买了一本带有很多图片的书。with为介词,意为带有,故答案为B。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "with表伴随有，带有图片",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. with",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_013",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "—Jim, can you ____ this word in Chinese?—Yes, I can ____ a little Chinese.",
+    "options": [
+      "speak, say",
+      "say, speak",
+      "tell, speak",
+      "talk, say"
+    ],
+    "answer": "1",
+    "explanation": "本题考查词义辨析。say侧重于讲话的内容,说某种语言应用speak。根据句意吉姆,你会用汉语说这个词吗?是的,我会说一点汉语。可知,故选B。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "say/speak辨析，say word/speak Chinese",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. say, speak",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_014",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "你想今天下午去动物园吗？Do you ______________ to the zoo this afternoon?",
+    "options": null,
+    "answer": "want to go",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "want to do句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_015",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "MSN实际上是什么？______________ is MSN ______________?",
+    "options": null,
+    "answer": "What; exactly",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "缩写MSN的含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_016",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "VIP代表重要的人。VIP ______________ \"Very Important Person\".",
+    "options": null,
+    "answer": "stands for",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "缩写VIP的完整形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_017",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "我们可以自己做床。We can ______________ our beds ______________.",
+    "options": null,
+    "answer": "build; ourselves",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "make...by ourselves结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_018",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "——你能帮助我吗？——没问题。—Can you help me?—______________.",
+    "options": null,
+    "answer": "No problem",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "没问题Sure/No problem",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_019",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "汉译英",
+    "stem": "着迷 ________________",
+    "options": null,
+    "answer": "be crazy about",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be keen on短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_020",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "汉译英",
+    "stem": "装饰房子 ________________",
+    "options": null,
+    "answer": "decorate the house",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "decorate the house短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_024",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "汉译英",
+    "stem": "把图片张贴到墙上 ________________",
+    "options": null,
+    "answer": "put up a picture on the wall",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "粘贴图片，描述设计/发明",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_026",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "汉译英",
+    "stem": "把墙粉刷成蓝色 ________________",
+    "options": null,
+    "answer": "paint the walls blue",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "paint 描述发明/设计",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_027",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "汉译英",
+    "stem": "把书放到书架上 ________________",
+    "options": null,
+    "answer": "put the books on the shelf",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "放置物品，描述设计",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_14037261_098",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "This glue doesn't ________ (粘住) very well.",
+    "options": null,
+    "answer": "stick",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14037261.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "stick粘住动词用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:17:50.040816"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16829394_034",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "—Hw can I becme a successful persn? —Well, yu shuld remember that success is never ______ by luck. (achieve)",
+    "options": null,
+    "answer": "achieved",
+    "explanation": "句意：你应该记住，成功不是靠运气实现的。achieve，达到，实现，行为动词。根据从句的主语是success，宾语是luck，可知句子要使用被动语态：be+过去分词；achieve的过去分词是achieved。故填achieved。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "被动语态achieved",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.129957"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u5.k3_51jiaoxi_16829394_037",
+    "subject": "英语",
+    "kp_id": "u5.k3",
+    "unit_id": "u5",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "—Space technlgies are widely used in different kinds f industries. —I agree. Space explratin benefits ______ a lt. (we)",
+    "options": null,
+    "answer": "us",
+    "explanation": "句意：太空探索让我们受益匪浅。we，我们，人称动词主格。benefits，使受益，行为动词。动词后的人称代词要用宾格；we的宾格形式us。故填us。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "代词we→us反身代词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.129957"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

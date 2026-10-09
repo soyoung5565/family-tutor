@@ -1,0 +1,4030 @@
+[
+  {
+    "qid": "语文_u1.k3_zxxk_59576529_001",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式变换",
+    "stem": "变换句式，句意不变：人生中的问题，不正是解不完的丁香结吗？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子直接出自课文《丁香结》，考查反问句变换为陈述句的句式转换能力。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.161620"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_54627442_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "朗读画线的句子时应该用()的语气。",
+    "options": [
+      "忧虑",
+      "果断",
+      "吃惊",
+      "同情"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/54627442.html",
+      "site": "学科网",
+      "title": "第四单元(单元测试)-2025-2026学年六年级上册语文统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结借花抒愁怨，画线句朗读语气契合'忧虑'。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-15T19:56:12.830944"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.161620"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_59627621_003",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "《丁香结》这篇课文作者先介绍丁香的生长环境，然后从形状、颜色、气味等三个方面来描写丁香的____，表达了作者从容、豁达、积极向上的人生态度。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59627621.html",
+      "site": "学科网",
+      "title": "2026-2027学年六年级语文上册自测练习卷(统编版)",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《丁香结》课文内容与结构",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "丁香花虽小，却开得繁盛，一簇簇缀在枝头，没有一丝dānbó（　　）的感觉。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查丁香结相关词语单薄，结合课文语境识记",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_005",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "给加点字选择正确读音：丁香花的花苞像一个个小钉（　　）子，可爱极了。",
+    "options": [
+      "dīng",
+      "dìng"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查多音字钉的读音，语境出自《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_006",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "丁香花生长在墙角，散发着淡淡的香气，营造出（　　）的氛围。",
+    "options": [
+      "幽雅",
+      "优雅",
+      "回味",
+      "品味"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选词填空语境为丁香花氛围，对应《丁香结》课文内容。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.934789"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_007",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《丁香结》中，作者认为丁香结象征着生活中的烦恼，所以对丁香结充满厌恶。（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查对《丁香结》中心思想的理解，作者是豁达感悟而非厌恶。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_008",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《花之歌》的作者是黎巴嫩诗人纪伯伦，文章以花的视角表达对生命的思考。（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《花之歌》与《丁香结》同单元同花主题，考查作者及主旨。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.161620"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_53998403_009",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "《丁香结》里，作者从丁香花的________、________、________方面描写丁香，最后由丁香结领悟到\"______________________________________________\"。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/53998403.html",
+      "site": "学科网",
+      "title": "第一单元测试题-2025-2026学年六年级语文上册统编版 ",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《丁香结》描写角度及主旨感悟。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.161620"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_59602692_010",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "比一比，再组词。伶( ) 玲( )",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602692.html",
+      "site": "学科网",
+      "title": "第八单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "伶(伶仃)与玲(玲珑)出自课文《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:27:43.231101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.161620"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_59332293_011",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "人生中的问题也是解不完的，不然，岂不太平淡无味了吗？（改为陈述句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59332293.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷-2026-2027学年六年级上册语文统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《丁香结》，考查反问句改陈述句的句式转换。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.934789"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_59332293_012",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "小小的花苞圆圆的，鼓鼓的，恰如衣襟上的盘花扣。（用加点的词语仿写句子）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59332293.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷-2026-2027学年六年级上册语文统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u1.k6"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "该句出自《丁香结》，考查叠词与比喻仿写。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_zxxk_59332293_013",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "在细雨迷蒙中，着了水滴的丁香格外妩媚。（缩句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59332293.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷-2026-2027学年六年级上册语文统编版-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《丁香结》，考查缩句这一基础句式训练。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T20:46:40.169872"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26289907_018",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中父亲赞赏的是____（纯朴/甜媚）的兰草。",
+    "options": null,
+    "answer": "纯朴",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "兰草主题，类似丁香结感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26289907_019",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中“兰气袭人”的“兰气”指什么？",
+    "options": null,
+    "answer": "表层指兰花香气；深层指兰草的品格、气质。野兰清爽脱俗，盆栽兰甜媚俗气。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "兰气指代，丁香结写法迁移",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26289907_020",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "家里栽培的兰虽外形好看，却沦为供人赏玩的盆景，失去山野兰的天然风骨，父亲为此心生不悦。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "兰草托物言志，写法感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_21576209_022",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "\"结,是解不完的;人生中的问题也是解不完的,不然,岂不太平淡无味了吗\" 下列对句子所传达的思想分析错误的一项是",
+    "options": [
+      "因为有\"结\"，人生才会多姿多彩。",
+      "人的一辈子有很多不顺心的事。",
+      "生活中会遇到太多难题，人生一片黑暗。",
+      "作者以特有的豁达和睿智，向世人传递着对待人生和生活的积极态度。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/21576209.html",
+      "site": "21世纪教育网",
+      "title": "统编版-2024-2025学年语文六年级上册期中复习必备：1 - 4 单元课文 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《丁香结》主旨句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:04.033839"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 生活中会遇到太多难题，人生一片黑暗。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_12173806_016",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "这段文字写的是________的情景。（A.雨前  B.雨中  C.雨后）（1分）",
+    "options": [
+      "雨前",
+      "雨中",
+      "雨后"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-12173806.html",
+      "site": "教习网",
+      "title": "小学语文人教部编版六年级上册第五单元单元综合与测试课后练习题 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结雨景段落理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:27:54.565288"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 雨后",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3zxxk_48783942_007",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列说法不正确的一项是",
+    "options": [
+      "《丁香结》是宗璞写的一篇散文,表达了作者的思乡之情。",
+      "《盼》以\"新雨衣\"为线索,以孩子的视角叙述事情经过。",
+      "《伯牙鼓琴》和《书戴嵩画牛》讲的都是与中国古代艺术家有关的故事。",
+      "《穷人》塑造了一个勤劳、善良、充满爱心的劳动妇女形象,彰显了人性之美。"
+    ],
+    "answer": "0",
+    "explanation": "《丁香结》表达的是作者对人生的思考和感悟,不只是思乡之情。",
+    "source": {
+      "url": "https://www.zxxk.com/soft/48783942.html",
+      "site": "学科网",
+      "title": "2024-2025学年六年级语文上学期期末备考真题分类汇编（湖北专版）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《丁香结》主题思想",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:58.512274"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 《丁香结》是宗璞写的一篇散文,表达了作者的思乡之情。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_005",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "写出一个描写人物心情的成语：____________",
+    "options": null,
+    "answer": "示例：心旷神怡",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结人物心情词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_010",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "丁香花开在窗前，香气清幽。（扩句，至少扩两处）",
+    "options": null,
+    "answer": "洁白的丁香静静开在窗前，散发着淡淡的清幽香气。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结句子扩写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_011",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "人生处处有不顺心的事，生活才更加精彩。（改为反问句）",
+    "options": null,
+    "answer": "人生处处有不顺心的事，生活怎能不更加精彩呢？",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结句式改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_016",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "写出下列词语的近义词。恍然——（  ） 愁怨——（  ）",
+    "options": null,
+    "answer": "突然、恍然  忧愁、幽怨",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结近义词积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_017",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么把丁香花苞叫作\"丁香结\"？用原文回答。",
+    "options": null,
+    "answer": "小小的花苞圆圆的、鼓鼓的，恰如衣襟上的盘花扣。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结课文内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_018",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文中画横线的句子运用了什么修辞手法？有什么作用？",
+    "options": null,
+    "answer": "反问；加强语气，强调人生因为有难题、有波折才不会平淡，点明文章主旨。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结修辞手法理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_019",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合课文，说说你对\"结，是解不完的\"这句话的理解。",
+    "options": null,
+    "answer": "人生就像丁香结，总会遇到各种各样的烦恼、困难与挫折，这些问题无法彻底消除。正是这些解不完的\"结\"，让人生有起伏、有滋味，让生活不再单调平淡，教会我们坦然面对生活中的不如意。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结主旨句深层理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:57.873893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_15109679_007",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "判断正误。正确的打\"√\",错误的打\"×\"。1、《丁香结》的课文题目运用了象征的修辞手法。(　　)2、《开国大典》中的场面描写采用了\"点面结合\"的写作方法。(　　)3、《宇宙生命之谜》告诉了我们要节约资源、保护地球的道理。(　　)4、《穷人》这篇课文主要讲述的是渔夫夫妇的生活是如何的艰辛和贫困。(　　)",
+    "options": null,
+    "answer": "1.√ 2.√ 3.× 4.×",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109679.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册期中练习卷（有答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "跨单元课文内容判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:33.879418"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_003",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "下列词语的书写完全正确的一组是(     )",
+    "options": [
+      "次序 愁怨 壮烈 居高临下",
+      "酒脱 混浊 屹立 恍然大悟",
+      "礼貌 朦胧 眺望 悬涯绝壁",
+      "平淡 屈服 攀登 心弛神往"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字形辨析含丁香结词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 次序 愁怨 壮烈 居高临下",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_018",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读下面的句子,联系上下文回答问题。(7分) (1)花朵儿一串挨着一串,一朵接着一朵,彼此推着挤着,好不活泼热闹!这句话用了什么修辞手法 表现了什么 (2分) (2)每一朵盛开的花就像是一个小小的张满了的帆,帆下带着尖底的舱,船舱鼓鼓的;又像一个忍俊不禁的笑容,就要绽开似的。①请说说这句话把花比作了什么以及这样比喻的好处。(2分)②仿照这种手法,选一种花写一写。(3分)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结课文修辞理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_019",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "看到开得热闹的紫藤萝,作者有什么感想 (3分)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结课文主旨理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_020",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第⑥段中作者由花想到自己的人生,什么花会引发你的思考呢 请写一写。(5分)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结课文联想写感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:03.414623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_21409818_006",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选文中引用诗句\"芭蕉不展丁香结\"\"丁香空结雨中愁\"的作用是（　　）",
+    "options": [
+      "作者经历的春光完全和斗室外的三棵白丁香联系在一起，所以作者有独特的感受。",
+      "引出下文，为下文作者的抒情作铺垫。",
+      "从另一角度展示了丁香结的形象，丰富了丁香结的内涵，为读者提供了展开丰富想象的空间。",
+      "增加文章浓厚的文学色彩，体现出作者深厚的文化修养。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结引用诗句作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:45.485715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 从另一角度展示了丁香结的形象，丰富了丁香结的内涵，为读者提供了展开丰富想象的空间。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_21409818_007",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "用波浪线在选文中画出解释古人为什么称丁香花蕾为丁香结的句子。这句话运用了　　　的修辞手法，把　　　比作　　　。写出了花苞　　　的情态。",
+    "options": null,
+    "answer": "小小的花苞圆圆的，鼓鼓的，恰如衣襟上的盘花扣。比喻；花苞；衣襟上的盘花扣；圆圆鼓鼓",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:45.485715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_21409818_008",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "选文中画横线的句子描绘了一幅充满光和色彩的图画，从\"渗\"字中我能想到丁香　　　的情境，从而感受到细雨迷蒙中的丁香形态　　　、色彩　　　的美。这也是作者说\"　　　\"的原因。",
+    "options": null,
+    "answer": "紫色与莹白交融；模糊；朦胧；丁香确实该和微雨连在一起",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结字词品味与情境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:45.485715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_001",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音写词语，书写端正美观（8分）xuán yá（           ） shēn yín（           ） fú àn（           ） bèn zhuō（           ）huā lěi（           ） róu měi（           ） sī chóu（           ） jīn piāo dài wǔ（            ）",
+    "options": null,
+    "answer": "悬崖 呻吟 伏案 笨拙 花蕾 柔美 丝绸 襟飘带舞",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字词出自《丁香结》生字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "选择正确读音，填序号（4分）（1）单薄①bó ②báo（2）摇曳①yè ②zhuài（3）参差①chā ②cēn（4）伏案①àn ②ān",
+    "options": null,
+    "answer": "① ① ② ①",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "多音字辨析配套《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_003",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选字填空",
+    "stem": "选字填空（4分）【涯 崖】山（    ） 天（    ）【幽 悠】（    ）闲（    ）静【缀 坠】点（    ）（    ）落【拙 茁】（    ）壮 笨（    ）",
+    "options": null,
+    "answer": "山崖 天涯 悠闲 幽静 点缀 坠落 茁壮 笨拙",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字辨析配套《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_005",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选词填空",
+    "stem": "选词填空（4分）朦胧 迷茫 幽雅 雅致（1）月色（    ），夜色温柔，整个小院安静极了。（2）这座古亭造型（    ），古色古香，极具韵味。（3）林间环境（    ），草木清香萦绕身旁。（4）大雾笼罩山谷，前路一片（    ），看不清景物。",
+    "options": null,
+    "answer": "朦胧 雅致 幽雅 迷茫",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "近义词辨析配套《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_006",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "句式变换练习（4分）（1）如此清幽的美景，让人沉醉其中。（改为反问句）（2）丁香结承载着古人淡淡的愁怨与情思。（改为双重否定句）",
+    "options": null,
+    "answer": "（1）如此清幽的美景，怎能不让人沉醉其中呢？（2）丁香结无不承载着古人淡淡的愁怨与情思。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式变换针对《丁香结》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:52.431249"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_12091063_001",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。(7分)\n1.huā pǔ( )里开满了五颜六色的花儿，些蜜蜂在huā ruǐ( )上辛勤地采蜜。\n2.他虽然是一个máng rén( )， 却能用口琴吹奏出qīng cuì( )的音乐，好像夏天的夜晚，xī shuài( )唱着动听的歌。\n3.这个令人感到kǒng bù( )的现象被zhèng shí( )是一个恶作剧。",
+    "options": null,
+    "answer": "1.花圃 花蕊 2.盲人 清脆 蟋蟀 3.恐怖 证实",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结相关字词拼音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k1_21cnjy_12091063_001",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "选择正确的读音，打\"√\"。（1）窗前的丁香花绽（zhàn　dìng）放着淡雅的芬芳。（2）晚风拂过，湖面泛起层层涟漪，分外恬（tián　kuò）静。（3）人行花间，衣袂（mèi　jué）留香，赏心悦目。（4）旷野清阔，月色融融，令人心生怅惘（wǎng　wáng）。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_003",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "形近字辨析组词。蕾（　　）　雷（　　）　朦（　　）　檬（　　）　拙（　　）　茁（　　）　拂（　　）　佛（　　）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》形近字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "补全词语，并完成练习。（　　）（　　）起舞　（　　）朦（　　）胧　心（　　）神（　　）　翠（　　）流（　　）　襟（　　）带（　　）　顾（　　）彼（　　）　（1）写出一个描写人物心情的成语：____________　（2）用\"翩翩起舞\"写一句话：________________________",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》词语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_006",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "按要求改写句子。（1）丁香花开在窗前，香气清幽。（扩句，至少扩两处）________________________________________________________（2）人生处处有不顺心的事，生活才更加精彩。（改为反问句）________________________________________________________",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》句子改写练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_008",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "近义词",
+    "stem": "写出下列词语的近义词。恍然——（　　）　愁怨——（　　）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》近义词积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k3_21cnjy_26537814_016",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_009",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么把丁香花苞叫作\"丁香结\"？用原文回答。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解《丁香结》文本内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k3_21cnjy_26537814_017",
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26537814_012",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "在括号里填上合适的词语。（　　）的晨雾　（　　）的空气　（　　）的露珠　（　　）的世界",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26537814.html",
+      "site": "21世纪教育网",
+      "title": "2026年秋六年级语文上册第一单元测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》形容词搭配",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:57.047099"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_24909242_011",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "用“横线”画出描写丁香花外形的句子，这句运用了什么修辞手法？",
+    "options": null,
+    "answer": "描写外形的句子：“小小的花苞圆圆的，鼓鼓的，恰如衣襟上的盘花扣。”运用了比喻的修辞手法。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》修辞辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_24909242_012",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "古人为什么会发明“丁香结”的说法？请结合选段概括",
+    "options": null,
+    "answer": "①丁香花苞圆圆的、鼓鼓的，像衣襟上的盘花扣；②丁香常与微雨相伴，容易引发愁怨的联想；③古人诗句中常以丁香寄托愁绪。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》文化内涵",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_24909242_013",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选段第③自然段由丁香结联想到了什么？体现了作者怎样的感悟？",
+    "options": null,
+    "answer": "联想到人生中的不顺心之事。体现了作者乐观豁达的感悟：人生中的问题虽解不完，但正因为这些 “结”，生活才不平淡无味。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》由物及人感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_24909242_014",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "结合生活实际，谈谈你对“结，是解不完的；人生中的问题也是解不完的”这句话的理解",
+    "options": null,
+    "answer": "示例：生活中总会遇到各种困难与挫折，如学习上的难题、与人相处的矛盾等。这些“结”虽然让人烦恼，但解决的过程也让人成长，让生活更有意义。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24909242.html",
+      "site": "21世纪教育网",
+      "title": "【期末专题】统编版2025-2026学年语文六年级上册课内阅读-（含答案）.docx - 试卷 - 小学语文 - 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》哲理联系实际",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:39.379340"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列词语中，错别字最多的一组是（ ）。",
+    "options": [
+      "明朗 彩虹 半树银装 口干舌躁",
+      "豆腐 芭焦 提心掉胆 鸦鹊无声",
+      "仓穹 微笑 翠色欲流 心弛神往",
+      "摔跤 朦胧 孤芳自赏 一碧千里"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "错别字辨析含丁香相关词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 豆腐 芭焦 提心掉胆 鸦鹊无声",
+    "has_answer": true,
+    "duplicate_of": "语文_u1.k2_21cnjy_7897198_002"
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "\"丁香结\"的\"结\"，与（ ）中带点的字读音和意思都相同。",
+    "options": [
+      "结尾",
+      "结实",
+      "结束",
+      "心结"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结多音多义字辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 心结",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_011",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列没有运用修辞手法的一项是（ ）",
+    "options": [
+      "古人诗云：\"芭蕉不展丁香结\"\"丁香空结雨中愁\"。",
+      "金沙水拍云崖暖，大渡桥横铁索寒。",
+      "五星红旗升起来了，表明中国人民从此站起来了。",
+      "雪色映进窗来，香气直透毫端。人也似乎轻灵的多，不那么混浊笨拙了。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "修辞辨析含丁香结课文",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 五星红旗升起来了，表明中国人民从此站起来了。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_013",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗鉴赏",
+    "stem": "下列诗句，不是描写花的一项是（ ）",
+    "options": [
+      "遥知不是雪，为有暗香来。",
+      "霜树尽空枝，肠断丁香结。",
+      "人面不知何处去, 桃花依旧笑春风。",
+      "忽然一夜春风来，千树万树梨花开。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香等花主题古诗辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:05:16.798927"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 忽然一夜春风来，千树万树梨花开。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_18216651_005",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "成语",
+    "stem": "根据意思写成语。①比喻在艰难困苦的条件下，互相帮助，战胜困难。②理由充分，因而说话有气势。③形容摩擦等轻微细小的声音。④指不说话；不出声。",
+    "options": null,
+    "answer": "①风雨同舟 ②理直气壮 ③寒寒窣窣 ④不声不响",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18216651.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级语文上册第三次月考卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结或草原相关成语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:54.090088"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "下列词语的书写完全正确的一组是(     )",
+    "options": [
+      "次序 愁怨 壮烈 居高临下",
+      "酒脱 混浊 屹立 恍然大悟",
+      "礼貌 朦胧 眺望 悬涯绝壁",
+      "平淡 屈服 攀登 心弛神往"
+    ],
+    "answer": "0",
+    "explanation": "B项\"酒脱\"应为\"洒脱\"；C项\"悬涯绝壁\"应为\"悬崖绝壁\"；D项\"心弛神往\"应为\"心驰神往\"。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字形辨析含丁香结词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u1.k3_21cnjy_17486035_003",
+    "answer_text": "A. 次序 愁怨 壮烈 居高临下",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_023",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "花朵儿一串挨着一串,一朵接着一朵,彼此推着挤着,好不活泼热闹!这句话用了什么修辞手法 表现了什么",
+    "options": null,
+    "answer": "运用了拟人的修辞手法,",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》修辞手法赏析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_024",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "每一朵盛开的花就像是一个小小的张满了的帆,帆下带着尖底的舱,船舱鼓鼓的;又像一个忍俊不禁的笑容,就要绽开似的。请说说这句话把花比作了什么以及这样比喻的好处。",
+    "options": null,
+    "answer": "把盛开的紫藤萝花比作\"张满了的帆\"和\"忍俊不禁的笑容\"。好处:形象生动地写出了紫藤萝花盛开时的形态之美和勃勃生机,表达了作者对花的喜爱与赞美之情。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》比喻修辞与作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_025",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "仿照这种手法,选一种花写一写。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》仿写训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_026",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "看到开得热闹的紫藤萝,作者有什么感想",
+    "options": null,
+    "answer": "作者由紫藤萝花的盛开联想到生命的美好与顽强,心中关于生死的疑惑、疾病的痛楚都随之消散,感受到了精神的宁静和生的喜悦,对生命有了新的感悟。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》作者感想理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_17486035_027",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作文",
+    "stem": "第⑥段中作者由花想到自己的人生,什么花会引发你的思考呢 请写一写。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/17486035.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第1-2单元练习（无答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》由花及人生感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:51.817049"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_21409818_010",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中加点的\"一次又一次\"能否去掉？为什么？",
+    "options": null,
+    "answer": "不能；说明五壮士多次打退敌人的进攻，说明了战斗的残酷和持续时间很长；因此加点词语不能去掉。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/21409818.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文上册六年级第1-3单元课内阅读检测卷-（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "词语能否删去，丁香结",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:20.491695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26560562_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语积累与运用",
+    "stem": "补充词语，并完成练习\n一（      ）千（      ）     翠（      ）欲（      ）     顾（      ）影（      ）\n心（      ）神（      ）     轻（      ）曼（      ）     孤（      ）自（      ）\n（1）望着辽阔的原野，清风拂面，让人__________，无比惬意。\n（2）草原碧绿辽阔，__________，满眼都是清新的绿意。",
+    "options": null,
+    "answer": "一碧千里 翠色欲流 顾影自怜 心旷神怡 轻歌曼舞 孤芳自赏\n（1）心旷神怡 （2）一碧千里",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26560562.html",
+      "site": "21世纪教育网",
+      "title": "最新统编版六年级上册第八单元语文专项测试卷（含答案）.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "四字词语积累与运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:55:43.326091"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_24126519_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列加点字的注音有误的一组是（2分）",
+    "options": [
+      "郑重（zhèng）     拜见（bài）       出租（zū）",
+      "伶俐（línɡ）      乌桕（jiù）       怒号（háo）",
+      "追悼（diào）      蓑笠（suō）       伽蓝（gā）",
+      "竹匾（biǎn）      正月（zhēng）      秕谷（bǐ）"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字音辨析，涵盖丁香结等课文生字",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 追悼（diào）      蓑笠（suō）       伽蓝（gā）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_25008919_002",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形",
+    "stem": "下列词语中，没有错别字的一项是（  ）（3分）",
+    "options": [
+      "迷蒙  愁怨  笨拙  心弛神往",
+      "壮烈  毫迈  馥郁  孤芳自赏",
+      "眼帘  浑浊  拘束  顾影自怜",
+      "点辍  摇曳  境界  硕大无朋"
+    ],
+    "answer": "2",
+    "explanation": "A项\"心弛神往\"应为\"心驰神往\"；B项\"毫迈\"应为\"豪迈\"；D项\"点辍\"应为\"点缀\"",
+    "source": {
+      "url": "http://mip.21cnjy.com/P/25008919.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册期末巩固与练习试卷（含答案）.docx - 试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "字形含丁香结词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:17.589230"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 眼帘  浑浊  拘束  顾影自怜",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断题",
+    "stem": "《丁香结》的作者是中国现代女作家宗璞，原名冯钟璞。（  ）",
+    "options": null,
+    "answer": "√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查丁香结作者常识",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_010",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "《丁香结》一课作者从四个方面描写丁香的，下列叙述有误的一项是（  ）",
+    "options": [
+      "生长环境：城里街旁、宅院里、城外校园等。",
+      "颜色：白色、黄色、紫色、红色等。",
+      "气味：淡淡的幽雅的甜香；香气直透毫端。",
+      "形状：\"十字小白花\"，\"许多小花形成一簇，许多簇花开满一树\"，小小的花苞圆圆的，鼓鼓的，恰如衣襟上的盘花扣。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结描写角度辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 颜色：白色、黄色、紫色、红色等。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_017",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "人生中的问题也是解不完的，不然，岂不太平淡无味了么？（改为陈述句）",
+    "options": null,
+    "answer": "人生中的问题也是解不完的，不然，就太平淡无味了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结反问句改陈述句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_023",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音",
+    "stem": "用\"√\"给文中加点的字选择正确的读音。花蕾（léi lěi） 恍（huāng huǎng）然",
+    "options": null,
+    "answer": "lěi√ huǎng√",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_024",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者把丁香比作丁香结的原因是什么？",
+    "options": null,
+    "answer": "原因有二：①丁香花的花苞圆圆的，鼓鼓的，恰如衣襟上的盘花扣。②丁香花负担着解不开的愁怨。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》重点句理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7893415_025",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗积累",
+    "stem": "写一句与丁香有关的诗句。",
+    "options": null,
+    "answer": "芭蕉不展丁香结，同向春风各自愁。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7893415.html",
+      "site": "21世纪教育网",
+      "title": "2020年秋统编六年级语文上册第一次月考试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》古诗句积累",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:30.126034"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16422090_019",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者为什么说这是一株\"极其平常的柳树\"，又说这是一株\"神奇的柳树\"？请简要谈谈你的理解。",
+    "options": null,
+    "answer": "这株柳树如平原水边柳树一般，并无他样，因此这是一株\"极其平常的柳树\"；但这株柳树与平原水边柳树的生长环境不同，它生长在本不适宜它生存的青海高原，因此这是一株\"神奇的柳树\"。",
+    "explanation": "本题考查对短文内容的掌握。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会作者对柳树描写的深意",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16422090_020",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文第⑧段提及家乡灞河边的柳树，有什么作用？",
+    "options": null,
+    "answer": "把家乡灞河边依水而生的柳树与在青海高原艰苦生长的柳树进行对比，体现了青海高原这株柳树为了生存而经历的艰苦，突出了其坚韧、蓬勃的生命力。",
+    "explanation": "本题考查赏析对比的写作手法。",
+    "source": {
+      "url": "https://www.51jiaoxi.com/doc-16422090.html",
+      "site": "教习网",
+      "title": "第一单元“触摸自然”（主题阅读）-2024-2025学年六年级语文上册阅读理解练习卷（统编版）-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解柳树描写的衬托作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:59:57.096443"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_25883233_024",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "当人生遭遇不自由，遭遇困境时，我们要乐观旷达，坚持信念，勇敢面对，开辟独有的天空。",
+    "options": null,
+    "answer": "苏轼多次遭贬 史铁生双腿瘫痪",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "人生豁达感悟对应丁香结主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_25883233_025",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "不同意。开头用毛毛虫破茧、牡蛎育珠的例子，生动形象地引出 “经历困境才能获得自由” 的道理，既吸引读者，又自然引出中心论点，增强文章感染力，不能删去。",
+    "options": null,
+    "answer": "",
+    "explanation": "第①自然段引用毛毛虫破茧成蝶、牡蛎孕育珍珠的例子，作用十分关键：一是用自然界中生物经历束缚与痛苦、最终实现蜕变的现象，生动形象地引出文章中心论点，让抽象的道理更通俗易懂；二是用读者熟悉的自然现象做铺垫，为后文苏轼、史铁生的人物事例做支撑，使文章论证更有层次、更具说服力；三是用生动的比喻开篇，激发读者的阅读兴趣，因此不能删去。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "困境与自由主题契合丁香结中心",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:43:44.727699"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_18267567_024",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "",
+    "stem": "结合全文,谈谈你对",
+    "options": null,
+    "answer": "示例:\"我们\"想长大,但希望仍可自由自在、无拘无束地生活;而不是像大人一样,为了生活承受着压力,整天忙碌。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18267567.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级上册第五、六单元语文月考测试卷含答案.docx - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合全文谈感悟考查丁香结主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:42:37.034279"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_019",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "殷勤解却丁香结，______。我能再写一句有关\"丁香\"的古诗：\"______，______。\"",
+    "options": null,
+    "answer": "纵放繁枝散诞春。芭蕉不展丁香结，同向春风各自愁。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "丁香结古诗默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:35.899460"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_030",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课内阅读",
+    "stem": "黑体的两个词语位置能否调换？为什么？（2分）",
+    "options": null,
+    "answer": "不能，因为\"眺望\"是指从高处远望，而\"望望\"是指看看的意思。如果两个词语位置调换，会不符合原文意思。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》词语顺序品析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:35.899460"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_037",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "从第一自然段到第四自然段，作者的写作目的是（　　）",
+    "options": [
+      "塑造一个民族乃至东方传统文化观念的象征：杜鹃，点明全文的中心意思。",
+      "将杜鹃在中国乃至东方所引发的心理情态作概括性描述，与下文杜鹃的实际情况形成鲜明对照。",
+      "塑造一个民族乃至东方文化传统观念的象征：杜鹃，与下文杜鹃的实际情况的说明形成鲜明对照。",
+      "将杜鹃在中国乃至东方所引发的心理情态作了概括性描述，点明全文的中心意思。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《杜鹃》段落作用与写法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 将杜鹃在中国乃至东方所引发的心理情态作概括性描述，与下文杜鹃的实际情况形成鲜明对照。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_038",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "你认为文中\"现在\"的\"人面杜鹃\"不是指（　　）",
+    "options": [
+      "当时侵入中国的日本侵略者。",
+      "当时社会上穷凶极恶的杀人犯。",
+      "当时的国民党反动当局。",
+      "当时鼓吹资产阶级人性论的反动文人。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《杜鹃》象征义深层理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 当时社会上穷凶极恶的杀人犯。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_7897198_039",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者抓住了杜鹃________的习性，认为杜鹃象征的意义是________________________。",
+    "options": null,
+    "answer": "专横而残忍 大可以作为欺世盗名者的标本",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》类写景散文象征义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26528452_003",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "选词填空，恰当的一项是（　　）（3分）①草原上的羊群像白莲花，在无边的绿毯之上。②淡淡的花香，在夜色里轻轻。③丁香小小的花苞，鼓鼓的，恰如衣襟上的盘花扣，这就是丁香结，是解不完的__　__。",
+    "options": [
+      "点缀 飘溢 愁怨",
+      "装饰 飘散 忧愁",
+      "装点 飘荡 怨恨",
+      "点染 挥发 烦恼"
+    ],
+    "answer": "0",
+    "explanation": "点缀：衬托装饰；飘溢：香气弥漫；愁怨，贴合丁香结课文原文词语。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《丁香结》词语运用与愁怨含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 点缀 飘溢 愁怨",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26528452_012",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "文章开头写春天法桐树叶的美好，有什么作用？（3分）",
+    "options": null,
+    "answer": "开篇极力描绘春叶的生机美好，和后文深秋落叶凋零形成强烈对比；为下文作者对落叶、生命的思考做铺垫。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》首尾呼应及写作作用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26528452_013",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者看到深秋落叶，一开始内心感受是________；后来看到来年新叶，醒悟到：________________________________。（4分）",
+    "options": null,
+    "answer": "惋惜、哀叹；万物有荣有枯，凋零不是终结，旧的离去，是为迎来新生，生命在更替中成长。",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》作者情感变化与感悟",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26528452_015",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "下面对文章理解不正确的一项是（　　）（4分）",
+    "options": [
+      "作者借法桐落叶，表达对生命荣枯更替的思考。",
+      "落叶凋零代表生命的结束，作者认为落叶是可悲的。",
+      "生命有凋零也有新生，凋零是为了更好的成长。",
+      "文章情景交融，和《丁香结》写法相近，借景物抒发人生感悟。"
+    ],
+    "answer": "1",
+    "explanation": "作者后期醒悟，不再哀叹落叶，明白凋零是新生的一部分，并不认为落叶可悲。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26528452",
+      "site": "21世纪教育网",
+      "title": "doc 26528452",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》主题及借景抒情写法理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:31:27.292463"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 落叶凋零代表生命的结束，作者认为落叶是可悲的。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_21cnjy_26582207_006",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列诗句中的修辞手法和文中画波浪线处的修辞手法相同的一项是（   ）",
+    "options": [
+      "此情无计可消除，才下眉头，却上心头。",
+      "孤帆远影碧空尽，唯见长江天际流。",
+      "寻寻觅觅，冷冷清清，凄凄惨惨戚戚。",
+      "两岸猿声啼不住，轻舟已过万重山。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26582207",
+      "site": "21世纪教育网",
+      "title": "doc 26582207",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比喻修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:35.632886"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 此情无计可消除，才下眉头，却上心头。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16236814_004",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "下面词语中的\"孤\"字与\"孤芳自赏\"的\"孤\"字意思不同的一项是(     )",
+    "options": [
+      "孤苦伶仃",
+      "孤掌难鸣",
+      "孤注一掷",
+      "孤家寡人"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《丁香结》字词理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 孤注一掷",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16236814_010",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "人生中的问题也是解不完的，不然，岂不太平淡无味了吗？(改为陈述句)",
+    "options": null,
+    "answer": "人生中的问题也是解不完的，不然，太平淡无味了。",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句式改写，关联《丁香结》语段",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16236814_014",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "作家宗璞笔下的丁香________的潇洒，________的朦胧，还有淡淡的甜香。",
+    "options": null,
+    "answer": "白 紫 幽雅",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《丁香结》课文内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16236814_023",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者在这迷蒙的早晨欣赏了(     )、(     )、(     )、(     )等景物，表达了作者________________的感情。",
+    "options": null,
+    "answer": "露珠 小鸟 晨雾 群山 对大自然无比喜爱",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《丁香结》阅读，梳理景物与情感",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u1.k3_51jiaoxi_16236814_025",
+    "subject": "语文",
+    "kp_id": "u1.k3",
+    "unit_id": "u1",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "作者主要运用了(     )、(     )的修辞手法描写了山林之晨的景物。",
+    "options": null,
+    "answer": "拟人 比喻",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16236814.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查修辞手法辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:11:19.129995"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

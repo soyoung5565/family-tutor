@@ -1,0 +1,5446 @@
+[
+  {
+    "qid": "英语_u2.k5_zxxk_29901698_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听录音排序",
+    "stem": "She visited her uncle.",
+    "options": null,
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/29901698.html",
+      "site": "学科网",
+      "title": "Module 1 Unit 2 My summer holiday(单元测试)-2021-2022学年英语六年级上册-沪教牛津版(深圳用)(含听力音频与答案 )",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "听录音排序考查规则动词过去式-ed发音辨别，visited属/ɪd/类。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T23:59:56.614258"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.321700"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_59587435_002",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听录音判断正误",
+    "stem": "Taotao's mother's car worked well.",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59587435.html",
+      "site": "学科网",
+      "title": "Unit 4 Be on Time (单元自测练习卷)-2026-2027学年接力版英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "听录音判断\"worked\"过去式，考查-ed发音/t/规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.321700"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_58600516_003",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "选出不同类的单词",
+    "options": [
+      "study",
+      "throw",
+      "develop"
+    ],
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/58600516.html",
+      "site": "学科网",
+      "title": "Unit3 Great people(综合训练)-2026-2027学年译林版(三起)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u4.k2"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查规则动词与不规则动词的辨析，throw 是不规则动词，study/develop 是规则动词（加-ed），与 -ed 发音规则相关。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": true,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.321700"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_49476135_004",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "plant的过去式",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49476135.html",
+      "site": "学科网",
+      "title": "期末(试题)-2024-2025学年沪教牛津版(深圳用)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "plant是规则动词，考查-ed构成过去式planted，属规则动词过去式知识点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:20:24.048480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_49476135_005",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "move的过去式",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49476135.html",
+      "site": "学科网",
+      "title": "期末(试题)-2024-2025学年沪教牛津版(深圳用)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "move是规则动词，考查-ed过去式变形，属规则动词过去式知识点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:20:24.048480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.321700"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_49476135_006",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "run(-ing形式)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49476135.html",
+      "site": "学科网",
+      "title": "期末(试题)-2024-2025学年沪教牛津版(深圳用)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查动词-ing形式拼写规则，与动词-ed形式构词规则同属动词变形类知识点。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:27:43.231101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.321700"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_49476135_007",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "move的过去式",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/49476135.html",
+      "site": "学科网",
+      "title": "期末(试题)-2024-2025学年沪教牛津版(深圳用)英语六年级上册",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u2.k1"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "move为规则动词，其过去式moved考查-ed变化规则，属本课核心。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual-retry",
+      "reviewed_at": "2026-09-18T18:27:43.231101"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_zxxk_40664961_008",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择",
+    "stem": "读一读，选出画线部分发音与其余不同的一项",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/40664961.html",
+      "site": "学科网",
+      "title": "Unit 9 Great cities of the world（单元卷）沪教牛津版（深圳用）英语六年级上册-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-19"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "本题考查规则动词过去式-ed结尾三种发音的辨析，识别/d/、/t/、/ɪd/差异。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-19T18:28:24.530660"
+    },
+    "enabled": true,
+    "created_at": "2026-09-19",
+    "use_count": 0,
+    "duplicate_of": "英语_u1.k5_zxxk_40664961_041",
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Our English teacher is calling people in her o .",
+    "options": null,
+    "answer": "office",
+    "explanation": "句意：我们的英语老师正在办公室打电话。本题考查可数名词及其单复数。根据句意及首字母，可知单词为可数名词单数office办公室，故答案为office。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音规则考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_002",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "My grandfather read n for news in 1980.",
+    "options": null,
+    "answer": "newspapers",
+    "explanation": "句意：1980年，我的祖父读报纸获取新闻。本题考查动词短语，根据句意及首字母，可知短语为read newspapers读报纸，故答案为newspapers。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "read过去式发音规则考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_003",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Nancy c play basketball five years ago, but now she can.",
+    "options": null,
+    "answer": "couldn't",
+    "explanation": "句意：南茜五年前不会打篮球，但现在她会。本题考查情态动词。根据句意及首字母，可知单词为can't不会，由时间five year ago五年前，可知句子是一般过去时，can't的过去式是couldn't，故答案为couldn't。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "couldn't/can过去式发音考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_004",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Our teachers work very hard. They are all in the o now.",
+    "options": null,
+    "answer": "office",
+    "explanation": "句意：我们的老师们工作非常努力。他们现在都在_____里。本题考查可数名词单复数。由句意可知老师们都在办公室里，办公室office，此处可用单数。故答案为office。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "work/office动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_005",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Sam, make a sentence w \"egg\".",
+    "options": null,
+    "answer": "with",
+    "explanation": "句意：萨姆，用\"egg\"造一个句子。本题考查介词辨析，根据句意与所给字母可知此处指用\"egg\"造句，用with，介词，故答案为with。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "make过去式发音规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_006",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "My father t me a story every night.",
+    "options": null,
+    "answer": "tells",
+    "explanation": "句意：我爸爸每天晚上给我讲一个故事。本题考查动词短语和动词形式。tell a story 讲故事，根据every night可知该句是一般现在时，主语My father是单数第三人称，谓语动词tell用第三人称单数形式tells。故答案为tells。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "tell过去式发音规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_007",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "The coat is not big or small. It f me very well.",
+    "options": null,
+    "answer": "fits",
+    "explanation": "句意：这件外套不大不小。它非常_____我。本题考查动词辨析和动词的形式，根据句意可知此处指不大不小很适合我，适合fit，句子是一般现在时，主语It是第三人称单数，故动词也用第三人称单数形式fits，故答案为fits。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "fit过去式发音规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_008",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Mum b a lot of snacks from the shop just now.",
+    "options": null,
+    "answer": "bought",
+    "explanation": "句意：妈妈刚才从商店______很多零食。本题考查动词的形式，根据句意及首字母可知该单词为bought，buy的过去式，由just now可知句子是一般过去时。故答案为bought。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "buy/bought不规则过去式但题在U2",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_009",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "—Can you s the new word —Yes, M-A-G-A-Z-I-N-E.",
+    "options": null,
+    "answer": "spell",
+    "explanation": "句意：—你能_____这个新单词吗？—当然，M-A-G-A-Z-I-N-E。本题考查动词辨析和动词的形式。根据答句句意和首字母可知，单词为spell拼写，can情态动词后接动词原形，故答案为spell。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "spell过去式发音规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_026",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "My brother m friends at school two years ago.",
+    "options": null,
+    "answer": "met",
+    "explanation": "句意：两年前，我的哥哥/弟弟在学校门口_______朋友。本题考查动词形式。题干中two years ago是过去时的标志，根据所给首字母提示和句意，横线处填meet的过去式met。故答案为met。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "made过去式，two years ago过去时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_041",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Liu Tao and Mike are in the teachers' o .",
+    "options": null,
+    "answer": "office",
+    "explanation": "句意：刘韬和迈克在老师办公室。本题考查名词辨析，根据句意及首字母可知单词是office办公室，符合句意，故答案为office。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "-ed发音规则，浊辅音后读/d/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_042",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "Tim and Tom were talking in class. Miss Li g angry.",
+    "options": null,
+    "answer": "got",
+    "explanation": "句意：蒂姆和汤姆在课堂上交谈。李老师生气了。本题考查动词形式，根据句意可知该句时态为一般过去时，根据首字母可知单词是get，get的过去式是got，故答案为got。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音/got,got/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_048",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "He looked sad, because he l a new pen.",
+    "options": null,
+    "answer": "lost",
+    "explanation": "句意：他看上去很伤心，因为他_____一支新钢笔。本题考查动词辨析及动词的形式。由句意可知应该是丢了一支新钢笔，所以才会伤心。丢失lose。由looked可知本题时态为一般过去时，动词lose要用过去式lost，故答案为lost。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音规则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_21500718_049",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "首字母填空",
+    "stem": "The weather b windy a moment ago.",
+    "options": null,
+    "answer": "became",
+    "explanation": "句意：不久前天气开始刮风。本题考查动词辨析和动词的形式，由句意可知此处指天气开始刮风，become开始变得，由a moment ago可知句子是一般过去时，动词用过去式，become的过去式是became，故答案为became。",
+    "source": {
+      "url": "https://zy.21cnjy.com/21500718",
+      "site": "21世纪教育网",
+      "title": "【真题精练】专题02 首字母填空50题（含解析）-2024-2025学年译林版英语六年级上册期中专项练习_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音/became/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:23:58.876841"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_003",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "3. A. ride B. hurt C. eat",
+    "options": [
+      "ride",
+      "hurt",
+      "eat"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查不规则动词过去式发音/hurt/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. ride",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_014",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力填空题",
+    "stem": "2. I ____________ ____________ ____________ last summer holiday.",
+    "options": null,
+    "answer": "ate fresh food",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "填动词过去式last summer",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_016",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "2. Binbin ____________ _______________（去游泳）last summer holiday.",
+    "options": null,
+    "answer": "went swimming",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "went swimming过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_020",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "6. Binbin ___________ ____________（买礼物）yesterday.",
+    "options": null,
+    "answer": "bought gifts",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "bought presents过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_025",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "5. see（过去式）_____________________",
+    "options": null,
+    "answer": "saw",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_038",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "5. He went swimming and ________ lots of pictures.",
+    "options": [
+      "take",
+      "takes",
+      "took"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "并列谓语过去式took",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. took",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_042",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "9. Some of the dinosaurs ________ plants many years ago.",
+    "options": [
+      "eat",
+      "eats",
+      "ate"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式ate的用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. ate",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_044",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "五、按要求完成句子。（14分）1. I went to Beijing last weekend.（就划线部分提问）",
+    "options": null,
+    "answer": "Where did you go last weekend",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "就地点提问，考查过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_045",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "2. I rode a bike there.（就划线部分提问）",
+    "options": null,
+    "answer": "What did you do there",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "就方式提问，ride过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_046",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "3. We went there by plane.（就划线部分提问）",
+    "options": null,
+    "answer": "How did you go there",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "就方式提问，by plane过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_048",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "5. We went to Turpan.（改为一般疑问句，并作肯定回答）",
+    "options": null,
+    "answer": "Did you go to Turpan? Yes, we did.",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般过去时变一般疑问句",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_049",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "6. go, where, you, holiday, the, did, over, winter （连词成句）",
+    "options": null,
+    "answer": "Where did you go over the winter holiday",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "连词成句，一般过去时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_056",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "2. The weather in Sanya was warm and cloudy.",
+    "options": null,
+    "answer": "F",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时描述天气",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5zxxk_36455673_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "No.1",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/36455673.html",
+      "site": "学科网",
+      "title": "精品解析：上海市实验学校2022-2023学年六年级上学期期中英语试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查规则动词过去式-ed发音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:26.745520"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18636672_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "听录音，选出你所听到的单词",
+    "options": [
+      "cough",
+      "cold",
+      "cook"
+    ],
+    "answer": "0",
+    "explanation": "听力原文为cough",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18636672.html",
+      "site": "教习网",
+      "title": "2026秋新人教PEP版六年级英语上册Unit3 H ealthy life 单元测试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析 cough/cold/cook 单词发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:06.624145"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_no_audio": true,
+    "duplicate_of": "英语_u1.k5_zxxk_59587435_008",
+    "answer_text": "A. cough",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18636672_008",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词发音",
+    "stem": "选出下列单词中划线部分发音不同的单词",
+    "options": [
+      "cough",
+      "fever",
+      "feel"
+    ],
+    "answer": "2",
+    "explanation": "AB疾病名词，C动词",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18636672.html",
+      "site": "教习网",
+      "title": "2026秋新人教PEP版六年级英语上册Unit3 H ealthy life 单元测试卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析 ou/ea/e 元音发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:06.624145"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. feel",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "一、听录音，选出你所听到的内容，将其序号写在前面的括号里。（6分）1. A. till B. fell C. feel",
+    "options": [
+      "till",
+      "fell",
+      "feel"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查规则动词过去式-ed发音/fell/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_no_audio": true,
+    "answer_text": "B. fell",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_004",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "4. A. take B. buy C. fall",
+    "options": [
+      "take",
+      "buy",
+      "fall"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查不规则动词过去式发音/fell/",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. take",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_011",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力选择题",
+    "stem": "4.",
+    "options": [
+      "I'm OK now.",
+      "Yes, we did.",
+      "I went to Sanya last winter holiday.",
+      "I fell off my bike and hurt my foot."
+    ],
+    "answer": "E",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去式回答度假经历",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_013",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "听力填空题",
+    "stem": "四、听录音，填上句子中所缺的单词。（6分）1. I ____________ ____________ ____________ yesterday.",
+    "options": null,
+    "answer": "rode a horse",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "填动词过去式yesterday",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_no_audio": true,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.104145"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_015",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "一、根据中文提示和图片写单词，补充句子。（14分）1. John ___________ _________ ______________（骑自行车）last Saturday.",
+    "options": null,
+    "answer": "rode a bike",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "rode a bike过去式书写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_017",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "3. John ____________ _______________（去野营）last Tuesday.",
+    "options": null,
+    "answer": "went camping",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "went camping过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_018",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "4. John ____________ _______________（去钓鱼）yesterday.",
+    "options": null,
+    "answer": "went fishing",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "went fishing过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_019",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "5. Binbin ________ ___________ _________（吃新鲜的食物）last night.",
+    "options": null,
+    "answer": "ate fresh food",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "ate fresh food过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_047",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "4. Where did you go last Saturday（根据实际情况回答问题）",
+    "options": null,
+    "answer": "I went to Shantou. / I stayed at home.",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般过去时特殊疑问句回答",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_050",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "六、选择合适的句子完成对话，把代号写在横线上。（10分）Mike: Hello, John! 1.___________ John: It was great.",
+    "options": null,
+    "answer": "B",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去时对话询问How was it",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_051",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "Mike: 2.___________ John: I went to Hailar.",
+    "options": null,
+    "answer": "C",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去时特殊疑问句Where",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_052",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "Mike: That was cool! 3.___________ John: I rode a horse there.",
+    "options": null,
+    "answer": "D",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去时询问交通方式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_053",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "Mike: 4.___________ John: 5.___________",
+    "options": null,
+    "answer": "E",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去时对话补充",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_054",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "补全对话",
+    "stem": "（接上）5.",
+    "options": null,
+    "answer": "A",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去时对话补充",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_055",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "七、阅读短文，判断正（T）误（F）。（6分）1. The writer（作者）went to Sanya with his friends last winter holiday.",
+    "options": null,
+    "answer": "F",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时went",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_057",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "3. The writer didn't swim in the sea.",
+    "options": null,
+    "answer": "F",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时didn't swim",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_058",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "4. They ate much nice food like seafood during the trip.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时ate",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.104145"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_059",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "5. From the passage, we can know the beach in Sanya is very beautiful.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时综合理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_25532523_060",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "6. The writer loves this trip and wants to visit Sanya again.",
+    "options": null,
+    "answer": "T",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25532523",
+      "site": "21世纪教育网",
+      "title": "（2025-2026）人教版（PEP）小学英语六年级下册单元练习题（Unit 3）（含听力原文+音频+答案）_21世纪教育网-二一教育",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解，过去时综合理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:36.627645"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13987383_013",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词形转换",
+    "stem": "cook ________ ________",
+    "options": null,
+    "answer": "cooking; cooks",
+    "explanation": "cook做饭，现在分词/动名词在词尾加ing，第三人称单数在词尾加s。故答案为cooking；cooks。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式及-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13987383_014",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词形转换",
+    "stem": "do ________ ________",
+    "options": null,
+    "answer": "doing; does",
+    "explanation": "do做，现在分词/动名词在词尾加ing，第三人称单数在词尾加es。故答案为doing；does。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词do→did",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13987383_015",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词形转换",
+    "stem": "live ________ ________",
+    "options": null,
+    "answer": "living; lives",
+    "explanation": "live住，现在分词/动名词在词尾加ing，第三人称单数在词尾加s。故答案为living；lives。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词live→lived",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13987383_016",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词形转换",
+    "stem": "read ________ ________",
+    "options": null,
+    "answer": "reading; reads",
+    "explanation": "read读，现在分词/动名词在词尾加ing，第三人称单数在词尾加s。故答案为reading；reads。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词read→read",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13987383_017",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词形转换",
+    "stem": "study ________ ________",
+    "options": null,
+    "answer": "studying; studies",
+    "explanation": "study学习，现在分词/动名词在词尾加ing，第三人称单数把y变i，加es。故答案为studying；studies。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/13987383.html",
+      "site": "21世纪教育网",
+      "title": "Unit4单元必考题检测卷-小学英语六年级上册人教PEP版（含答案）.docx",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词study→studied",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:00:34.996533"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_017",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "写出下列动词的过去式：take",
+    "options": null,
+    "answer": "took",
+    "explanation": "take 的过去式为 took。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词过去式拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_018",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "写出下列动词的过去式：have",
+    "options": null,
+    "answer": "had",
+    "explanation": "have 的过去式为 had。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词过去式拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_019",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "写出下列动词的过去式：buy",
+    "options": null,
+    "answer": "bought",
+    "explanation": "buy 的过去式为 bought。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词过去式拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_020",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "写出下列动词的过去式：travel",
+    "options": null,
+    "answer": "travelled",
+    "explanation": "travel 的过去式为 travelled。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "不规则动词过去式拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_021",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "写出下列动词的过去式：ride",
+    "options": null,
+    "answer": "rode",
+    "explanation": "ride 的过去式为 rode。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式发音与拼写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_031",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法选择",
+    "stem": "Dong Fang likes ________ horses，and she ________ a horse two weeks ago.",
+    "options": [
+      "riding；rode",
+      "ride；rode",
+      "rode；rides"
+    ],
+    "answer": "0",
+    "explanation": "like doing sth. 喜欢做某事；又由 two weeks ago 可知第二个空用动词的过去式。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "ride现在分词与过去式变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. riding；rode",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_032",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "用所给单词的适当形式填空：Li Yong ________ (go) to Beijing yesterday.",
+    "options": null,
+    "answer": "went",
+    "explanation": "yesterday 表明用一般过去时，go 的过去式为 went。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "go的过去式yesterday标志",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_033",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "用所给单词的适当形式填空：My cousins ________ (visit) Haikou every year.",
+    "options": null,
+    "answer": "visit",
+    "explanation": "every year 表明用一般现在时，主语 cousins 为复数，动词用原形 visit。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "visit一般现在时复数形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_034",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "用所给单词的适当形式填空：I ________ (meet) them in June last year.",
+    "options": null,
+    "answer": "met",
+    "explanation": "last year 表明用一般过去时，meet 的过去式为 met。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "meet过去式in June last year",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_035",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "用所给单词的适当形式填空：He ________ (live) there with his three children ten years ago.",
+    "options": null,
+    "answer": "lived",
+    "explanation": "ten years ago 表明用一般过去时，live 的过去式为 lived。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "live过去式ten years ago",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_11513469_036",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "用所给单词的适当形式填空：They ________ (be) photos of China.",
+    "options": null,
+    "answer": "are",
+    "explanation": "主语 They 为复数，be 动词用 are。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11513469.html",
+      "site": "21世纪教育网",
+      "title": "外研三起小英五下Module6单元测试卷（三）（含听力材料，无音频，含答案）.doc",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "be动词复数were形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:41:13.555803"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_17701221_026",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用括号内所给词的适当形式填空",
+    "stem": "They had a _____ (discuss) about class rules yesterday afternoon.",
+    "options": null,
+    "answer": "discussion",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/17701221",
+      "site": "21世纪教育网",
+      "title": "doc 17701221",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "discuss变名词discussion",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:36.406638"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_17701221_028",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用括号内所给词的适当形式填空",
+    "stem": "The students are having a _____ ( discuss) about how to learn English well.",
+    "options": null,
+    "answer": "discussion",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/17701221",
+      "site": "21世纪教育网",
+      "title": "doc 17701221",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "discuss变名词discussion",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:36.406638"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_13459084_021",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "昨天晚上我妈妈很快就睡着了。",
+    "options": null,
+    "answer": "My mother fell asleep soon last night.",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/13459084",
+      "site": "21世纪教育网",
+      "title": "doc 13459084",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音与用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:38:44.521441"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26344292_063",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "短文语法填空",
+    "stem": "He ______ (laugh) a lot every day.",
+    "options": null,
+    "answer": "laughs",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26344292",
+      "site": "21世纪教育网",
+      "title": "doc 26344292",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查动词第三人称单数laughs的-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:40:21.209273"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26566391_024",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "用所给词的正确形式填空",
+    "stem": "She stays ________ (happily) every day.",
+    "options": null,
+    "answer": "happy",
+    "explanation": "stay为系动词，后面接形容词作表语；happily副词→happy形容词。句意：她每天都开开心心。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26566391",
+      "site": "21世纪教育网",
+      "title": "doc 26566391",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "happily变形容词happy，动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:43:57.867121"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26355151_041",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Jim is clever (聪明的). He always w________ out maths problems.",
+    "options": null,
+    "answer": "works",
+    "explanation": "固定搭配work out意思是\"算出、解出\"。句中频度副词always是一般现在时的标志词，主语He是第三人称单数，因此谓语动词work需变为第三人称单数形式works。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26355151",
+      "site": "21世纪教育网",
+      "title": "doc 26355151",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "worked是规则动词过去式，考查-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:56.063668"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Wang Hong said _____ she was cooking at 6：00 yesterday morning.",
+    "options": null,
+    "answer": "that",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从时态呼应，规则动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_004",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Our geography teacher said _____ the earth goes around the sun.",
+    "options": null,
+    "answer": "that",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从客观真理用一般现在时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_006",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "We remember that our teacher _____（tell） us this story last week.",
+    "options": null,
+    "answer": "told",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从时态呼应过去式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_009",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Jenny said she ___________（experience） a big earthquake in Japan last year.",
+    "options": null,
+    "answer": "experienced",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从过去完成时态呼应",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_010",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "Our biology teacher said that most plants ______（grow） better in soil with sunlight than in dark,dry sand.",
+    "options": null,
+    "answer": "grow",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从客观事实用一般现在时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_012",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单项选择",
+    "stem": "（2024·自贡改编）My teacher told us that 18 May ________ the International Museum Day.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "will be"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "宾从客观事实用一般现在时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. is",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_26545559_021",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "The American girl taught _______（her） Chinese by watching cartoons and listening to songs.",
+    "options": null,
+    "answer": "herself",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26545559",
+      "site": "21世纪教育网",
+      "title": "doc 26545559",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "taught为规则动词过去式，考查-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:36:25.414074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_23239399_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "—Are these elephants drinking water? —_____________ They're playing with each other.",
+    "options": [
+      "Yes, they are.",
+      "No, it isn't.",
+      "No, they aren't."
+    ],
+    "answer": "2",
+    "explanation": "本题考查一般疑问句的答语。根据答语后一句可知前面是否定回答，are引导的一般疑问句，主语是these，否定回答是No, they aren't. 故选C。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "drinking playing 一般现在时与现在进行时",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. No, they aren't.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_23239399_021",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词题",
+    "stem": "读一读，选出与画线部分的单词属于同一类的词。The little elephant is drinking.",
+    "options": null,
+    "answer": "B I",
+    "explanation": "drinking喝，walking走，sleeping睡觉，都是动词的ing形式，故答案为B，I。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "drinking为现在分词，考查-ed/-ing构词识别",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_23239399_022",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词题",
+    "stem": "读一读，选出与画线部分的单词属于同一类的词。I often fly kites in spring.",
+    "options": null,
+    "answer": "D J",
+    "explanation": "spring春天，winter冬天，autumn秋天，都是季节，故答案为D，J。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "kites为名词复数，考查复数发音/辨认",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_23239399_024",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "翻译题",
+    "stem": "它在喝水吗？Is it ______ water?",
+    "options": null,
+    "answer": "drinking",
+    "explanation": "本题考查句子翻译。句子是一般疑问句，时态是现在进行时。喝drink，该空用动词的现在分词与is构成现在进行时，drink的现在分词是drinking，故答案为drinking。",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "drinking现在进行时，基础句型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_21cnjy_23239399_029",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "The dog is playing with its friends. (改为否定句)",
+    "options": null,
+    "answer": "The dog isn't playing with its friends.",
+    "explanation": "句意：狗正在和它的朋友们一起玩。本题考查句型转换。本题是含有be动词的句子，否定句在be动词is后面加not，is和not缩写为isn't，故答案为The dog isn't playing with its friends.",
+    "source": {
+      "url": "https://zy.21cnjy.com/23239399",
+      "site": "21世纪教育网",
+      "title": "doc 23239399",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "现在进行时否定句变化",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:46:01.146041"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18668057_007",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "I ________ (read) an interesting story yesterday evening.",
+    "options": null,
+    "answer": "read",
+    "explanation": "yesterday evening表过去时，read的过去式是read（发音变化）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18668057_008",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "She ________ (give) me a nice book two days ago.",
+    "options": null,
+    "answer": "gave",
+    "explanation": "two days ago表过去时，give的过去式是gave。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18668057_009",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "They ________ (go) to the museum last Sunday.",
+    "options": null,
+    "answer": "went",
+    "explanation": "last Sunday表过去时，go的过去式是went。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18668057.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "规则动词过去式-ed发音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:06:11.179157"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18236633_022",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句型转换",
+    "stem": "The food is from farms.（改为同义句）The food ____________ ___________ farms.",
+    "options": null,
+    "answer": "comes from",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18236633.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "come from变为be from，过去式相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:13:55.035579"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18236633_027",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "A lot of food ___________ from farms.",
+    "options": [
+      "come",
+      "comes",
+      "coming"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18236633.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "food不可数主语三单考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:13:55.035579"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. comes",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_17256211_007",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "____11____ it wuld tell peple the basics",
+    "options": [
+      "at least",
+      "at mst",
+      "at last"
+    ],
+    "answer": "0",
+    "explanation": "至少能告诉人们基本情况。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17256211.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "at last考查-ed发音/短语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:18:32.038462"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. at least",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_17256211_021",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "What des the underlined wrd \"smashed\" in paragraph 4 mean?",
+    "options": [
+      "Brke.",
+      "Lst.",
+      "Kept."
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17256211.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考察-ed过去式词汇理解，属U2语音词汇",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:18:32.038462"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. Brke.",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_055",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "It is als cmmn fr them ____56____ (hld) during traditinal Chinese hlidays such as the Spring Festival and the Mid-Autumn Festival, as well as ther lcal festivals.",
+    "options": null,
+    "answer": "t be held",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查动词不定式用法，属语法基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_056",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "The exact dates and ____57____ (frequent) f daji vary frm regin t regin.",
+    "options": null,
+    "answer": "frequency",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查名词词形转换，属语法基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_057",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "Daji riginated frm the ancient flk custm f trading gds, which dates back t ____58____ Han Dynasty.",
+    "options": null,
+    "answer": "the",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查冠词与专有名词，属语法基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_058",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "As transprtatin and cmmunicatin ____59____ (be) underdevelped at that time, it was very difficult fr husehlds t btain daily ____60____ (necessity).",
+    "options": null,
+    "answer": "were",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查一般过去时被动与名词复数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_059",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "it was very difficult fr husehlds t btain daily ____60____ (necessity).",
+    "options": null,
+    "answer": "necessities",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查名词复数形式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18497992_060",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "语法填空",
+    "stem": "peple gathered at specific lcatins n set days t trade their surplus (剩余的) items ____61____ what they needed.",
+    "options": null,
+    "answer": "fr",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18497992.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查介词搭配，属语法基础",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:21:43.355754"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_001",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "_____ my nse up against the windw.",
+    "options": [
+      "pressed",
+      "drpped",
+      "hid"
+    ],
+    "answer": "0",
+    "explanation": "句意：我把鼻子贴在窗户上。A：pressed 按，压 B：drpped 放下 C：hid 隐藏。根据下文我的鼻子贴在窗户上，可知是将鼻子紧贴在窗户上，所以答案为pressed。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词过去式-ed发音练习",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. pressed",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_002",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Snw! It was _____ and settling n tp f the already thick white carpet.",
+    "options": [
+      "putting",
+      "running",
+      "falling"
+    ],
+    "answer": "2",
+    "explanation": "句意：雪！雪落下来了，落在已经很厚的白色地毯上。根据落在已经很厚的白色地毯上，可知雪已经下了很久，现在还在下，即雪正在落下，所以答案为falling。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词falling用于过去进行时语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. falling",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_003",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Dad!\" I yelled _____.",
+    "options": [
+      "angrily",
+      "excitedly",
+      "tiredly"
+    ],
+    "answer": "1",
+    "explanation": "句意\"爸爸！\"我兴奋地大叫。根据下文描述，可以看出作者看到雪时非常兴奋，所以答案为excitedly。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析，过去式语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. excitedly",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_004",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He came in frm the _____.",
+    "options": [
+      "kitchen",
+      "living rm",
+      "garden"
+    ],
+    "answer": "1",
+    "explanation": "句意：他从客厅进来。根据我要回客厅看报纸，可知爸爸是从客厅进来的，所以答案为living rm。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "基础名词辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. living rm",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_005",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Yes, lk at that,\" he said. \"It's cming dwn quite _____, isn't it?\"",
+    "options": [
+      "lightly",
+      "heavily",
+      "hardly"
+    ],
+    "answer": "1",
+    "explanation": "句意：雪下得挺大，是吗？根据上文它落下来，落在本来就很厚的白色地毯上，可知雪下得很大，形容雪下得大，用副词heavily。所以答案为heavily。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "副词辨析，雪下得大",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. heavily",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_006",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "He put his hand n my shulder and lked dwn at me with a _____ n his face.",
+    "options": [
+      "fear",
+      "wrry",
+      "smile"
+    ],
+    "answer": "2",
+    "explanation": "句意：他把手放在我的肩上，脸上带着微笑低头看着我。根据下文他的笑容更加灿烂，可知爸爸在笑，所以答案为smile。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名词辨析smile表情",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. smile",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_007",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Oh, Dad,\" I said sadly, shaking his arm. \"Please... can we g sledging? Yu _____ we wuld if we ever gt snw.\"",
+    "options": [
+      "decided",
+      "prmised",
+      "replied"
+    ],
+    "answer": "1",
+    "explanation": "句意：你答应过我们（滑雪橇）如果下雪的话。根据上下文，可知爸爸之前答应过下雪了就去玩雪橇，所以答案为prmised。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词过去式promised",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. prmised",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_008",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Just a jke, dear. Of curse we can,\" said Dad. \"I knw the _____ place. G and get ready.\"",
+    "options": [
+      "beautiful",
+      "perfect",
+      "cld"
+    ],
+    "answer": "1",
+    "explanation": "句意：我知道一个完美的地方。根据下文我曾经在这里和我的雪橇一起度过许多快乐的时光，可知爸爸知道一个完美的玩雪橇的地方，所以答案为perfect。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形容词辨析perfect",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. perfect",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_009",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "We were walking t a place where my dad went sledging _____ he was a by.",
+    "options": [
+      "when",
+      "althugh",
+      "if"
+    ],
+    "answer": "0",
+    "explanation": "句意：我们正走向我父亲小时候常去滑雪橇的地方。根据句子意思，可知爸爸小时候就去过这个地方玩雪橇，所以这里是在描述过去的事情，答案为when。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "从属连词when表时间",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. when",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_010",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Here we are then. I used t _____ many happy hurs here with my sledge,\" said Dad.",
+    "options": [
+      "take",
+      "cst",
+      "spend"
+    ],
+    "answer": "2",
+    "explanation": "句意：我曾经在这里和我的雪橇一起度过许多快乐的时光。根据句子主语是I，应该使用spend来表示花费，所以答案为spend。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词搭配spend time",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. spend",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_011",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"This is it?\" I asked _____, lking at the slight incline that lay ahead f us.",
+    "options": [
+      "in surprise",
+      "at last",
+      "fr sure"
+    ],
+    "answer": "0",
+    "explanation": "句意：就这个（地方）吗？我惊讶地问。根据看着我们前面的缓坡，可知作者他爸爸所说滑雪橇的完美地方竟是个缓坡，所以感到惊讶，所以答案为in surprise。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "固定搭配in surprise",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. in surprise",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_012",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"It certainly is,\" said Dad. \"My friends and I _____ sme serius speed n here back in the day. Let me tell yu.\"",
+    "options": [
+      "picked up",
+      "lked up",
+      "gave up"
+    ],
+    "answer": "0",
+    "explanation": "句意：我和朋友们以前在这里逐渐加速（滑雪橇）的。固定短语pick up speed逐渐加速。可知作者和朋友们在这里取得了很快的速度，所以应该是加速，即picked up，答案为A。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词短语picked up speed",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. picked up",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_013",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "Dad gave me a _____, and dwn I went at a snail's pace.",
+    "options": [
+      "stp",
+      "pull",
+      "push"
+    ],
+    "answer": "2",
+    "explanation": "句意：爸爸推了我一下，我以蜗牛般的速度往下滑。根据dwn I went at a snail's pace，可知是爸爸在后面推作者，所以答案为push。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "名词辨析push",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. push",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_014",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "All I culd _____ behind me was his laughter.",
+    "options": [
+      "understand",
+      "see",
+      "hear"
+    ],
+    "answer": "2",
+    "explanation": "句意：我只能听到身后他的笑声。根据上文和下文behind me was his laughter，可知作者能听到的是爸爸的笑声，所以答案为hear。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词辨析听见laughter",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. hear",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_16829394_015",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完形填空",
+    "stem": "\"Maybe it isn't as steep as I _____.\"",
+    "options": [
+      "remembered",
+      "learned",
+      "nticed"
+    ],
+    "answer": "0",
+    "explanation": "句意：也许它并不像我记忆中那么陡峭。根据句子意思，可知爸爸之前记得这个地方很陡峭，但现在看来并不是，所以应该是记得，答案为remembered。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16829394.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "动词过去式remembered",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:24:03.128952"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. remembered",
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_012",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "I smetimes call him back, wrried that he might have smene ____12____ (scare).",
+    "options": null,
+    "answer": "scared",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "scare过去分词被动式",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_013",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "The truth, thugh, is ____13____ culd be guessed — there's never anyne else here.",
+    "options": null,
+    "answer": "what",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "情态动词被动语态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_015",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "By the time yu brushed yur teeth, yu ____15____ (make) several decisins even withut nticing.",
+    "options": null,
+    "answer": "had made",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "过去完成时用法",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_016",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "Usually, better utcmes ____16____ (achieve) thrugh a thrugh understanding f strategies like risk tlerance.",
+    "options": null,
+    "answer": "are achieved",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般现在时被动语态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_018",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "turists ____18____ (leave) ver 1.3 billin tns f fd waste last year,",
+    "options": null,
+    "answer": "left",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般过去时谓语动词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "英语_u2.k5_51jiaoxi_18246086_019",
+    "subject": "英语",
+    "kp_id": "u2.k5",
+    "unit_id": "u2",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "单词拼写",
+    "stem": "____19____ accunted fr abut 8% f the ttal glbal gas release in 2024.",
+    "options": null,
+    "answer": "which",
+    "explanation": "略",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18246086.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "一般过去时被动语态",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:26:52.390231"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

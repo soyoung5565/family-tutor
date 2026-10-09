@@ -1,0 +1,4229 @@
+[
+  {
+    "qid": "语文_u7.k2_zxxk_59576529_001",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列加点字意思完全相同的一项是（　　）",
+    "options": null,
+    "answer": "B",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59576529.html",
+      "site": "学科网",
+      "title": "第一单元自测练习卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "2026-2027学年统编版",
+      "fetched_at": "2026-09-15"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文加点字词义比较，属《文言文二则》常考题型。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "manual ingest",
+      "reviewed_at": "2026-09-15T19:50:31.491289"
+    },
+    "enabled": true,
+    "created_at": "2026-09-15",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.252661"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59486969_002",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "解释下面句子的意思。1.太祖欲知其斤重，访之群下，咸莫能出其理。2.一儿曰：\"日初出大如车盖，及日中则如盘盂，此不为远者小而近者大乎？\"",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59486969.html",
+      "site": "学科网",
+      "title": "第七单元自测练习卷-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-17"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两句话分别出自《曹冲称象》和《两小儿辩日》，考查文言文翻译能力。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-17T16:27:16.386251"
+    },
+    "enabled": true,
+    "created_at": "2026-09-17",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_003",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "孰为汝多知乎，\"为\"的正确读音是？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文《两小儿辩日》中\"为\"的多音字读音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 1,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "中",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.252661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "称象\"的\"称\"的正确读音是？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《曹冲称象》中多音字\"称\"的读音。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-flash"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.034061"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_005",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "看拼音，写词语。孔子东游，看见两个小孩在（biàndòu），问他们缘故。院子里有（xīshuài），还有（xiēzi），它们发出的声音很（qīngcuì）。\"我\"以为凡能发出声音的都是活的生物，钟声（hóngliàng）悦耳，（héxié）动听。爸爸说表里有蝎子，\"我\"半信半疑，心中充满（shénmì）。如今，我们（tànsuǒ）科学的奥秘，就像他们那时候一样有趣。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "内容出自《两小儿辩日》，考查本课生字词。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_006",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "组词",
+    "stem": "比一比，再组词：辩（　　）／辨（　　）／盂（　　）／孟（　　）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "辨析字形近字，辩、盂均出自《两小儿辩日》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用自己的话说说\"日初出大如车盖，及日中则如盘盂\"的意思。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文句意理解与翻译能力，句子出自《两小儿辩日》。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_008",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容填空",
+    "stem": "《两小儿辩日》中，一儿认为太阳刚出来时（　　），到了中午就像（　　），这是因为\"远者小而近者大\"；另一儿认为太阳刚出来时（　　），到了中午就像（　　），这是因为\"近者热而远者凉\"。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接考查《两小儿辩日》课文内容背诵与理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "两小儿辩日"
+    ],
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_009",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文内容填空",
+    "stem": "《曹冲称象》中，曹冲称象的办法是：把大象赶上大船，（　　），然后（　　），再称出石头的重量。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《曹冲称象》课文内容背诵与理解。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字词解释",
+    "stem": "我以日始出时去人近\"中\"以\"的意思是（　　），\"去\"的意思是（　　）。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "出自《两小儿辩日》文言字词解释",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_011",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用自己的话说说\"日初出沧沧凉凉，及其日中如探汤\"的意思。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "句子出自《两小儿辩日》，考查文言文句意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 4,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "易",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.252661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_012",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "两个小孩各自的理由分别是什么？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《两小儿辩日》中两小儿各自观点的依据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 4,
+      "threshold": 3,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.252661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_59602691_013",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答题",
+    "stem": "短文最后写\"孔子不能决也\"，说明了什么？",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/59602691.html",
+      "site": "学科网",
+      "title": "第七单元情景测试-2026-2027学年语文六年级上册统编版",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《两小儿辩日》中孔子不能决的含义。",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest.py",
+      "reviewed_at": "2026-09-18T00:17:17.191080"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": false,
+      "n_pass": 2,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.252661"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_zxxk_55507262_014",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "简答",
+    "stem": "解释下面加点字的意思。一吏自库中出：_______________；自仗剑下阶斩其首：_______________；申台府自劾：_______________；乖崖命杖之：_______________",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55507262.html",
+      "site": "学科网",
+      "title": "2024-2025学年江苏省扬州市广陵区育才集团统编版六年级上册期末 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言实词\"自\"在语境中的一词多义（从、自己、亲自）",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_12091063_003",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语解释",
+    "stem": "先解释加点字的意思，再写出词语的意思。\n(1)自愧弗如（ ）\n(2)赴汤蹈火（ ）",
+    "options": null,
+    "answer": "(1)不 自感不如别人而内心惭愧。(2)热水 跳进滚水，踏着烈火，比喻不避艰险，奋不顾身。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文字词解释",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:33.442936"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26289907_003",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字词解释",
+    "stem": "下列加点字解释有误的一项是(　　)。",
+    "options": [
+      "今乃掉尾而斗（摆动，摇）",
+      "少选之间而志在流水（心志，情志）",
+      "路转溪桥忽见（看见）",
+      "尾搐入两股间（大腿）"
+    ],
+    "answer": "2",
+    "explanation": "C项“见”应为“出现”的意思，应读xiàn，通“现”。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文《两小儿辩日》词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 路转溪桥忽见（看见）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26289907_016",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "理解词语。愠怒：____。献媚处事：____。",
+    "options": null,
+    "answer": "文中指父亲见众人赏家中盆栽兰草，心中烦闷生气；为人处世刻意讨好、迎合他人，丢失本心与风骨",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26289907",
+      "site": "21世纪教育网",
+      "title": "江苏常州市武进区2025-2026学年六年级上期末语文（图片版，含 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言二则相关词义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:13:32.415306"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_018",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "\"我的猜测\"指的是___________________________________。",
+    "options": null,
+    "answer": "表里边有一个活的生物",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解文中\"我的猜测\"含义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_18127030_021",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系上下文可推想\"相去甚远\"的意思是 。",
+    "options": null,
+    "answer": "\"我\"想象中南极岛的情形与现实所见的情形存在很大差异",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/18127030.html",
+      "site": "21世纪教育网",
+      "title": "统编版六年级上册语文第二次月考测试卷（含答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日词语句意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:21:02.046743"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u3.k1_21cnjy_18127030_021"
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_16427384_009",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文理解",
+    "stem": "下列各项中加点字的意思相同的一项是（　　）",
+    "options": [
+      "曰：非然也——悠然自得",
+      "虽与之俱学——声泪俱下",
+      "及日中则如盘盂——迫不及待",
+      "问其故——欲擒故纵"
+    ],
+    "answer": "1",
+    "explanation": "两个\"俱\"都是一块的意思；A项第一个\"然\"是这样的意思，第二个\"然\"是的样子；C项第一个\"及\"是到的意思，第二个\"及\"是来得及的意思；D项第一个\"故\"是缘故的意思，第二个\"故\"是有心、存心的意思。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/16427384.html",
+      "site": "21世纪教育网",
+      "title": "小学语文六年级下册分班考基础知识真题汇编（有答案）.doc - 教案 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "下册,教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文一词多义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:17:57.702387"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 虽与之俱学——声泪俱下",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26047889_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言名句",
+    "stem": "下列句子中，含义与\"耕当问奴，织当问婢\"蕴含的道理最接近的一项是（ ）。",
+    "options": [
+      "男耕女织，安居乐业，劳动最幸福。",
+      "业精于勤，荒于嬉；行成于思，毁于随。",
+      "劳动只有分工不同，没有高低贵贱之分。",
+      "纸上得来终觉浅，绝知此事要躬行，实践出真知。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/26047889",
+      "site": "21世纪教育网",
+      "title": "2026年秋期新教材统编版六年级上册语文教材分析解读 课件_21世纪教育...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "课件"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言名句道理理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:11.704186"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 纸上得来终觉浅，绝知此事要躬行，实践出真知。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_47473026_006",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "用现代汉语解释下列加点的词。（1）以衣被蔽塞窗户()（2）尤好属文()",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47473026.html",
+      "site": "学科网",
+      "title": "六年级语文期中模拟卷（上海专用，上册1~3单元）-学易金卷：2024-2025学年初中上学期期中模拟考试-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文加点词解释",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:11.737152"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2zxxk_47473026_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "用现代汉语翻译文中画线的句子，最恰当的一项是",
+    "options": [
+      "从此以后，他的名声更加广泛传开了，里里外外的亲属都叫他\"圣小儿\"。",
+      "因为这件事情，他的名声传得更广了，所有熟悉的亲属都叫他\"圣小儿\"。",
+      "因为这件事情，他的名声传得更广了，里里外外的亲属都叫他\"圣小儿\"。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/47473026.html",
+      "site": "学科网",
+      "title": "六年级语文期中模拟卷（上海专用，上册1~3单元）-学易金卷：2024-2025学年初中上学期期中模拟考试-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文句意翻译理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:36:11.737152"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 因为这件事情，他的名声传得更广了，里里外外的亲属都叫他\"圣小儿\"。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_50080720_005",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "【甲】文中'太祖'即______（人名）。（1分）",
+    "options": null,
+    "answer": "曹操",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《曹冲称象》历史常识考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.426312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_50080720_006",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "请用现代汉语解释下列加点字。（2分）①智意所及　②置象大船之上",
+    "options": null,
+    "answer": "①及：到，达到。②置：放，摆放。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《曹冲称象》文言字词解释",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.426312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_50080720_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "请用现代汉语翻译【甲】文中的画线句。访之群下，咸莫能出其理。",
+    "options": null,
+    "answer": "（太祖）询问手下的人，（他们）都不能想出称象的办法。",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《曹冲称象》句子翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.426312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_50080720_008",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "下列对【乙】文中画线句理解正确的一项是（2分）",
+    "options": [
+      "反问语气表达老汉对执竿者的不信任。",
+      "老汉对自己提出的建议感到十分自信。",
+      "老汉指出了执竿者执长竿而入的弊端。",
+      "表现出老汉见识广，灵活变通的特点。"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文内容理解与人物形象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.426312"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 表现出老汉见识广，灵活变通的特点。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2zxxk_50080720_009",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "根据【甲】【乙】两文的内容，完成下表。（5分）篇目　难题难点：甲①大象又大又重，超出了当时称量工具的计量范围和承载能力。且②______。乙执长竿入城门③______",
+    "options": null,
+    "answer": "②需要想出能够称出大象重量的方法；③竖着横着都不能进城，不知如何处理",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/50080720.html",
+      "site": "学科网",
+      "title": "上海市长宁区2024-2025学年（五四学制）六年级上学期期末考试语文试题-学科网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(zxxk)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "比较阅读梳理两文难题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-ingest-v4.py",
+      "reviewed_at": "2026-09-24T01:37:11.427319"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_18480068_003",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音字形",
+    "stem": "下列加点字词解释有误的一项是",
+    "options": [
+      "虽与之俱学（俱：一起）",
+      "脉脉不得语（脉脉：相视无言的样子）",
+      "及其日中如探汤（汤：菜汤）"
+    ],
+    "answer": "2",
+    "explanation": "古文中'汤'指热水，并非'菜汤'。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18480068.html",
+      "site": "教习网",
+      "title": "全国通用部编版语文小学六年级语文基线测试进阶模拟试卷（十一 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文两则词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:58:05.338715"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 及其日中如探汤（汤：菜汤）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15109734_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "贝多芬说：“我是来弹一首曲子给这位姑娘听的。”（改成转述句）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109734.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册第7-8单元练习卷（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "转述句训练",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:01.743179"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15109734_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句式转换",
+    "stem": "他便对父亲说，可以叫他的儿子认可来管祭器的。（改为直接引用）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109734.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册第7-8单元练习卷（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "直接引用与间接引用转换",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:01.743179"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15109734_008",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "把下面的诗句补充完整。（1）终生不复鼓琴，　　　　　　　　。",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15109734.html",
+      "site": "21世纪教育网",
+      "title": "2022-2023广东部编版语文六年级上册第7-8单元练习卷（无答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《伯牙鼓琴》古文默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:59:01.743179"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_013",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "阅读下面的小古文，回答问题。\n草书大王\n张丞相好书而不工。当时流辈①皆讥笑之。丞相自若②也。一日得句③，索笔疾书，满纸龙蛇飞动。使侄录之。当波险处④，侄罔然而止。执所书问曰：\"此何字也？\"丞相熟视久之，亦不自识。诟⑤其侄曰：\"汝⑥胡不早问，致余⑦忘之。\"\n【注释】①流辈：同辈；②自若：像自己原来的样子，不变常态；③得句：得到佳句；④波险处：书法中笔画怪诞的地方；⑤诟：责骂；⑥汝：你；⑦胡：为什么；⑦余：我。",
+    "options": null,
+    "answer": "(1)①C ②B；(2)你为什么不早点儿问我？导致我都忘记了。(3)张丞相好书而不工。(4)要知错就改，不能把自己的错强加在别人身上。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文阅读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:00:59.495805"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_17346502_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列选项中的\"之\"与\"到……去\"的意思相符的一项是（  ）",
+    "options": [
+      "以子之矛，陷子之盾",
+      "伯牙鼓琴，锺子期听之",
+      "黄鹤楼送孟浩然之广陵",
+      "勿以善小而不为，勿以恶小而为之"
+    ],
+    "answer": "2",
+    "explanation": "A项\"之\"是结构助词\"的\"；B项\"之\"是代词，指代鼓琴的声音；C项\"之\"是动词\"到、往\"，符合\"到……去\"的意思；D项\"之\"是代词，指代\"恶小\"。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-17346502.html",
+      "site": "教习网",
+      "title": "2025年浙江省温州市平阳县小升初语文试卷-教习网|试卷下载",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文\"之\"字义考查",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T02:59:20.711751"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 黄鹤楼送孟浩然之广陵",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_23110730_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "弈秋,通国之善弈者也。____,其一人专心致志,____;一人虽听之,一心以为____,____。",
+    "options": null,
+    "answer": "使弈秋诲二人弈；惟弈秋之为听；有鸿鹄将至；思援弓缴而射之",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《弈秋》文言文二则之一",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_23110730_009",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文理解",
+    "stem": "《两小儿辩日》中两个小孩围绕____的问题进行争辩,第一个小孩的观点是\"____\"(填课文原句),第二个小孩证明自己观点的依据是\"____\"(填课文原句),\"孔子不能决也\"说明孔子对待知识持有____的态度,同时我们也能从中悟出____的道理。",
+    "options": null,
+    "answer": "太阳何时离人远、何时离人近；我以日始出时去人近,而日中时远也；日初出沧沧凉凉,及其日中如探汤,此不为近者热而远者凉乎；实事求是；学无止境",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/23110730.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文《课文内容、日积月累、快乐读书吧》专项学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》文意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:56:35.814771"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "两小儿辩日"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_12091063_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言字词",
+    "stem": "下列句子中加点词的解释不正确的一项是( )。",
+    "options": [
+      "虽与之俱学，弗若之矣。(不如)",
+      "一儿曰:\"我以日始出时去人近，而日中时远也。\"(认为)",
+      "一儿曰:\"日初出沧沧凉凉，及其日中如探汤 ，此不为近者热而远者凉平\"(这里指天气很热)",
+      "孔子不能决也。(决心，决定)"
+    ],
+    "answer": "3",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日文言词义",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "D. 孔子不能决也。(决心，决定)",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_12091063_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言常识",
+    "stem": "在文言文的学习中，下列说法不正确的一项是( )。",
+    "options": [
+      "\"一心以为有鸿鹄将至\"中的\"鸿鹊\"指天鹅、大雁一类的鸟。",
+      "\"使弈秋诲二人弈\"一句中\"悔\"是教导的意思。",
+      "《两小儿辩日》告诉我们宇宙无限的道理。",
+      "\"为是其智/弗若与\"这句话朗读停顿划分准确无误。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言常识辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 《两小儿辩日》告诉我们宇宙无限的道理。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_12091063_016",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗默写",
+    "stem": "在下列句子中填入合适的名句。\n(1)我的爸爸是围棋教练，但在一次对弈中 ，我胜爸爸一筹，爸爸引用《荀子》中的语句赞叹道:\" ， 。\"",
+    "options": null,
+    "answer": "青 取之于蓝而青于蓝",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/12091063.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级下册语文第五单元提优密卷B 含答案.docx - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古文名句默写运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:30.572224"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25883233_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字形辨析",
+    "stem": "小梦看到了下面两组形近字，请你帮她选择正确的字，填入括号中。【辩 辨】( )别 狡( ) ( )识 【健 建】( )树 ( )全 ( )康",
+    "options": null,
+    "answer": "辨 辩 辨 建 健 健",
+    "explanation": "注意\"辩\"与说话、争论有关，\"辨\"与区分、辨别有关，如\"辨别\"、\"分辨\"；注意\"健\"与身体、强健有关，\"建\"与建立、设立有关。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "形近字辨析含辩/辨，与两小儿辩日相关",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "duplicate_of": "语文_u6.k6_21cnjy_25883233_004",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25883233_006",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "部分解说中引用了文言文的语句，其中加点字词解释有误的一项是（ ）。A．弗若之矣（不如） B．非然也（这样） C．见两小儿辩斗（分辨） D．孰为汝多知乎（同\"谓\"，说）",
+    "options": [
+      "弗若之矣（不如）",
+      "非然也（这样）",
+      "见两小儿辩斗（分辨）",
+      "孰为汝多知乎（同\"谓\"，说）"
+    ],
+    "answer": "2",
+    "explanation": "C．看见两个小孩在争辩、争论。辩斗：争辩、争论。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言字词解释出自两小儿辩日",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 见两小儿辩斗（分辨）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25883233_011",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "将【材料一】画线处补充完整。",
+    "options": null,
+    "answer": "通国之善弈者也 为是其智弗若与",
+    "explanation": "书写时注意\"善\"\"弈\"\"智\"\"弗\"的正确写法。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "课文填空可能涉及文言文二则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "语文_u5.k2_21cnjy_25883233_011"
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25883233_012",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "对比两则故事的异同，完成下列表格：对比内容 《管宁割席》 《学弈》 故事主角 管宁、华歆 弈秋、两个徒弟 干扰源 华歆因____________分心 一人因____________分心 专注表现 管宁__________。（用原文回答） 其一人______________。（用原文回答）",
+    "options": null,
+    "answer": "乘轩冕过门者 以为有鸿鹄将至 读如故 专心致志，惟弈秋之为听",
+    "explanation": "结合【材料一】句子\"一心以为有鸿鹄将至，思援弓缴而射之。\"可知学弈中分心的徒弟一心想要射鸿鹄；结合【材料一】句子\"其一人专心致志，惟弈秋之为听\"可知专注的人的表现。根据【材料二】中\"有乘轩冕过门者……歆废书出看\"可知，在读书时让华歆分心的是乘轩冕过门者；结合【材料二】句子\"宁读如故\"可知管宁专注的表现。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "对比阅读管宁割席与学弈",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "学弈"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25883233_013",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "结合两则故事，谈谈\"专注\"对个人成长的重要性，并举例说明。",
+    "options": null,
+    "answer": "专注能让我们排除干扰，把事情做好、学得扎实。《学弈》中，专心的人学得更好，三心二意的人成绩就差；《管宁割席》里，管宁不被金钱和富贵诱惑，专心读书，最终成为有学问的人。比如我们学习时，如果上课专心听讲、写作业不分心，就能掌握知识，成绩不断进步；如果总是被玩具、手机打扰，就很难学有所成。所以，专注是成功的重要条件。",
+    "explanation": "围绕\"专注\"的重要性，结合文本观点，选择贴合小学生学习生活的例子作答即可，言之有理即可，答案不唯一。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25883233.html",
+      "site": "21世纪教育网",
+      "title": "2025-2026学年统编版语文六年级下册考试范围第五单元（基础卷 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "结合文言故事谈主题",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:40.020074"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_002",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "下列名言中符合《两小儿辩日》中孔子做法的一项是（　　）",
+    "options": [
+      "知之为知之，不知为不知，是知也。",
+      "敏而好学，不耻下问。",
+      "学而不厌，诲人不倦。",
+      "三人行，必有我师焉。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文《两小儿辩日》内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "两小儿辩日"
+    ],
+    "answer_text": "A. 知之为知之，不知为不知，是知也。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_013",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "爱迪生走向成功的开始是（ ）",
+    "options": [
+      "他有远大的事业心。",
+      "他从小就爱动脑筋。",
+      "他遇事爱问\"为什么\"。",
+      "他有顽强的毅力和永不停歇的进取精神。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "说明文阅读，考查把握内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 他遇事爱问\"为什么\"。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_014",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "联系短文内容，在文中横线上填上合适的内容。",
+    "options": null,
+    "answer": "示例：这是怎么回事？为什么下雨之前就会打雷打闪呢？雷的声音和闪电的亮光是怎么来的呢？",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阅读理解填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_015",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "第3自然段中列举了爱迪生\"8岁时\"和\"12岁时\"的事例，是为了说明什么观点？",
+    "options": null,
+    "answer": "爱迪生从小就表现出爱观察事物、爱动脑筋、爱提问题的性格。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "举例论证方法理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_016",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "你是怎样理解爱迪生的\"天才就是1%的灵感加上99%的汗水\"这句话的？",
+    "options": null,
+    "answer": "一个人成功成才的关键在于自己长期坚持不懈地勤奋努力。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "理解名言含义，深度阅读",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_017",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文中\"我\"的心情发生了怎样的变化？根据第1自然段的内容写一写。",
+    "options": null,
+    "answer": "起初\"我\"吓了一跳，随后又感到愉快。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "体会心情变化，心理描写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_021",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "解释下列加点的字。①两小儿辩斗______②我以______日始出时去______人近③及______其日中如探汤______④孔子不能决______也⑤孰______为汝多知______乎",
+    "options": null,
+    "answer": "①争辩，争论；②认为，距离；③到，热水；④判断；⑤谁，通\"智\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文《两小儿辩日》字词理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_022",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子改写",
+    "stem": "下面两句话一是直接引用句，二是间接引用句。试将第一句改写为间接引用句，将第二句改写为直接引用句。①一儿曰：\"我以日始出时去人近，而日中时远也。\"②一儿以日初出远，而日中时近也。",
+    "options": null,
+    "answer": "①一儿曰，他以日始出时去人近，而日中时远也。②一儿曰：\"我以日初出远，而日中时近也。\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查文言文《两小儿辩日》句子改写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_023",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "\"孰为汝多知乎？\"你觉得这能怪孔子吗？这说明了什么？",
+    "options": null,
+    "answer": "不能。因为这是当时人不能解决的问题。说明一个人懂得的知识总是有限的，知识无穷尽，即使是博学多闻的孔子也会有所不知。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《两小儿辩日》主题理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_10863474_024",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "两小儿的\"辩斗\"对你有什么启发？请联系实际谈谈。",
+    "options": null,
+    "answer": "对待事物要从不同角度不同方面去看待，不能只停留在一点上，要实事求是，虚心思考。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10863474.html",
+      "site": "21世纪教育网",
+      "title": "部编版语文六年级下册第五单元练习试题（含答案+示例作文）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查《两小儿辩日》联系实际谈启发",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:19:43.801117"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_001",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "看拼音写词语",
+    "stem": "根据语境，看拼音写词语。（12分）1.贝多芬借着月光，按起了qín jiàn，皮鞋匠兄妹俩 táo zuì在这美妙的琴声中。2.住在lái yīn hé畔的mánɡ ɡū niɑnɡ，听着美妙的音乐，仿佛看见了月光照耀着的大海。3.爷爷在chú fánɡ里sǎ xià了一点儿食物，不知道怎么引来了一只cì wei，这小家伙一看有人过来，马上táo cuàn了。4．许多美的人和事，cuò zōnɡ起来像一天云锦，映照在水里，zhòu rán一惊，仿佛有谁zhì了一块大石头到chénɡ bì的小河中，将整篇的影子撕成片片了。",
+    "options": null,
+    "answer": "1.琴键 陶醉 2.莱茵河 盲姑娘 3.厨房 撒下 刺猬 逃窜 4.错综 骤然 掷 澄碧",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "伯牙鼓琴、文言文词语",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_002",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音选择",
+    "stem": "下列词语中加点字的读音不正确的一项是（    ）A.乐谱（pǔ） 善哉（zāi） 锦缎（jǐn）B.纯熟（chún） 琴弦（xuán） 悔之晚矣（yǐ）C.一缕（lǚ） 画轴（zhóu） 少选（shǎo）D.巍峨（wēi） 曝晒（pù） 奖券（quàn）",
+    "options": [
+      "乐谱（pǔ） 善哉（zāi） 锦缎（jǐn）",
+      "纯熟（chún） 琴弦（xuán） 悔之晚矣（yǐ）",
+      "一缕（lǚ） 画轴（zhóu） 少选（shǎo）",
+      "巍峨（wēi） 曝晒（pù） 奖券（quàn）"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《伯牙鼓琴》字音辨析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 纯熟（chún） 琴弦（xuán） 悔之晚矣（yǐ）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义选择",
+    "stem": "下列句子中加点字的解释错误的一项是（    ）A.伯牙鼓琴（弹）B.常以自随（随后）C.所宝以百数（计算）D.以为世无足复为鼓琴者（值得）",
+    "options": [
+      "伯牙鼓琴（弹）",
+      "常以自随（随后）",
+      "所宝以百数（计算）",
+      "以为世无足复为鼓琴者（值得）"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《伯牙鼓琴》字义理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 常以自随（随后）",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_008",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "修辞手法",
+    "stem": "下列句子中运用的修辞手法相同的是（    ）①月亮越升越高，穿过一缕一缕轻纱似的微云。②宁静的夜晚，只有那天上的星星在窃窃私语。③双方正在对打，激烈到简直是风雨不透。④善哉乎鼓琴，汤汤乎若流水。A.①③ B.①④ C.②③ D.②④",
+    "options": [
+      "①③",
+      "①④",
+      "②③",
+      "②④"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "伯牙鼓琴修辞，兼及京剧",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. ①④",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古诗理解",
+    "stem": "下列诗句不是描写音乐的一项是（    ）A.此曲只应天上有，人间能得几回闻。B.锦城丝管日纷纷，半入江风半入云。C.有约不来过夜半，闲敲棋子落灯花。D.大弦嘈嘈如急雨，小弦切切如私语。",
+    "options": [
+      "此曲只应天上有，人间能得几回闻。",
+      "锦城丝管日纷纷，半入江风半入云。",
+      "有约不来过夜半，闲敲棋子落灯花。",
+      "大弦嘈嘈如急雨，小弦切切如私语。"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "古诗中描写音乐的句子",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 有约不来过夜半，闲敲棋子落灯花。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_015",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "伯牙破琴绝弦，终身不复鼓琴，以为世无足复为鼓琴者。（用自己的话说说这句话的意思）",
+    "options": null,
+    "answer": "伯牙摔坏所弹之琴，弄断琴弦，终身不再弹琴，认为世上再也没有值得他为之弹琴的人了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《伯牙鼓琴》句子翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_017",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "古文默写",
+    "stem": "方鼓琴而志在太山，锺子期曰：\"____________，______________。\"少选之间而志在流水，锺子期又曰：\"____________，______________。\"",
+    "options": null,
+    "answer": "善哉乎鼓琴 巍巍乎若太山 善哉乎鼓琴 汤汤乎若流水",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《伯牙鼓琴》名句默写",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_018",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据\"伯牙鼓琴\"这个故事，人们把真正了解自己的人称为\"____\"，并用\"_________\"比喻知音难觅或乐曲高妙。",
+    "options": null,
+    "answer": "知音 高山流水",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "伯牙鼓琴课文填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:04:45.211695"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25373647_011",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用自己的话说说下面句子的意思。一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之。",
+    "options": null,
+    "answer": "另一个人虽然也在听讲，一心想着天上有天鹅将要飞来，想着拉弓搭箭射下天鹅。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》句子翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:06.003386"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_25373647_012",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用自己的话说说下面句子的意思。两小儿笑曰：\"孰为汝多知乎？\"",
+    "options": null,
+    "answer": "两个小孩笑着说：\"谁说您十分有智慧呢？\"",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/25373647.html",
+      "site": "21世纪教育网",
+      "title": "部编版六年级语文下册第五单元测试卷（含答案）.doc - 试卷- 小学 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》句子翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:06.003386"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": true,
+      "n_pass": 2,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:09.034061"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "根据课文内容填空。\n《真理诞生于一百个问号之后》开门见山地提出了论点，通过___、___、____这三个有代表性的具体事例，证明了____，就能在生活中发现真理。\n《学弈》选自《____》。文章先写弈秋是全国最善于下围棋的人；接着写弈秋教两个学习____不同的人下棋，学习____也截然不同；最后写这两个人学习____不同，并不是因为智力上有多大差别。通过这件事，说明了学习应____，不可____的道理。\n《表里的生物》是我国著名作家____写的一篇记叙文。文中小时候的\"我\"认为能发出声音的都是____，所以对父亲的表极为好奇，并相信了父亲说的表里有____的话。\n苟利于民，_____；苟周于事，_____。（《淮南子》）",
+    "options": null,
+    "answer": "溅上盐酸的紫罗兰花瓣变红 地图上地球所有大陆都能较好地吻合在一起 睡觉时眼珠的转动 只要见微知著，善于发问，锲而不舍地追根求源 孟子·告子上 态度 效果 结果 专心致志 三心二意 冯至 活的生物 小蝎子 不必法古 不必循旧",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《真理诞生于一百个问号之后》《学弈》课文内容",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "学弈",
+      "真理诞生于一百个问号之后"
+    ],
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_012",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字音辨析",
+    "stem": "给下列文言词\"为\"选择正确读音打\"√\"。\n1．惟弈秋之为（wéi wèi）听。\n2．一心以为（wéi wèi）有鸿鹄将至。\n3．为（wéi wèi）是其智弗若与。\n4．日初出大如车盖，及日中则如盘盂，此不为（wéi wèi）远者小而近者大乎？\n5．日初出沧沧凉凉，及其日中如探汤，此不为（wéi wèi）近者热而远者凉乎？\n6．孰为（wéi wèi）汝多知乎？",
+    "options": null,
+    "answer": "1．wéi 2．wéi 3．wèi 4．wéi 5．wéi 6．wèi",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《学弈》《两小儿辩日》文言词读音",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_021",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言字词",
+    "stem": "解释下列句中加点字的意思。\n（1）我以日始出时去人近( )\n（2）孰为汝多知乎( )",
+    "options": null,
+    "answer": "认为 你",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日加点字解释",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_022",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "两小儿辩斗时，一儿从___的角度分析，认为\"日初出大如车盖\"；一儿从____的角度分析，认为\"日初出沧沧凉凉\"。",
+    "options": null,
+    "answer": "视觉 触觉",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_023",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "\"两小儿笑曰：'孰为汝多知乎？'\"朗读该句的语气应该是（ ）",
+    "options": [
+      "反问，带有嘲讽，表现出小孩子的机智可爱。",
+      "疑问，幸灾乐祸，冷嘲热讽。"
+    ],
+    "answer": "0",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言句语气朗读理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "A. 反问，带有嘲讽，表现出小孩子的机智可爱。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_11932085_024",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "从两小儿辩论的角度我明白__，从\"孔子不能决也\"的角度我明白___。",
+    "options": [
+      "学无止境，再博学的人也会有不知道的东西，我们应该实事求是",
+      "知识是不分年龄的，只有多听取小孩子的意见，才能有所进步",
+      "从不同的角度看待问题，得到的结果就不一样"
+    ],
+    "answer": "C A",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/11932085.html",
+      "site": "21世纪教育网",
+      "title": "部编版小学语文六年级下册第五单元质量调研卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日寓意理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:58:08.896866"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_015",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义理解",
+    "stem": "联系上下文，给加点字选择正确的解释。张丞相好书而不工（　　　　）",
+    "options": [
+      "优点多的   B",
+      "喜爱   D\":\"表示赞许"
+    ],
+    "answer": "2",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文字义理解，出自课本",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_016",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义理解",
+    "stem": "联系上下文，给加点字选择正确的解释。执所书问曰（　　 　）",
+    "options": [
+      "坚持       B",
+      "捉住     D\":\"凭证，单据"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文字义理解，文言文二则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 捉住     D\":\"凭证，单据",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_017",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "句子翻译",
+    "stem": "用自己的话写出下面句子的意思。汝胡不早问，致余忘之",
+    "options": null,
+    "answer": "你为什么不早点儿问我？导致我都忘记了。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文句意翻译，来自文言文二则",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_018",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文理解",
+    "stem": "\"当时流辈皆讥笑之\"的原因是（用文中的句子回答）",
+    "options": null,
+    "answer": "张丞相好书而不工",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文内容理解，曹冲称象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_24126519_019",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读感悟",
+    "stem": "读了这则故事，你有什么启示？",
+    "options": null,
+    "answer": "要知错就改，不能把自己的错强加在别人身上。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/24126519.html",
+      "site": "21世纪教育网",
+      "title": "统编版语文六年级上册第八单元测试卷（含答案）.doc - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文阅读启示，曹冲称象",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:57:10.517989"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_005",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语运用",
+    "stem": "下列与戏曲有关的词语，使用不恰当的是",
+    "options": [
+      "刚刚结束冬训的国家女排，今晚在体育馆首次亮相。",
+      "元旦联欢会，校舞蹈队作为压轴首先出场。",
+      "弟弟虽然还小，但做事有板有眼，让人夸赞。",
+      "每次班级排演节目，跑龙套的肯定有他。"
+    ],
+    "answer": "1",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "戏曲词语理解运用",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:09.228901"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 元旦联欢会，校舞蹈队作为压轴首先出场。",
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_14230577_020",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "字义解释",
+    "stem": "解释下列句子中加点的字词。（1）好书画 （2）尾搐入两股间 （3）今乃掉尾而斗 （4）处士笑而然之",
+    "options": null,
+    "answer": "（1）喜爱 （2）抽缩 （3）摆动，摇 （4）认为他说得对",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/14230577.html",
+      "site": "21世纪教育网",
+      "title": "2022年上学期江苏盐城名小六年级语文12月自我提优练习（有答案）",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《书戴嵩画牛》文言字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:09.228901"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文理解",
+    "stem": "下列对课文内容理解有误的一项是( )",
+    "options": [
+      "《他们那时候多有趣啊》是美国作家艾萨克·阿西莫夫写的一篇科幻小说，幻想未来的上学方式。",
+      "《真理诞生于一百个问号之后》用具体事例论述了只要善于观察，不断发问，不断解决疑问，锲而不舍地追根求源，就能在现实生活中发现真理。",
+      "《表里的生物》一文中\"我\"知道表里并没有真正的生物，而是表里的零件在运动，\"我\"把它们当成了小蝎子、蟋蟀。",
+      "《两小儿辩日》中可以看出孔子\"知之为知之，不知为不知\"的治学态度。"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》课文理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false,
+    "duplicate_of": "语文_u6.k1_51jiaoxi_17797934_005"
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_009",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言字词",
+    "stem": "说说下面加点的字在文言文里的意思。群儿戏于庭。庭：____ 因释其耒而守株。释：____ 虽与之俱学。俱：____",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言字词解释，《文言文二则》",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_010",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "词语理解",
+    "stem": "我会推想下列词语的意思。门庭若市：____ 如释重负：____ 声泪俱下：____",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "由文言词义推想成语意思",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_014",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "课文填空",
+    "stem": "学了本单元，我们认识了几个同龄人，有学弈的两个人，他们学习态度迥异：\"其一人专心致志，惟弈秋之为听；____，____，____。\"",
+    "options": null,
+    "answer": "见题干",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《学弈》原文背诵填空",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "suspect_xiace_content": [
+      "学弈"
+    ],
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_018",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言字词",
+    "stem": "选文一中，\"及其日中如探汤\"，这个\"汤\"的意思是____。由此推想词语\"赴汤蹈火\"的意思是____",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》文言字词",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_019",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "选文一中，两小儿各有观点与依据，请摘录相关信息，完成下面的辩论。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_020",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读选文一，判断下列说法是否正确，正确的打\"√\"，错误的打\"×\"。①选文一围绕\"辩\"字，以对话的形式，讲述两小儿各自的观点和依据。（ ）②从选文一中得知，只要多观察、多思考，小孩子也可以有独特的发现和思考。（ ）③这个故事是为了说明孔子并没有那么学识渊博。（ ）",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》阅读判断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_021",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "阅读两篇选文，下列说法错误的一项是( )",
+    "options": [
+      "\"日初出大如车盖\"是因为日初升时，以树木、房屋、远山等作为衬托，所以显得大。",
+      "\"及其日中如探汤\"是因为太阳在中午直射地面，照射面积小，地面获得的热量多。",
+      "以选文二可以推断两小儿辩论的依据是有道理的，结论也是对的。",
+      "以选文二可以知道太阳给人的不同感觉和背景衬托物、照射角度有关。"
+    ],
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日内容理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_15393503_022",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "读两篇选文，面对两千多年前孔子\"不能决\"的问题，现在你能解答吗？请说明你的观点和依据。(至少说出两个依据)",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/15393503.html",
+      "site": "21世纪教育网",
+      "title": "湖南省怀化市通道县2022-2023学年六年级下学期第五单元单元目标 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "两小儿辩日拓展探究",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:33:04.496075"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_7897198_040",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "阅读理解",
+    "stem": "在文中\"莺\"是一个怎样的形象？作者为什么说\"人的智慧和莺也相差不远\"？",
+    "options": null,
+    "answer": "受欺而不自知、愚蠢;因为在现实中，有许多人也\"全凭主观意象而不顾实际\"，从而被蒙蔽了还不自知。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/7897198.html",
+      "site": "21世纪教育网",
+      "title": "江苏某知名小学部编版六年级语文上册第一次月考试卷(有答案).rar",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "《两小儿辩日》类短文理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:42:05.861623"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26546730_050",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "起初，他对这件事非常满意。",
+    "options": null,
+    "answer": "At first, he was very satisfied with it.",
+    "explanation": "原句中满意是关键词，表示对…… 满意的短语是be satisfied with。本句为一般过去时，was后接形容词。故填satisfied。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及阿基米德故事语境",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26546730_051",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "除了我的无知这个事实之外，我什么都不知道。",
+    "options": null,
+    "answer": "I know nothing except the fact of my ignorance.",
+    "explanation": "原句中的关键词为无知，空处位于物主代词my之后，应用名词形式，无知的英文为ignorance，不可数名词，符合题意。故填ignorance。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "涉及科学家名言翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26546730_052",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "给我一个稳固的立足点，我就能撬动地球。",
+    "options": null,
+    "answer": "Give me but one firm spot on which to stand, and I will move the Earth.",
+    "explanation": "原句为关键词为稳固的，firm译为稳固的，形容词修饰名词，firm spot意为稳固的立足点，故填firm。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阿基米德名言中译英",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26546730_054",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "这顶王冠真不错，是吧 他问他的儿子——王子。",
+    "options": null,
+    "answer": "It's a nice crown, isn't it he asked his son, the prince.",
+    "explanation": "原句中王子是关键词，对应的英文单词是prince。the后面接名词，此处用单数，作his son的同位语。故填prince。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阿基米德王冠故事",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_21cnjy_26546730_055",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "完成句子",
+    "stem": "阿基米德直奔宫殿去见国王。",
+    "options": null,
+    "answer": "Archimedes went straight to the palace to see the king.",
+    "explanation": "原句中直奔宫殿去……是关键词，表示直奔宫殿去……的结构短语是went straight to the palace to，句子描述过去发生的动作，用一般过去时went，去……表目的，用不定式符号to。故填went straight to the palace to。",
+    "source": {
+      "url": "https://zy.21cnjy.com/26546730",
+      "site": "21世纪教育网",
+      "title": "doc 26546730",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "阿基米德见国王情节",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:52:17.363614"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_15505532_004",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "阅读理解完成下面小题。\n《老马识途》\n管仲．隰朋从于桓公而伐孤竹，春往冬反，迷惑失道。管仲曰：\"老马之智可用也。\"乃放老马而随之，遂得道行。山中无水，隰朋曰：\"蚁冬居山之阳，夏居山之阴，蚁壤一寸而仞有水。\"乃掘之，遂得水。以管仲之圣而隰朋之智，至其所不知，不难师于老马．老蚁，今人不知以其愚心而师圣人之智，不亦过乎？\n解释加点的词\n①春往而冬反(      )\n②迷惑失道(       )\n③遂得水(     )",
+    "options": null,
+    "answer": "①返回 ②归途 ③得到",
+    "explanation": "本题考查文言字词的理解能力。①\"春往而冬反\"句意为：春天前去，冬天返回。反：通\"返\"，返回。②\"迷惑失道\"句意为：迷路而找不到归途。道：归途。③\"遂得水\"句意为：于是得到了水。得：得到。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文阅读，属文言文二则类",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_15505532_005",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "用现代汉语解释下列句子。\n管仲曰：\"老马之智可用也。\"________蚁冬居山之阳，夏居山之阴。___________",
+    "options": null,
+    "answer": "管仲说：\"老马的智慧可以采用。\"蚂蚁冬天居住在山的南面，夏天住在山的北面。",
+    "explanation": "本题考查文言文翻译。注意文言实词、虚词的意义和用法的积累，了解并掌握常见的文言特殊句式。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文句子翻译",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_15505532_006",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "文中故事是成语_________的来历，现比喻_____________",
+    "options": null,
+    "answer": "老马识途；富有经验，能为先导知是识非道的人。",
+    "explanation": "本题考查了学生对文言文及词语的理解能力。文中故事是成语\"老马识途\"的来历，比喻有经验，能带领新手工作。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文典故与成语理解",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "语文_u7.k2_51jiaoxi_15505532_007",
+    "subject": "语文",
+    "kp_id": "u7.k2",
+    "unit_id": "u7",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "文言文阅读",
+    "stem": "文中谈到人们获取知识有两种途径，请你简要概括一下这两种途径分别是什么。",
+    "options": null,
+    "answer": "一是多和日常生活接触，积累宝贵经验；二是向圣人学习，获取已有的知识。",
+    "explanation": "本题考查了概括文言文主旨能力，文中写了管仲和隰朋在迷路时向老马求助，口渴时根据蚂蚁的居住习惯找到水源这两件事，启示人们要谦虚好学。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-15505532.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "文言文内容概括与拓展",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:53.436810"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

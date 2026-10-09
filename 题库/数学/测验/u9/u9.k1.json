@@ -1,0 +1,1410 @@
+[
+  {
+    "qid": "数学_u9.k1_zxxk_55064374_001",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空",
+    "stem": "1、2班学生的比赛成绩统计图如下。（1）若80分以上(不含80分)为优秀，班比赛成绩是优秀的人数更多，多人。（2）1班的平均成绩是分，2班的平均成绩是分，班同学对汉服文化掌握得更好。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55064374.html",
+      "site": "学科网",
+      "title": "第四五单元月考综合测试（试题）-2025-2026学年六年级上册数学北 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": [
+        "u9.k4"
+      ]
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图比较两班成绩，再求各班平均分",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": false,
+      "v3_passed": false,
+      "n_pass": 0,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "jev"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.141047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_zxxk_55064374_002",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "判断",
+    "stem": "比较两个城市的月平均气温变化情况，用复式条形统计图更合适。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://www.zxxk.com/soft/55064374.html",
+      "site": "学科网",
+      "title": "第四五单元月考综合测试（试题）-2025-2026学年六年级上册数学北 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-18"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "zxxk 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "考查复式条形统计图的适用场景——比较两组数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "zxxk-pipeline-v2",
+      "reviewed_at": "2026-09-18T23:23:29.144163"
+    },
+    "enabled": true,
+    "created_at": "2026-09-18",
+    "use_count": 0,
+    "vote_review": {
+      "version": "v4",
+      "passed": true,
+      "v3_passed": true,
+      "n_pass": 3,
+      "n_total": 3,
+      "threshold": 2,
+      "models": [
+        "kimi-k3",
+        "deepseek-v4-pro",
+        "jev"
+      ],
+      "difficulties": [
+        "易",
+        "易",
+        "易"
+      ],
+      "reviewed_at": "2026-09-24T20:26:07.141047"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_041",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "为践行\"光盘行动\"，实验小学对各个年级学生每天的剩饭菜进行统计，每周评比一次。下面是本学期第十二周剩饭菜情况统计表。\n年级 一 二 三 四 五\n质量/千克 18 17 19 16 12\n(1)根据统计表完成条形统计图。(2)第十二周，( )年级的剩饭菜最多，( )年级的剩饭菜最少。(3)实验小学的学生第十二周共产生剩饭菜( )千克。(4)根据以上信息，你想对同学们说点什么？",
+    "options": null,
+    "answer": "(2)三；五 (3)82",
+    "explanation": "18＋17＋19＋16＋12＝82千克。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单式条形统计图读图分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:05.564396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_042",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面是三年级学生最喜欢的体育项目统计表。\n项目 踢毽子 跳绳 羽毛球 篮球\n人数（人） 40 45 35 20\n(1)上图中1格代表（ ）人，用画斜线的方式补全统计图。(2)最喜欢( )项目的人数最多，最喜欢( )项目的人数最少。(3)如果学校要组建一个体育项目社团，请你结合统计图的数据，给体育老师提出一条合理化建议。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单式条形统计图补全与读图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:22:05.564396"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_10544096_044",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "笑笑统计了六（2）班同学期中考试的数学成绩，制成了下面两幅不完整的统计图，其中数学成绩分为A，B，C，D四个等级，看图完成下列问题。（1）把两幅统计图补充完整。（2）六（2）班共有（ ）人。",
+    "options": null,
+    "answer": "（2）40人",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/10544096.html",
+      "site": "21世纪教育网",
+      "title": "人教版六年级数学上册解决问题专项练习题（含答案）.zip - 试卷",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图补充完整",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T01:15:09.457893"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_18676552_018",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是六(1)班和六(2)班各12名男生1分钟跳绳成绩（单位：次）。六(1)班：95、102、108、115、118、122、125、128、133、138、142、145；六(2)班：98、105、109、112、120、124、126、131、135、139、141、150。(1) 分段整理数据（100次以下、100～119次、120～139次、140次以上），并完成统计表。(2) 如果140次以上算优秀，两个班的优秀率分别是多少？(3) 哪个班的跳绳成绩好一些？说明你的理由。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676552.html",
+      "site": "教习网",
+      "title": "数学北师大版（2024）身高的变化优秀第4课时复习练习题-教习网 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图分段整理数据",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:26:35.002316"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 1,
+      "n_total": 2,
+      "threshold": 2,
+      "models": [
+        "MiniMax-M3",
+        "kimi-k3"
+      ],
+      "difficulties": [
+        "中",
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.914783"
+    },
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_14914140_021",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "作图题",
+    "stem": "在\"阳光大课间\"活动中，学校的大队部开展以\"我最喜欢的体育项目\"为主题的调查活动。大队部将调查的结果分析整理后，正在绘制统计图。请你完成下面的条形统计图。",
+    "options": null,
+    "answer": "见详解",
+    "explanation": "总人数：70÷35%＝200人；跳绳70人，其他25%即50人，30%即60人，剩余20人。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14914140.html",
+      "site": "教习网",
+      "title": "小学数学7 扇形统计图单元测试随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "补全单式条形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:16.709884"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_14914140_023",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "某希望小学六年级有300名同学，参加课外兴趣小组分布情况如下图。（1）参加体育兴趣小组的同学比参加音乐兴趣小组的同学多多少人？（2）参加其他兴趣小组的同学有多少人？",
+    "options": null,
+    "answer": "（1）78人（2）36人",
+    "explanation": "（1）300×（44%－18%）＝78人；（2）300×（1－26%－44%－18%）＝36人。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-14914140.html",
+      "site": "教习网",
+      "title": "小学数学7 扇形统计图单元测试随堂练习题-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据条形统计图求人数差",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:16.709884"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_16080758_014",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下面是育才小学六年级一班学生体育情况统计图（表），已知肥胖和超重人数共15人，请将下面统计表和统计图补充完整并回答问题。根据图中信息，你想对他们提出什么建议？",
+    "options": null,
+    "answer": "总人数60人；营养不良10%；肥胖9人；超重6人；较低体重25%、15人；正常体重40%、24人；建议：青少年要合理饮食，适当锻炼，让自己有一个良好的身体和精神风貌。",
+    "explanation": "六一班的总人数：15÷（15%＋10%）＝60（人）；肥胖的学生人数：60×15%＝9（人）；超重的学生人数：60×10%＝6（人）；较低体重的学生人数：60－15－6－24＝15（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形图与统计表结合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_16080758_016",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "如图为六年级某次考试成绩的两种统计图。在扇形统计图中，用整个圆表示全级同学的人数，学生成绩分为A、B、C、D四个等级。根据图中数据完成下面问题。（1）D等级学生占全年级学生人数的百分之几？（2）六年级学生总人数是多少？（3）通过计算补充完整条形统计图。",
+    "options": null,
+    "answer": "（1）6%；（2）300人；（3）A等级90人，C等级60人",
+    "explanation": "（1）1－20%－30%－44%＝6%；（2）18÷6%＝300（人）；（3）A等级：300×30%＝90（人），C等级：300×20%＝60（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16080758.html",
+      "site": "教习网",
+      "title": "北师大版六年级数学上册 8.3《统计与概率》练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "扇形图与条形图综合",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T01:29:01.616480"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_9496701_005",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "教材第110页第4题:根据复式条形统计图回答问题。(1)哪个班的男生人数最多?哪个班的女生人数最少?(2)六年级平均每班有学生多少人?",
+    "options": null,
+    "answer": "(1)六(3)班的男生人数最多,六(1)班的女生人数最少。(2)(14+24+18+22+15+30+18+27)÷4=168÷4=42(人)",
+    "explanation": "先求出六年级的总人数，再除以总的班级数",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图含平均数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_9496701_007",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "四年级学生喜欢各种玩具的人数情况如下表。小汽车:男生22人、女生5人;布娃娃:男生15人、女生18人;拼图:男生8人、女生24人;跳棋:男生13人、女生14人。根据以上数据制成复式条形统计图。(1)男生喜欢什么玩具的人数多?女生呢?(2)喜欢什么玩具的人数最多?(3)你还能发现什么信息?",
+    "options": null,
+    "answer": "(1)男生喜欢小汽车的人数多,女生喜欢布娃娃的人数多。(2)18+14=32(人),喜欢拼图的人最多。(3)答案不唯一,例如:喜欢跳棋的人最少。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "绘制复式条形统计图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_9496701_009",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "\"亮亮\"理发店一周理发人数统计表:星期日女26男25、星期一女10男11、星期二女11男12、星期三女15男15、星期四女12男15、星期五女9男12、星期六女22男29。请你完成下面的条形统计图。(1)这一周平均每天有多少名女顾客?(2)这一周平均每天有多少名男顾客?(3)这一周平均每天有多少名顾客理发?(4)自己提出数学问题,并解答。",
+    "options": null,
+    "answer": "(1)(26+10+11+15+12+9+22)÷7=15(名);(2)(25+11+12+15+15+12+29)÷7=17(名);(3)15+17=32(名);(4)答案不唯一,例如:哪一天男女顾客相差多?答:星期六相差最多。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图+平均数",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_9496701_016",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "实验小学学生举行\"送温暖\"捐款活动。根据捐款情况的统计图回答:(1)哪个年级段的学生捐款最多?是多少元?(2)高年级男生比低年级男生多捐多少元?低年级女生比中年级女生少捐多少元?",
+    "options": null,
+    "answer": "(1)中年级,760+570=1330(元)。(2)630-520=110(元);760-480=280(元)。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图数据分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "vote_review": {
+      "version": "newbatch",
+      "passed": false,
+      "n_pass": 0,
+      "n_total": 1,
+      "threshold": 1,
+      "models": [
+        "MiniMax-M3"
+      ],
+      "difficulties": [
+        "中"
+      ],
+      "reviewed_at": "2026-09-24T20:26:08.914783"
+    },
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_9496701_017",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "某校四年级两个班学生体重情况统计图,请根据统计图回答问题。(1)体重在(　　)范围内的学生人数最少,在(　　)范围内的学生人数最多。(2)体重在30千克以下的学生有(　　)人。(3)这两个班一共有(　　)人。",
+    "options": null,
+    "answer": "(1)25以下;30~35。(2)22。(3)75。",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/9496701.html",
+      "site": "21世纪教育网",
+      "title": "总复习--平均数与复式条形统计图.zip - 教案- 小学数学- 21世纪教育网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24",
+      "suspect": true,
+      "suspect_reason": "教案"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图读图分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T02:01:10.369068"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_043",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "统计并分析数据。下面是三（1）班学生一分钟仰卧起坐测试成绩统计表和统计图。 等级 优秀 良好 及格 不及格 合计 成绩（个） 40以上 40～34 34～21 21以下 人数 8 16 12 7 (1)先填写统计表中的合计人数，然后根据统计表完成条形统计图。(2)在这个条形统计图中，一格表示( )人。(3)分析统计数据，你想给他们提出什么建议？",
+    "options": null,
+    "answer": "合计43人",
+    "explanation": "8＋16＋12＋7＝43（人）。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单式条形统计图含合计与分级",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_047",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面是七年级学生体育测试合格情况。 项目 1分钟跳绳 立定跳远 投实心球 仰卧起坐 男生 20 17 20 8 女生 30 25 15 5 (1)根据上表，把下面的统计图补充完整。(2)根据统计图推断，七年级学生最需要加强( )的训练。",
+    "options": null,
+    "answer": "(2)仰卧起坐",
+    "explanation": "仰卧起坐合格人数最少，需要加强训练。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "单式条形统计图补全推断",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_048",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "学校准备的菜品中，四年级学生最喜欢吃的菜品统计表如下。 菜品种类 蒜蓉油麦菜 可乐鸡翅 白灼大虾 番茄牛腩 男生 23 41 40 33 女生 31 32 35 34 (1)请根据统计表绘制复式条形统计图。(2)10岁左右的儿童需从每顿午餐中摄取不低于2926千焦的热量和不超过50克的脂肪。聪聪选择了下面三种菜品，他的午餐( )营养标准。（填\"符合\"或\"不符合\"） 菜品种类 红烧鱼块 可乐鸡翅 小炒牛肉 热量/千焦 1338 1188 953 脂肪/克 12 15 11",
+    "options": null,
+    "answer": "(2)符合",
+    "explanation": "总热量1338＋1188＋953＝3479千焦，≥2926；总脂肪12＋15＋11＝38克，≤50，符合标准。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图绘制与营养建议",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_049",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "为了让同学们了解更多的民族传统文化，学校举办了\"民族文化游园日\"活动。活动当天，小明对四年级同学们的着装情况进行了统计，结果如下。 男、女生着装情况统计表 种类 合计 汉服 唐装 民国服装 其他民族服装 总计 55 67 男生 111 38 20 25 28 女生 50 42 21 (1)请你把统计表补充完整。(2)请根据统计表中的数据将复式条形统计图补充完整。(3)女生穿( )的人数最多，男生穿( )的人数最少。(4)请根据上面的统计图提出一个数学问题并解答。",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据统计表数据补充完整并回答。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图含合计行",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_050",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "下面的统计表和统计图记录了\"水立方\"对外开放后某月参与游泳、滑冰两个娱乐项目的人数。 时间 第一周 第二周 第三周 第四周 游泳 460 （ ） 640 670 滑冰 480 560 （ ） 690 (1)补全统计表和复式条形统计图。(2)这四周中，第( )周滑冰的人数最多，参与游泳和滑冰两个项目人数相差最少的是第( )周。(3)你认为游泳和滑冰哪个项目更受欢迎？请结合统计图中的数据进行说明。",
+    "options": null,
+    "answer": "略",
+    "explanation": "根据统计图数据补充并分析受欢迎程度。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图补全与比较",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T03:03:08.958459"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_18676520_022",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "应用题",
+    "stem": "下图中，大圆的半径是5cm，小圆的直径是2cm，小圆的顶点与大圆的圆心重合。这个图形的周长是多少厘米？",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-18676520.html",
+      "site": "教习网",
+      "title": "小学北师大版（2024）圆的周长优秀练习-试卷下载-教习网",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "组合图形周长=大圆周长+小圆周长",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T05:48:23.506016"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26520558_001",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "如图，根据百数表规律可知，☆－△＋ ＝（ ）。",
+    "options": [
+      "18",
+      "28",
+      "38"
+    ],
+    "answer": "2",
+    "explanation": "在百数表中，上下相邻的两个数相差10，左右相邻的两个数相差1。△=9，=18，☆=29，则☆－△＋=29－9＋18=38。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百数表找数字规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 38",
+    "has_answer": true,
+    "duplicate_of": "数学_u3.k8_21cnjy_26520558_001"
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26520558_003",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "填数游戏。每空只能填1，2，3中的一个，且每行每列的数字不能重复。处应该填数字（ ）。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "explanation": "根据题意，每一行每一列的数字不能重复，第二列有1、2，则第一行中间填3；第三列有1、2，则处填3。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "逻辑推理填数游戏",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "C. 3",
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26520558_007",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "选择题",
+    "stem": "在下图的百数表中，\"？\"处应该填写（ ）。",
+    "options": [
+      "66",
+      "68",
+      "86"
+    ],
+    "answer": "1",
+    "explanation": "77正上方的数是67；问号在67右侧一格是68。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百数表数字规律",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "answer_text": "B. 68",
+    "has_answer": true,
+    "duplicate_of": "数学_u3.k8_21cnjy_26520558_007"
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26520558_015",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "如图是百数表的一部分。(1)○＝( )，△＝( )，☆＝( )。(2)这个表中最大的数是( )，是由( )个十和( )个一组成的，再添1可得( )。",
+    "options": null,
+    "answer": "26；54；58；69；6；9；70",
+    "explanation": "(1)○=26，△=54，☆=58；(2)最大数为69，由6个十和9个一组成，再添1得70。",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26520558.html",
+      "site": "21世纪教育网",
+      "title": "【基础篇】小学数学北师大版新教材六年级上册第三单元《用字母 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "百数表数字组成",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T06:44:58.117666"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true,
+    "duplicate_of": "数学_u3.k8_21cnjy_26520558_015"
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_26486142_021",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "看图填空。六年级一班同学体育达标人数统计图。(1)这个班至少有( )人，( )项达标的人数最多。(2)( )项达标的男生和女生同样多。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://mip.21cnjy.com/P/26486142.html",
+      "site": "21世纪教育网",
+      "title": "【单元押题卷】第6单元条形统计图单元高频易错押题卷-2026-2027 ...",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图读图分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:51:21.153957"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_23190111_040",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "操作题",
+    "stem": "根据统计表绘制统计图。",
+    "options": null,
+    "answer": "略",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23190111",
+      "site": "21世纪教育网",
+      "title": "doc 23190111",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "根据统计表绘制条形图",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:49.983557"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": false
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_23190111_041",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "喜欢（　）项目的人数最多，喜欢（　）项目的人数最少，相差（　）人。",
+    "options": null,
+    "answer": "郊游、兴趣班、10",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/23190111",
+      "site": "21世纪教育网",
+      "title": "doc 23190111",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图比较人数多少",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:27:49.983557"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_24875938_006",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "易",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "填空题",
+    "stem": "下列的情况适合选择哪一种类型的统计图 请填在横线上。①统计杭州一年12个月气温的变化情况。_________ ②统计阳光小学六(2)班同学最喜欢的各社团活动项目的人数。________ ③豆奶中的各种成分所占的百分比。_______ ④宁宁家和果果家今年1~6月份用水变化情况比较。________",
+    "options": null,
+    "answer": "①折线统计图; ②条形统计图；③扇形统计图；④复式折线统计图",
+    "explanation": "略",
+    "source": {
+      "url": "https://zy.21cnjy.com/24875938",
+      "site": "21世纪教育网",
+      "title": "doc 24875938",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "选择合适统计图类型",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:29:55.385009"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_25068757_023",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "某学校六年级开展“防范电信网络诈骗”活动，同学们调查了当地2025年学生网络受骗案件，将调查结果整理分析后，绘制成如下图所示的两幅不完整的统计图。请根据统计图中的信息，解答下面的问题。(1)一共调查了(        )名受骗学生。(2)因刷单返利受骗的学生有(        )人。(3)将两幅统计图补充完整。(4)根据调查的结果，你有什么想说的？",
+    "options": null,
+    "answer": "(1)50；(2)15；(3)见详解；(4)见详解",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式条形统计图分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_21cnjy_25068757_029",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "难",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "福清市素有“文献名邦”的美誉，为传承地方文脉，厚植文化自信，相关部门联合举办2025年“非遗传承·少年匠心”主题文创大赛。学校积极响应，学生们围绕畲族银饰纹样、光饼造型、龙江风光等本土元素，创作书画、剪纸、手工作品。每人最多只提交一件作品，根据以下信息解决问题。①五年级共提交72件作品；②五年级与四年级提交的作品数量比是4∶3；③六年级提交的作品数量是四年级的；④三等奖获奖作品数比一等奖多36件；⑤校级获奖作品按2∶3∶5分配给一、二、三等奖；⑥获奖作品数占全校投稿总数的40%。(1)六年级提交的作品总数是多少件？(2)全校此次共投稿多少件作品？",
+    "options": null,
+    "answer": "(1)36件；(2)300件",
+    "explanation": "",
+    "source": {
+      "url": "https://zy.21cnjy.com/25068757",
+      "site": "21世纪教育网",
+      "title": "doc 25068757",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "21cnjy 预览",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "复式统计图综合分析",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "21cnjy-ingest.py",
+      "reviewed_at": "2026-09-24T07:30:20.650968"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  },
+  {
+    "qid": "数学_u9.k1_51jiaoxi_16423706_029",
+    "subject": "数学",
+    "kp_id": "u9.k1",
+    "unit_id": "u9",
+    "difficulty": "中",
+    "difficulty_basis": "MiniMax-M3 KP 归属",
+    "type": "解答题",
+    "stem": "益民食品厂为了解市民对肉馅粽、豆沙粽、红枣粽和蛋黄粽这四种不同口味粽子的喜爱情况，在节前对某社区居民进行了抽样调查，并将调查情况绘制成如下两种统计图。市民对四种不同口味粽子的喜爱情况统计图。①本次参加抽样调查的居民有多少人？（列式计算）②请在条形统计图中补充喜爱吃红枣粽的人数。",
+    "options": null,
+    "answer": "（1）600人；（2）补图见详解",
+    "explanation": "（1）60÷10%＝600（人）；（2）爱吃红枣粽的人有：600－180－60－240＝120（人）。",
+    "source": {
+      "url": "https://m.51jiaoxi.com/doc-16423706.html",
+      "site": "教习网",
+      "title": "",
+      "is_real_paper": true,
+      "is_shenzhen_local": false,
+      "original_version": "见原卷(教习网)",
+      "fetched_at": "2026-09-24"
+    },
+    "cross_version": {
+      "applicable": true,
+      "reason": "教习网正文",
+      "also_covers": []
+    },
+    "self_review": {
+      "passed": true,
+      "kp_match": true,
+      "kp_match_reason": "条形统计图补充人数计算",
+      "out_of_scope": false,
+      "age_appropriate": true,
+      "answer_correct": true,
+      "reviewed_by": "51jiaoxi-ingest.py",
+      "reviewed_at": "2026-09-24T08:16:04.734050"
+    },
+    "enabled": true,
+    "created_at": "2026-09-24",
+    "use_count": 0,
+    "has_answer": true
+  }
+]

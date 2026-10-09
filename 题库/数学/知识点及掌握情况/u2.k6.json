@@ -1,0 +1,23 @@
+{
+ "id": "u2.k6",
+ "name": "圆的面积公式推导",
+ "unit": "u2",
+ "unit_name": "圆",
+ "definition": "圆切N等分拼成平行四边形（底≈πr, 高=r）→ S=πr²",
+ "example": "r=4cm, S=3.14×16=50.24 cm²",
+ "key_formulas": [
+  "S = πr²",
+  "S = π(d/2)² = πd²/4"
+ ],
+ "common_mistakes": [],
+ "grade": "六年级上册",
+ "publisher": "北京师范大学出版社（北师大版）",
+ "start_page": 16,
+ "slide_range": "slide_016-037",
+ "see_also": [
+  {
+   "id": "u2.k5",
+   "reason": "圆的面积公式 S=πr² 的推导过程中底≈πr 即用到周长公式"
+  }
+ ]
+}
