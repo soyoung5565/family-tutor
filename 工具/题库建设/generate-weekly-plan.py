@@ -17,6 +17,7 @@ generate-weekly-plan.py — 周计划生成器（2026-09-26 新建）
 """
 import argparse
 import json
+import os
 import sys
 from datetime import datetime, date, timedelta
 from pathlib import Path
@@ -57,8 +58,9 @@ def week_label(week_start: date) -> str:
     return f"Week {n}（{week_start.isoformat()} ~ {week_end.isoformat()}）"
 
 
-def collect_subject(base: Path, subject: str, sub_state: dict):
+def collect_subject(base: Path, subject: str, sub_state: dict, today: date = None):
     """收集某科的：模式 / 薄弱KP / 最近错题 / 进度"""
+    today = today or date.today()
     sdir = base / subject
     kps = sub_state.get("kps", {})
     weak, seen = [], []
@@ -77,7 +79,7 @@ def collect_subject(base: Path, subject: str, sub_state: dict):
     bank = []
     bk_dir = sdir / "错题集"
     if bk_dir.exists():
-        cutoff = (date.today() - timedelta(days=7)).isoformat()
+        cutoff = (today - timedelta(days=7)).isoformat()
         for f in bk_dir.glob("错题集_*.json"):
             d = load_json(f, {}) or {}
             for r in d.get("records", []):
@@ -88,6 +90,27 @@ def collect_subject(base: Path, subject: str, sub_state: dict):
             "unit": sub_state.get("current_unit", ""),
             "kp_count": len(kps),
             "seen_count": len(seen)}
+
+
+def remaining_section(td: date) -> str:
+    """「📍 剩余安排」段（2026-10-10 用户要求）：学生周六才上传 / 长假第 N 天才交，
+    剩余每一天都要有安排、不能空着；今天在周末/≥3天假期中途时返回该段，否则空串。
+    数据来自 day-schedule.py（同目录）。"""
+    script = Path(__file__).resolve().parent / "day-schedule.py"
+    if not script.exists():
+        return ""
+    try:
+        import subprocess as _sp
+        r = _sp.run(["D:/Python312/python.exe", str(script), "--date", td.isoformat(), "--json"],
+                    capture_output=True, timeout=60)
+        data = json.loads(r.stdout.decode("utf-8", errors="replace") or "{}")
+    except Exception:
+        return ""
+    if not data.get("active"):
+        return ""
+    return ("<!-- REMAINING:BEGIN -->\n"
+            f"## 📍 剩余安排（生成：{td.isoformat()}）\n\n"
+            + data.get("text", "") + "\n\n<!-- REMAINING:END -->\n\n---\n\n")
 
 
 def holiday_block_for_week(week_start: date) -> str:
@@ -214,8 +237,11 @@ def main():
     ap.add_argument("--base-dir", default="D:/家教")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--quiet", action="store_true")
+    ap.add_argument("--today", default=None, help="按指定日期生成（YYYY-MM-DD；默认今天）——测试/补排用")
     args = ap.parse_args()
 
+    td = date.fromisoformat(args.today) if args.today else (
+        date.fromisoformat(os.environ["FAMTUTOR_TODAY"]) if os.environ.get("FAMTUTOR_TODAY") else date.today())
     base = Path(args.base_dir)
     state_p = base / "系统/学习状态.json"
     plan_p = base / "系统/学习规划.md"
@@ -226,7 +252,7 @@ def main():
         sys.exit(1)
 
     subjects = state.get("subjects", {})
-    per_sub = {s: collect_subject(base, s, v) for s, v in subjects.items()}
+    per_sub = {s: collect_subject(base, s, v, td) for s, v in subjects.items()}
 
     # 薄弱汇总写回（不 dry-run 时）
     weak_global = []
@@ -237,7 +263,7 @@ def main():
     new_mode = state.get("global", {}).get("current_mode", MODE_NEW)
 
     # 周块
-    ws = monday_of(date.today())
+    ws = monday_of(td)
     block = build_week_block(ws, state, per_sub)
 
     # 组装 学习规划.md
@@ -251,7 +277,7 @@ def main():
     banner = (f"# 学习规划（{state.get('student', {}).get('grade', 6)}年级"
               f"{state.get('student', {}).get('semester', '')}）\n\n"
               f"> ⚡ 当前模式：**{new_mode}**\n"
-              f"> 📅 更新时间：{date.today().isoformat()}\n"
+              f"> 📅 更新时间：{td.isoformat()}\n"
               f"> 📊 薄弱 KP 数：{weak_count}\n"
               f"> 🎯 本周目标：{goal_by_mode.get(new_mode, '')}\n")
     lmc = state.get("global", {}).get("last_mode_change") or {}
@@ -287,7 +313,10 @@ def main():
     goals = ("## 🎯 学期目标\n\n"
              "- [ ] 三科所有 KP 掌握度 ≥ 80%\n- [ ] 期中/期末各科 ≥ 85 分\n"
              "- [ ] 错题回灌覆盖率 100%\n- [ ] 薄弱 KP 数量 < 总 KP 数的 10%\n")
-    new_plan = banner + overview + weeks_sec + goals
+    # 剩余安排段（周末/假期中途进入——2026-10-10 用户要求）
+    rem_sec = remaining_section(td)
+
+    new_plan = banner + rem_sec + overview + weeks_sec + goals
 
     if args.dry_run:
         print("===== (dry-run) 将要写入 学习规划.md =====")
@@ -301,18 +330,20 @@ def main():
     bak_dir.mkdir(exist_ok=True)
     if plan_p.exists():
         import shutil as _sh
-        _sh.copyfile(plan_p, bak_dir / f"学习规划_{date.today().isoformat()}.md.bak")
+        _sh.copyfile(plan_p, bak_dir / f"学习规划_{td.isoformat()}.md.bak")
     plan_p.write_text(new_plan, encoding="utf-8")
     state_p.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
     mark_p.write_text(json.dumps({
-        "last_generated": date.today().isoformat(),
+        "last_generated": td.isoformat(),
         "week": week_label(ws),
         "generated_at": now_str(),
         "modes": state.get("global", {}).get("current_mode_detail", {}),
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     if not args.quiet:
         print(f"✓ 学习规划.md 已更新（{label}；薄弱 {weak_count} 个）")
-        print(f"✓ 周计划状态.json 已写回（last_generated={date.today().isoformat()}）")
+        print(f"✓ 周计划状态.json 已写回（last_generated={td.isoformat()}）")
+        if rem_sec:
+            print("✓ 「📍 剩余安排」段已写入（今天在周末/假期中途）")
         for s, info in per_sub.items():
             names = "、".join(n for _, n, _ in info["weak"][:3]) or "无"
             print(f"  · {s}: 薄弱 {len(info['weak'])} 个 [{names}]；近7天错题 {len(info['bank'])} 条")

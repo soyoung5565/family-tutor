@@ -7,6 +7,7 @@ day1-pipeline.py — 「Day-1 三件套」流水线（2026-09-26 新建）
   ① 知识点漏洞分析（KP 归属 / 薄弱标记）
   ② 通过作业确定学校学习进度（复习信号 → 周模式 → 触发周计划更新）
   ③ 立刻记录入库错题库（{科目}/错题集/）
+  ④ 如今天在周末/≥3 天假期中途：附「📅 剩余安排」（今天+剩余每天+「明天再来」提示 → day-schedule.py）
 即便家长真人讲解、孩子不回流订正，这三件套也照常执行；微课件只是可选分支。
 
 输入（三选一）：
@@ -275,7 +276,7 @@ def ingest_ledger(base: Path, subject: str, records: list, batch_id: str, dry: b
     return f, added, len(data["records"])
 
 
-def write_mistake_list(base: Path, subject: str, records: list, dry: bool = False, repeats: list = None, typo: dict = None):
+def write_mistake_list(base: Path, subject: str, records: list, dry: bool = False, repeats: list = None, typo: dict = None, day_plan: str = None):
     """学生/家长版错题文字清单（无答案）——批改完立刻发出去的那份。
     2026-09-27 起：① 历史错题又错 → 清单顶部置顶「必做提醒」；② 清单末尾固定附「错题本提醒」。"""
     d = base / subject
@@ -332,6 +333,14 @@ def write_mistake_list(base: Path, subject: str, records: list, dry: bool = Fals
     lines.append("")
     lines.append("把今天做错的题整理进错题本：① 抄题目；② 写清楚自己错在哪（错因）；③ 写正确解法。")
     lines.append("订正时先自己重做一遍，再看讲解；周末会把这些错题做成回灌题再抽查。")
+    if day_plan:
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("## 📅 剩余安排（周末/长假中途）")
+        lines.append("")
+        lines.append(day_plan)
+        lines.append("")
     content = "\n".join(lines)
     if dry:
         return content
@@ -360,6 +369,21 @@ def launch_micro_lesson(base: Path, records: list) -> tuple:
     return mkf, logf
 
 
+def run_day_schedule(as_of: str = None) -> str:
+    """④/⑦ 剩余安排（周末/假期中途进入——2026-10-10 用户要求）：
+    今天在周末/≥3天假期中途 → 返回「今天+剩余每天+明天再来」文本；否则空串。"""
+    try:
+        cmd = ["D:/Python312/python.exe", str(SCRIPTS / "day-schedule.py")]
+        if as_of:
+            cmd += ["--date", as_of]
+        r = subprocess.run(cmd, capture_output=True, timeout=60)
+        out = r.stdout.decode("utf-8", errors="replace").strip()
+        return out if "📅 剩余安排" in out else ""
+    except Exception as e:
+        print(f"[debug] day-schedule 调用失败：{e}")
+        return ""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mistakes", required=True)
@@ -386,6 +410,10 @@ def main():
         print(f"（跳过已判定做对的 {len(skipped)} 题：{[str(s.get('id','')) + str(s.get('part_label','')) for s in skipped]}）")
     if not records:
         print("[i] 没有做错的题，三件套无需处理（可提示家长无订正项）")
+        _dp = run_day_schedule()
+        if _dp:
+            print("\n📅 剩余安排（周末/假期中途进入）——【交付消息里必须带上】：")
+            print(_dp)
         sys.exit(0)
     batch_id = args.batch_id or f"{subject}-{today()}-{len(records)}题"
     sdir = base / subject
@@ -466,7 +494,10 @@ def main():
             print(r.stdout.decode("utf-8", errors="replace").strip() or "（已安静更新）")
 
     # ── ⑤ 错题文字清单（批改完立刻发给孩子/家长的那份）──
-    listf = write_mistake_list(base, subject, records, dry=args.dry_run, repeats=repeats, typo=mk.get("typo_check"))
+    #    2026-10-10：周末/假期中途进入 → 清单末尾附「📅 剩余安排（今天+剩余每天+明天再来）」
+    day_plan = run_day_schedule()
+    listf = write_mistake_list(base, subject, records, dry=args.dry_run, repeats=repeats,
+                               typo=mk.get("typo_check"), day_plan=day_plan)
     shown = listf if isinstance(listf, str) else str(listf)
     where = "（dry-run 预览·未落盘）" if args.dry_run else f"→ {listf}"
     print(f"\n⑤ 错题文字清单（学生版·无答案）{where}")
@@ -474,6 +505,10 @@ def main():
     print(shown if isinstance(listf, str) else Path(listf).read_text(encoding="utf-8"))
     print("──────────────────")
     print("📒 交付给孩子/家长时：清单中的【必做提醒】【错题本提醒】不得删改（skill §0.5）。")
+    if day_plan:
+        print("📅 剩余安排已附在清单末尾（今天在周末/假期中途）——交付消息里必须带上，含「明天再来」提示。")
+    else:
+        print("📅 剩余安排：今天非周末/假期中途（无）。")
 
     # ── ⑥ 自动生成错题讲解课堂（流程默认步骤；--no-microlesson 才跳过）──
     for _r in records:

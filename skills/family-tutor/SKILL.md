@@ -10,11 +10,13 @@ tags: [education, tutor, learning, openmaic, quiz, open-design]
 
 ## ⚡ 触发即生效的硬性规则
 
-任何题库搜索、3 模型投票、跨版本判定、AI 自审相关任务，进入时**先按下面三条执行**，再去读对应 references：
+任何题库搜索、3 模型投票、跨版本判定、AI 自审、批改/出卷/交付相关任务，进入时**先按下面各条执行**，再去读对应 references：
 
 1. **搜题必须用 `multi-search-engine` skill**（百度千帆 + Tavily 双 API，content 字段含题面预览）。Hermes 自带 `web_search` 命中率 < 20%，不要用。详见 §「2026-09-12 系统升级」§0 题库建设硬性门。
 2. **课后习题不入题库**。学生课堂已做，再做无练习价值。只可入 `_meta/reference_pool/` 做 AI 参考素材，不参与出卷。
 3. **3 模型投票必须串行**（MiniMax-M3 / muse-spark-1.3-contributor / deepseek-v4-pro），不可并发；DS-Pro 是 reasoning 模型 `max_tokens ≥ 3000`；Muse 必须 `/v1/responses` + 不带 `-free` 后缀。详见 §0.2。
+4. **错题本提醒 + 历史错题「必做」（always-on，2026-09-27）**：① 每日批改交付必附「错题本提醒」；② 周末交付（计划/试卷/消息）必附「错题本复盘」；③ 小试卷含历史错题回灌且学生再次做错 → 必须标「必做」。固定话术与机制见 §0.5，脚本已内置（day1-pipeline / generate-exam）。
+5. **语文/英语批改必须查错字/拼写（2026-09-29 用户明确要求）**：批改语文、英语作业**不能只判对错**——必须逐字辨认：① 语文：有没有**错别字**、字本身是否**写错**（偏旁部首写错、缺笔、多笔，如「衬」衤写成礻、「挺」壬少一横）；② 英语：单词有没有**拼错**。注意：常规「转录式」读法下模型会把错字“脑补”成对的（2026-09-29 实测：三模型全漏报「挺」；「衬」仅 2/3 家报中，且同一模型同图两次跑可翻转）——错字/拼写检查必须走「**放大裁切＋逐字查错指令＋人工兜底**」的专项流程（参见下方「识别复核工作流」条目），检查结果**单独列出**，不混在对错批改里。
 
 ---
 
@@ -367,7 +369,6 @@ python D:/家教/系统/scripts/extract-knowledge-points.py --pdf textbook.pdf -
 - `references/answer-distribution-randomization.md` — **补强练习答案随机分布**（用户强烈纠正，2026-07-10）
 - `references/muse-ai-sdk-responses-fix-2026-09-01.md` — **muse-spark 在 OpenMAIC 走 /v1/responses 的根因+修复+curl 模板**（2026-09-01 实证，配套 pitfall 75g/75h/75i/75j/75k）
 - `references/multi-process-port-conflict.md` — **多进程端口冲突问题**（重启服务时的常见陷阱，2026-07-10）
-- `references/openmaic-indexeddb-import.md` — **OpenMAIC IndexedDB vs 文件系统导入工作流**（2026-07-10 关键发现：API 生成的课件不会自动出现在主页，必须打包 ZIP 手动导入或修改源码让 listStages 从文件系统读取）
 - `references/openmaic-indexeddb-import.md` — **OpenMAIC IndexedDB vs 文件系统导入工作流**（2026-07-10 关键发现：API 生成的课件不会自动出现在主页，必须打包 ZIP 手动导入或修改源码让 listStages 从文件系统读取）
 - `references/textbook-grade-context-verification.md` — **教材背景年级与重点必须明确**（2026-07-10 实证：裁切 PDF 后必须验证年级和内容，重心要对——背景是小学数学不是数据分析专业）
 - `references/answer-content-verification.md` — **AI 生成内容必须对照知识要点文档核对**（2026-07-10 实证：minimax M3 会"自主发挥"生成偏离主题的内容）
@@ -1382,19 +1383,8 @@ PaddleOCR 对印刷体汉字 100% 准，对**分式/公式** 30%（被打散成�
 **结论**：本机用 PaddleOCR 就够。公式差用手工补。
 
 ### Pitfalls — OCR 课本流程
+> （2026-09-29 瘦身迁出）详见 `references/ocr-textbook-workflow-pitfalls.md`。核心：OCR/库脚本一律用 `D:/Python312/python.exe` 经 terminal 跑（勿用 execute_code）；PaddleOCR 用 2.x 降级组合。
 
-1. **execute_code sandbox Python ≠ terminal Python** — sandbox 没装 paddleocr 也没装 torch，**所有 OCR/Python 库调用必须用 `terminal()` + `D:/Python312/python.exe`**，不要用 execute_code
-2. **`/d/...` 路径在 Python 中不工作** — Python 拒绝 `/d/tmp/foo.json`，必须用 `D:\tmp\foo.json` Windows 风格
-3. **bash 中文路径会炸** — `cd /d/家教/...` 在 bash 转义下失败。改用 execute_code + Python
-4. **PaddleOCR 3.x + Paddle 3.3 在 Windows CPU 报 `ConvertPirAttribute2RuntimeAttribute`** — **降 Paddle 到 2.6.2**（CPU 稳），paddleocr 2.7.0.3
-5. **paddleocr 2.7 缺 skimage/LMDB/levenshtein** — 装 `scikit-image lmdb python-Levenshtein "opencv-python<4.10" "numpy<2"`
-6. **transformers 4.57.1 + tokenizers 0.23.2 不兼容**（"0.22 ≤ x ≤ 0.23"）— 升 transformers 到 4.57.6
-7. **torch 2.10+cu126 wheel 文件名要 cp312-cp312-win_amd64 后缀** — curl 下载下来手动重命名，否则 pip 不认
-8. **pip 装大包会卡死**（4 个 UserRequest 线程、CPU 0、IO 0）— 改用 `curl` 直下 + `pip install --no-deps <local.whl>` 绕过
-9. **GitHub release 资源走 `objects.githubusercontent.com`，国内常被墙** — 用 sourceforge / 蓝奏云 / 夸克网盘镜像
-10. **Unlimited-OCR 6.36GB safetensors 加载报 `OSError 1455 页面文件太小`** — C 盘 pagefile 不足时必出。**8GB RAM 物理上装不下 6GB 模型**，别再尝试
-11. **directory listing 时 `slide_004` 不一定是目录页** — 必须用 vision_analyze 看图确认每张的真实内容，**不要用文件名推断**
-12. **OpenMAIC `jobId` → `classroomId` 在 `job["result"]["classroomId"]` 字段**，不是 `classroomId` 顶层 — poll_job 完成后要从 `data/classroom-jobs/{id}.json` 拿 `result.classroomId`，再去 `data/classrooms/{classroomId}.json` 读
 
 ### 相关参考资料
 
@@ -1492,50 +1482,8 @@ PaddleOCR 对印刷体汉字 100% 准，对**分式/公式** 30%（被打散成�
 - **不要假设**文件系统存储会自动同步到 IndexedDB
 
 ### AI 批改与动态题型（2026-07-10 实证）
+> （2026-09-29 瘦身迁出）历史实现（旧 quiz 系统 / MIMO 时代）详见 `references/old-quiz-ai-grading-2026-07.md`；**在用的批改＝§0.4 流水线 + 下方「批改流水线两遍升级」条目**。
 
-60a. **AI 批改实现细节**（2026-07-10 实证） — 简答题不要用关键词匹配，要用 AI 语义理解批改。**实现方式**：
-- 后端 `D:\projects\family-tutor\scripts\quiz-server.py` 增加 `/api/grade-essay` 端点，调用 MIMO API
-- 前端 `D:\projects\family-tutor\quiz-ai.html` 提交简答题时 POST 到后端，等待 AI 返回结果
-- AI 返回：`is_correct`、`error_reason`、`reference_answer`、`process_issues`（理科）、`suggestions`
-- **用户明确要求**：简答题必须给出错误原因 + 参考答案 + 改进建议；理科要指出过程问题
-- **不要用关键词匹配**（用户原话："不要用关键词审查哦，就是要让ai来看正确与否"）
-- **MIMO API 提示词必须用英文**（中文提示词返回空内容，pitfall 66）
-- **MIMO API max_tokens 必须 ≥500**（pitfall 67）
-- **MIMO API JSON 解析**：结果可能被包裹在 markdown 代码块中，用正则提取 `\`\`\`(?:json)?\s*\n?(.*?)\n?\`\`\``
-
-61. **动态补强练习题型**（2026-07-10 实证） — 补强练习的题型应根据错题类型动态调整：
-- 运行 `python D:\projects\family-tutor\scripts\generate-remedial.py` 分析薄弱知识点
-- **只错选择题 → 全是选择题**
-- **错了简答题 → 才包含简答题**
-- 脚本自动从原题中找同类型题目生成补强练习
-- **用户明确要求**："你的体型应该不是固定的吧，加入我没有错情感差异分析这一步，则应该全是选择题才对吧？"
-- **每次生成的题都不同**（AI 根据薄弱知识点生成新题），但考点一致
-    **agentMode 必须是 `'default'`**（用户原话：\"那应该就是default就可以。不要快速模式\"）。
-31c. **当前模型不支持视觉时的处理（2026-07-10 实证）** — 切换到 mimo-v2.5-pro 后 `vision_analyze` 和 `browser_vision` 都报 404（模型不支持图片输入）。**替代方案**：
-    - 用 pymupdf 提取目标页为 PNG → `cmd.exe /c "start page_N.png"` 让用户自行查看
-    - 或切回支持视觉的模型（如 minimax M3）做视觉分析
-    - **不要在不支持视觉的模型上反复尝试 vision_analyze**——会浪费时间
-48. **MIMO 多模态视觉理解（2026-07-10 实证）** — 当 OpenMAIC 的 LLM 不支持 vision 时（如 mimo-v2.5-pro），用 MIMO 多模态脚本做图片分析：
-    ```bash
-    node "D:/mimo-multimodal/image_understand.py" \
-      --type image \
-      --input "D:/path/to/image.png" \
-      --prompt "描述这张图片的内容" \
-      --json
-    ```
-    **用途**：
-    - 裁切 PDF 后验证页面内容（"这页是哪首古诗？"）
-    - 扫描版课本视觉精读（提取生字、课后问题等）
-    - 任何需要图片理解的场景
-    **注意**：`--json` 输出含 `content`（回答）、`reasoning_content`（思考过程）、`usage`（token 用量）。**不要用 `vision_analyze`**（会 404，因为 mimo-v2.5-pro 不支持 OpenAI 兼容的 vision API）。**也不要用 `browser_vision`**（同样 404）。
-    **支持类型**：`--type image`（图片）、`--type audio`（音频转录）、`--type video`（视频理解）。
-49. **切换 LLM provider 的正确模式（2026-07-10 用户纠正）** — 用户在 MIMO 和 minimax 之间切换时，**不要问"要不要删旧配置"**。正确做法：
-    - **两个 provider 的 key/base_url 都保留**（.env.local 里同时有 `XIAOMI_*` 和 `MINIMAX_*`）
-    - **只改 `DEFAULT_MODEL`**（`xiaomi:mimo-v2.5-pro` 或 `minimax:MiniMax-M3`）
-    - **重启 OpenMAIC** 让新默认生效
-    - 用户说"切到 MIMO" → 改 `DEFAULT_MODEL=xiaomi:mimo-v2.5-pro` → 重启
-    - 用户说"切到 minimax" → 改 `DEFAULT_MODEL=minimax:MiniMax-M3` → 重启
-    - **不要删旧 provider 的配置**（用户原话："别把minimax删了，我们后续可能还要用"）
 
 ## 2026-07-10 晚间补充（中途切换 provider + 知识要点文档工作流）
 
@@ -1697,121 +1645,7 @@ D:\projects\family-tutor\
     - 用户说"切到 minimax" → 改 `DEFAULT_MODEL=minimax:MiniMax-M3` → 重启
     - **不要删旧 provider 的配置**（用户原话："别把minimax删了，我们后续可能还要用"）
 
-## 2026-07-10 晚间补充（中途切换 provider + 知识要点文档工作流）
-
-### Knowledge-Points 文档工作流
-每科每个学习单元生成一个独立的 Markdown 文档：`D:\projects\family-tutor\knowledge-points\{subject}_day{N}.md`。文档内容：学习目标、主要概念、核心公式、例题解析、练习题、易错点、拓展知识。**用途**：推进学习计划和查漏补缺时直接参考，不需要重新提取（用户原话："知识要点和学习规划安排是需要用独立world文档来记录的"）。
-
-### 多学科 PDF 裁切规范
-- **数学**：大单元再分小节（如 unit1 前3页+后5页 → 2个 PDF），每天一课
-- **英语**：按语法板块裁切（如 unit1 第4-10页 → 1个 PDF）
-- **语文**：按古诗三首裁切（如 第6-7页、94-95页）
-
-### 切换 Provider 的实战工作流（2026-07-10）
-用户原话："mimo 过期了，能不能剩下的部分用 minimax 生成，还是必须重新生成？"
-
-**答案：理论上可以切换 provider 让 job 继续，但实际复杂。** 推荐做法：
-1. 修改 `.env.local` 的 `DEFAULT_MODEL`（保留两个 provider 的 key）
-2. 重启 OpenMAIC，正在运行的 job 会用新 provider 完成剩余步骤
-3. 如果 `sk-cp-` key 已过期，把 `MINIMAX_API_KEY` 替换为 `oat-` OAuth token
-
-**完整脚本**：`scripts/switch-provider.py`（修改 DEFAULT_MODEL）+ `references/provider-switching-mid-task.md`
-
-### 课件内容正确性校验
-生成后必须验证内容是否与需求匹配。用户原话："有一个不是已经生成完了吗还重新生成干嘛？" — **答**：跑完了但内容不对（如用户要"人口老龄化"，模型生成"统计图的选择"），必须重新生成。**校验方法**：
-```bash
-python -c "
-import json
-d = json.load(open('D:/projects/OpenMAIC/data/classrooms/<id>.json'))
-name = d.get('stage', {}).get('name', '')
-print(f'课程名: {name}')
-"
-```
-
-### minimax LLM Key 过期处理（2026-07-10 实证）
-症状：所有 minimax LLM 任务报 `AI_APICallError: login fail: Please carry the API secret key in the 'X-Api-Key' field` 或 `authentication_error`。**修法**：把 `MINIMAX_API_KEY` 从 `sk-cp-...` 替换为 OAuth `oat-...` token：
-```python
-import json, re, shutil
-fp = r'D:\projects\OpenMAIC\.env.local'
-shutil.copy(fp, fp + '.bak.skcp_backup')
-d = json.load(open(r'C:\Users\MR\.mmx\config.json'))
-at = d['oauth']['access_token']
-content = open(fp, encoding='utf-8').read()
-content = re.sub(r'MINIMAX_API_KEY=.*', f'MINIMAX_API_KEY={at}', content)
-open(fp, 'w', encoding='utf-8').write(content)
-```
-
-### 多进程端口冲突（2026-07-10 实证）
-重启服务后，`netstat -ano | findstr :端口` 可能显示多个 PID 监听同一端口。**必须杀掉所有旧进程再重启**，否则请求走旧代码。脚本：
-```bash
-for pid in $(cmd.exe /c "netstat -ano | findstr :8765 | findstr LISTENING" 2>&1 | awk '{print $NF}' | sort -u | tr -d '\r'); do
-  cmd.exe /c "taskkill /F /PID $pid"
-done
-```
-
-### 批量生成课件脚本（`scripts/generate-all-courseware.py`）
-一次提交 5+ 个课件，Job IDs 保存到 `quiz-data/courseware-jobs.json`：
-```python
-import json, urllib.request
-
-BASE = r'D:\projects\family-tutor\quiz-data'
-
-def gen(parse_file, requirement, name):
-    d = json.load(open(parse_file, encoding='utf-8'))
-    body = json.dumps({
-        'requirement': requirement,
-        'pdfContent': d['data'],
-        'enableWebSearch': True,
-        'webSearchProviderId': 'baidu',
-        'enableTTS': True,
-        'enableImageGeneration': False,
-        'agentMode': 'fast'
-    }).encode('utf-8')
-    req = urllib.request.Request('http://localhost:3000/api/generate-classroom', data=body, headers={'Content-Type': 'application/json'})
-    resp = json.loads(urllib.request.urlopen(req, timeout=30).read())
-    print(f'{name}: jobId={resp["jobId"]}')
-    return resp['jobId']
-
-jobs = []
-jobs.append(gen(f'{BASE}/parse_math_day1.json', '六年级上册数学《分数的应用（一）》', '数学Day1'))
-# ... 添加其他 4 个
-with open(f'{BASE}/courseware-jobs.json', 'w') as f:
-    json.dump({'jobs': jobs}, f)
-```
-
-### 标准化文件结构（2026-07-10 整理）
-```
-D:\projects\family-tutor\
-├── materials/                  # 课本材料（按学科分文件夹）
-│   ├── chinese/                # 语文课本
-│   ├── math/                   # 数学课本
-│   │   ├── math_day1.pdf       # 前3页（分数的应用一）
-│   │   ├── math_day2.pdf       # 后5页（分数的应用二）
-│   │   ├── math_day3.pdf       # 前5页（数据分析三）
-│   │   └── math_day4.pdf       # 后5页（数据分段整理）
-│   └── english/                # 英语课本
-│       └── english_unit1.pdf   # 第4-10页（代词与可数名词）
-├── knowledge-points/           # 知识要点文档（独立 .md）
-├── quiz-data/                  # 测验数据
-├── quiz-results/               # 答题结果
-├── scripts/                    # 脚本
-│   ├── analyze-weak-points.py
-│   ├── generate-remedial.py
-│   ├── quiz-server.py
-│   ├── generate-all-courseware.py
-│   └── switch-provider.py
-├── backup/                     # 备份
-└── *.html                      # 页面文件
-```
-
-## 晚间补丁：用户明确要求题型根据错题动态调整（2026-07-10）
-用户原话："你的体型应该不是固定的吧，加入我没有错情感差异分析这一步，则应该全是选择题才对吧？" → 补强练习的题型应动态调整：
-- 只错选择题 → 全是选择题
-- 错了简答题 → 才包含简答题
-- 每次生成的题都不同（AI 根据薄弱知识点生成新题），但考点一致
-- 答案必须随机分布，不能全是 A（用 shuffle_options 函数打乱）
-
----
+> （与上方《2026-07-10 晚间补充》完全重复，已合并删除——原文见上文。2026-09-26 清理）
 
 ## 📦 2026-09-12 系统升级：题库 + 模拟卷 + 周计划 + 学情闭环
 
@@ -1877,6 +1711,49 @@ refs = baidu('北师大版 六年级数学上册 第一单元 圆 测试卷 真�
 - 任一票失败自动跳过，最终阈值 = 成功票数的过半数（2 票全过、3 票过 2）
 
 
+
+### 0.3 状态文件维护责任（2026-09-26 用户明确）
+- **建立**：首用/迁移时由 AI 跑 `init-learning-state.py`（或按 state-schema.md 手建）生成 `学习状态.json` + `学习规划.md`；开发期（尚未真正使用）允许不存在或停更。
+- **维护（上线后）**：AI **必须**在每次处理作业/错题后随手更新三处——① `学习状态.json`（KP 的 attempts/correct/master、mistakes）；② 错题集（`D:/家教/{科目}/错题集/`）入库；③ `学习规划.md`（模式横幅 + 周安排；生成/更新规则见 weekly-plan-engine.md，触发=交互时由 time-inject-hook 提醒，**不用 cron**）。
+- 任何会话发现状态文件落后于最新作业 → 先补更新再继续任务。
+
+### 0.4 Day-1 三件套流水线（2026-09-26 起可用，已全链实测）
+- 打包链：`grade-mistake.py --image 作业照 --subject X --out 结果.json`（火山 vision+LLM：题目/作答分离提取 → 逐小题判卷 → 候选KP→匹配KP库）→ `day1-pipeline.py --mistakes 结果.json`（①KP漏洞分析+状态写入 ②进度判定（信号/防抖/冷却）③错题入库 → 自动刷新周计划 → ⑤学生版错题文字清单（无答案）→ ⑥自动生成讲解课堂（默认！--no-microlesson 才跳过））。
+- **用户铁律（2026-09-26）**：批改完＝立即文字清单+生成课堂；记录进度/漏洞不依赖家长是否看视频；“备份参考”仅为 hook 机制参考，**家长端不需要备份 Hermes**。
+- grade-mistake 已“接活”（原来是桩）；正确题标 is_correct=true，day1 自动跳过。
+- 实测（2026-09-26 凌晨，合成作业照）：3 小题逐题判卷 ✓ 跳对题 ✓ 入库+2 ✓ 学习状态/周计划更新 ✓。
+- 触发免 cron：time-inject-hook 在跨周时读 `系统/周计划状态.json` 提醒；周计划本体=`generate-weekly-plan.py`。
+- 全景图文档：`D:/家教/系统/流程结构.md`；细节：`references/day1-workflow-2026-09-25.md`。
+
+### 0.5 错题本提醒 + 历史错题「必做」规则（2026-09-27 用户要求，always-on）
+
+**三处提醒（固定话术，交付消息里原样带上，不得省略/删改）：**
+
+1. **每日批改交付**（错题清单/发给家长孩子的消息结尾）：
+   > 📒 错题本提醒：把今天做错的题整理进错题本——① 抄题目；② 写清自己错在哪（错因）；③ 写正确解法。订正时先自己重做一遍，再看讲解。
+2. **周末交付**（周末卷/周计划/周末消息）：
+   > 📒 周末错题本复盘：把本周全部错题过一遍（盖住答案重做），新错题全部整理进错题本。
+3. **历史错题仍错（最高优先级）**：小试卷（周末卷/回灌卷）里的历史错题（错题集原题或同类题）如果再次做错，必须醒目提醒：
+   > ⚠️ 必做：第 X、Y 题是之前错过的题，这次又错了——这几题是必做的！先看讲解，把错因写进错题本，再重做一遍。
+
+**机制（已落在脚本里，2026-09-27）：**
+- `day1-pipeline.py`：批改时自动比对「错题集 + 试卷标记」检测历史重复 → 清单顶部置顶「⚠️ 必做提醒（历史错题又错了！）」，清单结尾固定附「📒 错题本提醒」；stdout 同时打印必办提示。
+- `generate-exam.py`：出卷自动嵌入错题回灌（原题优先，≥1 道），卷面标 **★必做**、卷首横幅；落 `{科目}/试卷/试卷标记_*.json`（批改匹配用，含每题答案，**不进卷面**）。
+- **出卷规格（2026-09-27 用户要求）**：总题数 ≤10（默认 10 = 8 道常规 + 2 道错题回灌，即「9题＋本周错题」量级）；**卷面不放答案、不放错题本提醒**——卷尾改为「知识点分布」（如 `u2.k4（圆周率 π）：第 4、7、10 题`）；答案与解析只存 `试卷标记_*.json`，批改时使用。
+- **错题本提醒 = Hermes 在聊天里直接打字**（2026-09-27 用户明确：不进文档）。每日批改、周末交付都在消息文本里带上固定话术（§0.5 三条）。
+- **交付三保险（2026-09-27 实测教训）**：Hermes 桌面端点击 `.docx` 媒体卡可能报「Windows 找不到文件」（即使文件存在；客户端为旧构建，根因未完全定位）→ 交付试卷/文档必须：① MEDIA: 行用**英文文件名**（中文名支持不稳）；② 同时复制到**桌面文件夹**（如 `C:/Users/MR/Desktop/家教周末卷_日期/`）并在消息里给出路径（用户可直接双击、打印）；③ 原文件保留在 `{科目}/试卷/`。只发 MEDIA: 卡片不算交付完成。
+- **桌面文件夹每日检查（2026-09-27 用户要求）**：桌面交付文件夹（`家教周末卷_*` 等）只保留当天；每天首次交互时检查上一天的文件夹是否还在，还在就在回复里提醒用户清理——不擅自删除（用户原话：「每天记得检查上一天的有没有删掉」）。
+- **识别复核工作流（2026-09-29 用户要求；原话：「不要再把已经判断过的给我看了，只保留我没人工复核过的」）**：① 用户已复核/指认过的项 = 锁定，永不再回显、不再请求复核；给用户看的清单只列「尚未人工复核」的项。② 复核中发现的模型错读 → 记入「模型错读样本」评分集（不删、不辩）。③ 已锁定真值表：`_demo_周末模拟_20260927/_testset/truth_lock.json`；模型新读数与锁定值冲突时以锁定值为准，不得覆盖。④ 重灾区：空框/小标点——页级自由读会把「空」幻觉成符号（如空判断括号读成 ×），此类一律记错读样本。⑤ **复核与展示单位＝整页整图**（2026-09-29 用户明确：「人工复核不是复核方框，而是整图我来复核」，防模型漏读整块）——机器侧分块/裁切只用于提升识别，最终必须合成整页读数呈现；不得要求用户按方框逐步核对。
+- **盲读对比测试 v1 结论（2026-09-29，3模型×5页×28项真值）**：整图单次模式下 **doubao-seed-2.1pro 23/28 > kimi-k3 21/28 > ds4.1-flash 11/28**（评分与真值：`_demo_周末模拟_20260927/_testset/{scores_v2.json,truth_lock.json}`，装置 `test_run.py`，报告 `comparison_20260929_v2.html`）。要点：① **读法影响大于模型**——flash 整图模式标点题全塌（1/15）、近读模式约 8/15；正式流水线建议「分段近读→合成整页读数→用户整图复核」。② 共性幻觉：填空/空白处会脑补（flash 图3 凭空读②①、seed 题2末位补句号）——盲读提示词必须含「没写标【空】、看不清标【不清】」。③ k3 最诚实但涂改处不给值；seed 综合最强。④ 学生更正痕迹（写错→划掉→重写）三家均未完整读出——待专项实验。
+- **批改流水线两遍升级（2026-09-29 落地，已实测）**：`grade-mistake.py`＝【对错批改】＋【错字/拼写专项】两遍——专项仅语文/英语（`TYPO_CHECK_SUBJECTS`），与主流程**并发**（`--concurrency` 默认4（可用 --concurrency 上调）、`--no-typo-check` 关闭）；全流程模型统一 `doubao-seed-2.1-pro`（glm-5-3-flash 已弃：曾在语文用例输出非 JSON 直接崩）；逐题容错＋JSON 失败重试一次。结果 JSON 增 `typo_check`；`day1-pipeline.py` 清单自动生成「✏️ 错字/拼写检查」小节（在错题本提醒之前）。实测≈10 分钟/页、专项零误报（能正确判「本页无手写汉字→未发现错字」）；已知 bug：无（「阅读文段截断」已重新定性＝页面真实跨页截断，非 bug，输出已加「题干跨页/不完整」提示语）；提速已落地（2026-09-29 晚验证）：多页并行壳 `grade-batch.py`（实测 3 页 14.9 分钟＝1.9× 串行；单页 inner 默认 4）；仍候选：可疑细字区自动放大复核、两次提取合一。
+- **长跑脚本纪律（2026-09-29 教训）**：长脚本必须真后台启动＋`PYTHONUNBUFFERED=1 python -X faulthandler -u … > log 2>&1`；**前台跑一半被「转后台」的瞬间进程会被误杀**（日志停在启动行、无退出码）。
+- **阅读载体 A/B（2026-09-29，3 页同题同读法）**：**扫描版 vs 照片版＝平手**（21/25 vs 21/25：扫描空框更稳但丢多选 D；照片瞎补过标点）→ 不必要求扫描版，照片拍清晰即可；正确率真正杠杆＝**放大精读**（全页读漏的「talke」「shouldn't 的 n 写法」，放大两次独立读到）。英语拼写专项细字会分歧，**人工兜底保留**。原始读数：`_demo_周末模拟_20260927/_testset/scan_ab/`。
+- **无题目作业（抄写/默写/听写）＝只记录不批改（2026-09-29 用户要求）**：不是每天都有可判分的题目。流程先跑 `homework-triage.py --image 页.jpg` 判页型——exercise→批改；copy/dictation→**不批改**（不进错题、不判对错），只记录：追加一行到 `系统/作业记录.log` ＋当日交付消息里注明「{科目}：抄写类作业（已收，无需批改）」；blank→跳过；other→人工。如家长要求在默写/听写上额外做「错字检查」，按需另跑专项。
+- **法定节假日周期规则（2026-09-29 用户要求；数据=`系统/holidays.json`）**：3 天小长假=与正常周末一致=**1 个周期**；5 天/7 天（含春节 9 天）=**2 个周期＋向前预习 1 课时**；调休上班日按工作日。工具：`scripts/holiday-cycles.py`（`--date`/`--week`）；`generate-weekly-plan.py` 已自动在触达 ≥3 天假期的周块插入「🎉 假期安排」块。**2026 国庆 10/1–10/7：2 轮+预习**（2027 表待官方通知后填）。排周计划前先跑 holiday-cycles 确认。
+- **中途进入的剩余安排（2026-10-10 用户要求，always-on）**：学生在**周末/≥3 天假期中途**才来（如周六才上传作业、长假第 N 天才交）→ **绝不能只处理当天、把剩下几天空着**。必须给出「今天 + 剩余每一天」的安排，并让学生**明天再来找 AI 完成当天任务**。机制：`scripts/day-schedule.py`（`--date`/`--json`；`FAMTUTOR_TODAY` 可覆盖“今天”，测试/补排用）——周末=周测卷→错题本复盘→预习下周新课；3 天=复习→错题卷→补漏；5/7/9 天=2 周期+预习；**进入晚则按剩余天数合并、富余标「机动」、最后一天全压缩到当天**。落点三处（缺一不可）：① `generate-weekly-plan.py` 刷新时自动写「📍 剩余安排」段进 学习规划.md 顶部；② `day1-pipeline.py` 把该段附进错题清单末尾（全对无错题时也会打印）；③ 交付消息必须带上该段 + 「明天记得再来找 AI」固定提示（最后一天→「明天起按周计划」）。
+- **预习流程（按需＋节假日触发，接入题库；2026-09-29 用户要求）**：资产=各科课本全册页图（`{科目}/课本/<uuid>/slide_*.jpg`，语文六上 138 页）＋裁剪/教材 SOP（references/pdf-textbook-processing.md 等）＋题库（`{科目}/测验/`，index.json＋单元目录）＋`generate-exam.py`。流程：①定进度（学习状态＋作业信号→学到哪）②向后裁剪下一课时/单元课本页为材料 ③扔 OpenMAIC 上预习课（同暑假流程）④课后出预习小试卷（接题库选题）→学生做→记录漏洞点 ⑤出查漏补缺小试卷，**最多 2 轮**，结果记入漏洞点/KP。触发：家长/学生要求时；5/7 天小长假（含国庆）自动带一次。
+- `generate-weekly-plan.py`：周末段固定含「错题本」行；刷新时在周末/假期自动写入「📍 剩余安排」段（day-schedule.py）。`time-inject-hook.py` 的周六/周日注入已在开发机移除（2026-09-27 按用户要求；规则保留，家长机部署时再定）。
+- AI 纪律：文档内的「必做」标记不得删；「错题本提醒」由 Hermes 打字进交付消息（2026-09-27 起不再进文档）。
 
 ### 1. 架构闭环图
 
@@ -2313,3 +2190,100 @@ cat D:/家教/数学/测验/_meta/extraction-log.md
 - assign-kp 全部 70 题归属完成
 - 批量跑 `_exam_urls.json` 里 16 套试卷
 - 语文/英语 KP 池构建 + 归属（题库还空）
+
+---
+
+## 🔁 2026-09-25 升级：微课堂粒度=「一题一课 + 订正后重生成」（端到端正式测试通过）
+
+**新流程**：订正期间预生成（学生只看到"错题清单"、没有答案时）→ 学生订正 → 对比 → 按**大题**决策：覆盖不变→复用；变小→只对仍错小题重生成；全对→跳过。
+
+### 脚本四件套（D:/家教/系统/scripts/，均已实测）
+
+| 脚本 | 职责 |
+|---|---|
+| `micro-lesson.py` | 预生成。错题按**大题**分组（`major_key`：先读 group/group_id/parent_id/major_id 字段，否则从 id 提取数字前缀 → `g5`/`g2`），一组一课；场景数 = N(知识点)+M(小题)+1；写 `微课索引_*.json` |
+| `collect-corrections.py` | 订正对比 → `订正对比_*.json`（含每大题 `unfixed`=仍错小题）+ `订正报告_*.md`（学生版）| ` |
+| `micro-publish.py` | 订正后决策：`decide()`=全对 skip / 覆盖集不变 reuse / 变小 regenerate（只覆盖 unfixed）/ 无预生成 generate；内嵌 `importlib` 加载 micro-lesson 调 `generate_groups(..., tag="_v2")`；写 `微课发布_*.json/.md` + 回写索引 `post` |
+| `verify-micro-lesson.py` | demo 校验器（`--demo --no-submit`） |
+
+**组键一致性**：`collect-corrections.py` 里 `major_key = _micro_lesson.major_key`（直接复用），索引与对比的组键永远对齐（如 `q5`/`g2`）。改分组逻辑只能改 micro-lesson 一处。
+
+### 命令（正式测试命令，2026-09-25 全绿 EXIT 0）
+
+```bash
+# 阶段A：订正期间预生成（两个大题 → 2 课）
+D:/Python312/python.exe micro-lesson.py --mistakes test_mistakes.json --concurrency 1 --timeout 1800
+# 阶段B：订正对比（可提前跑）
+D:/Python312/python.exe collect-corrections.py --mistakes test_mistakes.json --corrections corr.json
+# 阶段B：决策 + 重生成（先 --dry-run 看决定）
+D:/Python312/python.exe micro-publish.py --subject 数学 --date 2026-09-25          # 加 --dry-run 只决策
+```
+
+### 必须记住的 6 个坑（全部踩过）
+
+1. **jobId ≠ 产物文件名**！产物 id 在 job 记录的 **`result.classroomId`**（顶层没有 classroomId）。脚本曾读错字段 → 拿 jobId 拼路径 → `ClassroomNotFound`。轮询 API 也返回 `result`。
+2. **API 对 failed job 也返回 `done: true`**。poll 必须先判 `status=="failed"` 抛 JobFailed，**再**判 success/done，否则失败被误当成功。
+3. **EPERM 原子改名竞态**（Windows 特有）：OpenMAIC `lib/server/classroom-storage.ts` 的 `writeJsonFileAtomic` 的 `fs.rename` 会被文件监视器/杀软短暂锁住 → job 在 0% 秒死（error 含 EPERM）。已加 8 次退避重试（备份 `.bak-before-rename-retry`）。⚠️ 这是**唯一一处**对 OpenMAIC 源码的改动，纯存储可靠性、不碰生成逻辑。
+4. **本机长任务必须 schtasks 真脱离**：hermes 宿主重启会连坐杀死同会话的后台子进程（2026-09-25 实测：脚本+OpenMAIC 双双被清、进程句柄注册表整体丢失）。已建计划任务：`FamTutorOpenMAIC` / `FamTutorStageA` / `FamTutorStageB`（ps1 在 `D:/hermes-data/tmp/`，日志 `*_stdout.log`）。`schtasks /Run /TN <任务>` 即用。
+5. **测试期通道**：`.env.local` 已切 NewAPI —— `OPENAI_BASE_URL=http://127.0.0.1:13000/v1` + `DEFAULT_MODEL=openai:kimi-k3`（用户指示，其余套餐满）。k3 上游有 TPM 限流：会看到 429/重试、单课 5–15 分钟，能完成，别误判为失败。
+6. **冷编译假失败**：`/classroom/{id}` 首次访问 Next dev 要编译，curl 30s 超时=000；重试即 200（实测 63KB）。判定前先重试一次。
+
+### 场景顺序铁律（2026-09-25 用户纠正，已写进模板）
+
+**大题多小题时，必须按小题逐个交错：还原 →（小题1 知识点页 → 回到小题1）→（小题2 知识点 → 回到小题2）→ …**
+严禁“所有知识点集中讲完再统一回归”。`build_group_requirement` 会逐条枚举场景清单，重复知识点自动跳过（“沿用前面讲过的知识点”）。实测验证：第5题 3 小题 → 场景 = 还原→化简比→回到(1)→求比值→回到(2)→比的应用→回到(3) ✓。
+旧版（集中式）已废弃；遇到旧产物按新模板重新生成即可。
+
+### 题库驱动的正式测试配方（2026-09-25 实证，语数英全绿）
+
+- 题库位置：`D:/家教/{科目}/测验/{unit}/{kp}.json`（数组格式，每题 qid/kp_id/stem/options/answer/explanation）；数学 5600+ / 语文 3700+ / 英语 2800+。
+- 选“大题”判据：stem 含“（1）”；注意抽查 answer 字段是否可靠（脱式计算出过错误答案）、公式常被打散成空壳，**选前必须人工核验答案**。
+- 英语大题很少：同一 source 的散题（如 xxxx_037/038/039）往往是同一对话/题组被拆散，可重组。
+- 模拟测试数据（可直接复用）：`D:/hermes-data/tmp/banktest/`（paper/mistakes/corrections 三科 + _qcache.json）。
+- 流程：mistakes → micro-lesson（预生成）→ corrections → collect-corrections → micro-publish（决策+重生成）。全链路 6 课实测 EXIT 0；决策覆盖 skip(3)/reuse(1)/regenerate(2)。
+- **多科文件名（已修）**：collect-corrections 输出现为 `订正对比_{科目}_{日期}.json` / `仍错题_{科目}_{日期}.json` / `订正报告_{科目}_{日期}.md`；micro-publish 用 `--comparison` 显式指定；索引 `微课索引_{日期}.json` 共享一份（按 group key 合并）。
+- 微课索引 post 字段：新预生成一轮会把该组 post 重置为 None（语义：新一轮预生成）。
+
+### 产物落点
+
+- 课件副本：`D:/家教/数学/课件/micro_{ts}_{组键}{tag}.json`（tag=`_v2` 为重生成版）
+- 课堂本体：`D:/projects/OpenMAIC/data/classrooms/{classroomId}.json`
+- 播放：`http://localhost:3000/classroom/{classroomId}`
+- 索引：`D:/家教/数学/课件/微课索引_YYYY-MM-DD.json`（每组 status/job_id/classroom_id/lesson_file/verified/**post**）
+
+### 🔊 无声音故障（2026-09-25 实证）——TTS 链路
+
+**症状**：课件能播、有字幕/白板，但**全程无声**。
+
+**根因链**（不是 429、与 LLM 无关）：
+1. 生成管线 `lib/server/classroom-media-generation.ts:generateTTSForClassroom` 逐条 speech 调 TTS。
+2. TTS 链路 = OpenMAIC `openai-tts` provider → `TTS_OPENAI_BASE_URL=http://127.0.0.1:8787/v1` → **`D:/projects/family-tutor/mimo-tts-proxy.py`**（MIMO 官方 chat/completions+audio 格式，`mimo-v2.5-tts`，voice alloy→冰糖）→ api.xiaomimimo.com。
+3. **代理没在跑** → 每条 `fetch failed` → 日志刷 `[WARN] TTS generation failed ... fetch failed` 然后照样打印 `TTS generation complete`（**静默失败**，job 仍 succeeded）。
+
+**排查 3 步**：① `netstat -ano | grep :8787`；② `grep -i "TTS generation failed" openmaic 日志`；③ 看课件 JSON speech 是否缺 `audioUrl`。
+
+**修复**：
+- 启动代理：`schtasks /Run /TN FamTutorTTS`（或 `D:/Python312/python.exe D:/projects/family-tutor/mimo-tts-proxy.py`）。**MIMO key 硬编码在代理文件里**（改 key 只改这里；`.env.local` 的 `TTS_OPENAI_API_KEY` 是给 OpenMAIC 看的、代理不校验）。
+- 补录已有课件：用本 skill 的 `scripts/tts-backfill.py`（幂等）——逐条 POST 代理 → 落盘 `data/classrooms/{id}/audio/tts_s{场景序}_{actionId}.mp3` → 回写 `audioId`+`audioUrl`（`http://localhost:3000/api/classroom-media/{id}/audio/{fn}`）→ 重写课件 JSON。
+- 播放端取数是 `GET /api/classroom?id={id}`（响应顶层是 `classroom` 字段），读的是文件，改完无需重启服务。
+- 历史：miniMax TTS 从未在这台机启用（`TTS_MINIMAX_*` 一直是注释态）；用户 2026-09-25 明确「换 MIMO TTS，暂不用 minimax」。
+
+## ⚡ 生成加速：ds-flash 关思考（2026-09-25 实测定版）
+
+**默认模型切回设计主力**：OpenMAIC `.env.local` → `DEFAULT_MODEL=openai:deepseek-flash`、`OPENAI_MODELS=kimi-k3,deepseek-flash`（备份 `.env.local.bak_before_dsflash_20260925`；切回 k3 = 改回 `openai:kimi-k3` + 重启 OpenMAIC）。
+**ds-flash 默认带思考**（响应含 `reasoning_content`，输出膨胀 4.7×：单场景调用 7~16.7k tok，实测 300 tok 预算全被思考吃光、正文 0 字）。已在 new-api 渠道 12/18 写 `param_override={"reasoning_effort":"none"}` 关闭（改完**重启 new-api** 才生效；`thinking:{"type":"disabled"}` 亦可；验证 = 响应无 reasoning_content、completion 数十级）。
+**同题实测（每课 9 次调用）**：k3 6.5/5.0 min（Σ11k tok）→ ds 带思考 7.9/3.9 min（Σ51k）→ **ds 关思考 3.1/4.6 min（Σ8.4k）**；产物结构逐一核对一致（场景数/顺序/音频数 ✓）。
+**剩余瓶颈**：TTS 串行（scene→action 逐条 await generateTTS；代理是单线程 HTTPServer），一节 24-26 条 ≈ 90-100s。想再快 = 并发化（未做，需同改代理与 `classroom-media-generation.ts`）。
+**服务出入口**：`FamTutorOpenMAIC`（:3000）/ `FamTutorTTS`（:8787）为 schtasks 常驻任务（已 /SD 2099 防误触发；点火 = `schtasks /Run /TN`）。一次性测试任务**用完即删**（/ST 23:59 当晚真会再触发一次，2026-09-25 踩过）。
+
+### TTS 并行（2026-09-25 晚落地，已实测）
+- 代理 `mimo-tts-proxy.py` → `ThreadingHTTPServer`（备份 `.bak-before-threading-20260925`）；OpenMAIC `classroom-media-generation.ts` 的 `generateTTSForClassroom` → 4 路并发池（`TTS_CONCURRENCY` 环境变量可调；备份 `.bak-before-tts-parallel-20260925`）。**改这两个文件后必须重启对应服务**。
+- 实测：6 并发冒烟全 200（总 3s）；整课 TTS 跨度 **94s → 21-25s**。
+
+### 火山方舟 deepseek-v4-1-flash 对照（2026-09-25 晚，同题实测；思考开）
+- 探针：**2.6-3.6s/调用、100-120 tok/s、无限流**；也自带思考（reasoning_content，短而快）。整课 **3.0 min**（外加 TTS 21s）——同题全场最快。
+- 同题全配置对照：k3 298s(串行TTS) / ds思考 236-257s / ds无思考 184s / **火山思考 177s**；且 ds 跑的方差极大（184s~471s）全因上游限流抖动——与用户"上游不稳定"判断吻合。
+- 切换方式：Hermes `config.yaml` 的 `custom:volcengine`（key=`VOLCENGINE_API_KEY` 在 D:/hermes-data/.env）；OpenMAIC 直连切换 = 改 `.env.local` 的 `OPENAI_BASE_URL/OPENAI_API_KEY/OPENAI_MODELS/DEFAULT_MODEL` 四行（备份 `.env.local.bak_before_volc_20260925`）。**2026-09-25 晚用户拍板：正式直连火山并保持**（`.env.local` 已切，备份 `.bak_before_volc_final_20260925` 可回退 ds；上方「默认 ds-flash」段落已被本条取代）。
+
+### 2026-09-25 晚速记（详见 `references/editing-vision-2026-09-25.md`）：知识点页禁引入已加固（m3 6/6 干净）；新增剪裁工具 `edit-micro-lesson.py`；视觉已切火山 `glm-5-3-flash`。
+- Day-1动作+缺件审计→`references/day1-workflow-2026-09-25.md`。
