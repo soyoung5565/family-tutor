@@ -23,6 +23,7 @@ day1-pipeline.py — 「Day-1 三件套」流水线（2026-09-26 新建）
 import argparse
 import difflib
 import json
+import os
 import re
 import subprocess
 import sys
@@ -37,7 +38,7 @@ REVIEW_MODES = (UNIT, EXAM)
 
 
 def today() -> str:
-    return date.today().isoformat()
+    return os.environ.get("FAMTUTOR_TODAY") or date.today().isoformat()
 
 
 def now() -> str:
@@ -369,15 +370,17 @@ def launch_micro_lesson(base: Path, records: list) -> tuple:
     return mkf, logf
 
 
-def run_day_schedule(as_of: str = None) -> str:
+def run_day_schedule(as_of: str = None, base_dir=None) -> str:
     """④/⑦ 剩余安排（周末/假期中途进入——2026-10-10 用户要求）：
     今天在周末/≥3天假期中途 → 返回「今天+剩余每天+明天再来」文本；否则空串。"""
     try:
         cmd = ["D:/Python312/python.exe", str(SCRIPTS / "day-schedule.py")]
         if as_of:
             cmd += ["--date", as_of]
+        if base_dir:
+            cmd += ["--base-dir", str(base_dir)]
         r = subprocess.run(cmd, capture_output=True, timeout=60)
-        out = r.stdout.decode("utf-8", errors="replace").strip()
+        out = r.stdout.decode("utf-8", errors="replace").replace("\r\n", "\n").replace("\r", "\n").strip()
         return out if "📅 剩余安排" in out else ""
     except Exception as e:
         print(f"[debug] day-schedule 调用失败：{e}")
@@ -410,7 +413,7 @@ def main():
         print(f"（跳过已判定做对的 {len(skipped)} 题：{[str(s.get('id','')) + str(s.get('part_label','')) for s in skipped]}）")
     if not records:
         print("[i] 没有做错的题，三件套无需处理（可提示家长无订正项）")
-        _dp = run_day_schedule()
+        _dp = run_day_schedule(base_dir=base)
         if _dp:
             print("\n📅 剩余安排（周末/假期中途进入）——【交付消息里必须带上】：")
             print(_dp)
@@ -489,13 +492,13 @@ def main():
             cmd.append("--quiet")
         r = subprocess.run(cmd, capture_output=True)
         if args.dry_run:
-            print(r.stdout.decode("utf-8", errors="replace")[:500] + " …")
+            print(r.stdout.decode("utf-8", errors="replace").replace("\r\n", "\n").replace("\r", "\n")[:500] + " …")
         else:
-            print(r.stdout.decode("utf-8", errors="replace").strip() or "（已安静更新）")
+            print(r.stdout.decode("utf-8", errors="replace").replace("\r\n", "\n").replace("\r", "\n").strip() or "（已安静更新）")
 
     # ── ⑤ 错题文字清单（批改完立刻发给孩子/家长的那份）──
     #    2026-10-10：周末/假期中途进入 → 清单末尾附「📅 剩余安排（今天+剩余每天+明天再来）」
-    day_plan = run_day_schedule()
+    day_plan = run_day_schedule(base_dir=base)
     listf = write_mistake_list(base, subject, records, dry=args.dry_run, repeats=repeats,
                                typo=mk.get("typo_check"), day_plan=day_plan)
     shown = listf if isinstance(listf, str) else str(listf)

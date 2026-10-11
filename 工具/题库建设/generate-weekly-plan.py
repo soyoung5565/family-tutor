@@ -92,7 +92,7 @@ def collect_subject(base: Path, subject: str, sub_state: dict, today: date = Non
             "seen_count": len(seen)}
 
 
-def remaining_section(td: date) -> str:
+def remaining_section(td: date, base_dir="D:/家教") -> str:
     """「📍 剩余安排」段（2026-10-10 用户要求）：学生周六才上传 / 长假第 N 天才交，
     剩余每一天都要有安排、不能空着；今天在周末/≥3天假期中途时返回该段，否则空串。
     数据来自 day-schedule.py（同目录）。"""
@@ -101,7 +101,8 @@ def remaining_section(td: date) -> str:
         return ""
     try:
         import subprocess as _sp
-        r = _sp.run(["D:/Python312/python.exe", str(script), "--date", td.isoformat(), "--json"],
+        r = _sp.run(["D:/Python312/python.exe", str(script), "--date", td.isoformat(),
+                     "--base-dir", str(base_dir), "--json"],
                     capture_output=True, timeout=60)
         data = json.loads(r.stdout.decode("utf-8", errors="replace") or "{}")
     except Exception:
@@ -314,7 +315,7 @@ def main():
              "- [ ] 三科所有 KP 掌握度 ≥ 80%\n- [ ] 期中/期末各科 ≥ 85 分\n"
              "- [ ] 错题回灌覆盖率 100%\n- [ ] 薄弱 KP 数量 < 总 KP 数的 10%\n")
     # 剩余安排段（周末/假期中途进入——2026-10-10 用户要求）
-    rem_sec = remaining_section(td)
+    rem_sec = remaining_section(td, base)
 
     new_plan = banner + rem_sec + overview + weeks_sec + goals
 
